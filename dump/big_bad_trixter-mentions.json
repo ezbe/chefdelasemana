@@ -62076,6 +62076,50 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 18 17:34:25 +0000 2019",
+      "id": 1097549914949734400,
+      "id_str": "1097549914949734402",
+      "text": "@cellular_bud Да чтож такое? Что не твит, так удар. Двойной. По мозгам и желудку ;)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": 1097548934485037000,
+      "in_reply_to_status_id_str": "1097548934485037059",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 207420135,
+        "id_str": "207420135"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
