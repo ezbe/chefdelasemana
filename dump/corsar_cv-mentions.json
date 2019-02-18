@@ -1,0 +1,4058 @@
+{
+  "mentions": [
+    {
+      "created_at": "Mon Feb 18 18:41:17 +0000 2019",
+      "id": 1097566742031880200,
+      "id_str": "1097566742031880194",
+      "text": "@cellular_bud @OlgaObolenskaja @Nigresa @mgk_05 @Olesya15433891 @Ukropivna1 Ох и не спрашивай...😉\nУ девушки все муж… https://t.co/LTCQP1zhRB",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "OlgaObolenskaja",
+            "name": "Оболенская",
+            "id": 1334745540,
+            "id_str": "1334745540",
+            "indices": [
+              14,
+              30
+            ]
+          },
+          {
+            "screen_name": "Nigresa",
+            "name": "Anna Ardoff",
+            "id": 3432697127,
+            "id_str": "3432697127",
+            "indices": [
+              31,
+              39
+            ]
+          },
+          {
+            "screen_name": "mgk_05",
+            "name": "Марина Куклева",
+            "id": 1215919340,
+            "id_str": "1215919340",
+            "indices": [
+              40,
+              47
+            ]
+          },
+          {
+            "screen_name": "Olesya15433891",
+            "name": "РАЙНАШ",
+            "id": 1047801183493140500,
+            "id_str": "1047801183493140480",
+            "indices": [
+              48,
+              63
+            ]
+          },
+          {
+            "screen_name": "Ukropivna1",
+            "name": "Секлета Лимериха",
+            "id": 4861188380,
+            "id_str": "4861188380",
+            "indices": [
+              64,
+              75
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/LTCQP1zhRB",
+            "expanded_url": "https://twitter.com/i/web/status/1097566742031880194",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1097566083257638900,
+      "in_reply_to_status_id_str": "1097566083257638912",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 868460536211669000,
+        "id_str": "868460536211668993"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 18 18:41:51 +0000 2019",
+      "id": 1097566882230612000,
+      "id_str": "1097566882230611968",
+      "text": "@cellular_bud @OlgaObolenskaja @Gen_keys @Nigresa @mgk_05 @Olesya15433891 @Ukropivna1 Какой же пиздец, уж извините.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "OlgaObolenskaja",
+            "name": "Оболенская",
+            "id": 1334745540,
+            "id_str": "1334745540",
+            "indices": [
+              14,
+              30
+            ]
+          },
+          {
+            "screen_name": "Gen_keys",
+            "name": "Gen",
+            "id": 868460536211669000,
+            "id_str": "868460536211668993",
+            "indices": [
+              31,
+              40
+            ]
+          },
+          {
+            "screen_name": "Nigresa",
+            "name": "Anna Ardoff",
+            "id": 3432697127,
+            "id_str": "3432697127",
+            "indices": [
+              41,
+              49
+            ]
+          },
+          {
+            "screen_name": "mgk_05",
+            "name": "Марина Куклева",
+            "id": 1215919340,
+            "id_str": "1215919340",
+            "indices": [
+              50,
+              57
+            ]
+          },
+          {
+            "screen_name": "Olesya15433891",
+            "name": "РАЙНАШ",
+            "id": 1047801183493140500,
+            "id_str": "1047801183493140480",
+            "indices": [
+              58,
+              73
+            ]
+          },
+          {
+            "screen_name": "Ukropivna1",
+            "name": "Секлета Лимериха",
+            "id": 4861188380,
+            "id_str": "4861188380",
+            "indices": [
+              74,
+              85
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1097566083257638900,
+      "in_reply_to_status_id_str": "1097566083257638912",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 4519576648,
+        "id_str": "4519576648"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 18 18:42:55 +0000 2019",
+      "id": 1097567151320371200,
+      "id_str": "1097567151320371206",
+      "text": "@UkraineRightNow @cellular_bud https://t.co/VugGKjuUy7",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "UkraineRightNow",
+            "name": "Ukraine Right Now",
+            "id": 2802506312,
+            "id_str": "2802506312",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              17,
+              30
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/VugGKjuUy7",
+            "expanded_url": "https://youtu.be/yM8Sp195zY4",
+            "display_url": "youtu.be/yM8Sp195zY4",
+            "indices": [
+              31,
+              54
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+      "in_reply_to_status_id": 1097171852085076000,
+      "in_reply_to_status_id_str": "1097171852085075970",
+      "in_reply_to_user_id": 2802506312,
+      "in_reply_to_user_id_str": "2802506312",
+      "in_reply_to_screen_name": "UkraineRightNow",
+      "user": {
+        "id": 53802173,
+        "id_str": "53802173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon Feb 18 18:43:26 +0000 2019",
+      "id": 1097567283214516200,
+      "id_str": "1097567283214516224",
+      "text": "@OlgaObolenskaja @cellular_bud @Gen_keys @Nigresa @mgk_05 @Olesya15433891 @Ukropivna1 сало не неможна  а потрібно!!… https://t.co/SJjTY8TKFo",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "OlgaObolenskaja",
+            "name": "Оболенская",
+            "id": 1334745540,
+            "id_str": "1334745540",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              17,
+              30
+            ]
+          },
+          {
+            "screen_name": "Gen_keys",
+            "name": "Gen",
+            "id": 868460536211669000,
+            "id_str": "868460536211668993",
+            "indices": [
+              31,
+              40
+            ]
+          },
+          {
+            "screen_name": "Nigresa",
+            "name": "Anna Ardoff",
+            "id": 3432697127,
+            "id_str": "3432697127",
+            "indices": [
+              41,
+              49
+            ]
+          },
+          {
+            "screen_name": "mgk_05",
+            "name": "Марина Куклева",
+            "id": 1215919340,
+            "id_str": "1215919340",
+            "indices": [
+              50,
+              57
+            ]
+          },
+          {
+            "screen_name": "Olesya15433891",
+            "name": "РАЙНАШ",
+            "id": 1047801183493140500,
+            "id_str": "1047801183493140480",
+            "indices": [
+              58,
+              73
+            ]
+          },
+          {
+            "screen_name": "Ukropivna1",
+            "name": "Секлета Лимериха",
+            "id": 4861188380,
+            "id_str": "4861188380",
+            "indices": [
+              74,
+              85
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/SJjTY8TKFo",
+            "expanded_url": "https://twitter.com/i/web/status/1097567283214516224",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1097519373563187200,
+      "in_reply_to_status_id_str": "1097519373563187202",
+      "in_reply_to_user_id": 1334745540,
+      "in_reply_to_user_id_str": "1334745540",
+      "in_reply_to_screen_name": "OlgaObolenskaja",
+      "user": {
+        "id": 978881290559803400,
+        "id_str": "978881290559803392"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "uk"
+    },
+    {
+      "created_at": "Mon Feb 18 18:45:31 +0000 2019",
+      "id": 1097567806659260400,
+      "id_str": "1097567806659260418",
+      "text": "@corsar_cv @fu_ri_ya @chefdelasemana @cellular_bud Только позаботьтесь об более или менее общедоступных продуктах,… https://t.co/tPGVxh1pHG",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "corsar_cv",
+            "name": "Нью-Васюки",
+            "id": 2597030065,
+            "id_str": "2597030065",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "fu_ri_ya",
+            "name": "Furia",
+            "id": 755998887379365900,
+            "id_str": "755998887379365888",
+            "indices": [
+              11,
+              20
+            ]
+          },
+          {
+            "screen_name": "chefdelasemana",
+            "name": "Шеф Недели",
+            "id": 1093516106545930200,
+            "id_str": "1093516106545930240",
+            "indices": [
+              21,
+              36
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              37,
+              50
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/tPGVxh1pHG",
+            "expanded_url": "https://twitter.com/i/web/status/1097567806659260418",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1097557803768729600,
+      "in_reply_to_status_id_str": "1097557803768729602",
+      "in_reply_to_user_id": 2597030065,
+      "in_reply_to_user_id_str": "2597030065",
+      "in_reply_to_screen_name": "corsar_cv",
+      "user": {
+        "id": 493347716,
+        "id_str": "493347716"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 18 18:46:22 +0000 2019",
+      "id": 1097568018152988700,
+      "id_str": "1097568018152988673",
+      "text": "@OlgaObolenskaja @cellular_bud @Nigresa @mgk_05 @Olesya15433891 @Ukropivna1 Берём начало топика... https://t.co/42QsopdyaZ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "OlgaObolenskaja",
+            "name": "Оболенская",
+            "id": 1334745540,
+            "id_str": "1334745540",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              17,
+              30
+            ]
+          },
+          {
+            "screen_name": "Nigresa",
+            "name": "Anna Ardoff",
+            "id": 3432697127,
+            "id_str": "3432697127",
+            "indices": [
+              31,
+              39
+            ]
+          },
+          {
+            "screen_name": "mgk_05",
+            "name": "Марина Куклева",
+            "id": 1215919340,
+            "id_str": "1215919340",
+            "indices": [
+              40,
+              47
+            ]
+          },
+          {
+            "screen_name": "Olesya15433891",
+            "name": "РАЙНАШ",
+            "id": 1047801183493140500,
+            "id_str": "1047801183493140480",
+            "indices": [
+              48,
+              63
+            ]
+          },
+          {
+            "screen_name": "Ukropivna1",
+            "name": "Секлета Лимериха",
+            "id": 4861188380,
+            "id_str": "4861188380",
+            "indices": [
+              64,
+              75
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1097567958124105700,
+            "id_str": "1097567958124105730",
+            "indices": [
+              99,
+              122
+            ],
+            "media_url": "http://pbs.twimg.com/media/DztYPiTWkAIl1-9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DztYPiTWkAIl1-9.jpg",
+            "url": "https://t.co/42QsopdyaZ",
+            "display_url": "pic.twitter.com/42QsopdyaZ",
+            "expanded_url": "https://twitter.com/Gen_keys/status/1097568018152988673/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1080,
+                "h": 1920,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1097567958124105700,
+            "id_str": "1097567958124105730",
+            "indices": [
+              99,
+              122
+            ],
+            "media_url": "http://pbs.twimg.com/media/DztYPiTWkAIl1-9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DztYPiTWkAIl1-9.jpg",
+            "url": "https://t.co/42QsopdyaZ",
+            "display_url": "pic.twitter.com/42QsopdyaZ",
+            "expanded_url": "https://twitter.com/Gen_keys/status/1097568018152988673/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1080,
+                "h": 1920,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1097567973248778200,
+            "id_str": "1097567973248778246",
+            "indices": [
+              99,
+              122
+            ],
+            "media_url": "http://pbs.twimg.com/media/DztYQapWwAY3fja.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DztYQapWwAY3fja.jpg",
+            "url": "https://t.co/42QsopdyaZ",
+            "display_url": "pic.twitter.com/42QsopdyaZ",
+            "expanded_url": "https://twitter.com/Gen_keys/status/1097568018152988673/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1080,
+                "h": 1920,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1097567985177366500,
+            "id_str": "1097567985177366528",
+            "indices": [
+              99,
+              122
+            ],
+            "media_url": "http://pbs.twimg.com/media/DztYRHFWkAAVA2j.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DztYRHFWkAAVA2j.jpg",
+            "url": "https://t.co/42QsopdyaZ",
+            "display_url": "pic.twitter.com/42QsopdyaZ",
+            "expanded_url": "https://twitter.com/Gen_keys/status/1097568018152988673/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1080,
+                "h": 1920,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1097568003795886100,
+            "id_str": "1097568003795886080",
+            "indices": [
+              99,
+              122
+            ],
+            "media_url": "http://pbs.twimg.com/media/DztYSMcWoAAO4b0.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DztYSMcWoAAO4b0.jpg",
+            "url": "https://t.co/42QsopdyaZ",
+            "display_url": "pic.twitter.com/42QsopdyaZ",
+            "expanded_url": "https://twitter.com/Gen_keys/status/1097568018152988673/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1080,
+                "h": 1920,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1097567376416092200,
+      "in_reply_to_status_id_str": "1097567376416092161",
+      "in_reply_to_user_id": 1334745540,
+      "in_reply_to_user_id_str": "1334745540",
+      "in_reply_to_screen_name": "OlgaObolenskaja",
+      "user": {
+        "id": 868460536211669000,
+        "id_str": "868460536211668993"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 18 18:47:16 +0000 2019",
+      "id": 1097568247564640300,
+      "id_str": "1097568247564640257",
+      "text": "@OlgaObolenskaja @cellular_bud @Nigresa @mgk_05 @Olesya15433891 @Ukropivna1 Продолжаем скринить... https://t.co/8VFBQeJNxu",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "OlgaObolenskaja",
+            "name": "Оболенская",
+            "id": 1334745540,
+            "id_str": "1334745540",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              17,
+              30
+            ]
+          },
+          {
+            "screen_name": "Nigresa",
+            "name": "Anna Ardoff",
+            "id": 3432697127,
+            "id_str": "3432697127",
+            "indices": [
+              31,
+              39
+            ]
+          },
+          {
+            "screen_name": "mgk_05",
+            "name": "Марина Куклева",
+            "id": 1215919340,
+            "id_str": "1215919340",
+            "indices": [
+              40,
+              47
+            ]
+          },
+          {
+            "screen_name": "Olesya15433891",
+            "name": "РАЙНАШ",
+            "id": 1047801183493140500,
+            "id_str": "1047801183493140480",
+            "indices": [
+              48,
+              63
+            ]
+          },
+          {
+            "screen_name": "Ukropivna1",
+            "name": "Секлета Лимериха",
+            "id": 4861188380,
+            "id_str": "4861188380",
+            "indices": [
+              64,
+              75
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1097568213355978800,
+            "id_str": "1097568213355978753",
+            "indices": [
+              99,
+              122
+            ],
+            "media_url": "http://pbs.twimg.com/media/DztYeZHX4AEzbci.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DztYeZHX4AEzbci.jpg",
+            "url": "https://t.co/8VFBQeJNxu",
+            "display_url": "pic.twitter.com/8VFBQeJNxu",
+            "expanded_url": "https://twitter.com/Gen_keys/status/1097568247564640257/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1080,
+                "h": 1920,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1097568213355978800,
+            "id_str": "1097568213355978753",
+            "indices": [
+              99,
+              122
+            ],
+            "media_url": "http://pbs.twimg.com/media/DztYeZHX4AEzbci.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DztYeZHX4AEzbci.jpg",
+            "url": "https://t.co/8VFBQeJNxu",
+            "display_url": "pic.twitter.com/8VFBQeJNxu",
+            "expanded_url": "https://twitter.com/Gen_keys/status/1097568247564640257/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1080,
+                "h": 1920,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1097568226677047300,
+            "id_str": "1097568226677047298",
+            "indices": [
+              99,
+              122
+            ],
+            "media_url": "http://pbs.twimg.com/media/DztYfKvXQAIzwP2.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DztYfKvXQAIzwP2.jpg",
+            "url": "https://t.co/8VFBQeJNxu",
+            "display_url": "pic.twitter.com/8VFBQeJNxu",
+            "expanded_url": "https://twitter.com/Gen_keys/status/1097568247564640257/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1080,
+                "h": 1920,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1097568237049532400,
+            "id_str": "1097568237049532416",
+            "indices": [
+              99,
+              122
+            ],
+            "media_url": "http://pbs.twimg.com/media/DztYfxYW0AAcwdv.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DztYfxYW0AAcwdv.jpg",
+            "url": "https://t.co/8VFBQeJNxu",
+            "display_url": "pic.twitter.com/8VFBQeJNxu",
+            "expanded_url": "https://twitter.com/Gen_keys/status/1097568247564640257/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1080,
+                "h": 1920,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1097568018152988700,
+      "in_reply_to_status_id_str": "1097568018152988673",
+      "in_reply_to_user_id": 868460536211669000,
+      "in_reply_to_user_id_str": "868460536211668993",
+      "in_reply_to_screen_name": "Gen_keys",
+      "user": {
+        "id": 868460536211669000,
+        "id_str": "868460536211668993"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 18 18:48:38 +0000 2019",
+      "id": 1097568589488504800,
+      "id_str": "1097568589488504832",
+      "text": "@OlgaObolenskaja @cellular_bud @Nigresa @mgk_05 @Olesya15433891 @Ukropivna1 Не находим в скринах по порядку твит о больном мужчине...",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "OlgaObolenskaja",
+            "name": "Оболенская",
+            "id": 1334745540,
+            "id_str": "1334745540",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              17,
+              30
+            ]
+          },
+          {
+            "screen_name": "Nigresa",
+            "name": "Anna Ardoff",
+            "id": 3432697127,
+            "id_str": "3432697127",
+            "indices": [
+              31,
+              39
+            ]
+          },
+          {
+            "screen_name": "mgk_05",
+            "name": "Марина Куклева",
+            "id": 1215919340,
+            "id_str": "1215919340",
+            "indices": [
+              40,
+              47
+            ]
+          },
+          {
+            "screen_name": "Olesya15433891",
+            "name": "РАЙНАШ",
+            "id": 1047801183493140500,
+            "id_str": "1047801183493140480",
+            "indices": [
+              48,
+              63
+            ]
+          },
+          {
+            "screen_name": "Ukropivna1",
+            "name": "Секлета Лимериха",
+            "id": 4861188380,
+            "id_str": "4861188380",
+            "indices": [
+              64,
+              75
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1097567376416092200,
+      "in_reply_to_status_id_str": "1097567376416092161",
+      "in_reply_to_user_id": 1334745540,
+      "in_reply_to_user_id_str": "1334745540",
+      "in_reply_to_screen_name": "OlgaObolenskaja",
+      "user": {
+        "id": 868460536211669000,
+        "id_str": "868460536211668993"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 18 18:50:29 +0000 2019",
+      "id": 1097569054183833600,
+      "id_str": "1097569054183833602",
+      "text": "@OlgaObolenskaja @cellular_bud @Nigresa @mgk_05 @Olesya15433891 @Ukropivna1 Я заметил😂\nОсобенно когда вы мне припис… https://t.co/PUu33HPNr4",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "OlgaObolenskaja",
+            "name": "Оболенская",
+            "id": 1334745540,
+            "id_str": "1334745540",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              17,
+              30
+            ]
+          },
+          {
+            "screen_name": "Nigresa",
+            "name": "Anna Ardoff",
+            "id": 3432697127,
+            "id_str": "3432697127",
+            "indices": [
+              31,
+              39
+            ]
+          },
+          {
+            "screen_name": "mgk_05",
+            "name": "Марина Куклева",
+            "id": 1215919340,
+            "id_str": "1215919340",
+            "indices": [
+              40,
+              47
+            ]
+          },
+          {
+            "screen_name": "Olesya15433891",
+            "name": "РАЙНАШ",
+            "id": 1047801183493140500,
+            "id_str": "1047801183493140480",
+            "indices": [
+              48,
+              63
+            ]
+          },
+          {
+            "screen_name": "Ukropivna1",
+            "name": "Секлета Лимериха",
+            "id": 4861188380,
+            "id_str": "4861188380",
+            "indices": [
+              64,
+              75
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/PUu33HPNr4",
+            "expanded_url": "https://twitter.com/i/web/status/1097569054183833602",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1097568791540760600,
+      "in_reply_to_status_id_str": "1097568791540760577",
+      "in_reply_to_user_id": 1334745540,
+      "in_reply_to_user_id_str": "1334745540",
+      "in_reply_to_screen_name": "OlgaObolenskaja",
+      "user": {
+        "id": 868460536211669000,
+        "id_str": "868460536211668993"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 18 18:53:38 +0000 2019",
+      "id": 1097569850430505000,
+      "id_str": "1097569850430504961",
+      "text": "@cellular_bud @MrKot Ооо, сколько ребенку?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "MrKot",
+            "name": "Pavel 🇨🇦",
+            "id": 8452002,
+            "id_str": "8452002",
+            "indices": [
+              14,
+              20
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 1097469510272077800,
+      "in_reply_to_status_id_str": "1097469510272077824",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 8608182,
+        "id_str": "8608182"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 18 18:54:10 +0000 2019",
+      "id": 1097569982647554000,
+      "id_str": "1097569982647554048",
+      "text": "@Boasik68 @fu_ri_ya @chefdelasemana @cellular_bud Я постараюсь. По крайней мере в большинстве рецептов. Но, не могу… https://t.co/GhXs2190kn",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Boasik68",
+            "name": "Пáловые Крáбочки 🇺🇦",
+            "id": 493347716,
+            "id_str": "493347716",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "fu_ri_ya",
+            "name": "Furia",
+            "id": 755998887379365900,
+            "id_str": "755998887379365888",
+            "indices": [
+              10,
+              19
+            ]
+          },
+          {
+            "screen_name": "chefdelasemana",
+            "name": "Шеф Недели",
+            "id": 1093516106545930200,
+            "id_str": "1093516106545930240",
+            "indices": [
+              20,
+              35
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              36,
+              49
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/GhXs2190kn",
+            "expanded_url": "https://twitter.com/i/web/status/1097569982647554048",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1097567806659260400,
+      "in_reply_to_status_id_str": "1097567806659260418",
+      "in_reply_to_user_id": 493347716,
+      "in_reply_to_user_id_str": "493347716",
+      "in_reply_to_screen_name": "Boasik68",
+      "user": {
+        "id": 2597030065,
+        "id_str": "2597030065"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 18 18:54:27 +0000 2019",
+      "id": 1097570055490072600,
+      "id_str": "1097570055490072588",
+      "text": "@cellular_bud @OlgaObolenskaja @Nigresa @mgk_05 @Olesya15433891 @Ukropivna1 👍",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "OlgaObolenskaja",
+            "name": "Оболенская",
+            "id": 1334745540,
+            "id_str": "1334745540",
+            "indices": [
+              14,
+              30
+            ]
+          },
+          {
+            "screen_name": "Nigresa",
+            "name": "Anna Ardoff",
+            "id": 3432697127,
+            "id_str": "3432697127",
+            "indices": [
+              31,
+              39
+            ]
+          },
+          {
+            "screen_name": "mgk_05",
+            "name": "Марина Куклева",
+            "id": 1215919340,
+            "id_str": "1215919340",
+            "indices": [
+              40,
+              47
+            ]
+          },
+          {
+            "screen_name": "Olesya15433891",
+            "name": "РАЙНАШ",
+            "id": 1047801183493140500,
+            "id_str": "1047801183493140480",
+            "indices": [
+              48,
+              63
+            ]
+          },
+          {
+            "screen_name": "Ukropivna1",
+            "name": "Секлета Лимериха",
+            "id": 4861188380,
+            "id_str": "4861188380",
+            "indices": [
+              64,
+              75
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1097569353065734100,
+      "in_reply_to_status_id_str": "1097569353065734146",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 868460536211669000,
+        "id_str": "868460536211668993"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon Feb 18 18:55:39 +0000 2019",
+      "id": 1097570354896220200,
+      "id_str": "1097570354896220160",
+      "text": "@cellular_bud @broomlaw Yeaap https://t.co/bWhbFF8ukp",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "broomlaw",
+            "name": "Настя Брумлоу 👩🏽‍🔧",
+            "id": 276526495,
+            "id_str": "276526495",
+            "indices": [
+              14,
+              23
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1097570344850935800,
+            "id_str": "1097570344850935809",
+            "indices": [
+              30,
+              53
+            ],
+            "media_url": "http://pbs.twimg.com/media/DztaadjX0AEDQkZ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DztaadjX0AEDQkZ.jpg",
+            "url": "https://t.co/bWhbFF8ukp",
+            "display_url": "pic.twitter.com/bWhbFF8ukp",
+            "expanded_url": "https://twitter.com/Awisone/status/1097570354896220160/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1097570344850935800,
+            "id_str": "1097570344850935809",
+            "indices": [
+              30,
+              53
+            ],
+            "media_url": "http://pbs.twimg.com/media/DztaadjX0AEDQkZ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DztaadjX0AEDQkZ.jpg",
+            "url": "https://t.co/bWhbFF8ukp",
+            "display_url": "pic.twitter.com/bWhbFF8ukp",
+            "expanded_url": "https://twitter.com/Awisone/status/1097570354896220160/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1097559376842371100,
+      "in_reply_to_status_id_str": "1097559376842371072",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 29969827,
+        "id_str": "29969827"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Feb 18 18:57:33 +0000 2019",
+      "id": 1097570834116431900,
+      "id_str": "1097570834116431873",
+      "text": "@Awisone @cellular_bud Когда я смогу это попробовать?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Awisone",
+            "name": "Awis",
+            "id": 29969827,
+            "id_str": "29969827",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              9,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1097570354896220200,
+      "in_reply_to_status_id_str": "1097570354896220160",
+      "in_reply_to_user_id": 29969827,
+      "in_reply_to_user_id_str": "29969827",
+      "in_reply_to_screen_name": "Awisone",
+      "user": {
+        "id": 276526495,
+        "id_str": "276526495"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 18 18:58:24 +0000 2019",
+      "id": 1097571049078698000,
+      "id_str": "1097571049078697985",
+      "text": "@corsar_cv @fu_ri_ya @chefdelasemana @cellular_bud Да я уже прокомментировал сегодняшний рецепт... ;) Выглядеть он… https://t.co/Z7krwkN3zB",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "corsar_cv",
+            "name": "Нью-Васюки",
+            "id": 2597030065,
+            "id_str": "2597030065",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "fu_ri_ya",
+            "name": "Furia",
+            "id": 755998887379365900,
+            "id_str": "755998887379365888",
+            "indices": [
+              11,
+              20
+            ]
+          },
+          {
+            "screen_name": "chefdelasemana",
+            "name": "Шеф Недели",
+            "id": 1093516106545930200,
+            "id_str": "1093516106545930240",
+            "indices": [
+              21,
+              36
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              37,
+              50
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Z7krwkN3zB",
+            "expanded_url": "https://twitter.com/i/web/status/1097571049078697985",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1097569982647554000,
+      "in_reply_to_status_id_str": "1097569982647554048",
+      "in_reply_to_user_id": 2597030065,
+      "in_reply_to_user_id_str": "2597030065",
+      "in_reply_to_screen_name": "corsar_cv",
+      "user": {
+        "id": 493347716,
+        "id_str": "493347716"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 18 18:58:25 +0000 2019",
+      "id": 1097571050953556000,
+      "id_str": "1097571050953555968",
+      "text": "@lasvegas2day @cellular_bud Я сдейляйль! Правда в пюре я не знаю как взбить перец :) Но все офигенно вкусно! И поче… https://t.co/ASG91A4SiR",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "lasvegas2day",
+            "name": "Сегодня в Лас-Вегасе 🇺🇸",
+            "id": 823389792238866400,
+            "id_str": "823389792238866433",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              14,
+              27
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ASG91A4SiR",
+            "expanded_url": "https://twitter.com/i/web/status/1097571050953555968",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1096848993341067300,
+      "in_reply_to_status_id_str": "1096848993341067265",
+      "in_reply_to_user_id": 823389792238866400,
+      "in_reply_to_user_id_str": "823389792238866433",
+      "in_reply_to_screen_name": "lasvegas2day",
+      "user": {
+        "id": 510282406,
+        "id_str": "510282406"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 8,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 18 18:59:59 +0000 2019",
+      "id": 1097571447147515900,
+      "id_str": "1097571447147515904",
+      "text": "@cellular_bud @broomlaw При чем это офигенно крутой способ накормить толпу, так как кило таких ребер стоит доллар или полтора))",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "broomlaw",
+            "name": "Настя Брумлоу 👩🏽‍🔧",
+            "id": 276526495,
+            "id_str": "276526495",
+            "indices": [
+              14,
+              23
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1097570707050037200,
+      "in_reply_to_status_id_str": "1097570707050037249",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 29969827,
+        "id_str": "29969827"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 18 19:04:06 +0000 2019",
+      "id": 1097572481668390900,
+      "id_str": "1097572481668390914",
+      "text": "@broomlaw @cellular_bud Ну как нибудь приглашу) Это достаточно простая тема. Главное хорошенько прокоптить да соус… https://t.co/YmPOb7UNMe",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "broomlaw",
+            "name": "Настя Брумлоу 👩🏽‍🔧",
+            "id": 276526495,
+            "id_str": "276526495",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              10,
+              23
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/YmPOb7UNMe",
+            "expanded_url": "https://twitter.com/i/web/status/1097572481668390914",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1097570834116431900,
+      "in_reply_to_status_id_str": "1097570834116431873",
+      "in_reply_to_user_id": 276526495,
+      "in_reply_to_user_id_str": "276526495",
+      "in_reply_to_screen_name": "broomlaw",
+      "user": {
+        "id": 29969827,
+        "id_str": "29969827"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 18 19:06:32 +0000 2019",
+      "id": 1097573096146567200,
+      "id_str": "1097573096146567168",
+      "text": "@Awisone @cellular_bud Покупное/полуфабрикаты это жесть. Особенно мясо, которое тут любят на шашлыки покупать, фу",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Awisone",
+            "name": "Awis",
+            "id": 29969827,
+            "id_str": "29969827",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              9,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1097572481668390900,
+      "in_reply_to_status_id_str": "1097572481668390914",
+      "in_reply_to_user_id": 29969827,
+      "in_reply_to_user_id_str": "29969827",
+      "in_reply_to_screen_name": "Awisone",
+      "user": {
+        "id": 276526495,
+        "id_str": "276526495"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 18 19:07:10 +0000 2019",
+      "id": 1097573254871564300,
+      "id_str": "1097573254871564288",
+      "text": "@lasvegas2day @cellular_bud Ну и огурец заменила наавокадо, тоже оч хорошо 👌🏾 Жду свинину из духовки.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "lasvegas2day",
+            "name": "Сегодня в Лас-Вегасе 🇺🇸",
+            "id": 823389792238866400,
+            "id_str": "823389792238866433",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              14,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1097571050953556000,
+      "in_reply_to_status_id_str": "1097571050953555968",
+      "in_reply_to_user_id": 510282406,
+      "in_reply_to_user_id_str": "510282406",
+      "in_reply_to_screen_name": "lampalap",
+      "user": {
+        "id": 510282406,
+        "id_str": "510282406"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "616ba1df27270916",
+        "url": "https://api.twitter.com/1.1/geo/id/616ba1df27270916.json",
+        "place_type": "city",
+        "name": "Oxford",
+        "full_name": "Oxford, England",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -1.289608,
+                51.7122668
+              ],
+              [
+                -1.1772587,
+                51.7122668
+              ],
+              [
+                -1.1772587,
+                51.796305
+              ],
+              [
+                -1.289608,
+                51.796305
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 18 19:07:26 +0000 2019",
+      "id": 1097573319895859200,
+      "id_str": "1097573319895859200",
+      "text": "@cellular_bud @OlgaObolenskaja @Gen_keys @Nigresa @mgk_05 @Olesya15433891 @Ukropivna1 Это нормально. Столкнувшись с… https://t.co/ftER2ET15U",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "OlgaObolenskaja",
+            "name": "Оболенская",
+            "id": 1334745540,
+            "id_str": "1334745540",
+            "indices": [
+              14,
+              30
+            ]
+          },
+          {
+            "screen_name": "Gen_keys",
+            "name": "Gen",
+            "id": 868460536211669000,
+            "id_str": "868460536211668993",
+            "indices": [
+              31,
+              40
+            ]
+          },
+          {
+            "screen_name": "Nigresa",
+            "name": "Anna Ardoff",
+            "id": 3432697127,
+            "id_str": "3432697127",
+            "indices": [
+              41,
+              49
+            ]
+          },
+          {
+            "screen_name": "mgk_05",
+            "name": "Марина Куклева",
+            "id": 1215919340,
+            "id_str": "1215919340",
+            "indices": [
+              50,
+              57
+            ]
+          },
+          {
+            "screen_name": "Olesya15433891",
+            "name": "РАЙНАШ",
+            "id": 1047801183493140500,
+            "id_str": "1047801183493140480",
+            "indices": [
+              58,
+              73
+            ]
+          },
+          {
+            "screen_name": "Ukropivna1",
+            "name": "Секлета Лимериха",
+            "id": 4861188380,
+            "id_str": "4861188380",
+            "indices": [
+              74,
+              85
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ftER2ET15U",
+            "expanded_url": "https://twitter.com/i/web/status/1097573319895859200",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1097569353065734100,
+      "in_reply_to_status_id_str": "1097569353065734146",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 29969827,
+        "id_str": "29969827"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 18 19:08:18 +0000 2019",
+      "id": 1097573539023065100,
+      "id_str": "1097573539023065095",
+      "text": "@broomlaw @cellular_bud Не. Все что заранее замариновано по дефолту срань. Это уже очень сильно уставшее мясо у которого отбивают душок",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "broomlaw",
+            "name": "Настя Брумлоу 👩🏽‍🔧",
+            "id": 276526495,
+            "id_str": "276526495",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              10,
+              23
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1097573096146567200,
+      "in_reply_to_status_id_str": "1097573096146567168",
+      "in_reply_to_user_id": 276526495,
+      "in_reply_to_user_id_str": "276526495",
+      "in_reply_to_screen_name": "broomlaw",
+      "user": {
+        "id": 29969827,
+        "id_str": "29969827"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 18 19:08:22 +0000 2019",
+      "id": 1097573558023266300,
+      "id_str": "1097573558023266304",
+      "text": "@corsar_cv @fu_ri_ya @chefdelasemana @cellular_bud не надо тут готовить.\nи снимать вашу жратву и здесь выкладывать… https://t.co/R5GL0YDAxw",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "corsar_cv",
+            "name": "Нью-Васюки",
+            "id": 2597030065,
+            "id_str": "2597030065",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "fu_ri_ya",
+            "name": "Furia",
+            "id": 755998887379365900,
+            "id_str": "755998887379365888",
+            "indices": [
+              11,
+              20
+            ]
+          },
+          {
+            "screen_name": "chefdelasemana",
+            "name": "Шеф Недели",
+            "id": 1093516106545930200,
+            "id_str": "1093516106545930240",
+            "indices": [
+              21,
+              36
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              37,
+              50
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/R5GL0YDAxw",
+            "expanded_url": "https://twitter.com/i/web/status/1097573558023266304",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1097557803768729600,
+      "in_reply_to_status_id_str": "1097557803768729602",
+      "in_reply_to_user_id": 2597030065,
+      "in_reply_to_user_id_str": "2597030065",
+      "in_reply_to_screen_name": "corsar_cv",
+      "user": {
+        "id": 2792668050,
+        "id_str": "2792668050"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 18 19:10:13 +0000 2019",
+      "id": 1097574020743082000,
+      "id_str": "1097574020743081985",
+      "text": "@broomlaw @cellular_bud Ну и большинство готовит по принципу — нахуячил всего на огонь и заебись. Так кожа сгорает к хуям а внутри сырое))",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "broomlaw",
+            "name": "Настя Брумлоу 👩🏽‍🔧",
+            "id": 276526495,
+            "id_str": "276526495",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              10,
+              23
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1097573096146567200,
+      "in_reply_to_status_id_str": "1097573096146567168",
+      "in_reply_to_user_id": 276526495,
+      "in_reply_to_user_id_str": "276526495",
+      "in_reply_to_screen_name": "broomlaw",
+      "user": {
+        "id": 29969827,
+        "id_str": "29969827"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 18 19:11:55 +0000 2019",
+      "id": 1097574448792772600,
+      "id_str": "1097574448792772610",
+      "text": "@Newvark @cellular_bud ...и по глазам. ) Красиво.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Newvark",
+            "name": "Alex Gun",
+            "id": 207420135,
+            "id_str": "207420135",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              9,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1097549914949734400,
+      "in_reply_to_status_id_str": "1097549914949734402",
+      "in_reply_to_user_id": 207420135,
+      "in_reply_to_user_id_str": "207420135",
+      "in_reply_to_screen_name": "Newvark",
+      "user": {
+        "id": 421110732,
+        "id_str": "421110732"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 18 19:12:13 +0000 2019",
+      "id": 1097574525414395900,
+      "id_str": "1097574525414395904",
+      "text": "@OlgaObolenskaja @cellular_bud @Gen_keys @Nigresa @mgk_05 @Olesya15433891 @Ukropivna1 Скажите, а как же Омега 3 и п… https://t.co/ycyvQ4S4Bg",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "OlgaObolenskaja",
+            "name": "Оболенская",
+            "id": 1334745540,
+            "id_str": "1334745540",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              17,
+              30
+            ]
+          },
+          {
+            "screen_name": "Gen_keys",
+            "name": "Gen",
+            "id": 868460536211669000,
+            "id_str": "868460536211668993",
+            "indices": [
+              31,
+              40
+            ]
+          },
+          {
+            "screen_name": "Nigresa",
+            "name": "Anna Ardoff",
+            "id": 3432697127,
+            "id_str": "3432697127",
+            "indices": [
+              41,
+              49
+            ]
+          },
+          {
+            "screen_name": "mgk_05",
+            "name": "Марина Куклева",
+            "id": 1215919340,
+            "id_str": "1215919340",
+            "indices": [
+              50,
+              57
+            ]
+          },
+          {
+            "screen_name": "Olesya15433891",
+            "name": "РАЙНАШ",
+            "id": 1047801183493140500,
+            "id_str": "1047801183493140480",
+            "indices": [
+              58,
+              73
+            ]
+          },
+          {
+            "screen_name": "Ukropivna1",
+            "name": "Секлета Лимериха",
+            "id": 4861188380,
+            "id_str": "4861188380",
+            "indices": [
+              74,
+              85
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ycyvQ4S4Bg",
+            "expanded_url": "https://twitter.com/i/web/status/1097574525414395904",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1097570364337606700,
+      "in_reply_to_status_id_str": "1097570364337606656",
+      "in_reply_to_user_id": 1334745540,
+      "in_reply_to_user_id_str": "1334745540",
+      "in_reply_to_screen_name": "OlgaObolenskaja",
+      "user": {
+        "id": 852528458370515000,
+        "id_str": "852528458370514946"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 18 19:14:40 +0000 2019",
+      "id": 1097575141234466800,
+      "id_str": "1097575141234466816",
+      "text": "@Awisone @broomlaw @cellular_bud Уххх,бля.....!!!😂",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Awisone",
+            "name": "Awis",
+            "id": 29969827,
+            "id_str": "29969827",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "broomlaw",
+            "name": "Настя Брумлоу 👩🏽‍🔧",
+            "id": 276526495,
+            "id_str": "276526495",
+            "indices": [
+              9,
+              18
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              19,
+              32
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1097574020743082000,
+      "in_reply_to_status_id_str": "1097574020743081985",
+      "in_reply_to_user_id": 29969827,
+      "in_reply_to_user_id_str": "29969827",
+      "in_reply_to_screen_name": "Awisone",
+      "user": {
+        "id": 852528458370515000,
+        "id_str": "852528458370514946"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 18 19:17:37 +0000 2019",
+      "id": 1097575884855361500,
+      "id_str": "1097575884855361536",
+      "text": "@cellular_bud @broomlaw Ну ща уже начнется погода подходящая для моего Веббера.))",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "broomlaw",
+            "name": "Настя Брумлоу 👩🏽‍🔧",
+            "id": 276526495,
+            "id_str": "276526495",
+            "indices": [
+              14,
+              23
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1097574893166706700,
+      "in_reply_to_status_id_str": "1097574893166706688",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 29969827,
+        "id_str": "29969827"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 18 19:17:59 +0000 2019",
+      "id": 1097575977520193500,
+      "id_str": "1097575977520193542",
+      "text": "@cellular_bud Нет, я исключительно мирный человек, стреляю только по тарелочкам. Хотя при нужде наверное бы выжил с помощью охоты и рыбалки.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1097575546484113400,
+      "in_reply_to_status_id_str": "1097575546484113408",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 18 19:23:59 +0000 2019",
+      "id": 1097577487326957600,
+      "id_str": "1097577487326957569",
+      "text": "@1und20 @fu_ri_ya @chefdelasemana @cellular_bud Никто тебя не просит смотреть. Или ты ещё не разобрался как Твиттер работает?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "1und20",
+            "name": "Alexander",
+            "id": 2792668050,
+            "id_str": "2792668050",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "fu_ri_ya",
+            "name": "Furia",
+            "id": 755998887379365900,
+            "id_str": "755998887379365888",
+            "indices": [
+              8,
+              17
+            ]
+          },
+          {
+            "screen_name": "chefdelasemana",
+            "name": "Шеф Недели",
+            "id": 1093516106545930200,
+            "id_str": "1093516106545930240",
+            "indices": [
+              18,
+              33
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              34,
+              47
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1097573558023266300,
+      "in_reply_to_status_id_str": "1097573558023266304",
+      "in_reply_to_user_id": 2792668050,
+      "in_reply_to_user_id_str": "2792668050",
+      "in_reply_to_screen_name": "1und20",
+      "user": {
+        "id": 2597030065,
+        "id_str": "2597030065"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 18 19:29:30 +0000 2019",
+      "id": 1097578875113144300,
+      "id_str": "1097578875113144320",
+      "text": "@chefdelasemana @cellular_bud Вы главный по тарелочкам на этой неделе))) Такого разнообразия кулинарии  как в NY/NJ… https://t.co/AR6ALec2DA",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "chefdelasemana",
+            "name": "Шеф Недели",
+            "id": 1093516106545930200,
+            "id_str": "1093516106545930240",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              16,
+              29
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/AR6ALec2DA",
+            "expanded_url": "https://twitter.com/i/web/status/1097578875113144320",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": 1097575977520193500,
+      "in_reply_to_status_id_str": "1097575977520193542",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 160240434,
+        "id_str": "160240434"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 18 19:30:15 +0000 2019",
+      "id": 1097579064418816000,
+      "id_str": "1097579064418816000",
+      "text": "@cellular_bud Львівська реберня під Арсеналом https://t.co/V9NE8jt01M",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1097578923783786500,
+            "id_str": "1097578923783786498",
+            "indices": [
+              46,
+              69
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1097578923783786498/pu/img/hia-zrV5LKl7sGXg.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1097578923783786498/pu/img/hia-zrV5LKl7sGXg.jpg",
+            "url": "https://t.co/V9NE8jt01M",
+            "display_url": "pic.twitter.com/V9NE8jt01M",
+            "expanded_url": "https://twitter.com/radio_ruanda/status/1097579064418816000/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 720,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1097578923783786500,
+            "id_str": "1097578923783786498",
+            "indices": [
+              46,
+              69
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1097578923783786498/pu/img/hia-zrV5LKl7sGXg.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1097578923783786498/pu/img/hia-zrV5LKl7sGXg.jpg",
+            "url": "https://t.co/V9NE8jt01M",
+            "display_url": "pic.twitter.com/V9NE8jt01M",
+            "expanded_url": "https://twitter.com/radio_ruanda/status/1097579064418816000/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 720,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 8699,
+              "variants": [
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1097578923783786498/pu/vid/1280x720/fR7plfDpzhLuAZS1.mp4?tag=6"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1097578923783786498/pu/pl/hST_TVEzV1gfyJU2.m3u8?tag=6"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1097578923783786498/pu/vid/320x180/3ygGrkJHmsgcWWE6.mp4?tag=6"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1097578923783786498/pu/vid/640x360/VtiyMvvYAAPNXoJ2.mp4?tag=6"
+                }
+              ]
+            },
+            "additional_media_info": {
+              "monetizable": false
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1097548934485037000,
+      "in_reply_to_status_id_str": "1097548934485037059",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 976848118011646000,
+        "id_str": "976848118011645955"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 10,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "uk"
+    },
+    {
+      "created_at": "Mon Feb 18 19:31:44 +0000 2019",
+      "id": 1097579435207872500,
+      "id_str": "1097579435207872512",
+      "text": "@corsar_cv @Boasik68 @chefdelasemana @cellular_bud Как вариант, можно предлагать, чем заменить",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "corsar_cv",
+            "name": "Нью-Васюки",
+            "id": 2597030065,
+            "id_str": "2597030065",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "Boasik68",
+            "name": "Пáловые Крáбочки 🇺🇦",
+            "id": 493347716,
+            "id_str": "493347716",
+            "indices": [
+              11,
+              20
+            ]
+          },
+          {
+            "screen_name": "chefdelasemana",
+            "name": "Шеф Недели",
+            "id": 1093516106545930200,
+            "id_str": "1093516106545930240",
+            "indices": [
+              21,
+              36
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              37,
+              50
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1097569982647554000,
+      "in_reply_to_status_id_str": "1097569982647554048",
+      "in_reply_to_user_id": 2597030065,
+      "in_reply_to_user_id_str": "2597030065",
+      "in_reply_to_screen_name": "corsar_cv",
+      "user": {
+        "id": 755998887379365900,
+        "id_str": "755998887379365888"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 18 19:37:35 +0000 2019",
+      "id": 1097580908247425000,
+      "id_str": "1097580908247425024",
+      "text": "@cellular_bud Хотя бы припугнуть тех, кто считает сало вредным",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 1097575546484113400,
+      "in_reply_to_status_id_str": "1097575546484113408",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 988666962,
+        "id_str": "988666962"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 18 19:40:19 +0000 2019",
+      "id": 1097581598193659900,
+      "id_str": "1097581598193659904",
+      "text": "@fu_ri_ya @corsar_cv @Boasik68 @cellular_bud Конечно",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "fu_ri_ya",
+            "name": "Furia",
+            "id": 755998887379365900,
+            "id_str": "755998887379365888",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "corsar_cv",
+            "name": "Нью-Васюки",
+            "id": 2597030065,
+            "id_str": "2597030065",
+            "indices": [
+              10,
+              20
+            ]
+          },
+          {
+            "screen_name": "Boasik68",
+            "name": "Пáловые Крáбочки 🇺🇦",
+            "id": 493347716,
+            "id_str": "493347716",
+            "indices": [
+              21,
+              30
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              31,
+              44
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1097579435207872500,
+      "in_reply_to_status_id_str": "1097579435207872512",
+      "in_reply_to_user_id": 755998887379365900,
+      "in_reply_to_user_id_str": "755998887379365888",
+      "in_reply_to_screen_name": "fu_ri_ya",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 18 19:44:57 +0000 2019",
+      "id": 1097582765179134000,
+      "id_str": "1097582765179133957",
+      "text": "@AbdelGamal4 @OlgaObolenskaja @cellular_bud @Gen_keys @mgk_05 @Olesya15433891 @Ukropivna1 Только подумала: а как же… https://t.co/ONbRYXxBCO",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AbdelGamal4",
+            "name": "Степовий Вовк",
+            "id": 978881290559803400,
+            "id_str": "978881290559803392",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "OlgaObolenskaja",
+            "name": "Оболенская",
+            "id": 1334745540,
+            "id_str": "1334745540",
+            "indices": [
+              13,
+              29
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              30,
+              43
+            ]
+          },
+          {
+            "screen_name": "Gen_keys",
+            "name": "Gen",
+            "id": 868460536211669000,
+            "id_str": "868460536211668993",
+            "indices": [
+              44,
+              53
+            ]
+          },
+          {
+            "screen_name": "mgk_05",
+            "name": "Марина Куклева",
+            "id": 1215919340,
+            "id_str": "1215919340",
+            "indices": [
+              54,
+              61
+            ]
+          },
+          {
+            "screen_name": "Olesya15433891",
+            "name": "РАЙНАШ",
+            "id": 1047801183493140500,
+            "id_str": "1047801183493140480",
+            "indices": [
+              62,
+              77
+            ]
+          },
+          {
+            "screen_name": "Ukropivna1",
+            "name": "Секлета Лимериха",
+            "id": 4861188380,
+            "id_str": "4861188380",
+            "indices": [
+              78,
+              89
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ONbRYXxBCO",
+            "expanded_url": "https://twitter.com/i/web/status/1097582765179133957",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1097567283214516200,
+      "in_reply_to_status_id_str": "1097567283214516224",
+      "in_reply_to_user_id": 978881290559803400,
+      "in_reply_to_user_id_str": "978881290559803392",
+      "in_reply_to_screen_name": "AbdelGamal4",
+      "user": {
+        "id": 3432697127,
+        "id_str": "3432697127"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 18 19:50:44 +0000 2019",
+      "id": 1097584217825919000,
+      "id_str": "1097584217825918979",
+      "text": "@lampalap @cellular_bud Если есть блендер, закинь разных перцев (чили, халапеньо и тп), добавь сок лайма и чайную л… https://t.co/DbKwqCY0xV",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "lampalap",
+            "name": "Lkshpründa",
+            "id": 510282406,
+            "id_str": "510282406",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              10,
+              23
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/DbKwqCY0xV",
+            "expanded_url": "https://twitter.com/i/web/status/1097584217825918979",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1097573254871564300,
+      "in_reply_to_status_id_str": "1097573254871564288",
+      "in_reply_to_user_id": 510282406,
+      "in_reply_to_user_id_str": "510282406",
+      "in_reply_to_screen_name": "lampalap",
+      "user": {
+        "id": 823389792238866400,
+        "id_str": "823389792238866433"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 18 19:50:52 +0000 2019",
+      "id": 1097584254215700500,
+      "id_str": "1097584254215700481",
+      "text": "@OlgaObolenskaja @cellular_bud @Gen_keys @Nigresa @mgk_05 @Ukropivna1 Ой, да не тратьте время, потому что здоровым… https://t.co/5DPz46H7Gh",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "OlgaObolenskaja",
+            "name": "Оболенская",
+            "id": 1334745540,
+            "id_str": "1334745540",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              17,
+              30
+            ]
+          },
+          {
+            "screen_name": "Gen_keys",
+            "name": "Gen",
+            "id": 868460536211669000,
+            "id_str": "868460536211668993",
+            "indices": [
+              31,
+              40
+            ]
+          },
+          {
+            "screen_name": "Nigresa",
+            "name": "Anna Ardoff",
+            "id": 3432697127,
+            "id_str": "3432697127",
+            "indices": [
+              41,
+              49
+            ]
+          },
+          {
+            "screen_name": "mgk_05",
+            "name": "Марина Куклева",
+            "id": 1215919340,
+            "id_str": "1215919340",
+            "indices": [
+              50,
+              57
+            ]
+          },
+          {
+            "screen_name": "Ukropivna1",
+            "name": "Секлета Лимериха",
+            "id": 4861188380,
+            "id_str": "4861188380",
+            "indices": [
+              58,
+              69
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/5DPz46H7Gh",
+            "expanded_url": "https://twitter.com/i/web/status/1097584254215700481",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1097566458975010800,
+      "in_reply_to_status_id_str": "1097566458975010816",
+      "in_reply_to_user_id": 1334745540,
+      "in_reply_to_user_id_str": "1334745540",
+      "in_reply_to_screen_name": "OlgaObolenskaja",
+      "user": {
+        "id": 1047801183493140500,
+        "id_str": "1047801183493140480"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 18 19:51:34 +0000 2019",
+      "id": 1097584428069601300,
+      "id_str": "1097584428069601285",
+      "text": "@lasvegas2day @cellular_bud Ооо. Есть ручной блендер. Я ступила :) след раз 👍🏽",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "lasvegas2day",
+            "name": "Сегодня в Лас-Вегасе 🇺🇸",
+            "id": 823389792238866400,
+            "id_str": "823389792238866433",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              14,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1097584217825919000,
+      "in_reply_to_status_id_str": "1097584217825918979",
+      "in_reply_to_user_id": 823389792238866400,
+      "in_reply_to_user_id_str": "823389792238866433",
+      "in_reply_to_screen_name": "lasvegas2day",
+      "user": {
+        "id": 510282406,
+        "id_str": "510282406"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "616ba1df27270916",
+        "url": "https://api.twitter.com/1.1/geo/id/616ba1df27270916.json",
+        "place_type": "city",
+        "name": "Oxford",
+        "full_name": "Oxford, England",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -1.289608,
+                51.7122668
+              ],
+              [
+                -1.1772587,
+                51.7122668
+              ],
+              [
+                -1.1772587,
+                51.796305
+              ],
+              [
+                -1.289608,
+                51.796305
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 18 19:53:02 +0000 2019",
+      "id": 1097584798409912300,
+      "id_str": "1097584798409912321",
+      "text": "@Nigresa @AbdelGamal4 @OlgaObolenskaja @cellular_bud @mgk_05 @Olesya15433891 @Ukropivna1 Я от них устал...😂",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Nigresa",
+            "name": "Anna Ardoff",
+            "id": 3432697127,
+            "id_str": "3432697127",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "AbdelGamal4",
+            "name": "Степовий Вовк",
+            "id": 978881290559803400,
+            "id_str": "978881290559803392",
+            "indices": [
+              9,
+              21
+            ]
+          },
+          {
+            "screen_name": "OlgaObolenskaja",
+            "name": "Оболенская",
+            "id": 1334745540,
+            "id_str": "1334745540",
+            "indices": [
+              22,
+              38
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              39,
+              52
+            ]
+          },
+          {
+            "screen_name": "mgk_05",
+            "name": "Марина Куклева",
+            "id": 1215919340,
+            "id_str": "1215919340",
+            "indices": [
+              53,
+              60
+            ]
+          },
+          {
+            "screen_name": "Olesya15433891",
+            "name": "РАЙНАШ",
+            "id": 1047801183493140500,
+            "id_str": "1047801183493140480",
+            "indices": [
+              61,
+              76
+            ]
+          },
+          {
+            "screen_name": "Ukropivna1",
+            "name": "Секлета Лимериха",
+            "id": 4861188380,
+            "id_str": "4861188380",
+            "indices": [
+              77,
+              88
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1097582765179134000,
+      "in_reply_to_status_id_str": "1097582765179133957",
+      "in_reply_to_user_id": 3432697127,
+      "in_reply_to_user_id_str": "3432697127",
+      "in_reply_to_screen_name": "Nigresa",
+      "user": {
+        "id": 868460536211669000,
+        "id_str": "868460536211668993"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 18 19:55:38 +0000 2019",
+      "id": 1097585452390010900,
+      "id_str": "1097585452390010880",
+      "text": "@Gen_keys @AbdelGamal4 @OlgaObolenskaja @cellular_bud @mgk_05 @Olesya15433891 @Ukropivna1 😆ладно, пускай каждый ест… https://t.co/KXFEQRu9dp",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Gen_keys",
+            "name": "Gen",
+            "id": 868460536211669000,
+            "id_str": "868460536211668993",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "AbdelGamal4",
+            "name": "Степовий Вовк",
+            "id": 978881290559803400,
+            "id_str": "978881290559803392",
+            "indices": [
+              10,
+              22
+            ]
+          },
+          {
+            "screen_name": "OlgaObolenskaja",
+            "name": "Оболенская",
+            "id": 1334745540,
+            "id_str": "1334745540",
+            "indices": [
+              23,
+              39
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              40,
+              53
+            ]
+          },
+          {
+            "screen_name": "mgk_05",
+            "name": "Марина Куклева",
+            "id": 1215919340,
+            "id_str": "1215919340",
+            "indices": [
+              54,
+              61
+            ]
+          },
+          {
+            "screen_name": "Olesya15433891",
+            "name": "РАЙНАШ",
+            "id": 1047801183493140500,
+            "id_str": "1047801183493140480",
+            "indices": [
+              62,
+              77
+            ]
+          },
+          {
+            "screen_name": "Ukropivna1",
+            "name": "Секлета Лимериха",
+            "id": 4861188380,
+            "id_str": "4861188380",
+            "indices": [
+              78,
+              89
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/KXFEQRu9dp",
+            "expanded_url": "https://twitter.com/i/web/status/1097585452390010880",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1097584798409912300,
+      "in_reply_to_status_id_str": "1097584798409912321",
+      "in_reply_to_user_id": 868460536211669000,
+      "in_reply_to_user_id_str": "868460536211668993",
+      "in_reply_to_screen_name": "Gen_keys",
+      "user": {
+        "id": 3432697127,
+        "id_str": "3432697127"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 18 20:04:57 +0000 2019",
+      "id": 1097587794602537000,
+      "id_str": "1097587794602536961",
+      "text": "@Awisone @cellular_bud @broomlaw Всего?!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Awisone",
+            "name": "Awis",
+            "id": 29969827,
+            "id_str": "29969827",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              9,
+              22
+            ]
+          },
+          {
+            "screen_name": "broomlaw",
+            "name": "Настя Брумлоу 👩🏽‍🔧",
+            "id": 276526495,
+            "id_str": "276526495",
+            "indices": [
+              23,
+              32
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1097571447147515900,
+      "in_reply_to_status_id_str": "1097571447147515904",
+      "in_reply_to_user_id": 29969827,
+      "in_reply_to_user_id_str": "29969827",
+      "in_reply_to_screen_name": "Awisone",
+      "user": {
+        "id": 156187285,
+        "id_str": "156187285"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "a76c0cd7d56c4836",
+        "url": "https://api.twitter.com/1.1/geo/id/a76c0cd7d56c4836.json",
+        "place_type": "city",
+        "name": "Saint Petersburg",
+        "full_name": "Saint Petersburg, Russia",
+        "country_code": "RU",
+        "country": "Russia",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                30.0896894,
+                59.7761714
+              ],
+              [
+                30.5677067,
+                59.7761714
+              ],
+              [
+                30.5677067,
+                60.0921253
+              ],
+              [
+                30.0896894,
+                60.0921253
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 18 20:06:48 +0000 2019",
+      "id": 1097588263794167800,
+      "id_str": "1097588263794167809",
+      "text": "@Awisone @cellular_bud В Праге то?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Awisone",
+            "name": "Awis",
+            "id": 29969827,
+            "id_str": "29969827",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              9,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1097571447147515900,
+      "in_reply_to_status_id_str": "1097571447147515904",
+      "in_reply_to_user_id": 29969827,
+      "in_reply_to_user_id_str": "29969827",
+      "in_reply_to_screen_name": "Awisone",
+      "user": {
+        "id": 276526495,
+        "id_str": "276526495"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 18 20:12:55 +0000 2019",
+      "id": 1097589801195368400,
+      "id_str": "1097589801195368448",
+      "text": "@broomlaw @cellular_bud Ну да. От двух до 5 баксов в среднем",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "broomlaw",
+            "name": "Настя Брумлоу 👩🏽‍🔧",
+            "id": 276526495,
+            "id_str": "276526495",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              10,
+              23
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1097588263794167800,
+      "in_reply_to_status_id_str": "1097588263794167809",
+      "in_reply_to_user_id": 276526495,
+      "in_reply_to_user_id_str": "276526495",
+      "in_reply_to_screen_name": "broomlaw",
+      "user": {
+        "id": 29969827,
+        "id_str": "29969827"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 18 20:13:07 +0000 2019",
+      "id": 1097589849954095100,
+      "id_str": "1097589849954095104",
+      "text": "@ZorinDmitriy @cellular_bud @broomlaw От двух до 5 баксов в среднем",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ZorinDmitriy",
+            "name": "ZorinDmitry",
+            "id": 156187285,
+            "id_str": "156187285",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              14,
+              27
+            ]
+          },
+          {
+            "screen_name": "broomlaw",
+            "name": "Настя Брумлоу 👩🏽‍🔧",
+            "id": 276526495,
+            "id_str": "276526495",
+            "indices": [
+              28,
+              37
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1097587794602537000,
+      "in_reply_to_status_id_str": "1097587794602536961",
+      "in_reply_to_user_id": 156187285,
+      "in_reply_to_user_id_str": "156187285",
+      "in_reply_to_screen_name": "ZorinDmitriy",
+      "user": {
+        "id": 29969827,
+        "id_str": "29969827"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 18 20:13:31 +0000 2019",
+      "id": 1097589950848086000,
+      "id_str": "1097589950848086016",
+      "text": "@Awisone @cellular_bud Покажешь мне места",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Awisone",
+            "name": "Awis",
+            "id": 29969827,
+            "id_str": "29969827",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              9,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1097589801195368400,
+      "in_reply_to_status_id_str": "1097589801195368448",
+      "in_reply_to_user_id": 29969827,
+      "in_reply_to_user_id_str": "29969827",
+      "in_reply_to_screen_name": "Awisone",
+      "user": {
+        "id": 276526495,
+        "id_str": "276526495"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
