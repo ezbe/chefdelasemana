@@ -27,13 +27,13 @@ const tweets = getAuthorArea(username, 'tweets').tweets || [];
 const mentions = getAuthorArea(username, 'mentions').mentions || [];
 
 const tweetsSinceId = isEmpty(tweets) ? dec(first) : last(tweets).id_str;
-getTweets(tokens, 'abroadunderhood', tweetsSinceId, (err, newTweetsRaw) => {
+getTweets(tokens, 'chefdelasemana', tweetsSinceId, (err, newTweetsRaw) => {
   if (err) throw err;
   const concattedTweets = concat(tweets, reverse(newTweetsRaw));
   saveAuthorArea(username, 'tweets', { tweets: concattedTweets });
 });
 
-getInfo(tokens, 'abroadunderhood', (err, info) => {
+getInfo(tokens, 'chefdelasemana', (err, info) => {
   if (err) throw err;
 
   info.time_zone_offset = 0;
@@ -66,12 +66,12 @@ getInfo(tokens, 'abroadunderhood', (err, info) => {
 });
 
 rm(`./dump/images/${username}*`);
-saveMedia(tokens, 'abroadunderhood', username, (err, media) => {
+saveMedia(tokens, 'chefdelasemana', username, (err, media) => {
   if (err) throw err;
   saveAuthorArea(username, 'media', media);
 });
 
-getFollowers(tokens, 'abroadunderhood', (err, followersWithStatuses) => {
+getFollowers(tokens, 'chefdelasemana', (err, followersWithStatuses) => {
   if (err) throw err;
   const followers = map(dissoc('status'), followersWithStatuses);
   saveAuthorArea(username, 'followers', { followers });

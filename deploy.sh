@@ -2,7 +2,7 @@
 
 echo "set git environment"
 git remote rm origin
-git remote add origin https://suxxes:${GITHUB_TOKEN}@github.com/suxxes/abroadunderhood.git
+git remote add origin https://ezbe:${GITHUB_TOKEN}@github.com/ezbe/chefdelasemana.git
 git checkout master
 
 echo "run update"
