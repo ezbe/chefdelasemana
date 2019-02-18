@@ -13,7 +13,7 @@
     }
   },
   "protected": false,
-  "followers_count": 2100,
+  "followers_count": 2104,
   "friends_count": 0,
   "listed_count": 6,
   "created_at": "Thu Feb 07 14:25:31 +0000 2019",
@@ -22,22 +22,33 @@
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 285,
+  "statuses_count": 293,
   "lang": "en",
   "status": {
-    "created_at": "Mon Feb 18 20:29:22 +0000 2019",
-    "id": 1097593940130316300,
-    "id_str": "1097593940130316288",
-    "text": "Более того, в оригинале блюдо готовиться с местной белой рыбой, которая нечасто доступна вне Бразилии. Так что этот… https://t.co/TgHwoMAQCN",
+    "created_at": "Mon Feb 18 20:57:42 +0000 2019",
+    "id": 1097601072019976200,
+    "id_str": "1097601072019976193",
+    "text": "@nattt_che Как вариант - вполне возможно. Но сливочный вкус даст другой вкусовой оттенок. И хорошее кокосовое молок… https://t.co/ofot6ehiKA",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "nattt_che",
+          "name": "",
+          "id": 997148614542716900,
+          "id_str": "997148614542716928",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/TgHwoMAQCN",
-          "expanded_url": "https://twitter.com/i/web/status/1097593940130316288",
+          "url": "https://t.co/ofot6ehiKA",
+          "expanded_url": "https://twitter.com/i/web/status/1097601072019976193",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -47,18 +58,18 @@
       ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 1097593939186593800,
-    "in_reply_to_status_id_str": "1097593939186593792",
-    "in_reply_to_user_id": 1093516106545930200,
-    "in_reply_to_user_id_str": "1093516106545930240",
-    "in_reply_to_screen_name": "chefdelasemana",
+    "in_reply_to_status_id": 1097599989113675800,
+    "in_reply_to_status_id_str": "1097599989113675776",
+    "in_reply_to_user_id": 997148614542716900,
+    "in_reply_to_user_id_str": "997148614542716928",
+    "in_reply_to_screen_name": "nattt_che",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"

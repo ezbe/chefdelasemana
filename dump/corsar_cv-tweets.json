@@ -1379,6 +1379,662 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 18 20:34:18 +0000 2019",
+      "id": 1097595181841477600,
+      "id_str": "1097595181841477633",
+      "full_text": "@Durevestnik По поводу названий, я живу в США и использую англ. названия на кухне, так что транскрипция может не совпадать с русской: chipotle, coriander, cumin.",
+      "truncated": false,
+      "display_text_range": [
+        13,
+        161
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Durevestnik",
+            "name": "СмутноеВремя",
+            "id": 771352973742075900,
+            "id_str": "771352973742075904",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1097592352254976000,
+      "in_reply_to_status_id_str": "1097592352254976001",
+      "in_reply_to_user_id": 771352973742075900,
+      "in_reply_to_user_id_str": "771352973742075904",
+      "in_reply_to_screen_name": "Durevestnik",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 18 20:34:46 +0000 2019",
+      "id": 1097595300632514600,
+      "id_str": "1097595300632514562",
+      "full_text": "@Durevestnik По поводу ингредиентов и/или пропорций - я его готовлю так и я не претендую на 100% \"аутентичность\" рецепта. Тем не менее, вкус не хуже, чем те варианты блюда, которые я пробовал в бразильских ресторанах.",
+      "truncated": false,
+      "display_text_range": [
+        13,
+        217
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Durevestnik",
+            "name": "СмутноеВремя",
+            "id": 771352973742075900,
+            "id_str": "771352973742075904",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1097595181841477600,
+      "in_reply_to_status_id_str": "1097595181841477633",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 18 20:40:19 +0000 2019",
+      "id": 1097596696673075200,
+      "id_str": "1097596696673075201",
+      "full_text": "Дальше, в глубокую сковородку добавляем немного растительного масла. Выкладываем слоями: лук, перец, рыба (если порций много - можно сделать несколько слоёв. https://t.co/7VIyVwWt79",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        157
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1097596053103226900,
+            "id_str": "1097596053103226882",
+            "indices": [
+              158,
+              181
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dztxy4QWsAI51af.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dztxy4QWsAI51af.jpg",
+            "url": "https://t.co/7VIyVwWt79",
+            "display_url": "pic.twitter.com/7VIyVwWt79",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1097596696673075201/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1097596053103226900,
+            "id_str": "1097596053103226882",
+            "indices": [
+              158,
+              181
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dztxy4QWsAI51af.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dztxy4QWsAI51af.jpg",
+            "url": "https://t.co/7VIyVwWt79",
+            "display_url": "pic.twitter.com/7VIyVwWt79",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1097596696673075201/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1097593940130316300,
+      "in_reply_to_status_id_str": "1097593940130316288",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 18 20:40:21 +0000 2019",
+      "id": 1097596703014834200,
+      "id_str": "1097596703014834178",
+      "full_text": "Можно чуть потушить овочи, но не обязательно. Заливаем кокосовым молоком, чуть покрывая рыбу - и на медленный огонь. Тушится под крышкой до готовности овощей. Я его оставляю минут на 40, чтобы все вкусы хорошо пропитались. https://t.co/fPtAH31jXS",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        222
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1097596343240011800,
+            "id_str": "1097596343240011777",
+            "indices": [
+              223,
+              246
+            ],
+            "media_url": "http://pbs.twimg.com/media/DztyDxGWsAELD-b.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DztyDxGWsAELD-b.jpg",
+            "url": "https://t.co/fPtAH31jXS",
+            "display_url": "pic.twitter.com/fPtAH31jXS",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1097596703014834178/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1097596343240011800,
+            "id_str": "1097596343240011777",
+            "indices": [
+              223,
+              246
+            ],
+            "media_url": "http://pbs.twimg.com/media/DztyDxGWsAELD-b.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DztyDxGWsAELD-b.jpg",
+            "url": "https://t.co/fPtAH31jXS",
+            "display_url": "pic.twitter.com/fPtAH31jXS",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1097596703014834178/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1097596696673075200,
+      "in_reply_to_status_id_str": "1097596696673075201",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 18 20:46:56 +0000 2019",
+      "id": 1097598361761431600,
+      "id_str": "1097598361761431553",
+      "full_text": "Всё. Украшаем петрушкой или кинзой - и на стол. Можно есть как суп, но очень неплохо с гарниром. Во втором случае нужно чуть меньше жидкости и/или добавить горсть муки при приготовлении. https://t.co/mjYj3zie8J",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        186
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1097597892863422500,
+            "id_str": "1097597892863422467",
+            "indices": [
+              187,
+              210
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dztzd95XcAMinJ8.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dztzd95XcAMinJ8.jpg",
+            "url": "https://t.co/mjYj3zie8J",
+            "display_url": "pic.twitter.com/mjYj3zie8J",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1097598361761431553/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1097597892863422500,
+            "id_str": "1097597892863422467",
+            "indices": [
+              187,
+              210
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dztzd95XcAMinJ8.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dztzd95XcAMinJ8.jpg",
+            "url": "https://t.co/mjYj3zie8J",
+            "display_url": "pic.twitter.com/mjYj3zie8J",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1097598361761431553/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1097596703014834200,
+      "in_reply_to_status_id_str": "1097596703014834178",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 18 20:46:58 +0000 2019",
+      "id": 1097598369470562300,
+      "id_str": "1097598369470562305",
+      "full_text": "Ах да, кстати, не выбирайте обезжиренное кокосовое молоко, как у меня на первой фотографии. Взял банку по ошибке, пришлось менять по ходу. https://t.co/ToMvxGVLkZ",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        138
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1097598302638489600,
+            "id_str": "1097598302638489600",
+            "indices": [
+              139,
+              162
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dztz10bWwAAmpjq.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dztz10bWwAAmpjq.jpg",
+            "url": "https://t.co/ToMvxGVLkZ",
+            "display_url": "pic.twitter.com/ToMvxGVLkZ",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1097598369470562305/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1097598302638489600,
+            "id_str": "1097598302638489600",
+            "indices": [
+              139,
+              162
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dztz10bWwAAmpjq.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dztz10bWwAAmpjq.jpg",
+            "url": "https://t.co/ToMvxGVLkZ",
+            "display_url": "pic.twitter.com/ToMvxGVLkZ",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1097598369470562305/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1097598361761431600,
+      "in_reply_to_status_id_str": "1097598361761431553",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 18 20:49:12 +0000 2019",
+      "id": 1097598930941067300,
+      "id_str": "1097598930941067265",
+      "full_text": "@Durevestnik Я использую халапеньйо и поблано, но не в этом рецепте. Хабанеро - слишком острый для детей, а я готовлю для семьи.",
+      "truncated": false,
+      "display_text_range": [
+        13,
+        128
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Durevestnik",
+            "name": "СмутноеВремя",
+            "id": 771352973742075900,
+            "id_str": "771352973742075904",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1097597075745923100,
+      "in_reply_to_status_id_str": "1097597075745923078",
+      "in_reply_to_user_id": 771352973742075900,
+      "in_reply_to_user_id_str": "771352973742075904",
+      "in_reply_to_screen_name": "Durevestnik",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 18 20:57:42 +0000 2019",
+      "id": 1097601072019976200,
+      "id_str": "1097601072019976193",
+      "full_text": "@nattt_che Как вариант - вполне возможно. Но сливочный вкус даст другой вкусовой оттенок. И хорошее кокосовое молоко как раз имеет консистенцию сливок. А вот то, что справа - больше как 1% молоко.",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        196
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "nattt_che",
+            "name": "",
+            "id": 997148614542716900,
+            "id_str": "997148614542716928",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1097599989113675800,
+      "in_reply_to_status_id_str": "1097599989113675776",
+      "in_reply_to_user_id": 997148614542716900,
+      "in_reply_to_user_id_str": "997148614542716928",
+      "in_reply_to_screen_name": "nattt_che",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
