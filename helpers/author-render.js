@@ -23,7 +23,7 @@ const getQuotedUser = pipe(
 moment.locale('ru');
 
 const weekday = (date, offset) => (moment(new Date(date)).utcOffset(offset)).format('dddd');
-const tweetLink = (tweet) => `https://twitter.com/abroadunderhood/status/${tweet.id_str}`;
+const tweetLink = (tweet) => `https://twitter.com/chefdelasemana/status/${tweet.id_str}`;
 const tweetTime = (tweet, offset) => (moment(new Date(tweet.created_at)).utcOffset(offset)).format('H:mm');
 
 const authorsToPost = filter(author => author.post !== false, authors);
@@ -42,7 +42,7 @@ const d = (input, offset) => (moment(input).utcOffset(offset)).format('D MMMM YY
 const gd = (input, offset) => (moment(input).utcOffset(offset)).format('YYYY-MM-DD');
 const tweetsUnit = numd('твит', 'твита', 'твитов');
 const capitalize = converge(concat, [pipe(head, toUpper), tail]);
-const filterTimeline = item => (item.text[0] !== '@') || (item.text.indexOf('@abroadunderhood') === 0);
+const filterTimeline = item => (item.text[0] !== '@') || (item.text.indexOf('@chefdelasemana') === 0);
 const fullText = item => {
   item.text = item.full_text || item.text;
 
