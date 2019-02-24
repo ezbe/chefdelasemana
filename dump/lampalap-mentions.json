@@ -122,6 +122,168 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sun Feb 24 19:51:05 +0000 2019",
+      "id": 1099758633183858700,
+      "id_str": "1099758633183858689",
+      "text": "@ch_stany @cellular_bud @r0mko У меня ColdSteel уже лет шесть отлично режет, ни разу не затачивал.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ch_stany",
+            "name": "Stany.ch",
+            "id": 3076988533,
+            "id_str": "3076988533",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              10,
+              23
+            ]
+          },
+          {
+            "screen_name": "r0mko",
+            "name": "множественные сарказмы",
+            "id": 112346604,
+            "id_str": "112346604",
+            "indices": [
+              24,
+              30
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": 1099736220295462900,
+      "in_reply_to_status_id_str": "1099736220295462912",
+      "in_reply_to_user_id": 3076988533,
+      "in_reply_to_user_id_str": "3076988533",
+      "in_reply_to_screen_name": "ch_stany",
+      "user": {
+        "id": 512014222,
+        "id_str": "512014222"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Feb 24 19:52:46 +0000 2019",
+      "id": 1099759055415984100,
+      "id_str": "1099759055415984128",
+      "text": "@cellular_bud Но ты же этот написал. Не зачет)))",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1099668781419450400,
+      "in_reply_to_status_id_str": "1099668781419450368",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 1112639808,
+        "id_str": "1112639808"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Feb 24 20:06:34 +0000 2019",
+      "id": 1099762532238139400,
+      "id_str": "1099762532238139392",
+      "text": "@AK97238628 @cellular_bud только пост-совковое сознание могло родить такую подачу блюда",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AK97238628",
+            "name": "УльтроВася",
+            "id": 852528458370515000,
+            "id_str": "852528458370514946",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              12,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1099737704995131400,
+      "in_reply_to_status_id_str": "1099737704995131393",
+      "in_reply_to_user_id": 852528458370515000,
+      "in_reply_to_user_id_str": "852528458370514946",
+      "in_reply_to_screen_name": "AK97238628",
+      "user": {
+        "id": 2802506312,
+        "id_str": "2802506312"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
