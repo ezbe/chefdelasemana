@@ -5,7 +5,7 @@
   "screen_name": "chefdelasemana",
   "location": "New York, NY",
   "profile_location": null,
-  "description": "Коллективный аккаунт о еде от о тех кто любит готовить, для тех кто любит поесть. Шеф недели - Игорь @corsar_cv из Нью-Йорка.",
+  "description": "Коллективный аккаунт о еде от тех, кто любит готовить для тех, кто любит поесть. Шеф недели - Игорь @corsar_cv из Нью-Йорка.",
   "url": null,
   "entities": {
     "description": {
@@ -13,66 +13,56 @@
     }
   },
   "protected": false,
-  "followers_count": 2104,
+  "followers_count": 2316,
   "friends_count": 0,
-  "listed_count": 6,
+  "listed_count": 8,
   "created_at": "Thu Feb 07 14:25:31 +0000 2019",
-  "favourites_count": 14,
+  "favourites_count": 53,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 293,
+  "statuses_count": 569,
   "lang": "en",
   "status": {
-    "created_at": "Mon Feb 18 20:57:42 +0000 2019",
-    "id": 1097601072019976200,
-    "id_str": "1097601072019976193",
-    "text": "@nattt_che Как вариант - вполне возможно. Но сливочный вкус даст другой вкусовой оттенок. И хорошее кокосовое молок… https://t.co/ofot6ehiKA",
-    "truncated": true,
+    "created_at": "Sun Feb 24 19:39:37 +0000 2019",
+    "id": 1099755747427131400,
+    "id_str": "1099755747427131392",
+    "text": "Спасибо @corsar_cv за неделю! Архив можно найти на сайте chefdelasemana точка com",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "nattt_che",
-          "name": "",
-          "id": 997148614542716900,
-          "id_str": "997148614542716928",
+          "screen_name": "corsar_cv",
+          "name": "Нью-Васюки",
+          "id": 2597030065,
+          "id_str": "2597030065",
           "indices": [
-            0,
-            10
+            8,
+            18
           ]
         }
       ],
-      "urls": [
-        {
-          "url": "https://t.co/ofot6ehiKA",
-          "expanded_url": "https://twitter.com/i/web/status/1097601072019976193",
-          "display_url": "twitter.com/i/web/status/1…",
-          "indices": [
-            117,
-            140
-          ]
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 1097599989113675800,
-    "in_reply_to_status_id_str": "1097599989113675776",
-    "in_reply_to_user_id": 997148614542716900,
-    "in_reply_to_user_id_str": "997148614542716928",
-    "in_reply_to_screen_name": "nattt_che",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
+    "retweet_count": 2,
+    "favorite_count": 3,
     "favorited": false,
     "retweeted": false,
-    "lang": "ru"
+    "lang": "uk"
   },
   "contributors_enabled": false,
   "is_translator": false,
