@@ -50,7 +50,7 @@
 
 ## Как стать автором?
 
-— Напишите в директ [@cellular_bud], если хотите вести твиттер одну неделю или
+— Напишите в директ [@cellular_bud][dial], если хотите вести твиттер одну неделю или
 если хотите предложить кого-то на место автора
 
 ## Этикет
@@ -59,8 +59,9 @@
 или унижать кого-то. Ведите себя профессионально. Уничижительные, сексистские,
 расистские или ксенофобские шутки не привествуются в [@chefdelasemana][jsh].
 
-Если вы заметили нарушение, как можно скорее напишите письмо [Федору][coc-violations].
+Если вы заметили нарушение, как можно скорее напишите письмо [Жрецу][dial].
 
+[dial]: https://twitter.com/cellular_bud
 [jsh]: https://twitter.com/chefdelasemana
 [proposal]: mailto:unno@abroadunderhood.ru?subject=Author’s%20proposal%20for%20@abroadunderhood
 [coc-violations]: mailto:unno@abroadunderhood.ru?subject=CoC%20violations%20in%20@abroadunderhood
