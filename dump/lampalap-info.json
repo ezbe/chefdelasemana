@@ -3,9 +3,20 @@
   "id_str": "1093516106545930240",
   "name": "Шеф Недели",
   "screen_name": "chefdelasemana",
-  "location": "New York, NY",
-  "profile_location": null,
-  "description": "Коллективный аккаунт о еде от тех, кто любит готовить для тех, кто любит поесть. Шеф недели - Игорь @corsar_cv из Нью-Йорка.",
+  "location": "Oxford, England",
+  "profile_location": {
+    "id": "616ba1df27270916",
+    "url": "https://api.twitter.com/1.1/geo/id/616ba1df27270916.json",
+    "place_type": "unknown",
+    "name": "Oxford, England",
+    "full_name": "Oxford, England",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
+  "description": "Коллективный аккаунт о еде от тех, кто любит готовить для тех, кто любит поесть. Шеф недели - Елена @lampalap из Оксфорда (в понедельник — из Венеции :)",
   "url": null,
   "entities": {
     "description": {
@@ -13,41 +24,40 @@
     }
   },
   "protected": false,
-  "followers_count": 2316,
+  "followers_count": 2344,
   "friends_count": 0,
-  "listed_count": 8,
+  "listed_count": 9,
   "created_at": "Thu Feb 07 14:25:31 +0000 2019",
-  "favourites_count": 53,
+  "favourites_count": 70,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 569,
+  "statuses_count": 594,
   "lang": "en",
   "status": {
-    "created_at": "Sun Feb 24 19:39:37 +0000 2019",
-    "id": 1099755747427131400,
-    "id_str": "1099755747427131392",
-    "text": "Спасибо @corsar_cv за неделю! Архив можно найти на сайте chefdelasemana точка com",
-    "truncated": false,
+    "created_at": "Mon Feb 25 14:33:46 +0000 2019",
+    "id": 1100041166396026900,
+    "id_str": "1100041166396026880",
+    "text": "Есть итальянское негласное правило, что капучино пьют только на завтрак, с утра. Если вы заказываете капучино в дру… https://t.co/nYqEjH8yYq",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "corsar_cv",
-          "name": "Нью-Васюки",
-          "id": 2597030065,
-          "id_str": "2597030065",
+          "url": "https://t.co/nYqEjH8yYq",
+          "expanded_url": "https://twitter.com/i/web/status/1100041166396026880",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            8,
-            18
+            117,
+            140
           ]
         }
-      ],
-      "urls": []
+      ]
     },
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -58,11 +68,11 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 2,
+    "retweet_count": 0,
     "favorite_count": 5,
     "favorited": false,
     "retweeted": false,
-    "lang": "uk"
+    "lang": "ru"
   },
   "contributors_enabled": false,
   "is_translator": false,
@@ -71,9 +81,9 @@
   "profile_background_image_url": null,
   "profile_background_image_url_https": null,
   "profile_background_tile": false,
-  "profile_image_url": "http://pbs.twimg.com/profile_images/1097565003325063168/MTN5Bxtk_normal.jpg",
-  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1097565003325063168/MTN5Bxtk_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1093516106545930240/1550514738",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1099855361492828160/a6Bhcf5r_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099855361492828160/a6Bhcf5r_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1093516106545930240/1551060929",
   "profile_link_color": "1DA1F2",
   "profile_sidebar_border_color": "C0DEED",
   "profile_sidebar_fill_color": "DDEEF6",
