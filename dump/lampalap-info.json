@@ -4,55 +4,57 @@
   "name": "Шеф Недели",
   "screen_name": "chefdelasemana",
   "location": "Oxford, England",
-  "profile_location": {
-    "id": "616ba1df27270916",
-    "url": "https://api.twitter.com/1.1/geo/id/616ba1df27270916.json",
-    "place_type": "unknown",
-    "name": "Oxford, England",
-    "full_name": "Oxford, England",
-    "country_code": "",
-    "country": "",
-    "contained_within": [],
-    "bounding_box": null,
-    "attributes": {}
-  },
+  "profile_location": null,
   "description": "Коллективный аккаунт о еде от тех, кто любит готовить для тех, кто любит поесть. Шеф недели - Елена @lampalap из Оксфорда (в понедельник — из Венеции :)",
-  "url": null,
+  "url": "https://t.co/luzUzd2DRn",
   "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/luzUzd2DRn",
+          "expanded_url": "https://chefdelasemana.com",
+          "display_url": "chefdelasemana.com",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
     "description": {
       "urls": []
     }
   },
   "protected": false,
-  "followers_count": 2344,
-  "friends_count": 0,
-  "listed_count": 9,
+  "followers_count": 2359,
+  "friends_count": 1,
+  "listed_count": 10,
   "created_at": "Thu Feb 07 14:25:31 +0000 2019",
-  "favourites_count": 70,
+  "favourites_count": 84,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 594,
+  "statuses_count": 608,
   "lang": "en",
   "status": {
-    "created_at": "Mon Feb 25 14:33:46 +0000 2019",
-    "id": 1100041166396026900,
-    "id_str": "1100041166396026880",
-    "text": "Есть итальянское негласное правило, что капучино пьют только на завтрак, с утра. Если вы заказываете капучино в дру… https://t.co/nYqEjH8yYq",
-    "truncated": true,
+    "created_at": "Mon Feb 25 19:54:19 +0000 2019",
+    "id": 1100121835641950200,
+    "id_str": "1100121835641950210",
+    "text": "Красиво 👍🏽 https://t.co/59sWu3gXh1",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/nYqEjH8yYq",
-          "expanded_url": "https://twitter.com/i/web/status/1100041166396026880",
-          "display_url": "twitter.com/i/web/status/1…",
+          "url": "https://t.co/59sWu3gXh1",
+          "expanded_url": "https://twitter.com/krembrlyakin/status/1100115516491030528",
+          "display_url": "twitter.com/krembrlyakin/s…",
           "indices": [
-            117,
-            140
+            11,
+            34
           ]
         }
       ]
@@ -67,11 +69,14 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 1100115516491030500,
+    "quoted_status_id_str": "1100115516491030528",
     "retweet_count": 0,
-    "favorite_count": 5,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
