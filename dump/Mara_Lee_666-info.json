@@ -1,0 +1,334 @@
+{
+  "id": 1093516106545930200,
+  "id_str": "1093516106545930240",
+  "name": "Шеф Недели",
+  "screen_name": "chefdelasemana",
+  "location": "Oxford, England",
+  "profile_location": {
+    "id": "616ba1df27270916",
+    "url": "https://api.twitter.com/1.1/geo/id/616ba1df27270916.json",
+    "place_type": "unknown",
+    "name": "Oxford, England",
+    "full_name": "Oxford, England",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
+  "description": "Коллективный аккаунт о еде от тех, кто любит готовить для тех, кто любит поесть. Шеф недели - Елена @lampalap из Оксфорда (в понедельник — из Венеции :)",
+  "url": "https://t.co/luzUzd2DRn",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/luzUzd2DRn",
+          "expanded_url": "https://chefdelasemana.com",
+          "display_url": "chefdelasemana.com",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "protected": false,
+  "followers_count": 2492,
+  "friends_count": 0,
+  "listed_count": 10,
+  "created_at": "Thu Feb 07 14:25:31 +0000 2019",
+  "favourites_count": 221,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 940,
+  "lang": "en",
+  "status": {
+    "created_at": "Sun Mar 03 22:54:03 +0000 2019",
+    "id": 1102341392444129300,
+    "id_str": "1102341392444129280",
+    "text": "RT @andriy_gu: @chefdelasemana Сегодня была карбонара с уткой и беконом. https://t.co/scy9BKqqPB",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "andriy_gu",
+          "name": "ανδριυ",
+          "id": 29457191,
+          "id_str": "29457191",
+          "indices": [
+            3,
+            13
+          ]
+        },
+        {
+          "screen_name": "chefdelasemana",
+          "name": "Шеф Недели",
+          "id": 1093516106545930200,
+          "id_str": "1093516106545930240",
+          "indices": [
+            15,
+            30
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1102339683827269600,
+          "id_str": "1102339683827269632",
+          "indices": [
+            73,
+            96
+          ],
+          "media_url": "http://pbs.twimg.com/media/D0xMGhxXQAAt37O.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D0xMGhxXQAAt37O.jpg",
+          "url": "https://t.co/scy9BKqqPB",
+          "display_url": "pic.twitter.com/scy9BKqqPB",
+          "expanded_url": "https://twitter.com/andriy_gu/status/1102339690173267968/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 893,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 593,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 893,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1102339690173268000,
+          "source_status_id_str": "1102339690173267968",
+          "source_user_id": 29457191,
+          "source_user_id_str": "29457191"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1102339683827269600,
+          "id_str": "1102339683827269632",
+          "indices": [
+            73,
+            96
+          ],
+          "media_url": "http://pbs.twimg.com/media/D0xMGhxXQAAt37O.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D0xMGhxXQAAt37O.jpg",
+          "url": "https://t.co/scy9BKqqPB",
+          "display_url": "pic.twitter.com/scy9BKqqPB",
+          "expanded_url": "https://twitter.com/andriy_gu/status/1102339690173267968/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 893,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 593,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 893,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1102339690173268000,
+          "source_status_id_str": "1102339690173267968",
+          "source_user_id": 29457191,
+          "source_user_id_str": "29457191"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Mar 03 22:47:17 +0000 2019",
+      "id": 1102339690173268000,
+      "id_str": "1102339690173267968",
+      "text": "@chefdelasemana Сегодня была карбонара с уткой и беконом. https://t.co/scy9BKqqPB",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "chefdelasemana",
+            "name": "Шеф Недели",
+            "id": 1093516106545930200,
+            "id_str": "1093516106545930240",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1102339683827269600,
+            "id_str": "1102339683827269632",
+            "indices": [
+              58,
+              81
+            ],
+            "media_url": "http://pbs.twimg.com/media/D0xMGhxXQAAt37O.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D0xMGhxXQAAt37O.jpg",
+            "url": "https://t.co/scy9BKqqPB",
+            "display_url": "pic.twitter.com/scy9BKqqPB",
+            "expanded_url": "https://twitter.com/andriy_gu/status/1102339690173267968/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1024,
+                "h": 893,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 593,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1024,
+                "h": 893,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1102339683827269600,
+            "id_str": "1102339683827269632",
+            "indices": [
+              58,
+              81
+            ],
+            "media_url": "http://pbs.twimg.com/media/D0xMGhxXQAAt37O.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D0xMGhxXQAAt37O.jpg",
+            "url": "https://t.co/scy9BKqqPB",
+            "display_url": "pic.twitter.com/scy9BKqqPB",
+            "expanded_url": "https://twitter.com/andriy_gu/status/1102339690173267968/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1024,
+                "h": 893,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 593,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1024,
+                "h": 893,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": 1101580099508494300,
+      "in_reply_to_status_id_str": "1101580099508494336",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ru"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "F5F8FA",
+  "profile_background_image_url": null,
+  "profile_background_image_url_https": null,
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1099855361492828160/a6Bhcf5r_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099855361492828160/a6Bhcf5r_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1093516106545930240/1551060929",
+  "profile_link_color": "1DA1F2",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": true,
+  "default_profile_image": false,
+  "following": true,
+  "follow_request_sent": false,
+  "notifications": true,
+  "translator_type": "none",
+  "time_zone_offset": 0,
+  "geometry": {
+    "lat": 0,
+    "lng": 0
+  }
+}
