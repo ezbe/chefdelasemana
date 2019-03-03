@@ -37,35 +37,53 @@
     }
   },
   "protected": false,
-  "followers_count": 2358,
-  "friends_count": 1,
-  "listed_count": 9,
+  "followers_count": 2493,
+  "friends_count": 0,
+  "listed_count": 10,
   "created_at": "Thu Feb 07 14:25:31 +0000 2019",
-  "favourites_count": 84,
+  "favourites_count": 218,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 608,
+  "statuses_count": 937,
   "lang": "en",
   "status": {
-    "created_at": "Mon Feb 25 19:54:19 +0000 2019",
-    "id": 1100121835641950200,
-    "id_str": "1100121835641950210",
-    "text": "Красиво 👍🏽 https://t.co/59sWu3gXh1",
-    "truncated": false,
+    "created_at": "Sun Mar 03 22:26:31 +0000 2019",
+    "id": 1102334465664315400,
+    "id_str": "1102334465664315392",
+    "text": "Вот, что мы вместе готовили по тредам, до встречи 👋 :\n\nhttps://t.co/ZkZ5BLkjQb\n\nhttps://t.co/TFEMce8GT5… https://t.co/nV5XucUBES",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/59sWu3gXh1",
-          "expanded_url": "https://twitter.com/krembrlyakin/status/1100115516491030528",
-          "display_url": "twitter.com/krembrlyakin/s…",
+          "url": "https://t.co/ZkZ5BLkjQb",
+          "expanded_url": "https://twitter.com/chefdelasemana/status/1102261892989493249?s=21",
+          "display_url": "twitter.com/chefdelasemana…",
           "indices": [
-            11,
-            34
+            55,
+            78
+          ]
+        },
+        {
+          "url": "https://t.co/TFEMce8GT5",
+          "expanded_url": "https://twitter.com/chefdelasemana/status/1100511914222854144?s=21",
+          "display_url": "twitter.com/chefdelasemana…",
+          "indices": [
+            80,
+            103
+          ]
+        },
+        {
+          "url": "https://t.co/nV5XucUBES",
+          "expanded_url": "https://twitter.com/i/web/status/1102334465664315392",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            105,
+            128
           ]
         }
       ]
@@ -81,10 +99,10 @@
     "place": null,
     "contributors": null,
     "is_quote_status": true,
-    "quoted_status_id": 1100115516491030500,
-    "quoted_status_id_str": "1100115516491030528",
+    "quoted_status_id": 1100753057225285600,
+    "quoted_status_id_str": "1100753057225285633",
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 4,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
