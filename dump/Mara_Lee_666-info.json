@@ -4,18 +4,7 @@
   "name": "Шеф Недели",
   "screen_name": "chefdelasemana",
   "location": "Oxford, England",
-  "profile_location": {
-    "id": "616ba1df27270916",
-    "url": "https://api.twitter.com/1.1/geo/id/616ba1df27270916.json",
-    "place_type": "unknown",
-    "name": "Oxford, England",
-    "full_name": "Oxford, England",
-    "country_code": "",
-    "country": "",
-    "contained_within": [],
-    "bounding_box": null,
-    "attributes": {}
-  },
+  "profile_location": null,
   "description": "Коллективный аккаунт о еде от тех, кто любит готовить для тех, кто любит поесть. Шеф недели - Елена @lampalap из Оксфорда (в понедельник — из Венеции :)",
   "url": "https://t.co/luzUzd2DRn",
   "entities": {
@@ -290,7 +279,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 1,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "favorited": false,
       "retweeted": false,
       "possibly_sensitive": false,
