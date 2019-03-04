@@ -3,9 +3,9 @@
   "id_str": "1093516106545930240",
   "name": "Шеф Недели",
   "screen_name": "chefdelasemana",
-  "location": "Oxford, England",
+  "location": "",
   "profile_location": null,
-  "description": "Коллективный аккаунт о еде от тех, кто любит готовить для тех, кто любит поесть. Шеф недели - Елена @lampalap из Оксфорда (в понедельник — из Венеции :)",
+  "description": "Коллективный аккаунт о еде от тех, кто любит готовить для тех, кто любит поесть 😜 Шеф недели - Mara @Mara_Lee_666 В 00 часов я обычно ложусь... есть! ☝🏻🤪",
   "url": "https://t.co/luzUzd2DRn",
   "entities": {
     "url": {
@@ -26,271 +26,55 @@
     }
   },
   "protected": false,
-  "followers_count": 2492,
+  "followers_count": 2510,
   "friends_count": 0,
   "listed_count": 10,
   "created_at": "Thu Feb 07 14:25:31 +0000 2019",
-  "favourites_count": 221,
+  "favourites_count": 263,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 940,
+  "statuses_count": 988,
   "lang": "en",
   "status": {
-    "created_at": "Sun Mar 03 22:54:03 +0000 2019",
-    "id": 1102341392444129300,
-    "id_str": "1102341392444129280",
-    "text": "RT @andriy_gu: @chefdelasemana Сегодня была карбонара с уткой и беконом. https://t.co/scy9BKqqPB",
+    "created_at": "Mon Mar 04 09:43:48 +0000 2019",
+    "id": 1102504908891308000,
+    "id_str": "1102504908891308038",
+    "text": "@ugrymy И это тоже захотелось пригубить))",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "andriy_gu",
-          "name": "ανδριυ",
-          "id": 29457191,
-          "id_str": "29457191",
+          "screen_name": "ugrymy",
+          "name": "ржание кота",
+          "id": 2424728676,
+          "id_str": "2424728676",
           "indices": [
-            3,
-            13
-          ]
-        },
-        {
-          "screen_name": "chefdelasemana",
-          "name": "Шеф Недели",
-          "id": 1093516106545930200,
-          "id_str": "1093516106545930240",
-          "indices": [
-            15,
-            30
+            0,
+            7
           ]
         }
       ],
-      "urls": [],
-      "media": [
-        {
-          "id": 1102339683827269600,
-          "id_str": "1102339683827269632",
-          "indices": [
-            73,
-            96
-          ],
-          "media_url": "http://pbs.twimg.com/media/D0xMGhxXQAAt37O.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/D0xMGhxXQAAt37O.jpg",
-          "url": "https://t.co/scy9BKqqPB",
-          "display_url": "pic.twitter.com/scy9BKqqPB",
-          "expanded_url": "https://twitter.com/andriy_gu/status/1102339690173267968/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1024,
-              "h": 893,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 593,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1024,
-              "h": 893,
-              "resize": "fit"
-            }
-          },
-          "source_status_id": 1102339690173268000,
-          "source_status_id_str": "1102339690173267968",
-          "source_user_id": 29457191,
-          "source_user_id_str": "29457191"
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1102339683827269600,
-          "id_str": "1102339683827269632",
-          "indices": [
-            73,
-            96
-          ],
-          "media_url": "http://pbs.twimg.com/media/D0xMGhxXQAAt37O.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/D0xMGhxXQAAt37O.jpg",
-          "url": "https://t.co/scy9BKqqPB",
-          "display_url": "pic.twitter.com/scy9BKqqPB",
-          "expanded_url": "https://twitter.com/andriy_gu/status/1102339690173267968/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1024,
-              "h": 893,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 593,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1024,
-              "h": 893,
-              "resize": "fit"
-            }
-          },
-          "source_status_id": 1102339690173268000,
-          "source_status_id_str": "1102339690173267968",
-          "source_user_id": 29457191,
-          "source_user_id_str": "29457191"
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1102504613914296300,
+    "in_reply_to_status_id_str": "1102504613914296320",
+    "in_reply_to_user_id": 2424728676,
+    "in_reply_to_user_id_str": "2424728676",
+    "in_reply_to_screen_name": "ugrymy",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Sun Mar 03 22:47:17 +0000 2019",
-      "id": 1102339690173268000,
-      "id_str": "1102339690173267968",
-      "text": "@chefdelasemana Сегодня была карбонара с уткой и беконом. https://t.co/scy9BKqqPB",
-      "truncated": false,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "chefdelasemana",
-            "name": "Шеф Недели",
-            "id": 1093516106545930200,
-            "id_str": "1093516106545930240",
-            "indices": [
-              0,
-              15
-            ]
-          }
-        ],
-        "urls": [],
-        "media": [
-          {
-            "id": 1102339683827269600,
-            "id_str": "1102339683827269632",
-            "indices": [
-              58,
-              81
-            ],
-            "media_url": "http://pbs.twimg.com/media/D0xMGhxXQAAt37O.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/D0xMGhxXQAAt37O.jpg",
-            "url": "https://t.co/scy9BKqqPB",
-            "display_url": "pic.twitter.com/scy9BKqqPB",
-            "expanded_url": "https://twitter.com/andriy_gu/status/1102339690173267968/photo/1",
-            "type": "photo",
-            "sizes": {
-              "thumb": {
-                "w": 150,
-                "h": 150,
-                "resize": "crop"
-              },
-              "large": {
-                "w": 1024,
-                "h": 893,
-                "resize": "fit"
-              },
-              "small": {
-                "w": 680,
-                "h": 593,
-                "resize": "fit"
-              },
-              "medium": {
-                "w": 1024,
-                "h": 893,
-                "resize": "fit"
-              }
-            }
-          }
-        ]
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "id": 1102339683827269600,
-            "id_str": "1102339683827269632",
-            "indices": [
-              58,
-              81
-            ],
-            "media_url": "http://pbs.twimg.com/media/D0xMGhxXQAAt37O.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/D0xMGhxXQAAt37O.jpg",
-            "url": "https://t.co/scy9BKqqPB",
-            "display_url": "pic.twitter.com/scy9BKqqPB",
-            "expanded_url": "https://twitter.com/andriy_gu/status/1102339690173267968/photo/1",
-            "type": "photo",
-            "sizes": {
-              "thumb": {
-                "w": 150,
-                "h": 150,
-                "resize": "crop"
-              },
-              "large": {
-                "w": 1024,
-                "h": 893,
-                "resize": "fit"
-              },
-              "small": {
-                "w": 680,
-                "h": 593,
-                "resize": "fit"
-              },
-              "medium": {
-                "w": 1024,
-                "h": 893,
-                "resize": "fit"
-              }
-            }
-          }
-        ]
-      },
-      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
-      "in_reply_to_status_id": 1101580099508494300,
-      "in_reply_to_status_id_str": "1101580099508494336",
-      "in_reply_to_user_id": 1093516106545930200,
-      "in_reply_to_user_id_str": "1093516106545930240",
-      "in_reply_to_screen_name": "chefdelasemana",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 1,
-      "favorited": false,
-      "retweeted": false,
-      "possibly_sensitive": false,
-      "lang": "ru"
-    },
     "is_quote_status": false,
-    "retweet_count": 1,
+    "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
@@ -300,9 +84,9 @@
   "profile_background_image_url": null,
   "profile_background_image_url_https": null,
   "profile_background_tile": false,
-  "profile_image_url": "http://pbs.twimg.com/profile_images/1099855361492828160/a6Bhcf5r_normal.jpg",
-  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099855361492828160/a6Bhcf5r_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1093516106545930240/1551060929",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1102346726483132416/JXeYOaWL_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102346726483132416/JXeYOaWL_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1093516106545930240/1551654916",
   "profile_link_color": "1DA1F2",
   "profile_sidebar_border_color": "C0DEED",
   "profile_sidebar_fill_color": "DDEEF6",
