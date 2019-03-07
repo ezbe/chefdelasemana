@@ -26,56 +26,272 @@
     }
   },
   "protected": false,
-  "followers_count": 2510,
+  "followers_count": 2627,
   "friends_count": 0,
-  "listed_count": 10,
+  "listed_count": 12,
   "created_at": "Thu Feb 07 14:25:31 +0000 2019",
-  "favourites_count": 263,
+  "favourites_count": 516,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 988,
+  "statuses_count": 1288,
   "lang": "en",
   "status": {
-    "created_at": "Mon Mar 04 09:43:48 +0000 2019",
-    "id": 1102504908891308000,
-    "id_str": "1102504908891308038",
-    "text": "@ugrymy И это тоже захотелось пригубить))",
+    "created_at": "Thu Mar 07 15:17:13 +0000 2019",
+    "id": 1103675979552227300,
+    "id_str": "1103675979552227328",
+    "text": "RT @__JDoe: @chefdelasemana Овсянка и чай. https://t.co/w1snGNPzAV",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "ugrymy",
-          "name": "ржание кота",
-          "id": 2424728676,
-          "id_str": "2424728676",
+          "screen_name": "__JDoe",
+          "name": "Astronaut",
+          "id": 832960180967047200,
+          "id_str": "832960180967047168",
           "indices": [
-            0,
-            7
+            3,
+            10
+          ]
+        },
+        {
+          "screen_name": "chefdelasemana",
+          "name": "Шеф Недели",
+          "id": 1093516106545930200,
+          "id_str": "1093516106545930240",
+          "indices": [
+            12,
+            27
           ]
         }
       ],
-      "urls": []
+      "urls": [],
+      "media": [
+        {
+          "id": 1103518390818345000,
+          "id_str": "1103518390818344960",
+          "indices": [
+            43,
+            66
+          ],
+          "media_url": "http://pbs.twimg.com/media/D1B8ITfWkAAe6Au.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D1B8ITfWkAAe6Au.jpg",
+          "url": "https://t.co/w1snGNPzAV",
+          "display_url": "pic.twitter.com/w1snGNPzAV",
+          "expanded_url": "https://twitter.com/__JDoe/status/1103518400939282432/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1103518400939282400,
+          "source_status_id_str": "1103518400939282432",
+          "source_user_id": 832960180967047200,
+          "source_user_id_str": "832960180967047168"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1103518390818345000,
+          "id_str": "1103518390818344960",
+          "indices": [
+            43,
+            66
+          ],
+          "media_url": "http://pbs.twimg.com/media/D1B8ITfWkAAe6Au.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D1B8ITfWkAAe6Au.jpg",
+          "url": "https://t.co/w1snGNPzAV",
+          "display_url": "pic.twitter.com/w1snGNPzAV",
+          "expanded_url": "https://twitter.com/__JDoe/status/1103518400939282432/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1103518400939282400,
+          "source_status_id_str": "1103518400939282432",
+          "source_user_id": 832960180967047200,
+          "source_user_id_str": "832960180967047168"
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": 1102504613914296300,
-    "in_reply_to_status_id_str": "1102504613914296320",
-    "in_reply_to_user_id": 2424728676,
-    "in_reply_to_user_id_str": "2424728676",
-    "in_reply_to_screen_name": "ugrymy",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Mar 07 04:51:03 +0000 2019",
+      "id": 1103518400939282400,
+      "id_str": "1103518400939282432",
+      "text": "@chefdelasemana Овсянка и чай. https://t.co/w1snGNPzAV",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "chefdelasemana",
+            "name": "Шеф Недели",
+            "id": 1093516106545930200,
+            "id_str": "1093516106545930240",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1103518390818345000,
+            "id_str": "1103518390818344960",
+            "indices": [
+              31,
+              54
+            ],
+            "media_url": "http://pbs.twimg.com/media/D1B8ITfWkAAe6Au.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D1B8ITfWkAAe6Au.jpg",
+            "url": "https://t.co/w1snGNPzAV",
+            "display_url": "pic.twitter.com/w1snGNPzAV",
+            "expanded_url": "https://twitter.com/__JDoe/status/1103518400939282432/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1103518390818345000,
+            "id_str": "1103518390818344960",
+            "indices": [
+              31,
+              54
+            ],
+            "media_url": "http://pbs.twimg.com/media/D1B8ITfWkAAe6Au.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D1B8ITfWkAAe6Au.jpg",
+            "url": "https://t.co/w1snGNPzAV",
+            "display_url": "pic.twitter.com/w1snGNPzAV",
+            "expanded_url": "https://twitter.com/__JDoe/status/1103518400939282432/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1103515977994645500,
+      "in_reply_to_status_id_str": "1103515977994645507",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "bg"
+    },
     "is_quote_status": false,
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "lang": "ru"
+    "possibly_sensitive": false,
+    "lang": "bg"
   },
   "contributors_enabled": false,
   "is_translator": false,
