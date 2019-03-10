@@ -3,9 +3,20 @@
   "id_str": "1093516106545930240",
   "name": "Шеф Недели",
   "screen_name": "chefdelasemana",
-  "location": "",
-  "profile_location": null,
-  "description": "Коллективный аккаунт о еде от тех, кто любит готовить для тех, кто любит поесть 😜 Шеф недели - Mara @Mara_Lee_666 В 00 часов я обычно ложусь... есть! ☝🏻🤪",
+  "location": "Montenegro",
+  "profile_location": {
+    "id": "c9506eee1d5f5143",
+    "url": "https://api.twitter.com/1.1/geo/id/c9506eee1d5f5143.json",
+    "place_type": "unknown",
+    "name": "Montenegro",
+    "full_name": "Montenegro",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
+  "description": "Коллективный аккаунт о еде от тех, кто любит готовить для тех, кто любит поесть 😜 Шеф недели Маша @green_zelen про Итальянскую кухню вне Италии",
   "url": "https://t.co/luzUzd2DRn",
   "entities": {
     "url": {
@@ -26,66 +37,55 @@
     }
   },
   "protected": false,
-  "followers_count": 2715,
+  "followers_count": 2735,
   "friends_count": 0,
   "listed_count": 12,
   "created_at": "Thu Feb 07 14:25:31 +0000 2019",
-  "favourites_count": 755,
+  "favourites_count": 756,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 1598,
+  "statuses_count": 1605,
   "lang": "en",
   "status": {
-    "created_at": "Sun Mar 10 19:49:38 +0000 2019",
-    "id": 1104831700788527100,
-    "id_str": "1104831700788527104",
-    "text": "Спасибо за эту неделю @Mara_Lee_666\nАрхив как всегда на сайте - https://t.co/6wOIEdjst4",
+    "created_at": "Sun Mar 10 22:41:10 +0000 2019",
+    "id": 1104874868296872000,
+    "id_str": "1104874868296871937",
+    "text": "@ch_stany Мой сердечко к этому не готово :)",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "Mara_Lee_666",
-          "name": "Mara",
-          "id": 983452745360429000,
-          "id_str": "983452745360429057",
+          "screen_name": "ch_stany",
+          "name": "Stany.ch",
+          "id": 3076988533,
+          "id_str": "3076988533",
           "indices": [
-            22,
-            35
+            0,
+            9
           ]
         }
       ],
-      "urls": [
-        {
-          "url": "https://t.co/6wOIEdjst4",
-          "expanded_url": "http://chefdelasemana.com",
-          "display_url": "chefdelasemana.com",
-          "indices": [
-            64,
-            87
-          ]
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1104871722325545000,
+    "in_reply_to_status_id_str": "1104871722325544961",
+    "in_reply_to_user_id": 3076988533,
+    "in_reply_to_user_id_str": "3076988533",
+    "in_reply_to_screen_name": "ch_stany",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 6,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
@@ -95,9 +95,9 @@
   "profile_background_image_url": null,
   "profile_background_image_url_https": null,
   "profile_background_tile": false,
-  "profile_image_url": "http://pbs.twimg.com/profile_images/1102346726483132416/JXeYOaWL_normal.jpg",
-  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102346726483132416/JXeYOaWL_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1093516106545930240/1551654916",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1104861618402414593/P3Lf7EQS_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1104861618402414593/P3Lf7EQS_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1093516106545930240/1552254448",
   "profile_link_color": "1DA1F2",
   "profile_sidebar_border_color": "C0DEED",
   "profile_sidebar_fill_color": "DDEEF6",
