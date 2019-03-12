@@ -37,22 +37,22 @@
     }
   },
   "protected": false,
-  "followers_count": 2893,
+  "followers_count": 2929,
   "friends_count": 0,
-  "listed_count": 13,
+  "listed_count": 14,
   "created_at": "Thu Feb 07 14:25:31 +0000 2019",
-  "favourites_count": 826,
+  "favourites_count": 849,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 1743,
+  "statuses_count": 1783,
   "lang": "en",
   "status": {
-    "created_at": "Mon Mar 11 22:57:37 +0000 2019",
-    "id": 1105241394095026200,
-    "id_str": "1105241394095026181",
-    "text": "Образование во время еды — это очень классно! :3 https://t.co/WjSh1yVA8S",
+    "created_at": "Tue Mar 12 17:04:10 +0000 2019",
+    "id": 1105514834894950400,
+    "id_str": "1105514834894950400",
+    "text": "В ленте сохранится, конечно. А в конце недели будет в архиве :) так что в любое время! https://t.co/PLGji56apM",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -60,12 +60,12 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/WjSh1yVA8S",
-          "expanded_url": "https://twitter.com/moonhalf/status/1105240023534850048",
-          "display_url": "twitter.com/moonhalf/statu…",
+          "url": "https://t.co/PLGji56apM",
+          "expanded_url": "https://twitter.com/stasgharkov1/status/1105505594289598464",
+          "display_url": "twitter.com/stasgharkov1/s…",
           "indices": [
-            49,
-            72
+            87,
+            110
           ]
         }
       ]
@@ -81,10 +81,10 @@
     "place": null,
     "contributors": null,
     "is_quote_status": true,
-    "quoted_status_id": 1105240023534850000,
-    "quoted_status_id_str": "1105240023534850048",
+    "quoted_status_id": 1105505594289598500,
+    "quoted_status_id_str": "1105505594289598464",
     "retweet_count": 0,
-    "favorite_count": 2,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
