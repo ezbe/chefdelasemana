@@ -37,40 +37,51 @@
     }
   },
   "protected": false,
-  "followers_count": 2939,
+  "followers_count": 2988,
   "friends_count": 0,
   "listed_count": 14,
   "created_at": "Thu Feb 07 14:25:31 +0000 2019",
-  "favourites_count": 879,
+  "favourites_count": 1009,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 1860,
+  "statuses_count": 2088,
   "lang": "en",
   "status": {
-    "created_at": "Wed Mar 13 14:01:05 +0000 2019",
-    "id": 1105831145286131700,
-    "id_str": "1105831145286131714",
-    "text": "Правильное слово здесь, наверное, \"растапливать\" в масле в самом начале https://t.co/GHdEnHYdde",
+    "created_at": "Mon Mar 18 03:46:44 +0000 2019",
+    "id": 1107488481402650600,
+    "id_str": "1107488481402650624",
+    "text": "Спасибо за неделю @green_zelen, архив как всегда на сайте - https://t.co/6wOIEdjst4",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "green_zelen",
+          "name": "ваше печеничество",
+          "id": 254491178,
+          "id_str": "254491178",
+          "indices": [
+            18,
+            30
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/GHdEnHYdde",
-          "expanded_url": "https://twitter.com/ioreshnikov/status/1105828869909692417",
-          "display_url": "twitter.com/ioreshnikov/st…",
+          "url": "https://t.co/6wOIEdjst4",
+          "expanded_url": "http://chefdelasemana.com",
+          "display_url": "chefdelasemana.com",
           "indices": [
-            72,
-            95
+            60,
+            83
           ]
         }
       ]
     },
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -80,11 +91,9 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 1105828869909692400,
-    "quoted_status_id_str": "1105828869909692417",
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
