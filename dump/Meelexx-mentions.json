@@ -385,6 +385,4223 @@
       "favorited": true,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 04:42:05 +0000 2019",
+      "id": 1107502411558670300,
+      "id_str": "1107502411558670336",
+      "text": "@chefdelasemana @cellular_bud @green_zelen Машенька. Спасибо!) Очень интересный ты человек. И хорошая хозяйка!)) Шеф получился классный!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "chefdelasemana",
+            "name": "Шеф Недели",
+            "id": 1093516106545930200,
+            "id_str": "1093516106545930240",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              16,
+              29
+            ]
+          },
+          {
+            "screen_name": "green_zelen",
+            "name": "ваше печеничество",
+            "id": 254491178,
+            "id_str": "254491178",
+            "indices": [
+              30,
+              42
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1107357162647576600,
+      "in_reply_to_status_id_str": "1107357162647576576",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 2212927591,
+        "id_str": "2212927591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 04:45:03 +0000 2019",
+      "id": 1107503156483653600,
+      "id_str": "1107503156483653632",
+      "text": "@cellular_bud @a_demchenko Какую Калифорнию и когда:)?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "a_demchenko",
+            "name": "Andreas Banderas",
+            "id": 81580227,
+            "id_str": "81580227",
+            "indices": [
+              14,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": 1107500839483174900,
+      "in_reply_to_status_id_str": "1107500839483174912",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 776540365495136300,
+        "id_str": "776540365495136256"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 04:49:39 +0000 2019",
+      "id": 1107504312480133100,
+      "id_str": "1107504312480133120",
+      "text": "@cellular_bud Когда учился был на практике в ресторане к нам пришел дяденька, лет 55( всю жизнь проработавший на ко… https://t.co/ooh5Zz9Z52",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ooh5Zz9Z52",
+            "expanded_url": "https://twitter.com/i/web/status/1107504312480133120",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1107483647437877200,
+      "in_reply_to_status_id_str": "1107483647437877248",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 272882242,
+        "id_str": "272882242"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 12,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 04:53:42 +0000 2019",
+      "id": 1107505332073496600,
+      "id_str": "1107505332073496577",
+      "text": "@cellular_bud Жаль, что вторая Мафия сильно оскуднела, ведь она могла быть ещё лучше. И даже по прошествию лет, первая часть - эталон.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1107487334633820200,
+      "in_reply_to_status_id_str": "1107487334633820161",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 403277600,
+        "id_str": "403277600"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 05:12:24 +0000 2019",
+      "id": 1107510040737534000,
+      "id_str": "1107510040737533952",
+      "text": "@cellular_bud После сцены в душе стало противно.Смотрел дальше лишь для того,чтобы досмотреть.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1107482826105077800,
+      "in_reply_to_status_id_str": "1107482826105077761",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 2987453655,
+        "id_str": "2987453655"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 05:19:15 +0000 2019",
+      "id": 1107511761119445000,
+      "id_str": "1107511761119444992",
+      "text": "@cellular_bud Он называется- ОСТРЫЙ))",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1107483647437877200,
+      "in_reply_to_status_id_str": "1107483647437877248",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 1012549710186500100,
+        "id_str": "1012549710186500096"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 05:28:49 +0000 2019",
+      "id": 1107514169090285600,
+      "id_str": "1107514169090285569",
+      "text": "@cellular_bud Секач",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1107483647437877200,
+      "in_reply_to_status_id_str": "1107483647437877248",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 89492514,
+        "id_str": "89492514"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 05:43:02 +0000 2019",
+      "id": 1107517749440495600,
+      "id_str": "1107517749440495617",
+      "text": "@chefdelasemana @cellular_bud Шеф!\nПо-твоему: готовить- это профессия или призвание?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "chefdelasemana",
+            "name": "Шеф Недели",
+            "id": 1093516106545930200,
+            "id_str": "1093516106545930240",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              16,
+              29
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1107510757145698300,
+      "in_reply_to_status_id_str": "1107510757145698305",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 3201504675,
+        "id_str": "3201504675"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 05:48:58 +0000 2019",
+      "id": 1107519242411405300,
+      "id_str": "1107519242411405314",
+      "text": "@cellular_bud @JoN_TM отнял завтрак у сына? :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "JoN_TM",
+            "name": "Гуго Карлович ™",
+            "id": 110398672,
+            "id_str": "110398672",
+            "indices": [
+              14,
+              21
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1107515841464160300,
+      "in_reply_to_status_id_str": "1107515841464160256",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 78509842,
+        "id_str": "78509842"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 05:58:09 +0000 2019",
+      "id": 1107521550725595100,
+      "id_str": "1107521550725595143",
+      "text": "@cellular_bud Meat cleaver, мясницкий нож",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1107483647437877200,
+      "in_reply_to_status_id_str": "1107483647437877248",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 283471279,
+        "id_str": "283471279"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon Mar 18 06:44:25 +0000 2019",
+      "id": 1107533197313757200,
+      "id_str": "1107533197313757184",
+      "text": "@YisusPoeta @cellular_bud Душевно.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "YisusPoeta",
+            "name": "《Yisus》",
+            "id": 529001935,
+            "id_str": "529001935",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              12,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1107409187317956600,
+      "in_reply_to_status_id_str": "1107409187317956608",
+      "in_reply_to_user_id": 529001935,
+      "in_reply_to_user_id_str": "529001935",
+      "in_reply_to_screen_name": "YisusPoeta",
+      "user": {
+        "id": 832960180967047200,
+        "id_str": "832960180967047168"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 06:53:47 +0000 2019",
+      "id": 1107535551891038200,
+      "id_str": "1107535551891038209",
+      "text": "@cellular_bud @Restflyman Бабушка",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "Restflyman",
+            "name": "Илья Андреев",
+            "id": 226025630,
+            "id_str": "226025630",
+            "indices": [
+              14,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1107503883524468700,
+      "in_reply_to_status_id_str": "1107503883524468736",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 1298919206,
+        "id_str": "1298919206"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 07:01:02 +0000 2019",
+      "id": 1107537378158231600,
+      "id_str": "1107537378158231552",
+      "text": "@sashasmurfic @cellular_bud Да, мне тоже очень понравился.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sashasmurfic",
+            "name": "Uchpochmack",
+            "id": 960373557455966200,
+            "id_str": "960373557455966208",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              14,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1107494251414388700,
+      "in_reply_to_status_id_str": "1107494251414388736",
+      "in_reply_to_user_id": 960373557455966200,
+      "in_reply_to_user_id_str": "960373557455966208",
+      "in_reply_to_screen_name": "sashasmurfic",
+      "user": {
+        "id": 832960180967047200,
+        "id_str": "832960180967047168"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 07:13:59 +0000 2019",
+      "id": 1107540636872462300,
+      "id_str": "1107540636872462336",
+      "text": "@cellular_bud Называется \"очень острый нож\"",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1107483647437877200,
+      "in_reply_to_status_id_str": "1107483647437877248",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 116672381,
+        "id_str": "116672381"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 07:20:20 +0000 2019",
+      "id": 1107542235938279400,
+      "id_str": "1107542235938279424",
+      "text": "@tramizh @cellular_bud По моему, готовить - это счастье!)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tramizh",
+            "name": "Трамвай 🚋 🚋 🚋",
+            "id": 3201504675,
+            "id_str": "3201504675",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              9,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1107517749440495600,
+      "in_reply_to_status_id_str": "1107517749440495617",
+      "in_reply_to_user_id": 3201504675,
+      "in_reply_to_user_id_str": "3201504675",
+      "in_reply_to_screen_name": "tramizh",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 15,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 07:35:52 +0000 2019",
+      "id": 1107546141883859000,
+      "id_str": "1107546141883858944",
+      "text": "@1jwZifTSXYCicl5 @cellular_bud Не ной, отпишись",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "1jwZifTSXYCicl5",
+            "name": "Архангел Михаил",
+            "id": 1105437279533912000,
+            "id_str": "1105437279533912064",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              17,
+              30
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1107485048842928100,
+      "in_reply_to_status_id_str": "1107485048842928128",
+      "in_reply_to_user_id": 1105437279533912000,
+      "in_reply_to_user_id_str": "1105437279533912064",
+      "in_reply_to_screen_name": "1jwZifTSXYCicl5",
+      "user": {
+        "id": 78509842,
+        "id_str": "78509842"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 08:12:39 +0000 2019",
+      "id": 1107555402500186100,
+      "id_str": "1107555402500186118",
+      "text": "@cellular_bud А мафия этотречь про кино? Что это можно поподробнее",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1107487334633820200,
+      "in_reply_to_status_id_str": "1107487334633820161",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 1402897213,
+        "id_str": "1402897213"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 09:00:48 +0000 2019",
+      "id": 1107567517181063200,
+      "id_str": "1107567517181063174",
+      "text": "@derzhi_marky @cellular_bud @rizhayaborodka о, как починил???",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "derzhi_marky",
+            "name": "Виталий Планетарий",
+            "id": 181115413,
+            "id_str": "181115413",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              14,
+              27
+            ]
+          },
+          {
+            "screen_name": "rizhayaborodka",
+            "name": "Игорь Борода",
+            "id": 928243165,
+            "id_str": "928243165",
+            "indices": [
+              28,
+              43
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1107566477203394600,
+      "in_reply_to_status_id_str": "1107566477203394561",
+      "in_reply_to_user_id": 181115413,
+      "in_reply_to_user_id_str": "181115413",
+      "in_reply_to_screen_name": "derzhi_marky",
+      "user": {
+        "id": 171945733,
+        "id_str": "171945733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 09:01:18 +0000 2019",
+      "id": 1107567643198980100,
+      "id_str": "1107567643198980099",
+      "text": "@derzhi_marky @cellular_bud @rizhayaborodka держи в курсе",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "derzhi_marky",
+            "name": "Виталий Планетарий",
+            "id": 181115413,
+            "id_str": "181115413",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              14,
+              27
+            ]
+          },
+          {
+            "screen_name": "rizhayaborodka",
+            "name": "Игорь Борода",
+            "id": 928243165,
+            "id_str": "928243165",
+            "indices": [
+              28,
+              43
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1107566477203394600,
+      "in_reply_to_status_id_str": "1107566477203394561",
+      "in_reply_to_user_id": 181115413,
+      "in_reply_to_user_id_str": "181115413",
+      "in_reply_to_screen_name": "derzhi_marky",
+      "user": {
+        "id": 154805643,
+        "id_str": "154805643"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 09:03:37 +0000 2019",
+      "id": 1107568224852426800,
+      "id_str": "1107568224852426753",
+      "text": "@derzhi_marky @cellular_bud @rizhayaborodka нет тебя в уведомлениях, только в ленте видно",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "derzhi_marky",
+            "name": "Виталий Планетарий",
+            "id": 181115413,
+            "id_str": "181115413",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              14,
+              27
+            ]
+          },
+          {
+            "screen_name": "rizhayaborodka",
+            "name": "Игорь Борода",
+            "id": 928243165,
+            "id_str": "928243165",
+            "indices": [
+              28,
+              43
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1107568036549136400,
+      "in_reply_to_status_id_str": "1107568036549136384",
+      "in_reply_to_user_id": 181115413,
+      "in_reply_to_user_id_str": "181115413",
+      "in_reply_to_screen_name": "derzhi_marky",
+      "user": {
+        "id": 154805643,
+        "id_str": "154805643"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 09:04:51 +0000 2019",
+      "id": 1107568536833138700,
+      "id_str": "1107568536833138690",
+      "text": "@derzhi_marky @sobakachorna @cellular_bud @rizhayaborodka Магия ребута!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "derzhi_marky",
+            "name": "Виталий Планетарий",
+            "id": 181115413,
+            "id_str": "181115413",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "sobakachorna",
+            "name": "андронова и сыновья",
+            "id": 171945733,
+            "id_str": "171945733",
+            "indices": [
+              14,
+              27
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              28,
+              41
+            ]
+          },
+          {
+            "screen_name": "rizhayaborodka",
+            "name": "Игорь Борода",
+            "id": 928243165,
+            "id_str": "928243165",
+            "indices": [
+              42,
+              57
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1107568120527507500,
+      "in_reply_to_status_id_str": "1107568120527507457",
+      "in_reply_to_user_id": 181115413,
+      "in_reply_to_user_id_str": "181115413",
+      "in_reply_to_screen_name": "derzhi_marky",
+      "user": {
+        "id": 36594986,
+        "id_str": "36594986"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "uk"
+    },
+    {
+      "created_at": "Mon Mar 18 09:11:43 +0000 2019",
+      "id": 1107570265062604800,
+      "id_str": "1107570265062604800",
+      "text": "@mitrofanbelov @derzhi_marky @cellular_bud @rizhayaborodka чет нифига https://t.co/TgOhYpGoao",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mitrofanbelov",
+            "name": "Директор по развитию своего твиттера",
+            "id": 154805643,
+            "id_str": "154805643",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "derzhi_marky",
+            "name": "Виталий Планетарий",
+            "id": 181115413,
+            "id_str": "181115413",
+            "indices": [
+              15,
+              28
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              29,
+              42
+            ]
+          },
+          {
+            "screen_name": "rizhayaborodka",
+            "name": "Игорь Борода",
+            "id": 928243165,
+            "id_str": "928243165",
+            "indices": [
+              43,
+              58
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1107570259983241200,
+            "id_str": "1107570259983241216",
+            "indices": [
+              70,
+              93
+            ],
+            "media_url": "http://pbs.twimg.com/media/D17hSIYWkAARoP1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D17hSIYWkAARoP1.jpg",
+            "url": "https://t.co/TgOhYpGoao",
+            "display_url": "pic.twitter.com/TgOhYpGoao",
+            "expanded_url": "https://twitter.com/sobakachorna/status/1107570265062604800/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 314,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 946,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 554,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1107570259983241200,
+            "id_str": "1107570259983241216",
+            "indices": [
+              70,
+              93
+            ],
+            "media_url": "http://pbs.twimg.com/media/D17hSIYWkAARoP1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D17hSIYWkAARoP1.jpg",
+            "url": "https://t.co/TgOhYpGoao",
+            "display_url": "pic.twitter.com/TgOhYpGoao",
+            "expanded_url": "https://twitter.com/sobakachorna/status/1107570265062604800/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 314,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 946,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 554,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1107568224852426800,
+      "in_reply_to_status_id_str": "1107568224852426753",
+      "in_reply_to_user_id": 154805643,
+      "in_reply_to_user_id_str": "154805643",
+      "in_reply_to_screen_name": "mitrofanbelov",
+      "user": {
+        "id": 171945733,
+        "id_str": "171945733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 09:36:58 +0000 2019",
+      "id": 1107576620133634000,
+      "id_str": "1107576620133634050",
+      "text": "@derzhi_marky @sobakachorna @cellular_bud @rizhayaborodka По моему какая-то фигня все равно https://t.co/R7i0JUtPH2",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "derzhi_marky",
+            "name": "Виталий Планетарий",
+            "id": 181115413,
+            "id_str": "181115413",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "sobakachorna",
+            "name": "андронова и сыновья",
+            "id": 171945733,
+            "id_str": "171945733",
+            "indices": [
+              14,
+              27
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              28,
+              41
+            ]
+          },
+          {
+            "screen_name": "rizhayaborodka",
+            "name": "Игорь Борода",
+            "id": 928243165,
+            "id_str": "928243165",
+            "indices": [
+              42,
+              57
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1107576613120757800,
+            "id_str": "1107576613120757760",
+            "indices": [
+              92,
+              115
+            ],
+            "media_url": "http://pbs.twimg.com/media/D17nD7qX0AA8Y_a.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D17nD7qX0AA8Y_a.jpg",
+            "url": "https://t.co/R7i0JUtPH2",
+            "display_url": "pic.twitter.com/R7i0JUtPH2",
+            "expanded_url": "https://twitter.com/Ooolya_96/status/1107576620133634050/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 750,
+                "h": 670,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 750,
+                "h": 670,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 607,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1107576613120757800,
+            "id_str": "1107576613120757760",
+            "indices": [
+              92,
+              115
+            ],
+            "media_url": "http://pbs.twimg.com/media/D17nD7qX0AA8Y_a.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D17nD7qX0AA8Y_a.jpg",
+            "url": "https://t.co/R7i0JUtPH2",
+            "display_url": "pic.twitter.com/R7i0JUtPH2",
+            "expanded_url": "https://twitter.com/Ooolya_96/status/1107576620133634050/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 750,
+                "h": 670,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 750,
+                "h": 670,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 607,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1107568120527507500,
+      "in_reply_to_status_id_str": "1107568120527507457",
+      "in_reply_to_user_id": 181115413,
+      "in_reply_to_user_id_str": "181115413",
+      "in_reply_to_screen_name": "derzhi_marky",
+      "user": {
+        "id": 878181910463344600,
+        "id_str": "878181910463344640"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 09:38:50 +0000 2019",
+      "id": 1107577087785947100,
+      "id_str": "1107577087785947136",
+      "text": "@Ooolya_96 @derzhi_marky @cellular_bud @rizhayaborodka все говорит о том, что витале пора переезжать куда-нибудь типа в одноклассники",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Ooolya_96",
+            "name": "Оя",
+            "id": 878181910463344600,
+            "id_str": "878181910463344640",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "derzhi_marky",
+            "name": "Виталий Планетарий",
+            "id": 181115413,
+            "id_str": "181115413",
+            "indices": [
+              11,
+              24
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              25,
+              38
+            ]
+          },
+          {
+            "screen_name": "rizhayaborodka",
+            "name": "Игорь Борода",
+            "id": 928243165,
+            "id_str": "928243165",
+            "indices": [
+              39,
+              54
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1107576620133634000,
+      "in_reply_to_status_id_str": "1107576620133634050",
+      "in_reply_to_user_id": 878181910463344600,
+      "in_reply_to_user_id_str": "878181910463344640",
+      "in_reply_to_screen_name": "Ooolya_96",
+      "user": {
+        "id": 171945733,
+        "id_str": "171945733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 09:41:23 +0000 2019",
+      "id": 1107577732588818400,
+      "id_str": "1107577732588818432",
+      "text": "@sobakachorna @Ooolya_96 @derzhi_marky @cellular_bud В Яндекс.Ауру.\nТам его начнут нейросети игнорировать",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sobakachorna",
+            "name": "андронова и сыновья",
+            "id": 171945733,
+            "id_str": "171945733",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "Ooolya_96",
+            "name": "Оя",
+            "id": 878181910463344600,
+            "id_str": "878181910463344640",
+            "indices": [
+              14,
+              24
+            ]
+          },
+          {
+            "screen_name": "derzhi_marky",
+            "name": "Виталий Планетарий",
+            "id": 181115413,
+            "id_str": "181115413",
+            "indices": [
+              25,
+              38
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              39,
+              52
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1107577087785947100,
+      "in_reply_to_status_id_str": "1107577087785947136",
+      "in_reply_to_user_id": 171945733,
+      "in_reply_to_user_id_str": "171945733",
+      "in_reply_to_screen_name": "sobakachorna",
+      "user": {
+        "id": 928243165,
+        "id_str": "928243165"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 09:42:09 +0000 2019",
+      "id": 1107577923702321200,
+      "id_str": "1107577923702321152",
+      "text": "@sobakachorna @Ooolya_96 @derzhi_marky @cellular_bud Ответа я не увижу",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sobakachorna",
+            "name": "андронова и сыновья",
+            "id": 171945733,
+            "id_str": "171945733",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "Ooolya_96",
+            "name": "Оя",
+            "id": 878181910463344600,
+            "id_str": "878181910463344640",
+            "indices": [
+              14,
+              24
+            ]
+          },
+          {
+            "screen_name": "derzhi_marky",
+            "name": "Виталий Планетарий",
+            "id": 181115413,
+            "id_str": "181115413",
+            "indices": [
+              25,
+              38
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              39,
+              52
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1107577732588818400,
+      "in_reply_to_status_id_str": "1107577732588818432",
+      "in_reply_to_user_id": 928243165,
+      "in_reply_to_user_id_str": "928243165",
+      "in_reply_to_screen_name": "rizhayaborodka",
+      "user": {
+        "id": 928243165,
+        "id_str": "928243165"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 09:42:42 +0000 2019",
+      "id": 1107578063926321200,
+      "id_str": "1107578063926321153",
+      "text": "@rizhayaborodka @sobakachorna @derzhi_marky @cellular_bud Зачем яндекс аура когда есть яндекс район",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rizhayaborodka",
+            "name": "Игорь Борода",
+            "id": 928243165,
+            "id_str": "928243165",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "sobakachorna",
+            "name": "андронова и сыновья",
+            "id": 171945733,
+            "id_str": "171945733",
+            "indices": [
+              16,
+              29
+            ]
+          },
+          {
+            "screen_name": "derzhi_marky",
+            "name": "Виталий Планетарий",
+            "id": 181115413,
+            "id_str": "181115413",
+            "indices": [
+              30,
+              43
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              44,
+              57
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1107577923702321200,
+      "in_reply_to_status_id_str": "1107577923702321152",
+      "in_reply_to_user_id": 928243165,
+      "in_reply_to_user_id_str": "928243165",
+      "in_reply_to_screen_name": "rizhayaborodka",
+      "user": {
+        "id": 878181910463344600,
+        "id_str": "878181910463344640"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 09:43:04 +0000 2019",
+      "id": 1107578153441087500,
+      "id_str": "1107578153441087488",
+      "text": "@Ooolya_96 @sobakachorna @derzhi_marky @cellular_bud На Яндекс.Районе его побьют",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Ooolya_96",
+            "name": "Оя",
+            "id": 878181910463344600,
+            "id_str": "878181910463344640",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "sobakachorna",
+            "name": "андронова и сыновья",
+            "id": 171945733,
+            "id_str": "171945733",
+            "indices": [
+              11,
+              24
+            ]
+          },
+          {
+            "screen_name": "derzhi_marky",
+            "name": "Виталий Планетарий",
+            "id": 181115413,
+            "id_str": "181115413",
+            "indices": [
+              25,
+              38
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              39,
+              52
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1107578063926321200,
+      "in_reply_to_status_id_str": "1107578063926321153",
+      "in_reply_to_user_id": 878181910463344600,
+      "in_reply_to_user_id_str": "878181910463344640",
+      "in_reply_to_screen_name": "Ooolya_96",
+      "user": {
+        "id": 928243165,
+        "id_str": "928243165"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 09:58:34 +0000 2019",
+      "id": 1107582056857518100,
+      "id_str": "1107582056857518080",
+      "text": "@cellular_bud \"Еще два блинчика, и расходимся!..\" - шептали Ленке швы на юбке.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1107302488473043000,
+      "in_reply_to_status_id_str": "1107302488473042947",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 566052989,
+        "id_str": "566052989"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 10:34:06 +0000 2019",
+      "id": 1107590999499513900,
+      "id_str": "1107590999499513856",
+      "text": "@khv_lisa @cellular_bud @Restflyman Охтыж! Не бабушка, а бб?)))))",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "khv_lisa",
+            "name": "여우",
+            "id": 1298919206,
+            "id_str": "1298919206",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              10,
+              23
+            ]
+          },
+          {
+            "screen_name": "Restflyman",
+            "name": "Илья Андреев",
+            "id": 226025630,
+            "id_str": "226025630",
+            "indices": [
+              24,
+              35
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1107535551891038200,
+      "in_reply_to_status_id_str": "1107535551891038209",
+      "in_reply_to_user_id": 1298919206,
+      "in_reply_to_user_id_str": "1298919206",
+      "in_reply_to_screen_name": "khv_lisa",
+      "user": {
+        "id": 131776339,
+        "id_str": "131776339"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "cb407226ddba7ce4",
+        "url": "https://api.twitter.com/1.1/geo/id/cb407226ddba7ce4.json",
+        "place_type": "city",
+        "name": "Solidaridad",
+        "full_name": "Solidaridad, Quintana Roo",
+        "country_code": "MX",
+        "country": "Mexico",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -87.777003,
+                20.3568693
+              ],
+              [
+                -86.9169614,
+                20.3568693
+              ],
+              [
+                -86.9169614,
+                20.812192
+              ],
+              [
+                -87.777003,
+                20.812192
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 11:52:34 +0000 2019",
+      "id": 1107610746114977800,
+      "id_str": "1107610746114977793",
+      "text": "@cellular_bud @taxfreelt Мужик, да ты издеваешься! Хочешь, чтобы мы тут слюной захлебнулись?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "taxfreelt",
+            "name": "Paweł Wiśniewski",
+            "id": 6989942,
+            "id_str": "6989942",
+            "indices": [
+              14,
+              24
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1106913973662830600,
+      "in_reply_to_status_id_str": "1106913973662830593",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 1038887487278653400,
+        "id_str": "1038887487278653443"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 12:03:02 +0000 2019",
+      "id": 1107613379173273600,
+      "id_str": "1107613379173273600",
+      "text": "@derzhi_marky @sobakachorna @cellular_bud @rizhayaborodka Это опять сломалось или как? https://t.co/7EFHPxIJoV",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "derzhi_marky",
+            "name": "Виталий Планетарий",
+            "id": 181115413,
+            "id_str": "181115413",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "sobakachorna",
+            "name": "андронова и сыновья",
+            "id": 171945733,
+            "id_str": "171945733",
+            "indices": [
+              14,
+              27
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              28,
+              41
+            ]
+          },
+          {
+            "screen_name": "rizhayaborodka",
+            "name": "Игорь Борода",
+            "id": 928243165,
+            "id_str": "928243165",
+            "indices": [
+              42,
+              57
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1107613369731829800,
+            "id_str": "1107613369731829760",
+            "indices": [
+              87,
+              110
+            ],
+            "media_url": "http://pbs.twimg.com/media/D18IfctW0AAuvH3.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D18IfctW0AAuvH3.jpg",
+            "url": "https://t.co/7EFHPxIJoV",
+            "display_url": "pic.twitter.com/7EFHPxIJoV",
+            "expanded_url": "https://twitter.com/Fillalimona/status/1107613379173273600/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1080,
+                "h": 1920,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1107613369731829800,
+            "id_str": "1107613369731829760",
+            "indices": [
+              87,
+              110
+            ],
+            "media_url": "http://pbs.twimg.com/media/D18IfctW0AAuvH3.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D18IfctW0AAuvH3.jpg",
+            "url": "https://t.co/7EFHPxIJoV",
+            "display_url": "pic.twitter.com/7EFHPxIJoV",
+            "expanded_url": "https://twitter.com/Fillalimona/status/1107613379173273600/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1080,
+                "h": 1920,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1107568120527507500,
+      "in_reply_to_status_id_str": "1107568120527507457",
+      "in_reply_to_user_id": 181115413,
+      "in_reply_to_user_id_str": "181115413",
+      "in_reply_to_screen_name": "derzhi_marky",
+      "user": {
+        "id": 163841433,
+        "id_str": "163841433"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 12:03:43 +0000 2019",
+      "id": 1107613550921551900,
+      "id_str": "1107613550921551872",
+      "text": "@Fillalimona @derzhi_marky @sobakachorna @cellular_bud Да Твиттер просто понял что Виталя нахуй не нужен",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Fillalimona",
+            "name": "Катюша",
+            "id": 163841433,
+            "id_str": "163841433",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "derzhi_marky",
+            "name": "Виталий Планетарий",
+            "id": 181115413,
+            "id_str": "181115413",
+            "indices": [
+              13,
+              26
+            ]
+          },
+          {
+            "screen_name": "sobakachorna",
+            "name": "андронова и сыновья",
+            "id": 171945733,
+            "id_str": "171945733",
+            "indices": [
+              27,
+              40
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              41,
+              54
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1107613379173273600,
+      "in_reply_to_status_id_str": "1107613379173273600",
+      "in_reply_to_user_id": 163841433,
+      "in_reply_to_user_id_str": "163841433",
+      "in_reply_to_screen_name": "Fillalimona",
+      "user": {
+        "id": 928243165,
+        "id_str": "928243165"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 12:04:28 +0000 2019",
+      "id": 1107613740172607500,
+      "id_str": "1107613740172607488",
+      "text": "@rizhayaborodka @derzhi_marky @sobakachorna @cellular_bud Несите другого. А как так вообще произошло? Это типа кто-… https://t.co/wENS306F5a",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rizhayaborodka",
+            "name": "Игорь Борода",
+            "id": 928243165,
+            "id_str": "928243165",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "derzhi_marky",
+            "name": "Виталий Планетарий",
+            "id": 181115413,
+            "id_str": "181115413",
+            "indices": [
+              16,
+              29
+            ]
+          },
+          {
+            "screen_name": "sobakachorna",
+            "name": "андронова и сыновья",
+            "id": 171945733,
+            "id_str": "171945733",
+            "indices": [
+              30,
+              43
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              44,
+              57
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/wENS306F5a",
+            "expanded_url": "https://twitter.com/i/web/status/1107613740172607488",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1107613550921551900,
+      "in_reply_to_status_id_str": "1107613550921551872",
+      "in_reply_to_user_id": 928243165,
+      "in_reply_to_user_id_str": "928243165",
+      "in_reply_to_screen_name": "rizhayaborodka",
+      "user": {
+        "id": 163841433,
+        "id_str": "163841433"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 12:06:47 +0000 2019",
+      "id": 1107614323042644000,
+      "id_str": "1107614323042643970",
+      "text": "@Fillalimona @derzhi_marky @sobakachorna @cellular_bud Да, причем мы",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Fillalimona",
+            "name": "Катюша",
+            "id": 163841433,
+            "id_str": "163841433",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "derzhi_marky",
+            "name": "Виталий Планетарий",
+            "id": 181115413,
+            "id_str": "181115413",
+            "indices": [
+              13,
+              26
+            ]
+          },
+          {
+            "screen_name": "sobakachorna",
+            "name": "андронова и сыновья",
+            "id": 171945733,
+            "id_str": "171945733",
+            "indices": [
+              27,
+              40
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              41,
+              54
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1107613740172607500,
+      "in_reply_to_status_id_str": "1107613740172607488",
+      "in_reply_to_user_id": 163841433,
+      "in_reply_to_user_id_str": "163841433",
+      "in_reply_to_screen_name": "Fillalimona",
+      "user": {
+        "id": 928243165,
+        "id_str": "928243165"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 12:07:07 +0000 2019",
+      "id": 1107614404701577200,
+      "id_str": "1107614404701577216",
+      "text": "@rizhayaborodka @derzhi_marky @sobakachorna @cellular_bud Кек",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rizhayaborodka",
+            "name": "Игорь Борода",
+            "id": 928243165,
+            "id_str": "928243165",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "derzhi_marky",
+            "name": "Виталий Планетарий",
+            "id": 181115413,
+            "id_str": "181115413",
+            "indices": [
+              16,
+              29
+            ]
+          },
+          {
+            "screen_name": "sobakachorna",
+            "name": "андронова и сыновья",
+            "id": 171945733,
+            "id_str": "171945733",
+            "indices": [
+              30,
+              43
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              44,
+              57
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1107614323042644000,
+      "in_reply_to_status_id_str": "1107614323042643970",
+      "in_reply_to_user_id": 928243165,
+      "in_reply_to_user_id_str": "928243165",
+      "in_reply_to_screen_name": "rizhayaborodka",
+      "user": {
+        "id": 163841433,
+        "id_str": "163841433"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 12:08:05 +0000 2019",
+      "id": 1107614647736246300,
+      "id_str": "1107614647736246272",
+      "text": "@cellular_bud Красиво) напомнило чебуреки",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1107302488473043000,
+      "in_reply_to_status_id_str": "1107302488473042947",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 766647688653865000,
+        "id_str": "766647688653864960"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 12:30:24 +0000 2019",
+      "id": 1107620265201143800,
+      "id_str": "1107620265201143808",
+      "text": "@cellular_bud @badsirrope Маловато",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "badsirrope",
+            "name": "sirrope",
+            "id": 539805436,
+            "id_str": "539805436",
+            "indices": [
+              14,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1107619936782958600,
+      "in_reply_to_status_id_str": "1107619936782958592",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 2993981121,
+        "id_str": "2993981121"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 12:31:40 +0000 2019",
+      "id": 1107620585436262400,
+      "id_str": "1107620585436262400",
+      "text": "@AVBoets @cellular_bud Кисюня говорит мал золотник, да дорог",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AVBoets",
+            "name": "Саша ПодМосковный",
+            "id": 2993981121,
+            "id_str": "2993981121",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              9,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1107620265201143800,
+      "in_reply_to_status_id_str": "1107620265201143808",
+      "in_reply_to_user_id": 2993981121,
+      "in_reply_to_user_id_str": "2993981121",
+      "in_reply_to_screen_name": "AVBoets",
+      "user": {
+        "id": 539805436,
+        "id_str": "539805436"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 12:32:26 +0000 2019",
+      "id": 1107620777996795900,
+      "id_str": "1107620777996795904",
+      "text": "@badsirrope @cellular_bud Кисюня права",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "badsirrope",
+            "name": "sirrope",
+            "id": 539805436,
+            "id_str": "539805436",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              12,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1107620585436262400,
+      "in_reply_to_status_id_str": "1107620585436262400",
+      "in_reply_to_user_id": 539805436,
+      "in_reply_to_user_id_str": "539805436",
+      "in_reply_to_screen_name": "badsirrope",
+      "user": {
+        "id": 2993981121,
+        "id_str": "2993981121"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 13:03:58 +0000 2019",
+      "id": 1107628713141768200,
+      "id_str": "1107628713141768192",
+      "text": "@cellular_bud К сожалению, у меня нет 200.000€",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1107624105455558700,
+      "in_reply_to_status_id_str": "1107624105455558657",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 827237201494814700,
+        "id_str": "827237201494814720"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 13:04:02 +0000 2019",
+      "id": 1107628727595356200,
+      "id_str": "1107628727595356162",
+      "text": "@cellular_bud @massmasass @r0mko @snobberries в Испании я только туристом, сорри. ничего сказать не могу...",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "massmasass",
+            "name": "𝙼𝚊𝚛𝚔 𝙼𝚊𝚜𝚜𝚘𝚗 🇵🇱",
+            "id": 964643816165789700,
+            "id_str": "964643816165789696",
+            "indices": [
+              14,
+              25
+            ]
+          },
+          {
+            "screen_name": "r0mko",
+            "name": "множественные сарказмы",
+            "id": 112346604,
+            "id_str": "112346604",
+            "indices": [
+              26,
+              32
+            ]
+          },
+          {
+            "screen_name": "snobberries",
+            "name": "ноги на ширине плеч",
+            "id": 1009171428447572000,
+            "id_str": "1009171428447571968",
+            "indices": [
+              33,
+              45
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1107626538382577700,
+      "in_reply_to_status_id_str": "1107626538382577666",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 1068499513302765600,
+        "id_str": "1068499513302765570"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 13:11:20 +0000 2019",
+      "id": 1107630568043352000,
+      "id_str": "1107630568043352064",
+      "text": "@cellular_bud 😚",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1107628668417794000,
+      "in_reply_to_status_id_str": "1107628668417794048",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 890874834208555000,
+        "id_str": "890874834208555008"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "a76c0cd7d56c4836",
+        "url": "https://api.twitter.com/1.1/geo/id/a76c0cd7d56c4836.json",
+        "place_type": "city",
+        "name": "Saint Petersburg",
+        "full_name": "Saint Petersburg, Russia",
+        "country_code": "RU",
+        "country": "Russia",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                30.0896894,
+                59.7761714
+              ],
+              [
+                30.5677067,
+                59.7761714
+              ],
+              [
+                30.5677067,
+                60.0921253
+              ],
+              [
+                30.0896894,
+                60.0921253
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon Mar 18 13:25:26 +0000 2019",
+      "id": 1107634115296284700,
+      "id_str": "1107634115296284672",
+      "text": "@cellular_bud Ну это у кого как!)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1107632523520237600,
+      "in_reply_to_status_id_str": "1107632523520237569",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 1101352061264977900,
+        "id_str": "1101352061264977920"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 13:25:44 +0000 2019",
+      "id": 1107634191557148700,
+      "id_str": "1107634191557148672",
+      "text": "@cellular_bud Соуса! Чо так сухо",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1107633379015643100,
+      "in_reply_to_status_id_str": "1107633379015643136",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 187080800,
+        "id_str": "187080800"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "01566b25bbe7a6d3",
+        "url": "https://api.twitter.com/1.1/geo/id/01566b25bbe7a6d3.json",
+        "place_type": "city",
+        "name": "Mérida",
+        "full_name": "Mérida, Yucatán",
+        "country_code": "MX",
+        "country": "Mexico",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -89.798197,
+                20.695104
+              ],
+              [
+                -89.449025,
+                20.695104
+              ],
+              [
+                -89.449025,
+                21.186966
+              ],
+              [
+                -89.798197,
+                21.186966
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 13:28:04 +0000 2019",
+      "id": 1107634775899160600,
+      "id_str": "1107634775899160576",
+      "text": "@cellular_bud Да я и раньше была по еде прибитая, жила бы дома - попросила бы неделю в шефе недели",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1107634587667230700,
+      "in_reply_to_status_id_str": "1107634587667230722",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 187080800,
+        "id_str": "187080800"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "01566b25bbe7a6d3",
+        "url": "https://api.twitter.com/1.1/geo/id/01566b25bbe7a6d3.json",
+        "place_type": "city",
+        "name": "Mérida",
+        "full_name": "Mérida, Yucatán",
+        "country_code": "MX",
+        "country": "Mexico",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -89.798197,
+                20.695104
+              ],
+              [
+                -89.449025,
+                20.695104
+              ],
+              [
+                -89.449025,
+                21.186966
+              ],
+              [
+                -89.798197,
+                21.186966
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 13:29:24 +0000 2019",
+      "id": 1107635114878648300,
+      "id_str": "1107635114878648322",
+      "text": "@cellular_bud У тебя сечам сколько времени?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1107631922811949000,
+      "in_reply_to_status_id_str": "1107631922811949057",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 832960180967047200,
+        "id_str": "832960180967047168"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 13:29:49 +0000 2019",
+      "id": 1107635216556978200,
+      "id_str": "1107635216556978176",
+      "text": "@cellular_bud Во фритюре готовится?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1107632523520237600,
+      "in_reply_to_status_id_str": "1107632523520237569",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 2233150535,
+        "id_str": "2233150535"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 13:30:04 +0000 2019",
+      "id": 1107635280947875800,
+      "id_str": "1107635280947875840",
+      "text": "@cellular_bud @Vovanovichenko Губа треснет.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "Vovanovichenko",
+            "name": "Лимитчик",
+            "id": 557159616,
+            "id_str": "557159616",
+            "indices": [
+              14,
+              29
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1107631922811949000,
+      "in_reply_to_status_id_str": "1107631922811949057",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 409226645,
+        "id_str": "409226645"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 13:30:47 +0000 2019",
+      "id": 1107635460514431000,
+      "id_str": "1107635460514430981",
+      "text": "@cellular_bud Что на завтрак?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1107635273012314100,
+      "in_reply_to_status_id_str": "1107635273012314113",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 832960180967047200,
+        "id_str": "832960180967047168"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 13:35:30 +0000 2019",
+      "id": 1107636648416809000,
+      "id_str": "1107636648416808962",
+      "text": "@cellular_bud А пингвина?😎 https://t.co/Hd6mQ67zzh",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Hd6mQ67zzh",
+            "expanded_url": "https://www.youtube.com/watch?v=AbBK329P6sk",
+            "display_url": "youtube.com/watch?v=AbBK32…",
+            "indices": [
+              27,
+              50
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1107634335434326000,
+      "in_reply_to_status_id_str": "1107634335434326022",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 1087608465109979100,
+        "id_str": "1087608465109979136"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 13:47:03 +0000 2019",
+      "id": 1107639556197810200,
+      "id_str": "1107639556197810176",
+      "text": "@cellular_bud врач эндокринолог сказала авокадо утром дозволятся вкушать даж на лютой диете",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1107638269095956500,
+      "in_reply_to_status_id_str": "1107638269095956485",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 997738569467908100,
+        "id_str": "997738569467908096"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 13:55:06 +0000 2019",
+      "id": 1107641579211292700,
+      "id_str": "1107641579211292674",
+      "text": "@cellular_bud Мексика - это когда надоел авокадо...\nНо вообще я только здесь поняла какой он жирный фрукт, мне аж п… https://t.co/7ryteWvDeX",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/7ryteWvDeX",
+            "expanded_url": "https://twitter.com/i/web/status/1107641579211292674",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1107638269095956500,
+      "in_reply_to_status_id_str": "1107638269095956485",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 187080800,
+        "id_str": "187080800"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "01566b25bbe7a6d3",
+        "url": "https://api.twitter.com/1.1/geo/id/01566b25bbe7a6d3.json",
+        "place_type": "city",
+        "name": "Mérida",
+        "full_name": "Mérida, Yucatán",
+        "country_code": "MX",
+        "country": "Mexico",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -89.798197,
+                20.695104
+              ],
+              [
+                -89.449025,
+                20.695104
+              ],
+              [
+                -89.449025,
+                21.186966
+              ],
+              [
+                -89.798197,
+                21.186966
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 13:55:30 +0000 2019",
+      "id": 1107641681854255100,
+      "id_str": "1107641681854255104",
+      "text": "@cellular_bud Маринованных огурчиков",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1107633379015643100,
+      "in_reply_to_status_id_str": "1107633379015643136",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 879281823003680800,
+        "id_str": "879281823003680768"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 14:01:03 +0000 2019",
+      "id": 1107643079283085300,
+      "id_str": "1107643079283085312",
+      "text": "Приехал к бабуле и обнаружил этот замечательный холодильник с магнитами, а что у вас снаружи, делитесь фото… https://t.co/MEaARlRauF",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/MEaARlRauF",
+            "expanded_url": "https://twitter.com/i/web/status/1107643079283085312",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              109,
+              132
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 272882242,
+        "id_str": "272882242"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 8,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 14:01:59 +0000 2019",
+      "id": 1107643314134753300,
+      "id_str": "1107643314134753282",
+      "text": "@cellular_bud Какое-то блюдо высокой кухни. Нужен подробный рецепт",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1107636779937603600,
+      "in_reply_to_status_id_str": "1107636779937603584",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 79449625,
+        "id_str": "79449625"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 14:02:06 +0000 2019",
+      "id": 1107643344447041500,
+      "id_str": "1107643344447041537",
+      "text": "@cellular_bud До сих пор не могу понять, что это такое и с чем это едят.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": 1107639318959538200,
+      "in_reply_to_status_id_str": "1107639318959538176",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 403277600,
+        "id_str": "403277600"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 14:02:44 +0000 2019",
+      "id": 1107643500902916100,
+      "id_str": "1107643500902916096",
+      "text": "@cellular_bud Галстук поправь!)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1107642917525442600,
+      "in_reply_to_status_id_str": "1107642917525442565",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 610008160,
+        "id_str": "610008160"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 14:04:19 +0000 2019",
+      "id": 1107643901379313700,
+      "id_str": "1107643901379313664",
+      "text": "@cellular_bud Кайф!\nУ меня тоже скоро зацветёт, хоть и не так масштабно))",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1107642122138615800,
+      "in_reply_to_status_id_str": "1107642122138615808",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 1009171428447572000,
+        "id_str": "1009171428447571968"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 14:08:38 +0000 2019",
+      "id": 1107644987691462700,
+      "id_str": "1107644987691462656",
+      "text": "@cellular_bud @lxvslnk Ни один ингредиент мне не знаком, но так красиво и аппетитно выглядит, что захотелось есть.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "lxvslnk",
+            "name": "Oleksii",
+            "id": 555323349,
+            "id_str": "555323349",
+            "indices": [
+              14,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1107639318959538200,
+      "in_reply_to_status_id_str": "1107639318959538176",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 967829973062037500,
+        "id_str": "967829973062037504"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 14:09:22 +0000 2019",
+      "id": 1107645169329979400,
+      "id_str": "1107645169329979397",
+      "text": "@cellular_bud А что, так можно было 🤣🤣🤣 новый виток в развитии ящитаю",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1107639318959538200,
+      "in_reply_to_status_id_str": "1107639318959538176",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 4848894629,
+        "id_str": "4848894629"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 14:10:32 +0000 2019",
+      "id": 1107645464101425200,
+      "id_str": "1107645464101425155",
+      "text": "@cellular_bud Сегодня выходной?! Ну ладно, тут это не так плохо как в Европе",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1107644196494573600,
+      "in_reply_to_status_id_str": "1107644196494573569",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 187080800,
+        "id_str": "187080800"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "01566b25bbe7a6d3",
+        "url": "https://api.twitter.com/1.1/geo/id/01566b25bbe7a6d3.json",
+        "place_type": "city",
+        "name": "Mérida",
+        "full_name": "Mérida, Yucatán",
+        "country_code": "MX",
+        "country": "Mexico",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -89.798197,
+                20.695104
+              ],
+              [
+                -89.449025,
+                20.695104
+              ],
+              [
+                -89.449025,
+                21.186966
+              ],
+              [
+                -89.798197,
+                21.186966
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 14:14:18 +0000 2019",
+      "id": 1107646414195179500,
+      "id_str": "1107646414195179522",
+      "text": "@cellular_bud И это завтрак? \nА кофе будет?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1107644196494573600,
+      "in_reply_to_status_id_str": "1107644196494573569",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 1684089582,
+        "id_str": "1684089582"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 14:24:04 +0000 2019",
+      "id": 1107648868395728900,
+      "id_str": "1107648868395728898",
+      "text": "@cellular_bud Нарядно))",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1107636062275489800,
+      "in_reply_to_status_id_str": "1107636062275489794",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 832960180967047200,
+        "id_str": "832960180967047168"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "uk"
+    },
+    {
+      "created_at": "Mon Mar 18 14:26:02 +0000 2019",
+      "id": 1107649365882081300,
+      "id_str": "1107649365882081280",
+      "text": "@cellular_bud Перца не хватает там!)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1107633379015643100,
+      "in_reply_to_status_id_str": "1107633379015643136",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 1101352061264977900,
+        "id_str": "1101352061264977920"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 14:27:24 +0000 2019",
+      "id": 1107649710624555000,
+      "id_str": "1107649710624555008",
+      "text": "@cellular_bud Водки 0,75",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1107633379015643100,
+      "in_reply_to_status_id_str": "1107633379015643136",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 79449625,
+        "id_str": "79449625"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 14:30:06 +0000 2019",
+      "id": 1107650388642148400,
+      "id_str": "1107650388642148352",
+      "text": "@cellular_bud Парадно!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1107649651078037500,
+      "in_reply_to_status_id_str": "1107649651078037504",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 832960180967047200,
+        "id_str": "832960180967047168"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 18 14:35:05 +0000 2019",
+      "id": 1107651644420952000,
+      "id_str": "1107651644420952067",
+      "text": "@proxars @cellular_bud Идеально https://t.co/iUou47ILf8",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "proxars",
+            "name": "proxars",
+            "id": 272882242,
+            "id_str": "272882242",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              9,
+              22
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1107651639169695700,
+            "id_str": "1107651639169695744",
+            "indices": [
+              32,
+              55
+            ],
+            "media_url": "http://pbs.twimg.com/media/D18rTBeWwAAhgM1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D18rTBeWwAAhgM1.jpg",
+            "url": "https://t.co/iUou47ILf8",
+            "display_url": "pic.twitter.com/iUou47ILf8",
+            "expanded_url": "https://twitter.com/snobberries/status/1107651644420952067/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1107651639169695700,
+            "id_str": "1107651639169695744",
+            "indices": [
+              32,
+              55
+            ],
+            "media_url": "http://pbs.twimg.com/media/D18rTBeWwAAhgM1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D18rTBeWwAAhgM1.jpg",
+            "url": "https://t.co/iUou47ILf8",
+            "display_url": "pic.twitter.com/iUou47ILf8",
+            "expanded_url": "https://twitter.com/snobberries/status/1107651644420952067/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1107643079283085300,
+      "in_reply_to_status_id_str": "1107643079283085312",
+      "in_reply_to_user_id": 272882242,
+      "in_reply_to_user_id_str": "272882242",
+      "in_reply_to_screen_name": "proxars",
+      "user": {
+        "id": 1009171428447572000,
+        "id_str": "1009171428447571968"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
