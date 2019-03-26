@@ -12446,6 +12446,1502 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 25 22:15:48 +0000 2019",
+      "id": 1110304299337302000,
+      "id_str": "1110304299337302021",
+      "full_text": "Завтра приготовим с вами бургеры, и испечём классический Манник!)\nНам нужны будут булочки для бургеров, говядина, сыр, салат, и можно ещё краснокачанную капусту, если любите её!)\nМанка/кефир на вкуснющий дессерт, и ягодки для декора, если есть))\nЯ спать, мне в 4.30 просыпаться",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        277
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 33,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 25 22:16:37 +0000 2019",
+      "id": 1110304506997362700,
+      "id_str": "1110304506997362689",
+      "full_text": "Очень благодарна за сегодняшний вечер всем!)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        44
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 31,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 25 22:18:10 +0000 2019",
+      "id": 1110304896602046500,
+      "id_str": "1110304896602046464",
+      "full_text": "@apiksDen Про работу немножко нудно было, но я решила сегодня отстреляться, и всё!)",
+      "truncated": false,
+      "display_text_range": [
+        10,
+        83
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "apiksDen",
+            "name": "astd",
+            "id": 624543145,
+            "id_str": "624543145",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1110304616548388900,
+      "in_reply_to_status_id_str": "1110304616548388870",
+      "in_reply_to_user_id": 624543145,
+      "in_reply_to_user_id_str": "624543145",
+      "in_reply_to_screen_name": "apiksDen",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 25 22:18:42 +0000 2019",
+      "id": 1110305030211584000,
+      "id_str": "1110305030211584001",
+      "full_text": "@3141222446t Дякую, Танюшка!)",
+      "truncated": false,
+      "display_text_range": [
+        13,
+        29
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "3141222446t",
+            "name": "Tanya!",
+            "id": 771652422393442300,
+            "id_str": "771652422393442304",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1110304560294383600,
+      "in_reply_to_status_id_str": "1110304560294383621",
+      "in_reply_to_user_id": 771652422393442300,
+      "in_reply_to_user_id_str": "771652422393442304",
+      "in_reply_to_screen_name": "3141222446t",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "uk"
+    },
+    {
+      "created_at": "Mon Mar 25 22:31:24 +0000 2019",
+      "id": 1110308226606792700,
+      "id_str": "1110308226606792704",
+      "full_text": "@karoDnepr То точно!)😘",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        22
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "karoDnepr",
+            "name": "Karin",
+            "id": 2241421832,
+            "id_str": "2241421832",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1110307515265437700,
+      "in_reply_to_status_id_str": "1110307515265437703",
+      "in_reply_to_user_id": 2241421832,
+      "in_reply_to_user_id_str": "2241421832",
+      "in_reply_to_screen_name": "karoDnepr",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 26 14:31:21 +0000 2019",
+      "id": 1110549806655701000,
+      "id_str": "1110549806655700992",
+      "full_text": "@stasgharkov1 Ні)",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        17
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "stasgharkov1",
+            "name": "Стас",
+            "id": 2948717951,
+            "id_str": "2948717951",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1110411822178463700,
+      "in_reply_to_status_id_str": "1110411822178463744",
+      "in_reply_to_user_id": 2948717951,
+      "in_reply_to_user_id_str": "2948717951",
+      "in_reply_to_screen_name": "stasgharkov1",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 26 14:35:08 +0000 2019",
+      "id": 1110550756401266700,
+      "id_str": "1110550756401266688",
+      "full_text": "Пришла с работы, сейчас немножко расслаблюсь, и просмотрю все ваши вопросы))) https://t.co/mf5Bamhnr9",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        77
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1110550748910231600,
+            "id_str": "1110550748910231552",
+            "indices": [
+              78,
+              101
+            ],
+            "media_url": "http://pbs.twimg.com/media/D2l4Ba3WoAAtuh1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D2l4Ba3WoAAtuh1.jpg",
+            "url": "https://t.co/mf5Bamhnr9",
+            "display_url": "pic.twitter.com/mf5Bamhnr9",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1110550756401266688/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1110550748910231600,
+            "id_str": "1110550748910231552",
+            "indices": [
+              78,
+              101
+            ],
+            "media_url": "http://pbs.twimg.com/media/D2l4Ba3WoAAtuh1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D2l4Ba3WoAAtuh1.jpg",
+            "url": "https://t.co/mf5Bamhnr9",
+            "display_url": "pic.twitter.com/mf5Bamhnr9",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1110550756401266688/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1110550748918677500,
+            "id_str": "1110550748918677504",
+            "indices": [
+              78,
+              101
+            ],
+            "media_url": "http://pbs.twimg.com/media/D2l4Ba5XgAAXVXe.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D2l4Ba5XgAAXVXe.jpg",
+            "url": "https://t.co/mf5Bamhnr9",
+            "display_url": "pic.twitter.com/mf5Bamhnr9",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1110550756401266688/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1110550748906115100,
+            "id_str": "1110550748906115072",
+            "indices": [
+              78,
+              101
+            ],
+            "media_url": "http://pbs.twimg.com/media/D2l4Ba2X0AAIy9P.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D2l4Ba2X0AAIy9P.jpg",
+            "url": "https://t.co/mf5Bamhnr9",
+            "display_url": "pic.twitter.com/mf5Bamhnr9",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1110550756401266688/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 18,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 26 14:35:34 +0000 2019",
+      "id": 1110550865709015000,
+      "id_str": "1110550865709015040",
+      "full_text": "@dr_Begemot Да, придётся приготовить)))",
+      "truncated": false,
+      "display_text_range": [
+        12,
+        39
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dr_Begemot",
+            "name": "iter::repeat(🍕)",
+            "id": 204956049,
+            "id_str": "204956049",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1110426029800198100,
+      "in_reply_to_status_id_str": "1110426029800198144",
+      "in_reply_to_user_id": 204956049,
+      "in_reply_to_user_id_str": "204956049",
+      "in_reply_to_screen_name": "dr_Begemot",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 26 14:37:10 +0000 2019",
+      "id": 1110551268278325200,
+      "id_str": "1110551268278325248",
+      "full_text": "@Youri_Kostyk Так, це різновид пісочного, що упродуктових крамницях продається)) Раніше сама його робила, а зараз не витрачаю час",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        129
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Youri_Kostyk",
+            "name": "Юрій Костюк",
+            "id": 2228827081,
+            "id_str": "2228827081",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1110463500311294000,
+      "in_reply_to_status_id_str": "1110463500311293952",
+      "in_reply_to_user_id": 2228827081,
+      "in_reply_to_user_id_str": "2228827081",
+      "in_reply_to_screen_name": "Youri_Kostyk",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "uk"
+    },
+    {
+      "created_at": "Tue Mar 26 14:37:25 +0000 2019",
+      "id": 1110551334384746500,
+      "id_str": "1110551334384746498",
+      "full_text": "@nowhereandnobod @the_gozo Бббгг)))",
+      "truncated": false,
+      "display_text_range": [
+        27,
+        35
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "nowhereandnobod",
+            "name": "нигде и никто",
+            "id": 586019243,
+            "id_str": "586019243",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "the_gozo",
+            "name": "Igor",
+            "id": 33498827,
+            "id_str": "33498827",
+            "indices": [
+              17,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1110465036697382900,
+      "in_reply_to_status_id_str": "1110465036697382914",
+      "in_reply_to_user_id": 586019243,
+      "in_reply_to_user_id_str": "586019243",
+      "in_reply_to_screen_name": "nowhereandnobod",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 26 14:37:48 +0000 2019",
+      "id": 1110551431579422700,
+      "id_str": "1110551431579422721",
+      "full_text": "@victorripman @rachkova_olga Во мне было)",
+      "truncated": false,
+      "display_text_range": [
+        29,
+        41
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "victorripman",
+            "name": "Ripman",
+            "id": 2578159783,
+            "id_str": "2578159783",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "rachkova_olga",
+            "name": "Рачкова Ольга",
+            "id": 875734808110014500,
+            "id_str": "875734808110014464",
+            "indices": [
+              14,
+              28
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1110477317950922800,
+      "in_reply_to_status_id_str": "1110477317950922752",
+      "in_reply_to_user_id": 2578159783,
+      "in_reply_to_user_id_str": "2578159783",
+      "in_reply_to_screen_name": "victorripman",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 26 14:38:11 +0000 2019",
+      "id": 1110551525405921300,
+      "id_str": "1110551525405921280",
+      "full_text": "@popilsasha73 У мене є)))",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        25
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "popilsasha73",
+            "name": "Ａｌｅｊａｎｄｒｏ🔞☣️",
+            "id": 2420903037,
+            "id_str": "2420903037",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1110511281876987900,
+      "in_reply_to_status_id_str": "1110511281876987904",
+      "in_reply_to_user_id": 2420903037,
+      "in_reply_to_user_id_str": "2420903037",
+      "in_reply_to_screen_name": "popilsasha73",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "uk"
+    },
+    {
+      "created_at": "Tue Mar 26 14:38:28 +0000 2019",
+      "id": 1110551597145342000,
+      "id_str": "1110551597145341952",
+      "full_text": "@UKROP15 Спасибо!)",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        18
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "UKROP15",
+            "name": "альо, до чого тут Порошенко?",
+            "id": 2803537632,
+            "id_str": "2803537632",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1110533700318621700,
+      "in_reply_to_status_id_str": "1110533700318621696",
+      "in_reply_to_user_id": 2803537632,
+      "in_reply_to_user_id_str": "2803537632",
+      "in_reply_to_screen_name": "UKROP15",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 26 14:42:44 +0000 2019",
+      "id": 1110552671260495900,
+      "id_str": "1110552671260495873",
+      "full_text": "@UkrVatman У нас упор на гриль. Говядина - антрекот, и рубленый стейк, бараньи шашлычки, шницель из телятины, но не в панировке, куриная грудка, стейк сёмги. Плюс разновидности колбасок, и классика - Bratwurst из телятины. Нужно реально очень быстро выдавать продукт, т.к иногда - конвеер",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        288
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "UkrVatman",
+            "name": "Ночной дожор🍏",
+            "id": 3388876839,
+            "id_str": "3388876839",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1110534394920472600,
+      "in_reply_to_status_id_str": "1110534394920472577",
+      "in_reply_to_user_id": 3388876839,
+      "in_reply_to_user_id_str": "3388876839",
+      "in_reply_to_screen_name": "UkrVatman",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 26 14:47:52 +0000 2019",
+      "id": 1110553961847767000,
+      "id_str": "1110553961847767046",
+      "full_text": "@JeyFK Это медицинская) Просто расслабляет",
+      "truncated": false,
+      "display_text_range": [
+        7,
+        42
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "JeyFK",
+            "name": "Le Meow'ata",
+            "id": 116474268,
+            "id_str": "116474268",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1110553737196654600,
+      "in_reply_to_status_id_str": "1110553737196654592",
+      "in_reply_to_user_id": 116474268,
+      "in_reply_to_user_id_str": "116474268",
+      "in_reply_to_screen_name": "JeyFK",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 26 14:54:41 +0000 2019",
+      "id": 1110555678630965200,
+      "id_str": "1110555678630965248",
+      "full_text": "https://t.co/CHJ73qbkzo то, что за кадром остаётся!))",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        53
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/CHJ73qbkzo",
+            "expanded_url": "https://twitter.com/amorucciatua/status/1094568605361016832?s=21",
+            "display_url": "twitter.com/amorucciatua/s…",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1094568605361016800,
+      "quoted_status_id_str": "1094568605361016832",
+      "quoted_status_permalink": {
+        "url": "https://t.co/CHJ73qbkzo",
+        "expanded": "https://twitter.com/amorucciatua/status/1094568605361016832?s=21",
+        "display": "twitter.com/amorucciatua/s…"
+      },
+      "quoted_status": {
+        "created_at": "Sun Feb 10 12:07:46 +0000 2019",
+        "id": 1094568605361016800,
+        "id_str": "1094568605361016832",
+        "full_text": "Я спробую зараз)))) https://t.co/X0O5HELKbJ",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          19
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 1094568555868315600,
+              "id_str": "1094568555868315648",
+              "indices": [
+                20,
+                43
+              ],
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1094568555868315648/pu/img/6QWrvI8oiuotSHCC.jpg",
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1094568555868315648/pu/img/6QWrvI8oiuotSHCC.jpg",
+              "url": "https://t.co/X0O5HELKbJ",
+              "display_url": "pic.twitter.com/X0O5HELKbJ",
+              "expanded_url": "https://twitter.com/amorucciatua/status/1094568605361016832/video/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1280,
+                  "h": 720,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1094568555868315600,
+              "id_str": "1094568555868315648",
+              "indices": [
+                20,
+                43
+              ],
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1094568555868315648/pu/img/6QWrvI8oiuotSHCC.jpg",
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1094568555868315648/pu/img/6QWrvI8oiuotSHCC.jpg",
+              "url": "https://t.co/X0O5HELKbJ",
+              "display_url": "pic.twitter.com/X0O5HELKbJ",
+              "expanded_url": "https://twitter.com/amorucciatua/status/1094568605361016832/video/1",
+              "type": "video",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1280,
+                  "h": 720,
+                  "resize": "fit"
+                }
+              },
+              "video_info": {
+                "aspect_ratio": [
+                  16,
+                  9
+                ],
+                "duration_millis": 1133,
+                "variants": [
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1094568555868315648/pu/vid/640x360/zMpul02kXW3rSbE8.mp4?tag=6"
+                  },
+                  {
+                    "bitrate": 256000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1094568555868315648/pu/vid/320x180/Jo_IUIbeWI-ogFNk.mp4?tag=6"
+                  },
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/ext_tw_video/1094568555868315648/pu/pl/j4YNkVhyZdhNkswo.m3u8?tag=6"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1094568555868315648/pu/vid/1280x720/NENLXPCTtFE2kVkb.mp4?tag=6"
+                  }
+                ]
+              },
+              "additional_media_info": {
+                "monetizable": false
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "in_reply_to_status_id": 1094542501661282300,
+        "in_reply_to_status_id_str": "1094542501661282304",
+        "in_reply_to_user_id": 1310864588,
+        "in_reply_to_user_id_str": "1310864588",
+        "in_reply_to_screen_name": "amorucciatua",
+        "user": {
+          "id": 1310864588,
+          "id_str": "1310864588"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 26 14:58:28 +0000 2019",
+      "id": 1110556630301712400,
+      "id_str": "1110556630301712384",
+      "full_text": "Когда скринов хочется))) https://t.co/U3gbHccxlF",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        24
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1110556625520218100,
+            "id_str": "1110556625520218116",
+            "indices": [
+              25,
+              48
+            ],
+            "media_url": "http://pbs.twimg.com/media/D2l9Xe8W0AQuem_.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D2l9Xe8W0AQuem_.jpg",
+            "url": "https://t.co/U3gbHccxlF",
+            "display_url": "pic.twitter.com/U3gbHccxlF",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1110556630301712384/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 750,
+                "h": 1334,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 382,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1110556625520218100,
+            "id_str": "1110556625520218116",
+            "indices": [
+              25,
+              48
+            ],
+            "media_url": "http://pbs.twimg.com/media/D2l9Xe8W0AQuem_.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D2l9Xe8W0AQuem_.jpg",
+            "url": "https://t.co/U3gbHccxlF",
+            "display_url": "pic.twitter.com/U3gbHccxlF",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1110556630301712384/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 750,
+                "h": 1334,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 382,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1110556625524453400,
+            "id_str": "1110556625524453376",
+            "indices": [
+              25,
+              48
+            ],
+            "media_url": "http://pbs.twimg.com/media/D2l9Xe9XcAAuuym.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D2l9Xe9XcAAuuym.jpg",
+            "url": "https://t.co/U3gbHccxlF",
+            "display_url": "pic.twitter.com/U3gbHccxlF",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1110556630301712384/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 750,
+                "h": 1334,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 382,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1110556625566351400,
+            "id_str": "1110556625566351360",
+            "indices": [
+              25,
+              48
+            ],
+            "media_url": "http://pbs.twimg.com/media/D2l9XfHWwAAFvnH.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D2l9XfHWwAAFvnH.jpg",
+            "url": "https://t.co/U3gbHccxlF",
+            "display_url": "pic.twitter.com/U3gbHccxlF",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1110556630301712384/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 750,
+                "h": 1334,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 382,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1110556625549647900,
+            "id_str": "1110556625549647872",
+            "indices": [
+              25,
+              48
+            ],
+            "media_url": "http://pbs.twimg.com/media/D2l9XfDX4AAQYQt.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D2l9XfDX4AAQYQt.jpg",
+            "url": "https://t.co/U3gbHccxlF",
+            "display_url": "pic.twitter.com/U3gbHccxlF",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1110556630301712384/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 750,
+                "h": 1334,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 382,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1110555678630965200,
+      "in_reply_to_status_id_str": "1110555678630965248",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 26 15:13:50 +0000 2019",
+      "id": 1110560498913824800,
+      "id_str": "1110560498913824768",
+      "full_text": "@stasgharkov1 Ніііі))",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        21
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "stasgharkov1",
+            "name": "Стас",
+            "id": 2948717951,
+            "id_str": "2948717951",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1110559952488353800,
+      "in_reply_to_status_id_str": "1110559952488353792",
+      "in_reply_to_user_id": 2948717951,
+      "in_reply_to_user_id_str": "2948717951",
+      "in_reply_to_screen_name": "stasgharkov1",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 26 15:15:29 +0000 2019",
+      "id": 1110560912975503400,
+      "id_str": "1110560912975503362",
+      "full_text": "Написала список, который нужно продиктовать мужу, когда он в магазе будет))\nРуки чешутся начать!))\nЕщё часик ожидания.. Да, писать я разучилась красиво.. https://t.co/1tFDYSUvEx",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        153
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1110560906163953700,
+            "id_str": "1110560906163953664",
+            "indices": [
+              154,
+              177
+            ],
+            "media_url": "http://pbs.twimg.com/media/D2mBQplWoAA-07l.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D2mBQplWoAA-07l.jpg",
+            "url": "https://t.co/1tFDYSUvEx",
+            "display_url": "pic.twitter.com/1tFDYSUvEx",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1110560912975503362/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1110560906163953700,
+            "id_str": "1110560906163953664",
+            "indices": [
+              154,
+              177
+            ],
+            "media_url": "http://pbs.twimg.com/media/D2mBQplWoAA-07l.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D2mBQplWoAA-07l.jpg",
+            "url": "https://t.co/1tFDYSUvEx",
+            "display_url": "pic.twitter.com/1tFDYSUvEx",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1110560912975503362/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 26 15:15:47 +0000 2019",
+      "id": 1110560987214737400,
+      "id_str": "1110560987214737408",
+      "full_text": "@stasgharkov1 Так))) Насолода!)",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        31
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "stasgharkov1",
+            "name": "Стас",
+            "id": 2948717951,
+            "id_str": "2948717951",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1110560687804350500,
+      "in_reply_to_status_id_str": "1110560687804350464",
+      "in_reply_to_user_id": 2948717951,
+      "in_reply_to_user_id_str": "2948717951",
+      "in_reply_to_screen_name": "stasgharkov1",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }

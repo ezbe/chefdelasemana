@@ -26,46 +26,46 @@
     }
   },
   "protected": false,
-  "followers_count": 3359,
+  "followers_count": 3555,
   "friends_count": 0,
   "listed_count": 16,
   "created_at": "Thu Feb 07 14:25:31 +0000 2019",
-  "favourites_count": 1149,
+  "favourites_count": 1176,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 2347,
+  "statuses_count": 2367,
   "lang": "en",
   "status": {
-    "created_at": "Mon Mar 25 22:05:47 +0000 2019",
-    "id": 1110301781345615900,
-    "id_str": "1110301781345615873",
-    "text": "@Elena_Bers Я научу)))",
+    "created_at": "Tue Mar 26 15:15:47 +0000 2019",
+    "id": 1110560987214737400,
+    "id_str": "1110560987214737408",
+    "text": "@stasgharkov1 Так))) Насолода!)",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "Elena_Bers",
-          "name": "Елена Берс",
-          "id": 2491256486,
-          "id_str": "2491256486",
+          "screen_name": "stasgharkov1",
+          "name": "Стас",
+          "id": 2948717951,
+          "id_str": "2948717951",
           "indices": [
             0,
-            11
+            13
           ]
         }
       ],
       "urls": []
     },
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": 1110299849151385600,
-    "in_reply_to_status_id_str": "1110299849151385602",
-    "in_reply_to_user_id": 2491256486,
-    "in_reply_to_user_id_str": "2491256486",
-    "in_reply_to_screen_name": "Elena_Bers",
+    "in_reply_to_status_id": 1110560687804350500,
+    "in_reply_to_status_id_str": "1110560687804350464",
+    "in_reply_to_user_id": 2948717951,
+    "in_reply_to_user_id_str": "2948717951",
+    "in_reply_to_screen_name": "stasgharkov1",
     "geo": null,
     "coordinates": null,
     "place": null,
