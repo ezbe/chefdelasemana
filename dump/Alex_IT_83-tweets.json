@@ -1,0 +1,63 @@
+{
+  "tweets": [
+    {
+      "created_at": "Sun Mar 31 21:46:05 +0000 2019",
+      "id": 1112471150364368900,
+      "id_str": "1112471150364368898",
+      "full_text": "Спасибо @amorucciatua за прекрасную неделю!\nВпервые мы начали собирать чаевые для ведущих. Если вам понравилось, как автор ведет неделю, вы можете отправить ему чаевые (от 1 USD) 🤑 На этой неделе мы собрали для шефа $15 USD 💰\nАрхив на сайте https://t.co/esiXvGHlFs",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        264
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "amorucciatua",
+            "name": "Малиновка",
+            "id": 1310864588,
+            "id_str": "1310864588",
+            "indices": [
+              8,
+              21
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/esiXvGHlFs",
+            "expanded_url": "https://chefdelasemana.com",
+            "display_url": "chefdelasemana.com",
+            "indices": [
+              241,
+              264
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
