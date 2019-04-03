@@ -37,135 +37,56 @@
     }
   },
   "protected": false,
-  "followers_count": 3898,
+  "followers_count": 4078,
   "friends_count": 0,
-  "listed_count": 17,
+  "listed_count": 19,
   "created_at": "Thu Feb 07 14:25:31 +0000 2019",
-  "favourites_count": 1590,
+  "favourites_count": 1759,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 2902,
+  "statuses_count": 3142,
   "lang": "en",
   "status": {
-    "created_at": "Mon Apr 01 13:49:51 +0000 2019",
-    "id": 1112713691391234000,
-    "id_str": "1112713691391234049",
-    "text": "@bluenavy384 https://t.co/IMumnHGZdJ",
+    "created_at": "Wed Apr 03 18:58:55 +0000 2019",
+    "id": 1113516244244807700,
+    "id_str": "1113516244244807685",
+    "text": "@_ISTA_1501 На кефире для кишечника полезнее🤣🤣🤣",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "bluenavy384",
-          "name": "384",
-          "id": 185611083,
-          "id_str": "185611083",
+          "screen_name": "_ISTA_1501",
+          "name": "Инга Сташинская",
+          "id": 2304109906,
+          "id_str": "2304109906",
           "indices": [
             0,
-            12
+            11
           ]
         }
       ],
-      "urls": [],
-      "media": [
-        {
-          "id": 1112713686353961000,
-          "id_str": "1112713686353960960",
-          "indices": [
-            13,
-            36
-          ],
-          "media_url": "http://pbs.twimg.com/media/D3EnM8vX4AAwpyE.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/D3EnM8vX4AAwpyE.jpg",
-          "url": "https://t.co/IMumnHGZdJ",
-          "display_url": "pic.twitter.com/IMumnHGZdJ",
-          "expanded_url": "https://twitter.com/chefdelasemana/status/1112713691391234049/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1076,
-              "h": 1633,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 791,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 448,
-              "h": 680,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1112713686353961000,
-          "id_str": "1112713686353960960",
-          "indices": [
-            13,
-            36
-          ],
-          "media_url": "http://pbs.twimg.com/media/D3EnM8vX4AAwpyE.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/D3EnM8vX4AAwpyE.jpg",
-          "url": "https://t.co/IMumnHGZdJ",
-          "display_url": "pic.twitter.com/IMumnHGZdJ",
-          "expanded_url": "https://twitter.com/chefdelasemana/status/1112713691391234049/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1076,
-              "h": 1633,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 791,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 448,
-              "h": 680,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": 1112710217429643300,
-    "in_reply_to_status_id_str": "1112710217429643264",
-    "in_reply_to_user_id": 185611083,
-    "in_reply_to_user_id_str": "185611083",
-    "in_reply_to_screen_name": "bluenavy384",
+    "in_reply_to_status_id": 1113511473823846400,
+    "in_reply_to_status_id_str": "1113511473823846409",
+    "in_reply_to_user_id": 2304109906,
+    "in_reply_to_user_id_str": "2304109906",
+    "in_reply_to_screen_name": "_ISTA_1501",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "und"
+    "lang": "ru"
   },
   "contributors_enabled": false,
   "is_translator": false,
