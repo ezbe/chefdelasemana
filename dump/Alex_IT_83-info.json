@@ -37,46 +37,66 @@
     }
   },
   "protected": false,
-  "followers_count": 4078,
+  "followers_count": 4106,
   "friends_count": 0,
   "listed_count": 19,
   "created_at": "Thu Feb 07 14:25:31 +0000 2019",
-  "favourites_count": 1759,
+  "favourites_count": 1778,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 3142,
+  "statuses_count": 3207,
   "lang": "en",
   "status": {
-    "created_at": "Wed Apr 03 18:58:55 +0000 2019",
-    "id": 1113516244244807700,
-    "id_str": "1113516244244807685",
-    "text": "@_ISTA_1501 На кефире для кишечника полезнее🤣🤣🤣",
-    "truncated": false,
+    "created_at": "Thu Apr 04 15:35:11 +0000 2019",
+    "id": 1113827360305029100,
+    "id_str": "1113827360305029121",
+    "text": "@NANOZRADA @cellular_bud Почему всем? Думаю только тем, кто будет приходить с комментариями про мясо. Лично мне был… https://t.co/kcFdXOn5cA",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "_ISTA_1501",
-          "name": "Инга Сташинская",
-          "id": 2304109906,
-          "id_str": "2304109906",
+          "screen_name": "NANOZRADA",
+          "name": "Call of Ktulu",
+          "id": 3028076271,
+          "id_str": "3028076271",
           "indices": [
             0,
-            11
+            10
+          ]
+        },
+        {
+          "screen_name": "cellular_bud",
+          "name": "Мексиканский Жрец 💀",
+          "id": 3745145777,
+          "id_str": "3745145777",
+          "indices": [
+            11,
+            24
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/kcFdXOn5cA",
+          "expanded_url": "https://twitter.com/i/web/status/1113827360305029121",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": 1113511473823846400,
-    "in_reply_to_status_id_str": "1113511473823846409",
-    "in_reply_to_user_id": 2304109906,
-    "in_reply_to_user_id_str": "2304109906",
-    "in_reply_to_screen_name": "_ISTA_1501",
+    "in_reply_to_status_id": 1113825762036060200,
+    "in_reply_to_status_id_str": "1113825762036060160",
+    "in_reply_to_user_id": 3028076271,
+    "in_reply_to_user_id_str": "3028076271",
+    "in_reply_to_screen_name": "NANOZRADA",
     "geo": null,
     "coordinates": null,
     "place": null,
