@@ -37,75 +37,57 @@
     }
   },
   "protected": false,
-  "followers_count": 4106,
+  "followers_count": 4152,
   "friends_count": 0,
-  "listed_count": 19,
+  "listed_count": 20,
   "created_at": "Thu Feb 07 14:25:31 +0000 2019",
-  "favourites_count": 1778,
+  "favourites_count": 1793,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 3207,
+  "statuses_count": 3277,
   "lang": "en",
   "status": {
-    "created_at": "Thu Apr 04 15:35:11 +0000 2019",
-    "id": 1113827360305029100,
-    "id_str": "1113827360305029121",
-    "text": "@NANOZRADA @cellular_bud Почему всем? Думаю только тем, кто будет приходить с комментариями про мясо. Лично мне был… https://t.co/kcFdXOn5cA",
-    "truncated": true,
+    "created_at": "Sat Apr 06 13:27:11 +0000 2019",
+    "id": 1114519926088269800,
+    "id_str": "1114519926088269824",
+    "text": "Я кофе пью крайне редко, дети вообще не пьют. С завтраком либо чай, либо вода, либо свежевыжатый сок. https://t.co/CxcEz3aBgl",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "NANOZRADA",
-          "name": "Call of Ktulu",
-          "id": 3028076271,
-          "id_str": "3028076271",
-          "indices": [
-            0,
-            10
-          ]
-        },
-        {
-          "screen_name": "cellular_bud",
-          "name": "Мексиканский Жрец 💀",
-          "id": 3745145777,
-          "id_str": "3745145777",
-          "indices": [
-            11,
-            24
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/kcFdXOn5cA",
-          "expanded_url": "https://twitter.com/i/web/status/1113827360305029121",
-          "display_url": "twitter.com/i/web/status/1…",
+          "url": "https://t.co/CxcEz3aBgl",
+          "expanded_url": "https://twitter.com/SviySeredSvoih/status/1114516699963887616",
+          "display_url": "twitter.com/SviySeredSvoih…",
           "indices": [
-            117,
-            140
+            102,
+            125
           ]
         }
       ]
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": 1113825762036060200,
-    "in_reply_to_status_id_str": "1113825762036060160",
-    "in_reply_to_user_id": 3028076271,
-    "in_reply_to_user_id_str": "3028076271",
-    "in_reply_to_screen_name": "NANOZRADA",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 1114516699963887600,
+    "quoted_status_id_str": "1114516699963887616",
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
