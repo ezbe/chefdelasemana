@@ -4,19 +4,8 @@
   "name": "Шеф Недели",
   "screen_name": "chefdelasemana",
   "location": "North Carolina, USA",
-  "profile_location": {
-    "id": "3b98b02fba3f9753",
-    "url": "https://api.twitter.com/1.1/geo/id/3b98b02fba3f9753.json",
-    "place_type": "unknown",
-    "name": "North Carolina, USA",
-    "full_name": "North Carolina, USA",
-    "country_code": "",
-    "country": "",
-    "contained_within": [],
-    "bounding_box": null,
-    "attributes": {}
-  },
-  "description": "Коллективный аккаунт о еде от тех, кто любит готовить для тех, кто любит поесть 😜 Шеф недели @Alex_IT_83 про  то, что готовят инженеры ;))",
+  "profile_location": null,
+  "description": "Коллективный аккаунт о еде от тех, кто любит готовить для тех, кто любит поесть. Шеф недели @Alex_IT_83 про  то, что готовят инженеры ;))",
   "url": "https://t.co/luzUzd2DRn",
   "entities": {
     "url": {
@@ -37,57 +26,65 @@
     }
   },
   "protected": false,
-  "followers_count": 4152,
+  "followers_count": 4226,
   "friends_count": 0,
   "listed_count": 20,
   "created_at": "Thu Feb 07 14:25:31 +0000 2019",
-  "favourites_count": 1793,
+  "favourites_count": 1818,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 3277,
+  "statuses_count": 3354,
   "lang": "en",
   "status": {
-    "created_at": "Sat Apr 06 13:27:11 +0000 2019",
-    "id": 1114519926088269800,
-    "id_str": "1114519926088269824",
-    "text": "Я кофе пью крайне редко, дети вообще не пьют. С завтраком либо чай, либо вода, либо свежевыжатый сок. https://t.co/CxcEz3aBgl",
+    "created_at": "Sun Apr 07 18:56:09 +0000 2019",
+    "id": 1114965098152513500,
+    "id_str": "1114965098152513542",
+    "text": "@sashasmurfic @Alex_IT_83 Спасибо, Саш 🤗🤗🤗",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/CxcEz3aBgl",
-          "expanded_url": "https://twitter.com/SviySeredSvoih/status/1114516699963887616",
-          "display_url": "twitter.com/SviySeredSvoih…",
+          "screen_name": "sashasmurfic",
+          "name": "Uchpochmack",
+          "id": 960373557455966200,
+          "id_str": "960373557455966208",
           "indices": [
-            102,
-            125
+            0,
+            13
+          ]
+        },
+        {
+          "screen_name": "Alex_IT_83",
+          "name": "Alexander Vasilyev",
+          "id": 249650018,
+          "id_str": "249650018",
+          "indices": [
+            14,
+            25
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1114964636338671600,
+    "in_reply_to_status_id_str": "1114964636338671616",
+    "in_reply_to_user_id": 960373557455966200,
+    "in_reply_to_user_id_str": "960373557455966208",
+    "in_reply_to_screen_name": "sashasmurfic",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 1114516699963887600,
-    "quoted_status_id_str": "1114516699963887616",
+    "is_quote_status": false,
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
