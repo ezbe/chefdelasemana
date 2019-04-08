@@ -58,6 +58,717 @@
       "retweeted": true,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon Apr 08 05:43:15 +0000 2019",
+      "id": 1115127948372250600,
+      "id_str": "1115127948372250625",
+      "full_text": "Bonjour! Наступил понедельник, и на следующие 7 дней мы перенесёмся в приморский город Ля Рошель региона Пуату Шаранта, что во Франции🇫🇷 Вас ждут рецепты, интересные факты и, конечно, много визуальных подтверждений 📸",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        216
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 66,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Apr 08 05:47:03 +0000 2019",
+      "id": 1115128902765240300,
+      "id_str": "1115128902765240320",
+      "full_text": "Разрешите представиться. Меня зовут Лиза, и я работаю ассистентом учителя русского языка в двух местных лицеях. Люблю французский язык и культуру и, конечно же, не перестаю удивляться богатству гастрономии Пятой республики🥐",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        223
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 71,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Apr 08 06:03:03 +0000 2019",
+      "id": 1115132929917763600,
+      "id_str": "1115132929917763584",
+      "full_text": "@Svet_savchuk Вообще, моя цель как носителя языка-показать культуру изучаемой страны. Но так как у меня пед.образование, я просто веду уроки наравне с учителями, только меньшее количество часов)",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        194
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Svet_savchuk",
+            "name": "Света с куклами",
+            "id": 365518101,
+            "id_str": "365518101",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1115129407268687900,
+      "in_reply_to_status_id_str": "1115129407268687873",
+      "in_reply_to_user_id": 365518101,
+      "in_reply_to_user_id_str": "365518101",
+      "in_reply_to_screen_name": "Svet_savchuk",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Apr 08 06:04:05 +0000 2019",
+      "id": 1115133189431996400,
+      "id_str": "1115133189431996416",
+      "full_text": "@firstkaffee Конечно будем, тут их две😄 а про завтрак расскажу😉",
+      "truncated": false,
+      "display_text_range": [
+        13,
+        63
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "firstkaffee",
+            "name": "Кофеин в бочке меда",
+            "id": 993945363739496400,
+            "id_str": "993945363739496449",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1115132118034677800,
+      "in_reply_to_status_id_str": "1115132118034677760",
+      "in_reply_to_user_id": 993945363739496400,
+      "in_reply_to_user_id_str": "993945363739496449",
+      "in_reply_to_screen_name": "firstkaffee",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Apr 08 06:13:21 +0000 2019",
+      "id": 1115135522077380600,
+      "id_str": "1115135522077380608",
+      "full_text": "@einatmentief Здорово 😊 я в ЛР в 3 раз в своей жизни, и тоже не перестаю восхищаться атмосферой города)",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        103
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "einatmentief",
+            "name": "Einatmen",
+            "id": 258281760,
+            "id_str": "258281760",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1115134560826798100,
+      "in_reply_to_status_id_str": "1115134560826798082",
+      "in_reply_to_user_id": 258281760,
+      "in_reply_to_user_id_str": "258281760",
+      "in_reply_to_screen_name": "einatmentief",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Apr 08 07:10:07 +0000 2019",
+      "id": 1115149808950501400,
+      "id_str": "1115149808950501376",
+      "full_text": "Очень хотелось бы начать с французского завтрака. Но, к сожалению, этот твит окажется очень коротким, тк большинство французов пропускает этот приём пищи. Старшее поколение ещё уделяет время для свежего круассана из ближайшей пекарни.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        234
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 20,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Apr 08 07:15:33 +0000 2019",
+      "id": 1115151174980788200,
+      "id_str": "1115151174980788224",
+      "full_text": "Молодёжь в лучшем случае заглотит сухарик или печенье по пути в школу/универ/работу. Но в основном, это просто стакан фруктового сока или кофе.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        143
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1115149808950501400,
+      "in_reply_to_status_id_str": "1115149808950501376",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Apr 08 07:15:48 +0000 2019",
+      "id": 1115151238381887500,
+      "id_str": "1115151238381887489",
+      "full_text": "Французы тихо сереют от описания русских бутеров (масло и сыр? Вместе?) и приготовления вареных хлопьев с молоком и недоумевают, как можно столько есть на завтрак:)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        164
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1115151174980788200,
+      "in_reply_to_status_id_str": "1115151174980788224",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 18,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Apr 08 07:25:20 +0000 2019",
+      "id": 1115153635879673900,
+      "id_str": "1115153635879673856",
+      "full_text": "@liphold Я ниже написала) Ля Рошель",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        35
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "liphold",
+            "name": "SebasLiphold",
+            "id": 1068499513302765600,
+            "id_str": "1068499513302765570",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1115151347148628000,
+      "in_reply_to_status_id_str": "1115151347148627969",
+      "in_reply_to_user_id": 1068499513302765600,
+      "in_reply_to_user_id_str": "1068499513302765570",
+      "in_reply_to_screen_name": "liphold",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Apr 08 10:58:32 +0000 2019",
+      "id": 1115207293489045500,
+      "id_str": "1115207293489045504",
+      "full_text": "Проголодались? Французы тоже, поэтому с 12 до 1 - время обеда по всей стране. Кушают много, чтобы восполнить скудный завтрак. Например, сегодня меню в моем лицее: слойки с сыром/мясом, овощи(авокадо, грейпфрут, свёкла), телятина, рис, овощное рагу, йогурт и банан. Плюс багет.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        276
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 20,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Apr 08 11:00:58 +0000 2019",
+      "id": 1115207904301342700,
+      "id_str": "1115207904301342720",
+      "full_text": "Обязательно есть вегетарианский день на неделе. Хотя школьники больше ждут день с картофелем фри😄 Самый классный бонус для учителей: в их обеденном зале стоит коробка с вином. Можно приложиться 🍷",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        195
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1115207293489045500,
+      "in_reply_to_status_id_str": "1115207293489045504",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 30,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Apr 08 13:14:45 +0000 2019",
+      "id": 1115241571010666500,
+      "id_str": "1115241571010666497",
+      "full_text": "@nowhereandnobod Всё будет, ещё только первый день 😉",
+      "truncated": false,
+      "display_text_range": [
+        17,
+        52
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "nowhereandnobod",
+            "name": "нигде и никто",
+            "id": 586019243,
+            "id_str": "586019243",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1115208632260603900,
+      "in_reply_to_status_id_str": "1115208632260603904",
+      "in_reply_to_user_id": 586019243,
+      "in_reply_to_user_id_str": "586019243",
+      "in_reply_to_screen_name": "nowhereandnobod",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Apr 08 13:15:55 +0000 2019",
+      "id": 1115241867111739400,
+      "id_str": "1115241867111739392",
+      "full_text": "@ugrymy Красное) ничего особенного, но приятно)",
+      "truncated": false,
+      "display_text_range": [
+        8,
+        47
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ugrymy",
+            "name": "ржание кота",
+            "id": 2424728676,
+            "id_str": "2424728676",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1115210924141555700,
+      "in_reply_to_status_id_str": "1115210924141555712",
+      "in_reply_to_user_id": 2424728676,
+      "in_reply_to_user_id_str": "2424728676",
+      "in_reply_to_screen_name": "ugrymy",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Apr 08 14:08:10 +0000 2019",
+      "id": 1115255015843795000,
+      "id_str": "1115255015843794944",
+      "full_text": "@Vinni97248909 Соответственно) у меня треть ставки и з/п меньше SMIC, то бишь МРОТ)",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        83
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Vinni97248909",
+            "name": "Vinni",
+            "id": 1024241270254911500,
+            "id_str": "1024241270254911488",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1115235637202948100,
+      "in_reply_to_status_id_str": "1115235637202948097",
+      "in_reply_to_user_id": 1024241270254911500,
+      "in_reply_to_user_id_str": "1024241270254911488",
+      "in_reply_to_screen_name": "Vinni97248909",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Apr 08 14:30:20 +0000 2019",
+      "id": 1115260591072055300,
+      "id_str": "1115260591072055297",
+      "full_text": "Вы готовы к новым вкусам и формам подачи еды?) Тогда сегодня на повестке дня аперитив-то, с чего начинается праздничный обед. Подаются «les amuses-bouche» на один укус: канапе, рулетики, свежие овощи и снэки. Всё запивается шампанским/вином/коктейлем.На фото пример аперо) https://t.co/TeVnKcS3Pu",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        272
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1115260584386355200,
+            "id_str": "1115260584386355203",
+            "indices": [
+              273,
+              296
+            ],
+            "media_url": "http://pbs.twimg.com/media/D3ozl7RX4AMbJ5o.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D3ozl7RX4AMbJ5o.jpg",
+            "url": "https://t.co/TeVnKcS3Pu",
+            "display_url": "pic.twitter.com/TeVnKcS3Pu",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1115260591072055297/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1115260584386355200,
+            "id_str": "1115260584386355203",
+            "indices": [
+              273,
+              296
+            ],
+            "media_url": "http://pbs.twimg.com/media/D3ozl7RX4AMbJ5o.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D3ozl7RX4AMbJ5o.jpg",
+            "url": "https://t.co/TeVnKcS3Pu",
+            "display_url": "pic.twitter.com/TeVnKcS3Pu",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1115260591072055297/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }

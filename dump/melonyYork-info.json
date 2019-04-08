@@ -5,7 +5,7 @@
   "screen_name": "chefdelasemana",
   "location": "North Carolina, USA",
   "profile_location": null,
-  "description": "Коллективный аккаунт о еде от тех, кто любит готовить для тех, кто любит поесть. Шеф недели @Alex_IT_83 про  то, что готовят инженеры ;))",
+  "description": "Коллективный аккаунт о еде от тех, кто любит готовить для тех, кто любит поесть. Шеф недели @ melonyYork откроет все секреты французской кухни 🤫",
   "url": "https://t.co/luzUzd2DRn",
   "entities": {
     "url": {
@@ -26,51 +26,40 @@
     }
   },
   "protected": false,
-  "followers_count": 4232,
+  "followers_count": 4329,
   "friends_count": 0,
-  "listed_count": 20,
+  "listed_count": 21,
   "created_at": "Thu Feb 07 14:25:31 +0000 2019",
-  "favourites_count": 1819,
+  "favourites_count": 1822,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 3355,
+  "statuses_count": 3370,
   "lang": "en",
   "status": {
-    "created_at": "Sun Apr 07 22:55:05 +0000 2019",
-    "id": 1115025228344721400,
-    "id_str": "1115025228344721408",
-    "text": "Спасибо за неделю @Alex_IT_83 \nАрхив как всегда на сайте - https://t.co/6wOIEdjst4\nУже завтра французская кухня! Подписывайтесь!",
-    "truncated": false,
+    "created_at": "Mon Apr 08 14:30:20 +0000 2019",
+    "id": 1115260591072055300,
+    "id_str": "1115260591072055297",
+    "text": "Вы готовы к новым вкусам и формам подачи еды?) Тогда сегодня на повестке дня аперитив-то, с чего начинается праздни… https://t.co/jLXk7XhK7b",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "Alex_IT_83",
-          "name": "Alexander Vasilyev",
-          "id": 249650018,
-          "id_str": "249650018",
-          "indices": [
-            18,
-            29
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/6wOIEdjst4",
-          "expanded_url": "http://chefdelasemana.com",
-          "display_url": "chefdelasemana.com",
+          "url": "https://t.co/jLXk7XhK7b",
+          "expanded_url": "https://twitter.com/i/web/status/1115260591072055297",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            59,
-            82
+            117,
+            140
           ]
         }
       ]
     },
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -81,10 +70,10 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 5,
+    "retweet_count": 0,
+    "favorite_count": 1,
     "favorited": false,
-    "retweeted": true,
+    "retweeted": false,
     "possibly_sensitive": false,
     "lang": "ru"
   },
@@ -95,9 +84,9 @@
   "profile_background_image_url": null,
   "profile_background_image_url_https": null,
   "profile_background_tile": false,
-  "profile_image_url": "http://pbs.twimg.com/profile_images/1112522567007518720/X21Jjk9e_normal.jpg",
-  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1112522567007518720/X21Jjk9e_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1093516106545930240/1554123622",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1115125349355016192/46hOfehG_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1115125349355016192/46hOfehG_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1093516106545930240/1554701576",
   "profile_link_color": "1DA1F2",
   "profile_sidebar_border_color": "C0DEED",
   "profile_sidebar_fill_color": "DDEEF6",
