@@ -3,9 +3,20 @@
   "id_str": "1093516106545930240",
   "name": "Шеф Недели",
   "screen_name": "chefdelasemana",
-  "location": "La Rochelle, France",
-  "profile_location": null,
-  "description": "Коллективный аккаунт о еде от тех, кто любит готовить для тех, кто любит поесть. Шеф недели @melonyYork откроет все секреты французской кухни 🤫",
+  "location": "Saint Petersburg, Russia",
+  "profile_location": {
+    "id": "a76c0cd7d56c4836",
+    "url": "https://api.twitter.com/1.1/geo/id/a76c0cd7d56c4836.json",
+    "place_type": "unknown",
+    "name": "Saint Petersburg, Russia",
+    "full_name": "Saint Petersburg, Russia",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
+  "description": "Коллективный аккаунт о еде от тех, кто любит готовить для тех, кто любит поесть. Шеф недели @MrKuhnya расскажет немного о донской кухне, хорошей еде и продуктах",
   "url": "https://t.co/luzUzd2DRn",
   "entities": {
     "url": {
@@ -26,66 +37,55 @@
     }
   },
   "protected": false,
-  "followers_count": 4621,
+  "followers_count": 4609,
   "friends_count": 0,
   "listed_count": 24,
   "created_at": "Thu Feb 07 14:25:31 +0000 2019",
-  "favourites_count": 1867,
+  "favourites_count": 1870,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 3528,
+  "statuses_count": 3553,
   "lang": "en",
   "status": {
-    "created_at": "Sun Apr 14 20:05:17 +0000 2019",
-    "id": 1117519213583831000,
-    "id_str": "1117519213583831040",
-    "text": "Спасибо шефу @melonyYork за эту неделю! Не забывайте про чаевые шефу, если вам понравилась его неделя! Архив как вс… https://t.co/SugyK0bjDt",
-    "truncated": true,
+    "created_at": "Mon Apr 15 11:28:05 +0000 2019",
+    "id": 1117751444105564200,
+    "id_str": "1117751444105564162",
+    "text": "@mogves Та зачем, что мы сыровялить окорок сами не умеем?)))",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "melonyYork",
-          "name": "liza bruchikova",
-          "id": 164248270,
-          "id_str": "164248270",
+          "screen_name": "mogves",
+          "name": "Vesel_On",
+          "id": 869458873991798800,
+          "id_str": "869458873991798785",
           "indices": [
-            13,
-            24
+            0,
+            7
           ]
         }
       ],
-      "urls": [
-        {
-          "url": "https://t.co/SugyK0bjDt",
-          "expanded_url": "https://twitter.com/i/web/status/1117519213583831040",
-          "display_url": "twitter.com/i/web/status/1…",
-          "indices": [
-            117,
-            140
-          ]
-        }
-      ]
+      "urls": []
     },
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1117749950149013500,
+    "in_reply_to_status_id_str": "1117749950149013505",
+    "in_reply_to_user_id": 869458873991798800,
+    "in_reply_to_user_id_str": "869458873991798785",
+    "in_reply_to_screen_name": "mogves",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 3,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
@@ -95,8 +95,8 @@
   "profile_background_image_url": null,
   "profile_background_image_url_https": null,
   "profile_background_tile": false,
-  "profile_image_url": "http://pbs.twimg.com/profile_images/1115125349355016192/46hOfehG_normal.jpg",
-  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1115125349355016192/46hOfehG_normal.jpg",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1117531484066320386/uopPAKvW_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117531484066320386/uopPAKvW_normal.jpg",
   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1093516106545930240/1554701576",
   "profile_link_color": "1DA1F2",
   "profile_sidebar_border_color": "C0DEED",
