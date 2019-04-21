@@ -1,0 +1,186 @@
+{
+  "tweets": [
+    {
+      "created_at": "Sun Apr 21 21:34:21 +0000 2019",
+      "id": 1120078343146283000,
+      "id_str": "1120078343146283008",
+      "full_text": "Спасибо за эту неделю @MrKuhnya\nАрхив как всегда на сайте - https://t.co/6wOIEdjst4",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        83
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MrKuhnya",
+            "name": "Kukharichev Aleksey",
+            "id": 314689400,
+            "id_str": "314689400",
+            "indices": [
+              22,
+              31
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/6wOIEdjst4",
+            "expanded_url": "http://chefdelasemana.com",
+            "display_url": "chefdelasemana.com",
+            "indices": [
+              60,
+              83
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Apr 21 21:35:26 +0000 2019",
+      "id": 1120078612810620900,
+      "id_str": "1120078612810620930",
+      "full_text": "Не забывайте про чаевые для шефов!\nhttps://t.co/oVjeefUnnu https://t.co/tuPvgWEzn6",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        58
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/oVjeefUnnu",
+            "expanded_url": "https://mex4u.biz/collections/frontpage/products/пропина",
+            "display_url": "mex4u.biz/collections/fr…",
+            "indices": [
+              35,
+              58
+            ]
+          },
+          {
+            "url": "https://t.co/tuPvgWEzn6",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1120078343146283008",
+            "display_url": "twitter.com/chefdelasemana…",
+            "indices": [
+              59,
+              82
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 1120078343146283000,
+      "in_reply_to_status_id_str": "1120078343146283008",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1120078343146283000,
+      "quoted_status_id_str": "1120078343146283008",
+      "quoted_status_permalink": {
+        "url": "https://t.co/tuPvgWEzn6",
+        "expanded": "https://twitter.com/chefdelasemana/status/1120078343146283008",
+        "display": "twitter.com/chefdelasemana…"
+      },
+      "quoted_status": {
+        "created_at": "Sun Apr 21 21:34:21 +0000 2019",
+        "id": 1120078343146283000,
+        "id_str": "1120078343146283008",
+        "full_text": "Спасибо за эту неделю @MrKuhnya\nАрхив как всегда на сайте - https://t.co/6wOIEdjst4",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          83
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "MrKuhnya",
+              "name": "Kukharichev Aleksey",
+              "id": 314689400,
+              "id_str": "314689400",
+              "indices": [
+                22,
+                31
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/6wOIEdjst4",
+              "expanded_url": "http://chefdelasemana.com",
+              "display_url": "chefdelasemana.com",
+              "indices": [
+                60,
+                83
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1093516106545930200,
+          "id_str": "1093516106545930240"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
