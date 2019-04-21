@@ -20393,6 +20393,602 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sun Apr 21 17:10:01 +0000 2019",
+      "id": 1120011819639160800,
+      "id_str": "1120011819639160832",
+      "full_text": "RT @cellular_bud: 11.11 начнется подготовка к долгой якутской зиме на @chefdelasemana \nПодписывайтесь! https://t.co/RvMg47dhsW",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        126
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              3,
+              16
+            ]
+          },
+          {
+            "screen_name": "chefdelasemana",
+            "name": "Шеф Недели",
+            "id": 1093516106545930200,
+            "id_str": "1093516106545930240",
+            "indices": [
+              70,
+              85
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1120002887055282200,
+            "id_str": "1120002887055282178",
+            "indices": [
+              103,
+              126
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/D4sMsRZXkAIqzxp.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D4sMsRZXkAIqzxp.jpg",
+            "url": "https://t.co/RvMg47dhsW",
+            "display_url": "pic.twitter.com/RvMg47dhsW",
+            "expanded_url": "https://twitter.com/cellular_bud/status/1120002941136642049/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 400,
+                "h": 224,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 400,
+                "h": 224,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 400,
+                "h": 224,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 1120002941136642000,
+            "source_status_id_str": "1120002941136642049",
+            "source_user_id": 3745145777,
+            "source_user_id_str": "3745145777"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1120002887055282200,
+            "id_str": "1120002887055282178",
+            "indices": [
+              103,
+              126
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/D4sMsRZXkAIqzxp.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D4sMsRZXkAIqzxp.jpg",
+            "url": "https://t.co/RvMg47dhsW",
+            "display_url": "pic.twitter.com/RvMg47dhsW",
+            "expanded_url": "https://twitter.com/cellular_bud/status/1120002941136642049/photo/1",
+            "type": "animated_gif",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 400,
+                "h": 224,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 400,
+                "h": 224,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 400,
+                "h": 224,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 1120002941136642000,
+            "source_status_id_str": "1120002941136642049",
+            "source_user_id": 3745145777,
+            "source_user_id_str": "3745145777",
+            "video_info": {
+              "aspect_ratio": [
+                25,
+                14
+              ],
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/tweet_video/D4sMsRZXkAIqzxp.mp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Apr 21 16:34:44 +0000 2019",
+        "id": 1120002941136642000,
+        "id_str": "1120002941136642049",
+        "full_text": "11.11 начнется подготовка к долгой якутской зиме на @chefdelasemana \nПодписывайтесь! https://t.co/RvMg47dhsW",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          84
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "chefdelasemana",
+              "name": "Шеф Недели",
+              "id": 1093516106545930200,
+              "id_str": "1093516106545930240",
+              "indices": [
+                52,
+                67
+              ]
+            }
+          ],
+          "urls": [],
+          "media": [
+            {
+              "id": 1120002887055282200,
+              "id_str": "1120002887055282178",
+              "indices": [
+                85,
+                108
+              ],
+              "media_url": "http://pbs.twimg.com/tweet_video_thumb/D4sMsRZXkAIqzxp.jpg",
+              "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D4sMsRZXkAIqzxp.jpg",
+              "url": "https://t.co/RvMg47dhsW",
+              "display_url": "pic.twitter.com/RvMg47dhsW",
+              "expanded_url": "https://twitter.com/cellular_bud/status/1120002941136642049/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 400,
+                  "h": 224,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 400,
+                  "h": 224,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 400,
+                  "h": 224,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1120002887055282200,
+              "id_str": "1120002887055282178",
+              "indices": [
+                85,
+                108
+              ],
+              "media_url": "http://pbs.twimg.com/tweet_video_thumb/D4sMsRZXkAIqzxp.jpg",
+              "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D4sMsRZXkAIqzxp.jpg",
+              "url": "https://t.co/RvMg47dhsW",
+              "display_url": "pic.twitter.com/RvMg47dhsW",
+              "expanded_url": "https://twitter.com/cellular_bud/status/1120002941136642049/photo/1",
+              "type": "animated_gif",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 400,
+                  "h": 224,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 400,
+                  "h": 224,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 400,
+                  "h": 224,
+                  "resize": "fit"
+                }
+              },
+              "video_info": {
+                "aspect_ratio": [
+                  25,
+                  14
+                ],
+                "variants": [
+                  {
+                    "bitrate": 0,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/tweet_video/D4sMsRZXkAIqzxp.mp4"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 3745145777,
+          "id_str": "3745145777"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 12,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Apr 21 18:52:35 +0000 2019",
+      "id": 1120037632766107600,
+      "id_str": "1120037632766107649",
+      "full_text": "Не знаю как для вас, но для меня эта неделя получилась очень насыщенной. Поначалу было страшно, но ваша поддержка была очень крутой :) Надеюсь, что вам так же понравилось хоть что-то из предложенных мною блюд. Мой дозор окончен, спасибо всем большое :) https://t.co/NVWwM78pGF",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        252
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1120037624314564600,
+            "id_str": "1120037624314564608",
+            "indices": [
+              253,
+              276
+            ],
+            "media_url": "http://pbs.twimg.com/media/D4ssSPxXkAAfg9b.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D4ssSPxXkAAfg9b.jpg",
+            "url": "https://t.co/NVWwM78pGF",
+            "display_url": "pic.twitter.com/NVWwM78pGF",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1120037632766107649/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 530,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 770,
+                "h": 600,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 770,
+                "h": 600,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1120037624314564600,
+            "id_str": "1120037624314564608",
+            "indices": [
+              253,
+              276
+            ],
+            "media_url": "http://pbs.twimg.com/media/D4ssSPxXkAAfg9b.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D4ssSPxXkAAfg9b.jpg",
+            "url": "https://t.co/NVWwM78pGF",
+            "display_url": "pic.twitter.com/NVWwM78pGF",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1120037632766107649/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 530,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 770,
+                "h": 600,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 770,
+                "h": 600,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 56,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Apr 21 21:34:21 +0000 2019",
+      "id": 1120078343146283000,
+      "id_str": "1120078343146283008",
+      "full_text": "Спасибо за эту неделю @MrKuhnya\nАрхив как всегда на сайте - https://t.co/6wOIEdjst4",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        83
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MrKuhnya",
+            "name": "Kukharichev Aleksey",
+            "id": 314689400,
+            "id_str": "314689400",
+            "indices": [
+              22,
+              31
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/6wOIEdjst4",
+            "expanded_url": "http://chefdelasemana.com",
+            "display_url": "chefdelasemana.com",
+            "indices": [
+              60,
+              83
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Apr 21 21:35:26 +0000 2019",
+      "id": 1120078612810620900,
+      "id_str": "1120078612810620930",
+      "full_text": "Не забывайте про чаевые для шефов!\nhttps://t.co/oVjeefUnnu https://t.co/tuPvgWEzn6",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        58
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/oVjeefUnnu",
+            "expanded_url": "https://mex4u.biz/collections/frontpage/products/пропина",
+            "display_url": "mex4u.biz/collections/fr…",
+            "indices": [
+              35,
+              58
+            ]
+          },
+          {
+            "url": "https://t.co/tuPvgWEzn6",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1120078343146283008",
+            "display_url": "twitter.com/chefdelasemana…",
+            "indices": [
+              59,
+              82
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 1120078343146283000,
+      "in_reply_to_status_id_str": "1120078343146283008",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1120078343146283000,
+      "quoted_status_id_str": "1120078343146283008",
+      "quoted_status_permalink": {
+        "url": "https://t.co/tuPvgWEzn6",
+        "expanded": "https://twitter.com/chefdelasemana/status/1120078343146283008",
+        "display": "twitter.com/chefdelasemana…"
+      },
+      "quoted_status": {
+        "created_at": "Sun Apr 21 21:34:21 +0000 2019",
+        "id": 1120078343146283000,
+        "id_str": "1120078343146283008",
+        "full_text": "Спасибо за эту неделю @MrKuhnya\nАрхив как всегда на сайте - https://t.co/6wOIEdjst4",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          83
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "MrKuhnya",
+              "name": "Kukharichev Aleksey",
+              "id": 314689400,
+              "id_str": "314689400",
+              "indices": [
+                22,
+                31
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/6wOIEdjst4",
+              "expanded_url": "http://chefdelasemana.com",
+              "display_url": "chefdelasemana.com",
+              "indices": [
+                60,
+                83
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1093516106545930200,
+          "id_str": "1093516106545930240"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
