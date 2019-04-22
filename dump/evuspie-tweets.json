@@ -636,6 +636,54 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon Apr 22 12:57:12 +0000 2019",
+      "id": 1120310587022618600,
+      "id_str": "1120310587022618624",
+      "full_text": "@whattdaduck Отвечаю) диафрагму в \"доброй индюшке покупал\", а рецепт уж совсем прост: мясо чуть нарезать, чтоб стабилизировать толщину, посолить, паприкой копчёной пошептать. Масло сливочное грамм 200 постоянно помешивая до коричневого догреть на среднем огне и жарить стейк с чесноком",
+      "truncated": false,
+      "display_text_range": [
+        13,
+        285
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "whattdaduck",
+            "name": "Валерка цыган",
+            "id": 1096497291316342800,
+            "id_str": "1096497291316342786",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1120307148674695200,
+      "in_reply_to_status_id_str": "1120307148674695168",
+      "in_reply_to_user_id": 1096497291316342800,
+      "in_reply_to_user_id_str": "1096497291316342786",
+      "in_reply_to_screen_name": "whattdaduck",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }

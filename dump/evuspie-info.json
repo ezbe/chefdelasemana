@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 4715,
+  "followers_count": 4719,
   "friends_count": 0,
   "listed_count": 24,
   "created_at": "Thu Feb 07 14:25:31 +0000 2019",
@@ -35,46 +35,56 @@
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 3821,
+  "statuses_count": 3822,
   "lang": "en",
   "status": {
-    "created_at": "Mon Apr 22 12:16:28 +0000 2019",
-    "id": 1120300333236932600,
-    "id_str": "1120300333236932613",
-    "text": "Мой твитер совершенно не про еду, так что приглашаю в инстаграм https://t.co/kou3DO2nPo",
-    "truncated": false,
+    "created_at": "Mon Apr 22 12:57:12 +0000 2019",
+    "id": 1120310587022618600,
+    "id_str": "1120310587022618624",
+    "text": "@whattdaduck Отвечаю) диафрагму в \"доброй индюшке покупал\", а рецепт уж совсем прост: мясо чуть нарезать, чтоб стаб… https://t.co/kEaO7mH6BN",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "whattdaduck",
+          "name": "Валерка цыган",
+          "id": 1096497291316342800,
+          "id_str": "1096497291316342786",
+          "indices": [
+            0,
+            12
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/kou3DO2nPo",
-          "expanded_url": "http://instagram.com/chef_rodionov",
-          "display_url": "instagram.com/chef_rodionov",
+          "url": "https://t.co/kEaO7mH6BN",
+          "expanded_url": "https://twitter.com/i/web/status/1120310587022618624",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            64,
-            87
+            117,
+            140
           ]
         }
       ]
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1120307148674695200,
+    "in_reply_to_status_id_str": "1120307148674695168",
+    "in_reply_to_user_id": 1096497291316342800,
+    "in_reply_to_user_id_str": "1096497291316342786",
+    "in_reply_to_screen_name": "whattdaduck",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 2,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
