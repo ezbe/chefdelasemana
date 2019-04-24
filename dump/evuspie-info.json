@@ -26,63 +26,53 @@
     }
   },
   "protected": false,
-  "followers_count": 4956,
+  "followers_count": 5110,
   "friends_count": 0,
-  "listed_count": 25,
+  "listed_count": 26,
   "created_at": "Thu Feb 07 14:25:31 +0000 2019",
-  "favourites_count": 1930,
+  "favourites_count": 1949,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 3888,
+  "statuses_count": 3962,
   "lang": "en",
   "status": {
-    "created_at": "Tue Apr 23 11:44:01 +0000 2019",
-    "id": 1120654553857298400,
-    "id_str": "1120654553857298432",
-    "text": "@carpediemaafaka @Generer101 Сорта, выведенные селекцией",
+    "created_at": "Wed Apr 24 13:46:24 +0000 2019",
+    "id": 1121047743231922200,
+    "id_str": "1121047743231922176",
+    "text": "@Alzar47943908 Потрясающе! Спасибо большое!",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "carpediemaafaka",
-          "name": "Чорнедзер Кало",
-          "id": 1096794243195121700,
-          "id_str": "1096794243195121664",
+          "screen_name": "Alzar47943908",
+          "name": "Alzar 25%",
+          "id": 841303991501934600,
+          "id_str": "841303991501934592",
           "indices": [
             0,
-            16
-          ]
-        },
-        {
-          "screen_name": "Generer101",
-          "name": "Generer",
-          "id": 1118134991500791800,
-          "id_str": "1118134991500791808",
-          "indices": [
-            17,
-            28
+            14
           ]
         }
       ],
       "urls": []
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": 1120650218561855500,
-    "in_reply_to_status_id_str": "1120650218561855488",
-    "in_reply_to_user_id": 1096794243195121700,
-    "in_reply_to_user_id_str": "1096794243195121664",
-    "in_reply_to_screen_name": "carpediemaafaka",
+    "in_reply_to_status_id": 1121032814340784100,
+    "in_reply_to_status_id_str": "1121032814340784128",
+    "in_reply_to_user_id": 841303991501934600,
+    "in_reply_to_user_id_str": "841303991501934592",
+    "in_reply_to_screen_name": "Alzar47943908",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
