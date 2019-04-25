@@ -26,46 +26,66 @@
     }
   },
   "protected": false,
-  "followers_count": 5110,
+  "followers_count": 5191,
   "friends_count": 0,
-  "listed_count": 26,
+  "listed_count": 28,
   "created_at": "Thu Feb 07 14:25:31 +0000 2019",
-  "favourites_count": 1949,
+  "favourites_count": 1960,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 3962,
+  "statuses_count": 4019,
   "lang": "en",
   "status": {
-    "created_at": "Wed Apr 24 13:46:24 +0000 2019",
-    "id": 1121047743231922200,
-    "id_str": "1121047743231922176",
-    "text": "@Alzar47943908 Потрясающе! Спасибо большое!",
-    "truncated": false,
+    "created_at": "Thu Apr 25 16:08:37 +0000 2019",
+    "id": 1121445919193534500,
+    "id_str": "1121445919193534468",
+    "text": "@the_gozo @cellular_bud Про ялтинскй отдельно. Не совсем вкусовщина. Сейчас большинство людей с гастритом, а сырой… https://t.co/5JNSofSDmN",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "Alzar47943908",
-          "name": "Alzar 25%",
-          "id": 841303991501934600,
-          "id_str": "841303991501934592",
+          "screen_name": "the_gozo",
+          "name": "Igor",
+          "id": 33498827,
+          "id_str": "33498827",
           "indices": [
             0,
-            14
+            9
+          ]
+        },
+        {
+          "screen_name": "cellular_bud",
+          "name": "Мексиканский Жрец 💀",
+          "id": 3745145777,
+          "id_str": "3745145777",
+          "indices": [
+            10,
+            23
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/5JNSofSDmN",
+          "expanded_url": "https://twitter.com/i/web/status/1121445919193534468",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": 1121032814340784100,
-    "in_reply_to_status_id_str": "1121032814340784128",
-    "in_reply_to_user_id": 841303991501934600,
-    "in_reply_to_user_id_str": "841303991501934592",
-    "in_reply_to_screen_name": "Alzar47943908",
+    "in_reply_to_status_id": 1121442068742725600,
+    "in_reply_to_status_id_str": "1121442068742725632",
+    "in_reply_to_user_id": 33498827,
+    "in_reply_to_user_id_str": "33498827",
+    "in_reply_to_screen_name": "the_gozo",
     "geo": null,
     "coordinates": null,
     "place": null,
