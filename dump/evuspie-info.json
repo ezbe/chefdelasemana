@@ -26,73 +26,53 @@
     }
   },
   "protected": false,
-  "followers_count": 5191,
+  "followers_count": 5258,
   "friends_count": 0,
   "listed_count": 28,
   "created_at": "Thu Feb 07 14:25:31 +0000 2019",
-  "favourites_count": 1960,
+  "favourites_count": 1989,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 4019,
+  "statuses_count": 4081,
   "lang": "en",
   "status": {
-    "created_at": "Thu Apr 25 16:08:37 +0000 2019",
-    "id": 1121445919193534500,
-    "id_str": "1121445919193534468",
-    "text": "@the_gozo @cellular_bud Про ялтинскй отдельно. Не совсем вкусовщина. Сейчас большинство людей с гастритом, а сырой… https://t.co/5JNSofSDmN",
-    "truncated": true,
+    "created_at": "Sat Apr 27 06:17:11 +0000 2019",
+    "id": 1122021857115426800,
+    "id_str": "1122021857115426817",
+    "text": "@elenash500 Именно)",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "the_gozo",
-          "name": "Igor",
-          "id": 33498827,
-          "id_str": "33498827",
+          "screen_name": "elenash500",
+          "name": "Елена Щербакова",
+          "id": 1381900111,
+          "id_str": "1381900111",
           "indices": [
             0,
-            9
-          ]
-        },
-        {
-          "screen_name": "cellular_bud",
-          "name": "Мексиканский Жрец 💀",
-          "id": 3745145777,
-          "id_str": "3745145777",
-          "indices": [
-            10,
-            23
+            11
           ]
         }
       ],
-      "urls": [
-        {
-          "url": "https://t.co/5JNSofSDmN",
-          "expanded_url": "https://twitter.com/i/web/status/1121445919193534468",
-          "display_url": "twitter.com/i/web/status/1…",
-          "indices": [
-            116,
-            139
-          ]
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": 1121442068742725600,
-    "in_reply_to_status_id_str": "1121442068742725632",
-    "in_reply_to_user_id": 33498827,
-    "in_reply_to_user_id_str": "33498827",
-    "in_reply_to_screen_name": "the_gozo",
+    "in_reply_to_status_id": 1122005919989207000,
+    "in_reply_to_status_id_str": "1122005919989207040",
+    "in_reply_to_user_id": 1381900111,
+    "in_reply_to_user_id_str": "1381900111",
+    "in_reply_to_screen_name": "elenash500",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
