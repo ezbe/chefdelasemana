@@ -3,7 +3,7 @@
   "id_str": "1093516106545930240",
   "name": "Шеф Недели",
   "screen_name": "chefdelasemana",
-  "location": "Самара , Россия",
+  "location": "Липецк, Россия",
   "profile_location": null,
   "description": "Коллективный аккаунт о еде от тех, кто любит готовить для тех, кто любит поесть. Шеф недели @evuspie расскажет про вкусную еду без границ и покажет милые видео",
   "url": "https://t.co/luzUzd2DRn",
@@ -26,55 +26,66 @@
     }
   },
   "protected": false,
-  "followers_count": 5258,
+  "followers_count": 5304,
   "friends_count": 0,
   "listed_count": 28,
   "created_at": "Thu Feb 07 14:25:31 +0000 2019",
-  "favourites_count": 1989,
+  "favourites_count": 2014,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 4081,
+  "statuses_count": 4105,
   "lang": "en",
   "status": {
-    "created_at": "Sat Apr 27 06:17:11 +0000 2019",
-    "id": 1122021857115426800,
-    "id_str": "1122021857115426817",
-    "text": "@elenash500 Именно)",
-    "truncated": false,
+    "created_at": "Sun Apr 28 18:49:52 +0000 2019",
+    "id": 1122573662991847400,
+    "id_str": "1122573662991847426",
+    "text": "Большое спасибо @evuspie за эту неделю! Собрано $26 USD чаевых для шефа. Архив как всегда на сайте -… https://t.co/aDmFP9VyT6",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "elenash500",
-          "name": "Елена Щербакова",
-          "id": 1381900111,
-          "id_str": "1381900111",
+          "screen_name": "evuspie",
+          "name": "PEARL STRAWBERG",
+          "id": 206094373,
+          "id_str": "206094373",
           "indices": [
-            0,
-            11
+            16,
+            24
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/aDmFP9VyT6",
+          "expanded_url": "https://twitter.com/i/web/status/1122573662991847426",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            102,
+            125
+          ]
+        }
+      ]
     },
-    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": 1122005919989207000,
-    "in_reply_to_status_id_str": "1122005919989207040",
-    "in_reply_to_user_id": 1381900111,
-    "in_reply_to_user_id_str": "1381900111",
-    "in_reply_to_screen_name": "elenash500",
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 1,
+    "retweet_count": 1,
+    "favorite_count": 5,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
@@ -84,9 +95,9 @@
   "profile_background_image_url": null,
   "profile_background_image_url_https": null,
   "profile_background_tile": false,
-  "profile_image_url": "http://pbs.twimg.com/profile_images/1120283783251546112/xv07MdN-_normal.jpg",
-  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1120283783251546112/xv07MdN-_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1093516106545930240/1555956752",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1122580428152614918/XQkPM34L_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1122580428152614918/XQkPM34L_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1093516106545930240/1556479006",
   "profile_link_color": "1DA1F2",
   "profile_sidebar_border_color": "C0DEED",
   "profile_sidebar_fill_color": "DDEEF6",
