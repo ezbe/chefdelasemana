@@ -832,6 +832,178 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sun May 05 17:47:20 +0000 2019",
+      "id": 1125094643102879700,
+      "id_str": "1125094643102879744",
+      "text": "@aOjUaKeuXcnASWM @cellular_bud Эти исследования говорят в первую очередь о истории развития и становления животново… https://t.co/QmBAxCgIP6",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "aOjUaKeuXcnASWM",
+            "name": "Инфузория БеЗпутина",
+            "id": 974190624130895900,
+            "id_str": "974190624130895872",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              17,
+              30
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/QmBAxCgIP6",
+            "expanded_url": "https://twitter.com/i/web/status/1125094643102879744",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1125090957324685300,
+      "in_reply_to_status_id_str": "1125090957324685312",
+      "in_reply_to_user_id": 974190624130895900,
+      "in_reply_to_user_id_str": "974190624130895872",
+      "in_reply_to_screen_name": "aOjUaKeuXcnASWM",
+      "user": {
+        "id": 964643816165789700,
+        "id_str": "964643816165789696"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun May 05 17:49:01 +0000 2019",
+      "id": 1125095066844921900,
+      "id_str": "1125095066844921857",
+      "text": "@apoorvalways @cellular_bud ООО! Я коллекционирую Карри чур карри!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "apoorvalways",
+            "name": "Apoorv Srivastava | Апурв 🇮🇳 🇧🇾 🇬🇧 🇩🇰",
+            "id": 2271260527,
+            "id_str": "2271260527",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              14,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1125003262568960000,
+      "in_reply_to_status_id_str": "1125003262568960001",
+      "in_reply_to_user_id": 2271260527,
+      "in_reply_to_user_id_str": "2271260527",
+      "in_reply_to_screen_name": "apoorvalways",
+      "user": {
+        "id": 53977473,
+        "id_str": "53977473"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun May 05 17:49:18 +0000 2019",
+      "id": 1125095138261393400,
+      "id_str": "1125095138261393408",
+      "text": "@aOjUaKeuXcnASWM @cellular_bud В Мексике проблемы с животноводством нет, а скотоводство и употребление мяса превратилось в искусство.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "aOjUaKeuXcnASWM",
+            "name": "Инфузория БеЗпутина",
+            "id": 974190624130895900,
+            "id_str": "974190624130895872",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              17,
+              30
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1125094643102879700,
+      "in_reply_to_status_id_str": "1125094643102879744",
+      "in_reply_to_user_id": 964643816165789700,
+      "in_reply_to_user_id_str": "964643816165789696",
+      "in_reply_to_screen_name": "massmasass",
+      "user": {
+        "id": 964643816165789700,
+        "id_str": "964643816165789696"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
