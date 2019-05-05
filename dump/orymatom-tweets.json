@@ -19258,6 +19258,632 @@
       "favorited": true,
       "retweeted": true,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sun May 05 13:11:08 +0000 2019",
+      "id": 1125025132882341900,
+      "id_str": "1125025132882341888",
+      "full_text": "ну и под конец своей смены расскажу про простой рецепт ростбифа. я люблю без маринадов. перец и соль. оставляю обсушить. задаю небольшую корочку на сковороде и в духовку на 2 часа при 80 градусах. https://t.co/pJL3vwo7wZ",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        196
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1125025114582593500,
+            "id_str": "1125025114582593536",
+            "indices": [
+              197,
+              220
+            ],
+            "media_url": "http://pbs.twimg.com/media/D5zkYY4WsAAj0Lg.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D5zkYY4WsAAj0Lg.jpg",
+            "url": "https://t.co/pJL3vwo7wZ",
+            "display_url": "pic.twitter.com/pJL3vwo7wZ",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1125025132882341888/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1080,
+                "h": 810,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1080,
+                "h": 810,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1125025114582593500,
+            "id_str": "1125025114582593536",
+            "indices": [
+              197,
+              220
+            ],
+            "media_url": "http://pbs.twimg.com/media/D5zkYY4WsAAj0Lg.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D5zkYY4WsAAj0Lg.jpg",
+            "url": "https://t.co/pJL3vwo7wZ",
+            "display_url": "pic.twitter.com/pJL3vwo7wZ",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1125025132882341888/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1080,
+                "h": 810,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1080,
+                "h": 810,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 12,
+      "favorite_count": 112,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun May 05 13:12:15 +0000 2019",
+      "id": 1125025416224309200,
+      "id_str": "1125025416224309248",
+      "full_text": "употреблять как угодно) https://t.co/CYELSpnFXV",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        23
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1125025406250254300,
+            "id_str": "1125025406250254336",
+            "indices": [
+              24,
+              47
+            ],
+            "media_url": "http://pbs.twimg.com/media/D5zkpXbWAAAIYn3.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D5zkpXbWAAAIYn3.jpg",
+            "url": "https://t.co/CYELSpnFXV",
+            "display_url": "pic.twitter.com/CYELSpnFXV",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1125025416224309248/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1024,
+                "h": 768,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1024,
+                "h": 768,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1125025406250254300,
+            "id_str": "1125025406250254336",
+            "indices": [
+              24,
+              47
+            ],
+            "media_url": "http://pbs.twimg.com/media/D5zkpXbWAAAIYn3.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D5zkpXbWAAAIYn3.jpg",
+            "url": "https://t.co/CYELSpnFXV",
+            "display_url": "pic.twitter.com/CYELSpnFXV",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1125025416224309248/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1024,
+                "h": 768,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1024,
+                "h": 768,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1125025132882341900,
+      "in_reply_to_status_id_str": "1125025132882341888",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 25,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun May 05 13:12:55 +0000 2019",
+      "id": 1125025580464967700,
+      "id_str": "1125025580464967681",
+      "full_text": "@smirnov_212 лук, масло, бренди и мясо",
+      "truncated": false,
+      "display_text_range": [
+        13,
+        38
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "smirnov_212",
+            "name": "smirnov212",
+            "id": 712988726021001200,
+            "id_str": "712988726021001220",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1125024208952733700,
+      "in_reply_to_status_id_str": "1125024208952733696",
+      "in_reply_to_user_id": 712988726021001200,
+      "in_reply_to_user_id_str": "712988726021001220",
+      "in_reply_to_screen_name": "smirnov_212",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun May 05 13:15:57 +0000 2019",
+      "id": 1125026346533564400,
+      "id_str": "1125026346533564418",
+      "full_text": "с вами эту неделю был я, Степан @orymatom . надеюсь вам понравилось)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        68
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "orymatom",
+            "name": "Омар к Хуйам",
+            "id": 1017197605,
+            "id_str": "1017197605",
+            "indices": [
+              32,
+              41
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 40,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun May 05 13:16:15 +0000 2019",
+      "id": 1125026422844743700,
+      "id_str": "1125026422844743680",
+      "full_text": "@smirnov_212 это дико опционально",
+      "truncated": false,
+      "display_text_range": [
+        13,
+        33
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "smirnov_212",
+            "name": "smirnov212",
+            "id": 712988726021001200,
+            "id_str": "712988726021001220",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1125025925228318700,
+      "in_reply_to_status_id_str": "1125025925228318720",
+      "in_reply_to_user_id": 712988726021001200,
+      "in_reply_to_user_id_str": "712988726021001220",
+      "in_reply_to_screen_name": "smirnov_212",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun May 05 13:17:51 +0000 2019",
+      "id": 1125026822385754100,
+      "id_str": "1125026822385754118",
+      "full_text": "@smirnov_212 фисташки, я писал)",
+      "truncated": false,
+      "display_text_range": [
+        13,
+        31
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "smirnov_212",
+            "name": "smirnov212",
+            "id": 712988726021001200,
+            "id_str": "712988726021001220",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1125026659424460800,
+      "in_reply_to_status_id_str": "1125026659424460800",
+      "in_reply_to_user_id": 712988726021001200,
+      "in_reply_to_user_id_str": "712988726021001220",
+      "in_reply_to_screen_name": "smirnov_212",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun May 05 15:12:49 +0000 2019",
+      "id": 1125055757966348300,
+      "id_str": "1125055757966348292",
+      "full_text": "@britvan8 @cellular_bud на ростбиф и овалок можно, толстый край, вырезку",
+      "truncated": false,
+      "display_text_range": [
+        24,
+        72
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "britvan8",
+            "name": "шмуль",
+            "id": 2288885673,
+            "id_str": "2288885673",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              10,
+              23
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1125049246787481600,
+      "in_reply_to_status_id_str": "1125049246787481600",
+      "in_reply_to_user_id": 2288885673,
+      "in_reply_to_user_id_str": "2288885673",
+      "in_reply_to_screen_name": "britvan8",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun May 05 15:47:36 +0000 2019",
+      "id": 1125064508307845100,
+      "id_str": "1125064508307845120",
+      "full_text": "@ksushabond около кило. важен не вес, а толщина",
+      "truncated": false,
+      "display_text_range": [
+        12,
+        47
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ksushabond",
+            "name": "оксана бондаренко",
+            "id": 552607448,
+            "id_str": "552607448",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1125063767425978400,
+      "in_reply_to_status_id_str": "1125063767425978369",
+      "in_reply_to_user_id": 552607448,
+      "in_reply_to_user_id_str": "552607448",
+      "in_reply_to_screen_name": "ksushabond",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun May 05 16:11:49 +0000 2019",
+      "id": 1125070606171553800,
+      "id_str": "1125070606171553792",
+      "full_text": "@ksalonsweetly масло с чернилами каракатицы",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        43
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ksalonsweetly",
+            "name": "Mary",
+            "id": 250117896,
+            "id_str": "250117896",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1125068921034367000,
+      "in_reply_to_status_id_str": "1125068921034366976",
+      "in_reply_to_user_id": 250117896,
+      "in_reply_to_user_id_str": "250117896",
+      "in_reply_to_screen_name": "ksalonsweetly",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun May 05 16:43:20 +0000 2019",
+      "id": 1125078536182804500,
+      "id_str": "1125078536182804480",
+      "full_text": "@Margarita20202 на 80 градусах и так не высохнет, корочка для красоты",
+      "truncated": false,
+      "display_text_range": [
+        16,
+        69
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Margarita20202",
+            "name": "Маргарита Маргарита",
+            "id": 712602922899611600,
+            "id_str": "712602922899611649",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1125071761610031100,
+      "in_reply_to_status_id_str": "1125071761610031104",
+      "in_reply_to_user_id": 712602922899611600,
+      "in_reply_to_user_id_str": "712602922899611649",
+      "in_reply_to_screen_name": "Margarita20202",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
