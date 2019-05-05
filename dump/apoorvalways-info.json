@@ -1,0 +1,118 @@
+{
+  "id": 1093516106545930200,
+  "id_str": "1093516106545930240",
+  "name": "Шеф Недели",
+  "screen_name": "chefdelasemana",
+  "location": "Липецк, Россия",
+  "profile_location": null,
+  "description": "Коллективный аккаунт о еде от тех, кто любит готовить для тех, кто любит поесть. Шеф недели @evuspie расскажет про вкусную еду без границ и покажет милые видео",
+  "url": "https://t.co/luzUzd2DRn",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/luzUzd2DRn",
+          "expanded_url": "https://chefdelasemana.com",
+          "display_url": "chefdelasemana.com",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "protected": false,
+  "followers_count": 5413,
+  "friends_count": 0,
+  "listed_count": 29,
+  "created_at": "Thu Feb 07 14:25:31 +0000 2019",
+  "favourites_count": 2082,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 4412,
+  "lang": "en",
+  "status": {
+    "created_at": "Sun May 05 16:54:20 +0000 2019",
+    "id": 1125081305878806500,
+    "id_str": "1125081305878806529",
+    "text": "Большое спасибо @orymatom за эту неделю! Архив как всегда на сайте - https://t.co/6wOIEdjst4",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "orymatom",
+          "name": "Омар к Хуйам",
+          "id": 1017197605,
+          "id_str": "1017197605",
+          "indices": [
+            16,
+            25
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/6wOIEdjst4",
+          "expanded_url": "http://chefdelasemana.com",
+          "display_url": "chefdelasemana.com",
+          "indices": [
+            69,
+            92
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ru"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "F5F8FA",
+  "profile_background_image_url": null,
+  "profile_background_image_url_https": null,
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1122580428152614918/XQkPM34L_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1122580428152614918/XQkPM34L_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1093516106545930240/1556479006",
+  "profile_link_color": "1DA1F2",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": true,
+  "default_profile_image": false,
+  "following": true,
+  "follow_request_sent": false,
+  "notifications": true,
+  "translator_type": "none",
+  "time_zone_offset": 0,
+  "geometry": {
+    "lat": 0,
+    "lng": 0
+  }
+}
