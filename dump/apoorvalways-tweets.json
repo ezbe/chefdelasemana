@@ -58,6 +58,572 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sun May 05 18:28:35 +0000 2019",
+      "id": 1125105022692282400,
+      "id_str": "1125105022692282368",
+      "full_text": "Привет всем, я буду вашим шеф-поваром на неделю.  Меня зовут Апурв @apoorvalways и я из Индии.  Я познакомлю вас с некоторыми популярными и  менее известными блюдами индийской кухни в течение недели 🤗🤗",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        201
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "apoorvalways",
+            "name": "Apoorv Srivastava | Апурв 🇮🇳 🇧🇾 🇬🇧 🇩🇰",
+            "id": 2271260527,
+            "id_str": "2271260527",
+            "indices": [
+              67,
+              80
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 15,
+      "favorite_count": 147,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun May 05 18:59:46 +0000 2019",
+      "id": 1125112868569903100,
+      "id_str": "1125112868569903104",
+      "full_text": "@normadginmanson @apoorvalways Не беспокойтесь, я предложу замену ингредиентов, которые нелегко приобрести в России, на что-то, что вы можете найти в супермаркете 🤗🤗",
+      "truncated": false,
+      "display_text_range": [
+        31,
+        165
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "normadginmanson",
+            "name": "Norma Jean",
+            "id": 1625132696,
+            "id_str": "1625132696",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "apoorvalways",
+            "name": "Apoorv Srivastava | Апурв 🇮🇳 🇧🇾 🇬🇧 🇩🇰",
+            "id": 2271260527,
+            "id_str": "2271260527",
+            "indices": [
+              17,
+              30
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1125108170387599400,
+      "in_reply_to_status_id_str": "1125108170387599360",
+      "in_reply_to_user_id": 1625132696,
+      "in_reply_to_user_id_str": "1625132696",
+      "in_reply_to_screen_name": "normadginmanson",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun May 05 19:02:02 +0000 2019",
+      "id": 1125113441797066800,
+      "id_str": "1125113441797066752",
+      "full_text": "Начнём с понедельника чай масала и курица четтинад\nВторник вегетарианский день\nСреда мясной день с говядиной/свининой\nЧетверг butter chicken и курица тандури\nПятница - день малоизвестных индийских блюд\nСуббота-день десертов и сладостей\nВоскресенье традиционный индийский завтрак",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        278
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 8,
+      "favorite_count": 76,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun May 05 19:03:16 +0000 2019",
+      "id": 1125113749956730900,
+      "id_str": "1125113749956730880",
+      "full_text": "RT @chefdelasemana: Начнём с понедельника чай масала и курица четтинад\nВторник вегетарианский день\nСреда мясной день с говядиной/свининой\nЧ…",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "chefdelasemana",
+            "name": "Шеф Недели",
+            "id": 1093516106545930200,
+            "id_str": "1093516106545930240",
+            "indices": [
+              3,
+              18
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun May 05 19:02:02 +0000 2019",
+        "id": 1125113441797066800,
+        "id_str": "1125113441797066752",
+        "full_text": "Начнём с понедельника чай масала и курица четтинад\nВторник вегетарианский день\nСреда мясной день с говядиной/свининой\nЧетверг butter chicken и курица тандури\nПятница - день малоизвестных индийских блюд\nСуббота-день десертов и сладостей\nВоскресенье традиционный индийский завтрак",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          278
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1093516106545930200,
+          "id_str": "1093516106545930240"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 8,
+        "favorite_count": 76,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 8,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun May 05 19:03:21 +0000 2019",
+      "id": 1125113772601774100,
+      "id_str": "1125113772601774080",
+      "full_text": "RT @chefdelasemana: Привет всем, я буду вашим шеф-поваром на неделю.  Меня зовут Апурв @apoorvalways и я из Индии.  Я познакомлю вас с неко…",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "chefdelasemana",
+            "name": "Шеф Недели",
+            "id": 1093516106545930200,
+            "id_str": "1093516106545930240",
+            "indices": [
+              3,
+              18
+            ]
+          },
+          {
+            "screen_name": "apoorvalways",
+            "name": "Apoorv Srivastava | Апурв 🇮🇳 🇧🇾 🇬🇧 🇩🇰",
+            "id": 2271260527,
+            "id_str": "2271260527",
+            "indices": [
+              87,
+              100
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun May 05 18:28:35 +0000 2019",
+        "id": 1125105022692282400,
+        "id_str": "1125105022692282368",
+        "full_text": "Привет всем, я буду вашим шеф-поваром на неделю.  Меня зовут Апурв @apoorvalways и я из Индии.  Я познакомлю вас с некоторыми популярными и  менее известными блюдами индийской кухни в течение недели 🤗🤗",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          201
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "apoorvalways",
+              "name": "Apoorv Srivastava | Апурв 🇮🇳 🇧🇾 🇬🇧 🇩🇰",
+              "id": 2271260527,
+              "id_str": "2271260527",
+              "indices": [
+                67,
+                80
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1093516106545930200,
+          "id_str": "1093516106545930240"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 15,
+        "favorite_count": 147,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 15,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun May 05 19:09:41 +0000 2019",
+      "id": 1125115367880192000,
+      "id_str": "1125115367880192001",
+      "full_text": "@2amt3 Да, конечно  🤗",
+      "truncated": false,
+      "display_text_range": [
+        7,
+        21
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "2amt3",
+            "name": "Алексей",
+            "id": 881740736139538400,
+            "id_str": "881740736139538433",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1125115095766446100,
+      "in_reply_to_status_id_str": "1125115095766446081",
+      "in_reply_to_user_id": 881740736139538400,
+      "in_reply_to_user_id_str": "881740736139538433",
+      "in_reply_to_screen_name": "2amt3",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun May 05 19:14:25 +0000 2019",
+      "id": 1125116559037304800,
+      "id_str": "1125116559037304832",
+      "full_text": "@corsar_cv @apoorvalways Will keep that in mind . I will try to keep the dishes as mild as possible and will mention the way of toning the spices down . Thanks for your concern .",
+      "truncated": false,
+      "display_text_range": [
+        25,
+        178
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "corsar_cv",
+            "name": "Нью-Васюки",
+            "id": 2597030065,
+            "id_str": "2597030065",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "apoorvalways",
+            "name": "Apoorv Srivastava | Апурв 🇮🇳 🇧🇾 🇬🇧 🇩🇰",
+            "id": 2271260527,
+            "id_str": "2271260527",
+            "indices": [
+              11,
+              24
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1125116017989095400,
+      "in_reply_to_status_id_str": "1125116017989095426",
+      "in_reply_to_user_id": 2597030065,
+      "in_reply_to_user_id_str": "2597030065",
+      "in_reply_to_screen_name": "corsar_cv",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun May 05 19:21:41 +0000 2019",
+      "id": 1125118386315202600,
+      "id_str": "1125118386315202560",
+      "full_text": "@2amt3 @corsar_cv @apoorvalways I will mention both. ,the traditional way it is done and the best methods by which you can bring down the spices and at the same time no compromise with the taste .",
+      "truncated": false,
+      "display_text_range": [
+        32,
+        196
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "2amt3",
+            "name": "Алексей",
+            "id": 881740736139538400,
+            "id_str": "881740736139538433",
+            "indices": [
+              0,
+              6
+            ]
+          },
+          {
+            "screen_name": "corsar_cv",
+            "name": "Нью-Васюки",
+            "id": 2597030065,
+            "id_str": "2597030065",
+            "indices": [
+              7,
+              17
+            ]
+          },
+          {
+            "screen_name": "apoorvalways",
+            "name": "Apoorv Srivastava | Апурв 🇮🇳 🇧🇾 🇬🇧 🇩🇰",
+            "id": 2271260527,
+            "id_str": "2271260527",
+            "indices": [
+              18,
+              31
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1125117444278845400,
+      "in_reply_to_status_id_str": "1125117444278845442",
+      "in_reply_to_user_id": 881740736139538400,
+      "in_reply_to_user_id_str": "881740736139538433",
+      "in_reply_to_screen_name": "2amt3",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun May 05 19:39:41 +0000 2019",
+      "id": 1125122916352290800,
+      "id_str": "1125122916352290816",
+      "full_text": "@mormontales @apoorvalways Will definitely do so gladly . Naan is like important part of our cuisine .",
+      "truncated": false,
+      "display_text_range": [
+        27,
+        102
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mormontales",
+            "name": "(  .  )(  .  )",
+            "id": 992866861883719700,
+            "id_str": "992866861883719680",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "apoorvalways",
+            "name": "Apoorv Srivastava | Апурв 🇮🇳 🇧🇾 🇬🇧 🇩🇰",
+            "id": 2271260527,
+            "id_str": "2271260527",
+            "indices": [
+              13,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1125121078047715300,
+      "in_reply_to_status_id_str": "1125121078047715328",
+      "in_reply_to_user_id": 992866861883719700,
+      "in_reply_to_user_id_str": "992866861883719680",
+      "in_reply_to_screen_name": "mormontales",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
     }
   ]
 }

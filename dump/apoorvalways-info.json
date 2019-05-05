@@ -4,7 +4,18 @@
   "name": "Шеф Недели",
   "screen_name": "chefdelasemana",
   "location": "Mumbai, India",
-  "profile_location": null,
+  "profile_location": {
+    "id": "7929cea6bd5b32bd",
+    "url": "https://api.twitter.com/1.1/geo/id/7929cea6bd5b32bd.json",
+    "place_type": "unknown",
+    "name": "Mumbai, India",
+    "full_name": "Mumbai, India",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
   "description": "Коллективный аккаунт о еде от тех, кто любит готовить для тех, кто любит поесть. Шеф недели @apoorvalways познакомит вас с аутентичной индийской кухней",
   "url": "https://t.co/luzUzd2DRn",
   "entities": {
@@ -26,67 +37,66 @@
     }
   },
   "protected": false,
-  "followers_count": 5418,
+  "followers_count": 5463,
   "friends_count": 0,
   "listed_count": 29,
   "created_at": "Thu Feb 07 14:25:31 +0000 2019",
-  "favourites_count": 2082,
+  "favourites_count": 2092,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 4412,
+  "statuses_count": 4421,
   "lang": "en",
   "status": {
-    "created_at": "Sun May 05 16:54:20 +0000 2019",
-    "id": 1125081305878806500,
-    "id_str": "1125081305878806529",
-    "text": "Большое спасибо @orymatom за эту неделю! Архив как всегда на сайте - https://t.co/6wOIEdjst4",
+    "created_at": "Sun May 05 19:39:41 +0000 2019",
+    "id": 1125122916352290800,
+    "id_str": "1125122916352290816",
+    "text": "@mormontales @apoorvalways Will definitely do so gladly . Naan is like important part of our cuisine .",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "orymatom",
-          "name": "Омар к Хуйам",
-          "id": 1017197605,
-          "id_str": "1017197605",
+          "screen_name": "mormontales",
+          "name": "(  .  )(  .  )",
+          "id": 992866861883719700,
+          "id_str": "992866861883719680",
           "indices": [
-            16,
-            25
+            0,
+            12
+          ]
+        },
+        {
+          "screen_name": "apoorvalways",
+          "name": "Apoorv Srivastava | Апурв 🇮🇳 🇧🇾 🇬🇧 🇩🇰",
+          "id": 2271260527,
+          "id_str": "2271260527",
+          "indices": [
+            13,
+            26
           ]
         }
       ],
-      "urls": [
-        {
-          "url": "https://t.co/6wOIEdjst4",
-          "expanded_url": "http://chefdelasemana.com",
-          "display_url": "chefdelasemana.com",
-          "indices": [
-            69,
-            92
-          ]
-        }
-      ]
+      "urls": []
     },
-    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1125121078047715300,
+    "in_reply_to_status_id_str": "1125121078047715328",
+    "in_reply_to_user_id": 992866861883719700,
+    "in_reply_to_user_id_str": "992866861883719680",
+    "in_reply_to_screen_name": "mormontales",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 6,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "ru"
+    "lang": "en"
   },
   "contributors_enabled": false,
   "is_translator": false,
