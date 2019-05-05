@@ -26,41 +26,51 @@
     }
   },
   "protected": false,
-  "followers_count": 5405,
+  "followers_count": 5413,
   "friends_count": 0,
   "listed_count": 29,
   "created_at": "Thu Feb 07 14:25:31 +0000 2019",
-  "favourites_count": 2076,
+  "favourites_count": 2082,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 4401,
+  "statuses_count": 4412,
   "lang": "en",
   "status": {
-    "created_at": "Sun May 05 11:46:51 +0000 2019",
-    "id": 1125003925139140600,
-    "id_str": "1125003925139140609",
-    "text": "RT @apoorvalways: Привет всем, я начну на следующей неделе, и для меня будет честью приготовить традиционную индийскую еду на следующей нед…",
+    "created_at": "Sun May 05 16:54:20 +0000 2019",
+    "id": 1125081305878806500,
+    "id_str": "1125081305878806529",
+    "text": "Большое спасибо @orymatom за эту неделю! Архив как всегда на сайте - https://t.co/6wOIEdjst4",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "apoorvalways",
-          "name": "Apoorv Srivastava | Апурв 🇮🇳 🇧🇾 🇬🇧 🇩🇰",
-          "id": 2271260527,
-          "id_str": "2271260527",
+          "screen_name": "orymatom",
+          "name": "Омар к Хуйам",
+          "id": 1017197605,
+          "id_str": "1017197605",
           "indices": [
-            3,
-            16
+            16,
+            25
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/6wOIEdjst4",
+          "expanded_url": "http://chefdelasemana.com",
+          "display_url": "chefdelasemana.com",
+          "indices": [
+            69,
+            92
+          ]
+        }
+      ]
     },
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -70,83 +80,12 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Sun May 05 11:44:14 +0000 2019",
-      "id": 1125003262568960000,
-      "id_str": "1125003262568960001",
-      "text": "Привет всем, я начну на следующей неделе, и для меня будет честью приготовить традиционную индийскую еду на следующ… https://t.co/XVRg1fFjcA",
-      "truncated": true,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-          {
-            "url": "https://t.co/XVRg1fFjcA",
-            "expanded_url": "https://twitter.com/i/web/status/1125003262568960001",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
-      },
-      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": null,
-      "in_reply_to_user_id_str": null,
-      "in_reply_to_screen_name": null,
-      "geo": null,
-      "coordinates": null,
-      "place": {
-        "id": "7929cea6bd5b32bd",
-        "url": "https://api.twitter.com/1.1/geo/id/7929cea6bd5b32bd.json",
-        "place_type": "city",
-        "name": "Mumbai",
-        "full_name": "Mumbai, India",
-        "country_code": "IN",
-        "country": "India",
-        "contained_within": [],
-        "bounding_box": {
-          "type": "Polygon",
-          "coordinates": [
-            [
-              [
-                72.74484,
-                18.845343
-              ],
-              [
-                73.003648,
-                18.845343
-              ],
-              [
-                73.003648,
-                19.502937
-              ],
-              [
-                72.74484,
-                19.502937
-              ]
-            ]
-          ]
-        },
-        "attributes": {}
-      },
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 5,
-      "favorite_count": 57,
-      "favorited": true,
-      "retweeted": true,
-      "lang": "ru"
-    },
     "is_quote_status": false,
-    "retweet_count": 5,
+    "retweet_count": 0,
     "favorite_count": 0,
-    "favorited": true,
-    "retweeted": true,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
