@@ -624,6 +624,2901 @@
       "favorited": false,
       "retweeted": false,
       "lang": "en"
+    },
+    {
+      "created_at": "Sun May 05 20:11:26 +0000 2019",
+      "id": 1125130904161009700,
+      "id_str": "1125130904161009664",
+      "full_text": "традиционный рецепт чая масала 1/2\n1 Break 10 mint leaves in boiling water\n2 Add pinch of cinnamon powder\n3 Add mix of ginger, pepper, cloves powder 1 spoon\n4 let the mixture boil for 2 minutes\n5 Add crushed 5 Cardamom seeds https://t.co/Ay3i8AnMjU",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        224
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1125130887496994800,
+            "id_str": "1125130887496994816",
+            "indices": [
+              225,
+              248
+            ],
+            "media_url": "http://pbs.twimg.com/media/D51ElLsUEAAsid9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D51ElLsUEAAsid9.jpg",
+            "url": "https://t.co/Ay3i8AnMjU",
+            "display_url": "pic.twitter.com/Ay3i8AnMjU",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1125130904161009664/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 576,
+                "h": 960,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 576,
+                "h": 960,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 408,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1125130887496994800,
+            "id_str": "1125130887496994816",
+            "indices": [
+              225,
+              248
+            ],
+            "media_url": "http://pbs.twimg.com/media/D51ElLsUEAAsid9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D51ElLsUEAAsid9.jpg",
+            "url": "https://t.co/Ay3i8AnMjU",
+            "display_url": "pic.twitter.com/Ay3i8AnMjU",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1125130904161009664/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 576,
+                "h": 960,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 576,
+                "h": 960,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 408,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1125130895537479700,
+            "id_str": "1125130895537479680",
+            "indices": [
+              225,
+              248
+            ],
+            "media_url": "http://pbs.twimg.com/media/D51ElppUIAAs4_1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D51ElppUIAAs4_1.jpg",
+            "url": "https://t.co/Ay3i8AnMjU",
+            "display_url": "pic.twitter.com/Ay3i8AnMjU",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1125130904161009664/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 480,
+                "h": 640,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 480,
+                "h": 640,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 480,
+                "h": 640,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1125130898611916800,
+            "id_str": "1125130898611916800",
+            "indices": [
+              225,
+              248
+            ],
+            "media_url": "http://pbs.twimg.com/media/D51El1GUUAAJjn9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D51El1GUUAAJjn9.jpg",
+            "url": "https://t.co/Ay3i8AnMjU",
+            "display_url": "pic.twitter.com/Ay3i8AnMjU",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1125130904161009664/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 480,
+                "h": 640,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 480,
+                "h": 640,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 480,
+                "h": 640,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1125130901547929600,
+            "id_str": "1125130901547929600",
+            "indices": [
+              225,
+              248
+            ],
+            "media_url": "http://pbs.twimg.com/media/D51EmACUUAAu4Hj.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D51EmACUUAAu4Hj.jpg",
+            "url": "https://t.co/Ay3i8AnMjU",
+            "display_url": "pic.twitter.com/Ay3i8AnMjU",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1125130904161009664/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 480,
+                "h": 640,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 480,
+                "h": 640,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 480,
+                "h": 640,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 9,
+      "favorite_count": 74,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Sun May 05 20:14:42 +0000 2019",
+      "id": 1125131728249471000,
+      "id_str": "1125131728249470977",
+      "full_text": "традиционный рецепт чая масала 2/2\n6.Add tea leaves after the mixture is boiled\n7.after 2 minutes, Add milk directly \n8.let the mix boiled properly and add crushed ginger \n9. Add sugar according to your looking\n10. Filter and serve the Masala Tea https://t.co/zIvK2aBusy",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        246
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1125131706363666400,
+            "id_str": "1125131706363666432",
+            "indices": [
+              247,
+              270
+            ],
+            "media_url": "http://pbs.twimg.com/media/D51FU2NV4AAB5SZ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D51FU2NV4AAB5SZ.jpg",
+            "url": "https://t.co/zIvK2aBusy",
+            "display_url": "pic.twitter.com/zIvK2aBusy",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1125131728249470977/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 480,
+                "h": 640,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 480,
+                "h": 640,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 480,
+                "h": 640,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1125131706363666400,
+            "id_str": "1125131706363666432",
+            "indices": [
+              247,
+              270
+            ],
+            "media_url": "http://pbs.twimg.com/media/D51FU2NV4AAB5SZ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D51FU2NV4AAB5SZ.jpg",
+            "url": "https://t.co/zIvK2aBusy",
+            "display_url": "pic.twitter.com/zIvK2aBusy",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1125131728249470977/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 480,
+                "h": 640,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 480,
+                "h": 640,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 480,
+                "h": 640,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1125131708787880000,
+            "id_str": "1125131708787879936",
+            "indices": [
+              247,
+              270
+            ],
+            "media_url": "http://pbs.twimg.com/media/D51FU_PUcAAVdD2.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D51FU_PUcAAVdD2.jpg",
+            "url": "https://t.co/zIvK2aBusy",
+            "display_url": "pic.twitter.com/zIvK2aBusy",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1125131728249470977/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 576,
+                "h": 960,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 408,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 576,
+                "h": 960,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1125131715930775600,
+            "id_str": "1125131715930775552",
+            "indices": [
+              247,
+              270
+            ],
+            "media_url": "http://pbs.twimg.com/media/D51FVZ2UYAAJX27.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D51FVZ2UYAAJX27.jpg",
+            "url": "https://t.co/zIvK2aBusy",
+            "display_url": "pic.twitter.com/zIvK2aBusy",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1125131728249470977/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 480,
+                "h": 640,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 480,
+                "h": 640,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 480,
+                "h": 640,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1125131718610939900,
+            "id_str": "1125131718610939904",
+            "indices": [
+              247,
+              270
+            ],
+            "media_url": "http://pbs.twimg.com/media/D51FVj1UcAANowL.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D51FVj1UcAANowL.jpg",
+            "url": "https://t.co/zIvK2aBusy",
+            "display_url": "pic.twitter.com/zIvK2aBusy",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1125131728249470977/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 960,
+                "h": 576,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 408,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 960,
+                "h": 576,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 10,
+      "favorite_count": 59,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Sun May 05 20:19:56 +0000 2019",
+      "id": 1125133044552126500,
+      "id_str": "1125133044552126464",
+      "full_text": "@airat_var В Индии много культур, и говядину едят многие индийцы 🤗🤗",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        67
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "airat_var",
+            "name": "varvar",
+            "id": 444349671,
+            "id_str": "444349671",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1125132598836068400,
+      "in_reply_to_status_id_str": "1125132598836068352",
+      "in_reply_to_user_id": 444349671,
+      "in_reply_to_user_id_str": "444349671",
+      "in_reply_to_screen_name": "airat_var",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun May 05 20:20:42 +0000 2019",
+      "id": 1125133236135317500,
+      "id_str": "1125133236135317504",
+      "full_text": "@saffil6403 Я сделаю все возможное, чтобы обеспечить перевод, где я могу  Заранее прошу прощения, так как мой русский не очень хорош 🤗🤗",
+      "truncated": false,
+      "display_text_range": [
+        12,
+        135
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "saffil6403",
+            "name": "Николай",
+            "id": 1318450176,
+            "id_str": "1318450176",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1125132047176093700,
+      "in_reply_to_status_id_str": "1125132047176093696",
+      "in_reply_to_user_id": 1318450176,
+      "in_reply_to_user_id_str": "1318450176",
+      "in_reply_to_screen_name": "saffil6403",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun May 05 20:21:15 +0000 2019",
+      "id": 1125133377399427100,
+      "id_str": "1125133377399427072",
+      "full_text": "RT @chefdelasemana: традиционный рецепт чая масала 1/2\n1 Break 10 mint leaves in boiling water\n2 Add pinch of cinnamon powder\n3 Add mix of…",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        139
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "chefdelasemana",
+            "name": "Шеф Недели",
+            "id": 1093516106545930200,
+            "id_str": "1093516106545930240",
+            "indices": [
+              3,
+              18
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun May 05 20:11:26 +0000 2019",
+        "id": 1125130904161009700,
+        "id_str": "1125130904161009664",
+        "full_text": "традиционный рецепт чая масала 1/2\n1 Break 10 mint leaves in boiling water\n2 Add pinch of cinnamon powder\n3 Add mix of ginger, pepper, cloves powder 1 spoon\n4 let the mixture boil for 2 minutes\n5 Add crushed 5 Cardamom seeds https://t.co/Ay3i8AnMjU",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          224
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 1125130887496994800,
+              "id_str": "1125130887496994816",
+              "indices": [
+                225,
+                248
+              ],
+              "media_url": "http://pbs.twimg.com/media/D51ElLsUEAAsid9.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/D51ElLsUEAAsid9.jpg",
+              "url": "https://t.co/Ay3i8AnMjU",
+              "display_url": "pic.twitter.com/Ay3i8AnMjU",
+              "expanded_url": "https://twitter.com/chefdelasemana/status/1125130904161009664/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 576,
+                  "h": 960,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 576,
+                  "h": 960,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 408,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1125130887496994800,
+              "id_str": "1125130887496994816",
+              "indices": [
+                225,
+                248
+              ],
+              "media_url": "http://pbs.twimg.com/media/D51ElLsUEAAsid9.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/D51ElLsUEAAsid9.jpg",
+              "url": "https://t.co/Ay3i8AnMjU",
+              "display_url": "pic.twitter.com/Ay3i8AnMjU",
+              "expanded_url": "https://twitter.com/chefdelasemana/status/1125130904161009664/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 576,
+                  "h": 960,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 576,
+                  "h": 960,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 408,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1125130895537479700,
+              "id_str": "1125130895537479680",
+              "indices": [
+                225,
+                248
+              ],
+              "media_url": "http://pbs.twimg.com/media/D51ElppUIAAs4_1.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/D51ElppUIAAs4_1.jpg",
+              "url": "https://t.co/Ay3i8AnMjU",
+              "display_url": "pic.twitter.com/Ay3i8AnMjU",
+              "expanded_url": "https://twitter.com/chefdelasemana/status/1125130904161009664/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 480,
+                  "h": 640,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 480,
+                  "h": 640,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 480,
+                  "h": 640,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1125130898611916800,
+              "id_str": "1125130898611916800",
+              "indices": [
+                225,
+                248
+              ],
+              "media_url": "http://pbs.twimg.com/media/D51El1GUUAAJjn9.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/D51El1GUUAAJjn9.jpg",
+              "url": "https://t.co/Ay3i8AnMjU",
+              "display_url": "pic.twitter.com/Ay3i8AnMjU",
+              "expanded_url": "https://twitter.com/chefdelasemana/status/1125130904161009664/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 480,
+                  "h": 640,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 480,
+                  "h": 640,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 480,
+                  "h": 640,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1125130901547929600,
+              "id_str": "1125130901547929600",
+              "indices": [
+                225,
+                248
+              ],
+              "media_url": "http://pbs.twimg.com/media/D51EmACUUAAu4Hj.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/D51EmACUUAAu4Hj.jpg",
+              "url": "https://t.co/Ay3i8AnMjU",
+              "display_url": "pic.twitter.com/Ay3i8AnMjU",
+              "expanded_url": "https://twitter.com/chefdelasemana/status/1125130904161009664/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 480,
+                  "h": 640,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 480,
+                  "h": 640,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 480,
+                  "h": 640,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1093516106545930200,
+          "id_str": "1093516106545930240"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 9,
+        "favorite_count": 74,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+      },
+      "is_quote_status": false,
+      "retweet_count": 9,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Sun May 05 20:21:19 +0000 2019",
+      "id": 1125133392448647200,
+      "id_str": "1125133392448647168",
+      "full_text": "RT @chefdelasemana: традиционный рецепт чая масала 2/2\n6.Add tea leaves after the mixture is boiled\n7.after 2 minutes, Add milk directly \n8…",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "chefdelasemana",
+            "name": "Шеф Недели",
+            "id": 1093516106545930200,
+            "id_str": "1093516106545930240",
+            "indices": [
+              3,
+              18
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun May 05 20:14:42 +0000 2019",
+        "id": 1125131728249471000,
+        "id_str": "1125131728249470977",
+        "full_text": "традиционный рецепт чая масала 2/2\n6.Add tea leaves after the mixture is boiled\n7.after 2 minutes, Add milk directly \n8.let the mix boiled properly and add crushed ginger \n9. Add sugar according to your looking\n10. Filter and serve the Masala Tea https://t.co/zIvK2aBusy",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          246
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 1125131706363666400,
+              "id_str": "1125131706363666432",
+              "indices": [
+                247,
+                270
+              ],
+              "media_url": "http://pbs.twimg.com/media/D51FU2NV4AAB5SZ.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/D51FU2NV4AAB5SZ.jpg",
+              "url": "https://t.co/zIvK2aBusy",
+              "display_url": "pic.twitter.com/zIvK2aBusy",
+              "expanded_url": "https://twitter.com/chefdelasemana/status/1125131728249470977/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 480,
+                  "h": 640,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 480,
+                  "h": 640,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 480,
+                  "h": 640,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1125131706363666400,
+              "id_str": "1125131706363666432",
+              "indices": [
+                247,
+                270
+              ],
+              "media_url": "http://pbs.twimg.com/media/D51FU2NV4AAB5SZ.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/D51FU2NV4AAB5SZ.jpg",
+              "url": "https://t.co/zIvK2aBusy",
+              "display_url": "pic.twitter.com/zIvK2aBusy",
+              "expanded_url": "https://twitter.com/chefdelasemana/status/1125131728249470977/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 480,
+                  "h": 640,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 480,
+                  "h": 640,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 480,
+                  "h": 640,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1125131708787880000,
+              "id_str": "1125131708787879936",
+              "indices": [
+                247,
+                270
+              ],
+              "media_url": "http://pbs.twimg.com/media/D51FU_PUcAAVdD2.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/D51FU_PUcAAVdD2.jpg",
+              "url": "https://t.co/zIvK2aBusy",
+              "display_url": "pic.twitter.com/zIvK2aBusy",
+              "expanded_url": "https://twitter.com/chefdelasemana/status/1125131728249470977/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 576,
+                  "h": 960,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 408,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 576,
+                  "h": 960,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1125131715930775600,
+              "id_str": "1125131715930775552",
+              "indices": [
+                247,
+                270
+              ],
+              "media_url": "http://pbs.twimg.com/media/D51FVZ2UYAAJX27.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/D51FVZ2UYAAJX27.jpg",
+              "url": "https://t.co/zIvK2aBusy",
+              "display_url": "pic.twitter.com/zIvK2aBusy",
+              "expanded_url": "https://twitter.com/chefdelasemana/status/1125131728249470977/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 480,
+                  "h": 640,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 480,
+                  "h": 640,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 480,
+                  "h": 640,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1125131718610939900,
+              "id_str": "1125131718610939904",
+              "indices": [
+                247,
+                270
+              ],
+              "media_url": "http://pbs.twimg.com/media/D51FVj1UcAANowL.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/D51FVj1UcAANowL.jpg",
+              "url": "https://t.co/zIvK2aBusy",
+              "display_url": "pic.twitter.com/zIvK2aBusy",
+              "expanded_url": "https://twitter.com/chefdelasemana/status/1125131728249470977/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 960,
+                  "h": 576,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 408,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 960,
+                  "h": 576,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1093516106545930200,
+          "id_str": "1093516106545930240"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 10,
+        "favorite_count": 59,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+      },
+      "is_quote_status": false,
+      "retweet_count": 10,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Sun May 05 20:24:35 +0000 2019",
+      "id": 1125134212959428600,
+      "id_str": "1125134212959428608",
+      "full_text": "@SOlga16 @saffil6403 большое спасибо 😊😊",
+      "truncated": false,
+      "display_text_range": [
+        21,
+        39
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SOlga16",
+            "name": "Одна  ты такая",
+            "id": 444653153,
+            "id_str": "444653153",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "saffil6403",
+            "name": "Николай",
+            "id": 1318450176,
+            "id_str": "1318450176",
+            "indices": [
+              9,
+              20
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1125133765632823300,
+      "in_reply_to_status_id_str": "1125133765632823296",
+      "in_reply_to_user_id": 444653153,
+      "in_reply_to_user_id_str": "444653153",
+      "in_reply_to_screen_name": "SOlga16",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun May 05 20:27:39 +0000 2019",
+      "id": 1125134985290084400,
+      "id_str": "1125134985290084352",
+      "full_text": "@YaMimocrocodile @apoorvalways Я буду публиковать больше блюд в качестве бонуса в течение недели ☺️☺️",
+      "truncated": false,
+      "display_text_range": [
+        31,
+        101
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "YaMimocrocodile",
+            "name": "ЯМимокрокодила💚",
+            "id": 848467475746435100,
+            "id_str": "848467475746435075",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "apoorvalways",
+            "name": "Apoorv Srivastava | Апурв 🇮🇳 🇧🇾 🇬🇧 🇩🇰",
+            "id": 2271260527,
+            "id_str": "2271260527",
+            "indices": [
+              17,
+              30
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1125134462742868000,
+      "in_reply_to_status_id_str": "1125134462742867969",
+      "in_reply_to_user_id": 848467475746435100,
+      "in_reply_to_user_id_str": "848467475746435075",
+      "in_reply_to_screen_name": "YaMimocrocodile",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun May 05 20:33:01 +0000 2019",
+      "id": 1125136337219121200,
+      "id_str": "1125136337219121152",
+      "full_text": "Я буду публиковать больше бонусов индийской кухни в течение недели в дополнение к объявленному графику  Заранее извиняюсь за отсутствие перевода, так как я не знаю русского слова для некоторых ингредиентов 😉☺️☺️",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        211
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 58,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun May 05 20:34:19 +0000 2019",
+      "id": 1125136666211913700,
+      "id_str": "1125136666211913729",
+      "full_text": "@sergeant_lipka @saffil6403 большое спасибо 🤗",
+      "truncated": false,
+      "display_text_range": [
+        28,
+        45
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sergeant_lipka",
+            "name": "sergeant_lipka",
+            "id": 96836346,
+            "id_str": "96836346",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "saffil6403",
+            "name": "Николай",
+            "id": 1318450176,
+            "id_str": "1318450176",
+            "indices": [
+              16,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1125135357400555500,
+      "in_reply_to_status_id_str": "1125135357400555520",
+      "in_reply_to_user_id": 96836346,
+      "in_reply_to_user_id_str": "96836346",
+      "in_reply_to_screen_name": "sergeant_lipka",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun May 05 20:35:49 +0000 2019",
+      "id": 1125137042965274600,
+      "id_str": "1125137042965274624",
+      "full_text": "RT @chefdelasemana: Я буду публиковать больше бонусов индийской кухни в течение недели в дополнение к объявленному графику  Заранее извиняю…",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "chefdelasemana",
+            "name": "Шеф Недели",
+            "id": 1093516106545930200,
+            "id_str": "1093516106545930240",
+            "indices": [
+              3,
+              18
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun May 05 20:33:01 +0000 2019",
+        "id": 1125136337219121200,
+        "id_str": "1125136337219121152",
+        "full_text": "Я буду публиковать больше бонусов индийской кухни в течение недели в дополнение к объявленному графику  Заранее извиняюсь за отсутствие перевода, так как я не знаю русского слова для некоторых ингредиентов 😉☺️☺️",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          211
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1093516106545930200,
+          "id_str": "1093516106545930240"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 6,
+        "favorite_count": 58,
+        "favorited": true,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 0,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun May 05 20:43:54 +0000 2019",
+      "id": 1125139077894787100,
+      "id_str": "1125139077894787072",
+      "full_text": "@corsar_cv I will gladly do all of these as bonuses in addition to the schedule ☺️",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        82
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "corsar_cv",
+            "name": "Нью-Васюки",
+            "id": 2597030065,
+            "id_str": "2597030065",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1125138815042162700,
+      "in_reply_to_status_id_str": "1125138815042162688",
+      "in_reply_to_user_id": 2597030065,
+      "in_reply_to_user_id_str": "2597030065",
+      "in_reply_to_screen_name": "corsar_cv",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon May 06 00:56:23 +0000 2019",
+      "id": 1125202616474980400,
+      "id_str": "1125202616474980353",
+      "full_text": "@godsoul76 Black",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        16
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "godsoul76",
+            "name": "maxim",
+            "id": 2225673367,
+            "id_str": "2225673367",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1125181206277050400,
+      "in_reply_to_status_id_str": "1125181206277050368",
+      "in_reply_to_user_id": 2225673367,
+      "in_reply_to_user_id_str": "2225673367",
+      "in_reply_to_screen_name": "godsoul76",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon May 06 01:58:43 +0000 2019",
+      "id": 1125218303801061400,
+      "id_str": "1125218303801061376",
+      "full_text": "@corsar_cv Oh great , Я также начал свое утро с чашки горячего чая масала.  Доброе утро https://t.co/G0YBLJ0o2m",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        87
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "corsar_cv",
+            "name": "Нью-Васюки",
+            "id": 2597030065,
+            "id_str": "2597030065",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1125218301284479000,
+            "id_str": "1125218301284478977",
+            "indices": [
+              88,
+              111
+            ],
+            "media_url": "http://pbs.twimg.com/media/D52UFVbUcAEQB_h.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D52UFVbUcAEQB_h.jpg",
+            "url": "https://t.co/G0YBLJ0o2m",
+            "display_url": "pic.twitter.com/G0YBLJ0o2m",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1125218303801061376/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 720,
+                "h": 960,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 720,
+                "h": 960,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1125218301284479000,
+            "id_str": "1125218301284478977",
+            "indices": [
+              88,
+              111
+            ],
+            "media_url": "http://pbs.twimg.com/media/D52UFVbUcAEQB_h.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D52UFVbUcAEQB_h.jpg",
+            "url": "https://t.co/G0YBLJ0o2m",
+            "display_url": "pic.twitter.com/G0YBLJ0o2m",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1125218303801061376/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 720,
+                "h": 960,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 720,
+                "h": 960,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1125214502109294600,
+      "in_reply_to_status_id_str": "1125214502109294593",
+      "in_reply_to_user_id": 2597030065,
+      "in_reply_to_user_id_str": "2597030065",
+      "in_reply_to_screen_name": "corsar_cv",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 06 02:00:51 +0000 2019",
+      "id": 1125218840164458500,
+      "id_str": "1125218840164458498",
+      "full_text": "@airat_var не волнуйся  Это все безопасно и хорошо.  Не верьте тому, что видите в СМИ.  это просто стереотипы.  Я счастлив сломать некоторые из этих стереотипов 🤗",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        162
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "airat_var",
+            "name": "varvar",
+            "id": 444349671,
+            "id_str": "444349671",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1125138026299056100,
+      "in_reply_to_status_id_str": "1125138026299056128",
+      "in_reply_to_user_id": 444349671,
+      "in_reply_to_user_id_str": "444349671",
+      "in_reply_to_screen_name": "airat_var",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 06 03:10:58 +0000 2019",
+      "id": 1125236485203071000,
+      "id_str": "1125236485203070982",
+      "full_text": "@terexanahyileti 😂😂😂",
+      "truncated": false,
+      "display_text_range": [
+        17,
+        20
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "terexanahyileti",
+            "name": "Alex",
+            "id": 1097465724304588800,
+            "id_str": "1097465724304588802",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1125142236193226800,
+      "in_reply_to_status_id_str": "1125142236193226753",
+      "in_reply_to_user_id": 1097465724304588800,
+      "in_reply_to_user_id_str": "1097465724304588802",
+      "in_reply_to_screen_name": "terexanahyileti",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon May 06 09:50:02 +0000 2019",
+      "id": 1125336914603794400,
+      "id_str": "1125336914603794433",
+      "full_text": "Индийский рецепт наана без традиционного тандыра. 1/4 \nTake dry/instant yeast(1tbsp) and sugar(1.5tbsp) in a bowl,add warm water(25ml)&amp; mix it.keep it for 15min.Add flour(2cup),salt (1tbsp) and 1 cup warm milk. knead and make a dough and then put aside covered by warm cloth https://t.co/OqqBTIH7cQ",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        278
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1125336885742702600,
+            "id_str": "1125336885742702593",
+            "indices": [
+              279,
+              302
+            ],
+            "media_url": "http://pbs.twimg.com/media/D53_729WkAE4lmp.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D53_729WkAE4lmp.jpg",
+            "url": "https://t.co/OqqBTIH7cQ",
+            "display_url": "pic.twitter.com/OqqBTIH7cQ",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1125336914603794433/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 576,
+                "h": 960,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 576,
+                "h": 960,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 408,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1125336885742702600,
+            "id_str": "1125336885742702593",
+            "indices": [
+              279,
+              302
+            ],
+            "media_url": "http://pbs.twimg.com/media/D53_729WkAE4lmp.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D53_729WkAE4lmp.jpg",
+            "url": "https://t.co/OqqBTIH7cQ",
+            "display_url": "pic.twitter.com/OqqBTIH7cQ",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1125336914603794433/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 576,
+                "h": 960,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 576,
+                "h": 960,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 408,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1125336894693367800,
+            "id_str": "1125336894693367811",
+            "indices": [
+              279,
+              302
+            ],
+            "media_url": "http://pbs.twimg.com/media/D53_8YTW4AMlY-R.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D53_8YTW4AMlY-R.jpg",
+            "url": "https://t.co/OqqBTIH7cQ",
+            "display_url": "pic.twitter.com/OqqBTIH7cQ",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1125336914603794433/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 720,
+                "h": 960,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 720,
+                "h": 960,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1125336903820173300,
+            "id_str": "1125336903820173312",
+            "indices": [
+              279,
+              302
+            ],
+            "media_url": "http://pbs.twimg.com/media/D53_86TW4AA35Am.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D53_86TW4AA35Am.jpg",
+            "url": "https://t.co/OqqBTIH7cQ",
+            "display_url": "pic.twitter.com/OqqBTIH7cQ",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1125336914603794433/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 720,
+                "h": 960,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 720,
+                "h": 960,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1125336906684878800,
+            "id_str": "1125336906684878855",
+            "indices": [
+              279,
+              302
+            ],
+            "media_url": "http://pbs.twimg.com/media/D53_9E-W0AcIggf.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D53_9E-W0AcIggf.jpg",
+            "url": "https://t.co/OqqBTIH7cQ",
+            "display_url": "pic.twitter.com/OqqBTIH7cQ",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1125336914603794433/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 960,
+                "h": 720,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 960,
+                "h": 720,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 35,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon May 06 10:07:43 +0000 2019",
+      "id": 1125341363740999700,
+      "id_str": "1125341363740999680",
+      "full_text": "RT @chefdelasemana: Индийский рецепт наана без традиционного тандыра. 1/4 \nTake dry/instant yeast(1tbsp) and sugar(1.5tbsp) in a bowl,add w…",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "chefdelasemana",
+            "name": "Шеф Недели",
+            "id": 1093516106545930200,
+            "id_str": "1093516106545930240",
+            "indices": [
+              3,
+              18
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon May 06 09:50:02 +0000 2019",
+        "id": 1125336914603794400,
+        "id_str": "1125336914603794433",
+        "full_text": "Индийский рецепт наана без традиционного тандыра. 1/4 \nTake dry/instant yeast(1tbsp) and sugar(1.5tbsp) in a bowl,add warm water(25ml)&amp; mix it.keep it for 15min.Add flour(2cup),salt (1tbsp) and 1 cup warm milk. knead and make a dough and then put aside covered by warm cloth https://t.co/OqqBTIH7cQ",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          278
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 1125336885742702600,
+              "id_str": "1125336885742702593",
+              "indices": [
+                279,
+                302
+              ],
+              "media_url": "http://pbs.twimg.com/media/D53_729WkAE4lmp.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/D53_729WkAE4lmp.jpg",
+              "url": "https://t.co/OqqBTIH7cQ",
+              "display_url": "pic.twitter.com/OqqBTIH7cQ",
+              "expanded_url": "https://twitter.com/chefdelasemana/status/1125336914603794433/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 576,
+                  "h": 960,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 576,
+                  "h": 960,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 408,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1125336885742702600,
+              "id_str": "1125336885742702593",
+              "indices": [
+                279,
+                302
+              ],
+              "media_url": "http://pbs.twimg.com/media/D53_729WkAE4lmp.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/D53_729WkAE4lmp.jpg",
+              "url": "https://t.co/OqqBTIH7cQ",
+              "display_url": "pic.twitter.com/OqqBTIH7cQ",
+              "expanded_url": "https://twitter.com/chefdelasemana/status/1125336914603794433/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 576,
+                  "h": 960,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 576,
+                  "h": 960,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 408,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1125336894693367800,
+              "id_str": "1125336894693367811",
+              "indices": [
+                279,
+                302
+              ],
+              "media_url": "http://pbs.twimg.com/media/D53_8YTW4AMlY-R.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/D53_8YTW4AMlY-R.jpg",
+              "url": "https://t.co/OqqBTIH7cQ",
+              "display_url": "pic.twitter.com/OqqBTIH7cQ",
+              "expanded_url": "https://twitter.com/chefdelasemana/status/1125336914603794433/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 720,
+                  "h": 960,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 720,
+                  "h": 960,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 510,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1125336903820173300,
+              "id_str": "1125336903820173312",
+              "indices": [
+                279,
+                302
+              ],
+              "media_url": "http://pbs.twimg.com/media/D53_86TW4AA35Am.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/D53_86TW4AA35Am.jpg",
+              "url": "https://t.co/OqqBTIH7cQ",
+              "display_url": "pic.twitter.com/OqqBTIH7cQ",
+              "expanded_url": "https://twitter.com/chefdelasemana/status/1125336914603794433/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 720,
+                  "h": 960,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 720,
+                  "h": 960,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 510,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1125336906684878800,
+              "id_str": "1125336906684878855",
+              "indices": [
+                279,
+                302
+              ],
+              "media_url": "http://pbs.twimg.com/media/D53_9E-W0AcIggf.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/D53_9E-W0AcIggf.jpg",
+              "url": "https://t.co/OqqBTIH7cQ",
+              "display_url": "pic.twitter.com/OqqBTIH7cQ",
+              "expanded_url": "https://twitter.com/chefdelasemana/status/1125336914603794433/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 960,
+                  "h": 720,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 960,
+                  "h": 720,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 510,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1093516106545930200,
+          "id_str": "1093516106545930240"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 35,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+      },
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon May 06 10:08:41 +0000 2019",
+      "id": 1125341605358182400,
+      "id_str": "1125341605358182400",
+      "full_text": "@Hysterieanfall Sure",
+      "truncated": false,
+      "display_text_range": [
+        16,
+        20
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Hysterieanfall",
+            "name": "Helga Krügerova",
+            "id": 173326915,
+            "id_str": "173326915",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1125339226961252400,
+      "in_reply_to_status_id_str": "1125339226961252352",
+      "in_reply_to_user_id": 173326915,
+      "in_reply_to_user_id_str": "173326915",
+      "in_reply_to_screen_name": "Hysterieanfall",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon May 06 10:10:04 +0000 2019",
+      "id": 1125341954613612500,
+      "id_str": "1125341954613612544",
+      "full_text": "Индийский рецепт наана без традиционного тандыра. 2/4\nTake out dough on flat and make small balls, put oil on the surface and on hands, make flat out of all balls and put chopped chilly, sesame seeds, ginger and garlic over the top . Make sure olive oil is used to moist the dough https://t.co/W59HuHIlLc",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1125341917942878200,
+            "id_str": "1125341917942878208",
+            "indices": [
+              281,
+              304
+            ],
+            "media_url": "http://pbs.twimg.com/media/D54EgxXXkAA6oIx.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D54EgxXXkAA6oIx.jpg",
+            "url": "https://t.co/W59HuHIlLc",
+            "display_url": "pic.twitter.com/W59HuHIlLc",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1125341954613612544/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 576,
+                "h": 960,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 576,
+                "h": 960,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 408,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1125341917942878200,
+            "id_str": "1125341917942878208",
+            "indices": [
+              281,
+              304
+            ],
+            "media_url": "http://pbs.twimg.com/media/D54EgxXXkAA6oIx.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D54EgxXXkAA6oIx.jpg",
+            "url": "https://t.co/W59HuHIlLc",
+            "display_url": "pic.twitter.com/W59HuHIlLc",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1125341954613612544/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 576,
+                "h": 960,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 576,
+                "h": 960,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 408,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1125341933948297200,
+            "id_str": "1125341933948297217",
+            "indices": [
+              281,
+              304
+            ],
+            "media_url": "http://pbs.twimg.com/media/D54Ehs_W4AEgJED.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D54Ehs_W4AEgJED.jpg",
+            "url": "https://t.co/W59HuHIlLc",
+            "display_url": "pic.twitter.com/W59HuHIlLc",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1125341954613612544/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 576,
+                "h": 960,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 576,
+                "h": 960,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 408,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1125341937140154400,
+            "id_str": "1125341937140154368",
+            "indices": [
+              281,
+              304
+            ],
+            "media_url": "http://pbs.twimg.com/media/D54Eh44WwAAY0PX.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D54Eh44WwAAY0PX.jpg",
+            "url": "https://t.co/W59HuHIlLc",
+            "display_url": "pic.twitter.com/W59HuHIlLc",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1125341954613612544/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 576,
+                "h": 960,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 576,
+                "h": 960,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 408,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1125341945939865600,
+            "id_str": "1125341945939865601",
+            "indices": [
+              281,
+              304
+            ],
+            "media_url": "http://pbs.twimg.com/media/D54EiZqXsAEJYzM.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D54EiZqXsAEJYzM.jpg",
+            "url": "https://t.co/W59HuHIlLc",
+            "display_url": "pic.twitter.com/W59HuHIlLc",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1125341954613612544/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 408,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 576,
+                "h": 960,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 576,
+                "h": 960,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1125336914603794400,
+      "in_reply_to_status_id_str": "1125336914603794433",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon May 06 10:11:38 +0000 2019",
+      "id": 1125342348207018000,
+      "id_str": "1125342348207017984",
+      "full_text": "Индийский рецепт наана без традиционного тандыра 3/4 \n\nMake set of 2 flat(naan) and apply some oil on foil. Put it in oven on middle rack at 200℃ for 6-7 min till you get desired colour. Once bottom is done, transfer the naan to bottom rack for baking the top and bake again. https://t.co/jgVGp0ffSM",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        275
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1125342313125953500,
+            "id_str": "1125342313125953536",
+            "indices": [
+              276,
+              299
+            ],
+            "media_url": "http://pbs.twimg.com/media/D54E3xiWwAArd6i.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D54E3xiWwAArd6i.jpg",
+            "url": "https://t.co/jgVGp0ffSM",
+            "display_url": "pic.twitter.com/jgVGp0ffSM",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1125342348207017984/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 576,
+                "h": 960,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 576,
+                "h": 960,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 408,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1125342313125953500,
+            "id_str": "1125342313125953536",
+            "indices": [
+              276,
+              299
+            ],
+            "media_url": "http://pbs.twimg.com/media/D54E3xiWwAArd6i.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D54E3xiWwAArd6i.jpg",
+            "url": "https://t.co/jgVGp0ffSM",
+            "display_url": "pic.twitter.com/jgVGp0ffSM",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1125342348207017984/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 576,
+                "h": 960,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 576,
+                "h": 960,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 408,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1125342322936488000,
+            "id_str": "1125342322936487936",
+            "indices": [
+              276,
+              299
+            ],
+            "media_url": "http://pbs.twimg.com/media/D54E4WFXoAAz-M3.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D54E4WFXoAAz-M3.jpg",
+            "url": "https://t.co/jgVGp0ffSM",
+            "display_url": "pic.twitter.com/jgVGp0ffSM",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1125342348207017984/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 408,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 576,
+                "h": 960,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 576,
+                "h": 960,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1125342333275447300,
+            "id_str": "1125342333275447299",
+            "indices": [
+              276,
+              299
+            ],
+            "media_url": "http://pbs.twimg.com/media/D54E48mXoAMe0FP.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D54E48mXoAMe0FP.jpg",
+            "url": "https://t.co/jgVGp0ffSM",
+            "display_url": "pic.twitter.com/jgVGp0ffSM",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1125342348207017984/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 960,
+                "h": 576,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 960,
+                "h": 576,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 408,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1125342344604278800,
+            "id_str": "1125342344604278784",
+            "indices": [
+              276,
+              299
+            ],
+            "media_url": "http://pbs.twimg.com/media/D54E5mzX4AAFkRA.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D54E5mzX4AAFkRA.jpg",
+            "url": "https://t.co/jgVGp0ffSM",
+            "display_url": "pic.twitter.com/jgVGp0ffSM",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1125342348207017984/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 960,
+                "h": 576,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 960,
+                "h": 576,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 408,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1125341954613612500,
+      "in_reply_to_status_id_str": "1125341954613612544",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 12,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon May 06 10:12:36 +0000 2019",
+      "id": 1125342593599066100,
+      "id_str": "1125342593599066112",
+      "full_text": "Индийский рецепт наана без традиционного тандыра 4/4 \n\nTake out the Naan and apply butter over it. The final product Naan will looks like that. \n\nWithout using fire , traditional tandoor, Naan can be made in a modern kitchen. https://t.co/33btoMFNYh",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        225
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1125342559704842200,
+            "id_str": "1125342559704842240",
+            "indices": [
+              226,
+              249
+            ],
+            "media_url": "http://pbs.twimg.com/media/D54FGIHWAAAgB-2.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D54FGIHWAAAgB-2.jpg",
+            "url": "https://t.co/33btoMFNYh",
+            "display_url": "pic.twitter.com/33btoMFNYh",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1125342593599066112/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 576,
+                "h": 960,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 408,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 576,
+                "h": 960,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1125342559704842200,
+            "id_str": "1125342559704842240",
+            "indices": [
+              226,
+              249
+            ],
+            "media_url": "http://pbs.twimg.com/media/D54FGIHWAAAgB-2.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D54FGIHWAAAgB-2.jpg",
+            "url": "https://t.co/33btoMFNYh",
+            "display_url": "pic.twitter.com/33btoMFNYh",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1125342593599066112/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 576,
+                "h": 960,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 408,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 576,
+                "h": 960,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1125342578872868900,
+            "id_str": "1125342578872868864",
+            "indices": [
+              226,
+              249
+            ],
+            "media_url": "http://pbs.twimg.com/media/D54FHPhW4AAhp7z.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D54FHPhW4AAhp7z.jpg",
+            "url": "https://t.co/33btoMFNYh",
+            "display_url": "pic.twitter.com/33btoMFNYh",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1125342593599066112/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 576,
+                "h": 960,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 576,
+                "h": 960,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 408,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1125342348207018000,
+      "in_reply_to_status_id_str": "1125342348207017984",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 19,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon May 06 10:24:05 +0000 2019",
+      "id": 1125345482308444200,
+      "id_str": "1125345482308444161",
+      "full_text": "@Hysterieanfall Could you please help in the translation ?",
+      "truncated": false,
+      "display_text_range": [
+        16,
+        58
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Hysterieanfall",
+            "name": "Helga Krügerova",
+            "id": 173326915,
+            "id_str": "173326915",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1125343615927181300,
+      "in_reply_to_status_id_str": "1125343615927181312",
+      "in_reply_to_user_id": 173326915,
+      "in_reply_to_user_id_str": "173326915",
+      "in_reply_to_screen_name": "Hysterieanfall",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
     }
   ]
 }

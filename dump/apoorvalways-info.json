@@ -4,18 +4,7 @@
   "name": "Шеф Недели",
   "screen_name": "chefdelasemana",
   "location": "Mumbai, India",
-  "profile_location": {
-    "id": "7929cea6bd5b32bd",
-    "url": "https://api.twitter.com/1.1/geo/id/7929cea6bd5b32bd.json",
-    "place_type": "unknown",
-    "name": "Mumbai, India",
-    "full_name": "Mumbai, India",
-    "country_code": "",
-    "country": "",
-    "contained_within": [],
-    "bounding_box": null,
-    "attributes": {}
-  },
+  "profile_location": null,
   "description": "Коллективный аккаунт о еде от тех, кто любит готовить для тех, кто любит поесть. Шеф недели @apoorvalways познакомит вас с аутентичной индийской кухней",
   "url": "https://t.co/luzUzd2DRn",
   "entities": {
@@ -37,63 +26,53 @@
     }
   },
   "protected": false,
-  "followers_count": 5463,
+  "followers_count": 5619,
   "friends_count": 0,
   "listed_count": 29,
   "created_at": "Thu Feb 07 14:25:31 +0000 2019",
-  "favourites_count": 2092,
+  "favourites_count": 2123,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 4421,
+  "statuses_count": 4444,
   "lang": "en",
   "status": {
-    "created_at": "Sun May 05 19:39:41 +0000 2019",
-    "id": 1125122916352290800,
-    "id_str": "1125122916352290816",
-    "text": "@mormontales @apoorvalways Will definitely do so gladly . Naan is like important part of our cuisine .",
+    "created_at": "Mon May 06 10:24:05 +0000 2019",
+    "id": 1125345482308444200,
+    "id_str": "1125345482308444161",
+    "text": "@Hysterieanfall Could you please help in the translation ?",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "mormontales",
-          "name": "(  .  )(  .  )",
-          "id": 992866861883719700,
-          "id_str": "992866861883719680",
+          "screen_name": "Hysterieanfall",
+          "name": "Helga Krügerova",
+          "id": 173326915,
+          "id_str": "173326915",
           "indices": [
             0,
-            12
-          ]
-        },
-        {
-          "screen_name": "apoorvalways",
-          "name": "Apoorv Srivastava | Апурв 🇮🇳 🇧🇾 🇬🇧 🇩🇰",
-          "id": 2271260527,
-          "id_str": "2271260527",
-          "indices": [
-            13,
-            26
+            15
           ]
         }
       ],
       "urls": []
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": 1125121078047715300,
-    "in_reply_to_status_id_str": "1125121078047715328",
-    "in_reply_to_user_id": 992866861883719700,
-    "in_reply_to_user_id_str": "992866861883719680",
-    "in_reply_to_screen_name": "mormontales",
+    "in_reply_to_status_id": 1125343615927181300,
+    "in_reply_to_status_id_str": "1125343615927181312",
+    "in_reply_to_user_id": 173326915,
+    "in_reply_to_user_id_str": "173326915",
+    "in_reply_to_screen_name": "Hysterieanfall",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "lang": "en"
