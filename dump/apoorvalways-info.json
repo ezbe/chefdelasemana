@@ -37,46 +37,46 @@
     }
   },
   "protected": false,
-  "followers_count": 5629,
+  "followers_count": 5650,
   "friends_count": 0,
   "listed_count": 29,
   "created_at": "Thu Feb 07 14:25:31 +0000 2019",
-  "favourites_count": 2123,
+  "favourites_count": 2146,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 4444,
+  "statuses_count": 4469,
   "lang": "en",
   "status": {
-    "created_at": "Mon May 06 10:24:05 +0000 2019",
-    "id": 1125345482308444200,
-    "id_str": "1125345482308444161",
-    "text": "@Hysterieanfall Could you please help in the translation ?",
+    "created_at": "Wed May 08 09:42:53 +0000 2019",
+    "id": 1126059887589507100,
+    "id_str": "1126059887589507072",
+    "text": "@nash_postrel конечно 🤗🤗",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "Hysterieanfall",
-          "name": "Helga Krügerova",
-          "id": 173326915,
-          "id_str": "173326915",
+          "screen_name": "nash_postrel",
+          "name": "Roman Нордический",
+          "id": 415845250,
+          "id_str": "415845250",
           "indices": [
             0,
-            15
+            13
           ]
         }
       ],
       "urls": []
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": 1125343615927181300,
-    "in_reply_to_status_id_str": "1125343615927181312",
-    "in_reply_to_user_id": 173326915,
-    "in_reply_to_user_id_str": "173326915",
-    "in_reply_to_screen_name": "Hysterieanfall",
+    "in_reply_to_status_id": 1126041406412394500,
+    "in_reply_to_status_id_str": "1126041406412394496",
+    "in_reply_to_user_id": 415845250,
+    "in_reply_to_user_id_str": "415845250",
+    "in_reply_to_screen_name": "nash_postrel",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -86,7 +86,7 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "lang": "en"
+    "lang": "ru"
   },
   "contributors_enabled": false,
   "is_translator": false,
