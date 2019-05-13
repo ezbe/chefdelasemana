@@ -4,18 +4,7 @@
   "name": "Шеф Недели",
   "screen_name": "chefdelasemana",
   "location": "Mumbai, India",
-  "profile_location": {
-    "id": "7929cea6bd5b32bd",
-    "url": "https://api.twitter.com/1.1/geo/id/7929cea6bd5b32bd.json",
-    "place_type": "unknown",
-    "name": "Mumbai, India",
-    "full_name": "Mumbai, India",
-    "country_code": "",
-    "country": "",
-    "contained_within": [],
-    "bounding_box": null,
-    "attributes": {}
-  },
+  "profile_location": null,
   "description": "Коллективный аккаунт о еде от тех, кто любит готовить для тех, кто любит поесть. Шеф недели @apoorvalways познакомит вас с аутентичной индийской кухней",
   "url": "https://t.co/luzUzd2DRn",
   "entities": {
@@ -37,46 +26,56 @@
     }
   },
   "protected": false,
-  "followers_count": 5650,
+  "followers_count": 5720,
   "friends_count": 0,
   "listed_count": 29,
   "created_at": "Thu Feb 07 14:25:31 +0000 2019",
-  "favourites_count": 2146,
+  "favourites_count": 2180,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 4469,
+  "statuses_count": 4515,
   "lang": "en",
   "status": {
-    "created_at": "Wed May 08 09:42:53 +0000 2019",
-    "id": 1126059887589507100,
-    "id_str": "1126059887589507072",
-    "text": "@nash_postrel конечно 🤗🤗",
-    "truncated": false,
+    "created_at": "Sun May 12 23:58:00 +0000 2019",
+    "id": 1127724638316965900,
+    "id_str": "1127724638316965894",
+    "text": "Спасибо, шефу @apoorvalways за эту потрясающую неделю! Будут желающие оставить чаевые? Уже завтра новый автор, подп… https://t.co/t6gqk5FOPC",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "nash_postrel",
-          "name": "Roman Нордический",
-          "id": 415845250,
-          "id_str": "415845250",
+          "screen_name": "apoorvalways",
+          "name": "Apoorv Srivastava | Апурв 🇮🇳 🇧🇾 🇬🇧 🇩🇰",
+          "id": 2271260527,
+          "id_str": "2271260527",
           "indices": [
-            0,
-            13
+            14,
+            27
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/t6gqk5FOPC",
+          "expanded_url": "https://twitter.com/i/web/status/1127724638316965894",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
-    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": 1126041406412394500,
-    "in_reply_to_status_id_str": "1126041406412394496",
-    "in_reply_to_user_id": 415845250,
-    "in_reply_to_user_id_str": "415845250",
-    "in_reply_to_screen_name": "nash_postrel",
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -86,6 +85,7 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
