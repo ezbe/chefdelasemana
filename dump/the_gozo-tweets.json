@@ -1,0 +1,63 @@
+{
+  "tweets": [
+    {
+      "created_at": "Sun May 12 23:58:00 +0000 2019",
+      "id": 1127724638316965900,
+      "id_str": "1127724638316965894",
+      "full_text": "Спасибо, шефу @apoorvalways за эту потрясающую неделю! Будут желающие оставить чаевые? Уже завтра новый автор, подписывайтесь! Архив этой недели и других авторов как всегда на сайте - https://t.co/6wOIEdjst4",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        207
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "apoorvalways",
+            "name": "Apoorv Srivastava | Апурв 🇮🇳 🇧🇾 🇬🇧 🇩🇰",
+            "id": 2271260527,
+            "id_str": "2271260527",
+            "indices": [
+              14,
+              27
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/6wOIEdjst4",
+            "expanded_url": "http://chefdelasemana.com",
+            "display_url": "chefdelasemana.com",
+            "indices": [
+              184,
+              207
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
