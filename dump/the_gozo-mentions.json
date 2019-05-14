@@ -24994,6 +24994,5102 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 13 21:37:15 +0000 2019",
+      "id": 1128051606010892300,
+      "id_str": "1128051606010892290",
+      "text": "@pora_valit @skurstil @EkbBus @tramizh @SverhDerjava @1cvb2 @cellular_bud @KorsakVoskres Вы это сейчас серьезно про… https://t.co/m7oTHb9Uy4",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "pora_valit",
+            "name": "Пора валить - official",
+            "id": 305949638,
+            "id_str": "305949638",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "skurstil",
+            "name": "Adelaide",
+            "id": 1362567127,
+            "id_str": "1362567127",
+            "indices": [
+              12,
+              21
+            ]
+          },
+          {
+            "screen_name": "EkbBus",
+            "name": "Автобус",
+            "id": 1041387216,
+            "id_str": "1041387216",
+            "indices": [
+              22,
+              29
+            ]
+          },
+          {
+            "screen_name": "tramizh",
+            "name": "Трамвай 🚋 🚋 🚋",
+            "id": 3201504675,
+            "id_str": "3201504675",
+            "indices": [
+              30,
+              38
+            ]
+          },
+          {
+            "screen_name": "SverhDerjava",
+            "name": "Сверх Держава",
+            "id": 852049694805151700,
+            "id_str": "852049694805151744",
+            "indices": [
+              39,
+              52
+            ]
+          },
+          {
+            "screen_name": "1cvb2",
+            "name": "Обманщикя1cvb",
+            "id": 1077422598366081000,
+            "id_str": "1077422598366081024",
+            "indices": [
+              53,
+              59
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              60,
+              73
+            ]
+          },
+          {
+            "screen_name": "KorsakVoskres",
+            "name": "Korsak Voskres",
+            "id": 226546673,
+            "id_str": "226546673",
+            "indices": [
+              74,
+              88
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/m7oTHb9Uy4",
+            "expanded_url": "https://twitter.com/i/web/status/1128051606010892290",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1128008057953198100,
+      "in_reply_to_status_id_str": "1128008057953198080",
+      "in_reply_to_user_id": 305949638,
+      "in_reply_to_user_id_str": "305949638",
+      "in_reply_to_screen_name": "pora_valit",
+      "user": {
+        "id": 430665583,
+        "id_str": "430665583"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 13 21:38:58 +0000 2019",
+      "id": 1128052037374099500,
+      "id_str": "1128052037374099457",
+      "text": "@RTit0v @cellular_bud Хм, ну не знаю. Корме рынков редко вижу. Но может пост не обращаю внимания.\nПлюс все рыночные… https://t.co/3R267pSvWJ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "RTit0v",
+            "name": "Romario",
+            "id": 538321551,
+            "id_str": "538321551",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              8,
+              21
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/3R267pSvWJ",
+            "expanded_url": "https://twitter.com/i/web/status/1128052037374099457",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1128048507179421700,
+      "in_reply_to_status_id_str": "1128048507179421696",
+      "in_reply_to_user_id": 538321551,
+      "in_reply_to_user_id_str": "538321551",
+      "in_reply_to_screen_name": "RTit0v",
+      "user": {
+        "id": 19856378,
+        "id_str": "19856378"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 13 21:39:51 +0000 2019",
+      "id": 1128052260687286300,
+      "id_str": "1128052260687286277",
+      "text": "@oliora @pora_valit @skurstil @tramizh @SverhDerjava @1cvb2 @cellular_bud @KorsakVoskres хватит кормить ботов, ну елки. Давайте остановимся.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "oliora",
+            "name": "Andrey Upadyshev",
+            "id": 430665583,
+            "id_str": "430665583",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "pora_valit",
+            "name": "Пора валить - official",
+            "id": 305949638,
+            "id_str": "305949638",
+            "indices": [
+              8,
+              19
+            ]
+          },
+          {
+            "screen_name": "skurstil",
+            "name": "Adelaide",
+            "id": 1362567127,
+            "id_str": "1362567127",
+            "indices": [
+              20,
+              29
+            ]
+          },
+          {
+            "screen_name": "tramizh",
+            "name": "Трамвай 🚋 🚋 🚋",
+            "id": 3201504675,
+            "id_str": "3201504675",
+            "indices": [
+              30,
+              38
+            ]
+          },
+          {
+            "screen_name": "SverhDerjava",
+            "name": "Сверх Держава",
+            "id": 852049694805151700,
+            "id_str": "852049694805151744",
+            "indices": [
+              39,
+              52
+            ]
+          },
+          {
+            "screen_name": "1cvb2",
+            "name": "Обманщикя1cvb",
+            "id": 1077422598366081000,
+            "id_str": "1077422598366081024",
+            "indices": [
+              53,
+              59
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              60,
+              73
+            ]
+          },
+          {
+            "screen_name": "KorsakVoskres",
+            "name": "Korsak Voskres",
+            "id": 226546673,
+            "id_str": "226546673",
+            "indices": [
+              74,
+              88
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1128051606010892300,
+      "in_reply_to_status_id_str": "1128051606010892290",
+      "in_reply_to_user_id": 430665583,
+      "in_reply_to_user_id_str": "430665583",
+      "in_reply_to_screen_name": "oliora",
+      "user": {
+        "id": 1041387216,
+        "id_str": "1041387216"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 13 21:39:57 +0000 2019",
+      "id": 1128052282749222900,
+      "id_str": "1128052282749222912",
+      "text": "@RTit0v @cellular_bud На хипсто-рынках бывают норм продукты, да, но реально дорого",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "RTit0v",
+            "name": "Romario",
+            "id": 538321551,
+            "id_str": "538321551",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              8,
+              21
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1128050334830612500,
+      "in_reply_to_status_id_str": "1128050334830612485",
+      "in_reply_to_user_id": 538321551,
+      "in_reply_to_user_id_str": "538321551",
+      "in_reply_to_screen_name": "RTit0v",
+      "user": {
+        "id": 19856378,
+        "id_str": "19856378"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 13 21:40:52 +0000 2019",
+      "id": 1128052514794942500,
+      "id_str": "1128052514794942470",
+      "text": "@pora_valit @skurstil @EkbBus @tramizh @SverhDerjava @1cvb2 @cellular_bud @KorsakVoskres У меня в Штатах пока что г… https://t.co/BJDioulFM9",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "pora_valit",
+            "name": "Пора валить - official",
+            "id": 305949638,
+            "id_str": "305949638",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "skurstil",
+            "name": "Adelaide",
+            "id": 1362567127,
+            "id_str": "1362567127",
+            "indices": [
+              12,
+              21
+            ]
+          },
+          {
+            "screen_name": "EkbBus",
+            "name": "Автобус",
+            "id": 1041387216,
+            "id_str": "1041387216",
+            "indices": [
+              22,
+              29
+            ]
+          },
+          {
+            "screen_name": "tramizh",
+            "name": "Трамвай 🚋 🚋 🚋",
+            "id": 3201504675,
+            "id_str": "3201504675",
+            "indices": [
+              30,
+              38
+            ]
+          },
+          {
+            "screen_name": "SverhDerjava",
+            "name": "Сверх Держава",
+            "id": 852049694805151700,
+            "id_str": "852049694805151744",
+            "indices": [
+              39,
+              52
+            ]
+          },
+          {
+            "screen_name": "1cvb2",
+            "name": "Обманщикя1cvb",
+            "id": 1077422598366081000,
+            "id_str": "1077422598366081024",
+            "indices": [
+              53,
+              59
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              60,
+              73
+            ]
+          },
+          {
+            "screen_name": "KorsakVoskres",
+            "name": "Korsak Voskres",
+            "id": 226546673,
+            "id_str": "226546673",
+            "indices": [
+              74,
+              88
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/BJDioulFM9",
+            "expanded_url": "https://twitter.com/i/web/status/1128052514794942470",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1128010531024117800,
+      "in_reply_to_status_id_str": "1128010531024117761",
+      "in_reply_to_user_id": 305949638,
+      "in_reply_to_user_id_str": "305949638",
+      "in_reply_to_screen_name": "pora_valit",
+      "user": {
+        "id": 14386377,
+        "id_str": "14386377"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 13 21:42:03 +0000 2019",
+      "id": 1128052813500756000,
+      "id_str": "1128052813500755970",
+      "text": "@EkbBus @pora_valit @skurstil @tramizh @SverhDerjava @1cvb2 @cellular_bud @KorsakVoskres А пора валить тоже бот? Ну… https://t.co/mEElNwm4KS",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "EkbBus",
+            "name": "Автобус",
+            "id": 1041387216,
+            "id_str": "1041387216",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "pora_valit",
+            "name": "Пора валить - official",
+            "id": 305949638,
+            "id_str": "305949638",
+            "indices": [
+              8,
+              19
+            ]
+          },
+          {
+            "screen_name": "skurstil",
+            "name": "Adelaide",
+            "id": 1362567127,
+            "id_str": "1362567127",
+            "indices": [
+              20,
+              29
+            ]
+          },
+          {
+            "screen_name": "tramizh",
+            "name": "Трамвай 🚋 🚋 🚋",
+            "id": 3201504675,
+            "id_str": "3201504675",
+            "indices": [
+              30,
+              38
+            ]
+          },
+          {
+            "screen_name": "SverhDerjava",
+            "name": "Сверх Держава",
+            "id": 852049694805151700,
+            "id_str": "852049694805151744",
+            "indices": [
+              39,
+              52
+            ]
+          },
+          {
+            "screen_name": "1cvb2",
+            "name": "Обманщикя1cvb",
+            "id": 1077422598366081000,
+            "id_str": "1077422598366081024",
+            "indices": [
+              53,
+              59
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              60,
+              73
+            ]
+          },
+          {
+            "screen_name": "KorsakVoskres",
+            "name": "Korsak Voskres",
+            "id": 226546673,
+            "id_str": "226546673",
+            "indices": [
+              74,
+              88
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/mEElNwm4KS",
+            "expanded_url": "https://twitter.com/i/web/status/1128052813500755970",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1128052260687286300,
+      "in_reply_to_status_id_str": "1128052260687286277",
+      "in_reply_to_user_id": 1041387216,
+      "in_reply_to_user_id_str": "1041387216",
+      "in_reply_to_screen_name": "EkbBus",
+      "user": {
+        "id": 430665583,
+        "id_str": "430665583"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 13 21:45:11 +0000 2019",
+      "id": 1128053603393056800,
+      "id_str": "1128053603393056768",
+      "text": "@cellular_bud Нууу, первый взнос €10к с квартиры за €270к - это правда шикарно. В Финке минимум 10%, например.\nЧел… https://t.co/XpGHJqE20M",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/XpGHJqE20M",
+            "expanded_url": "https://twitter.com/i/web/status/1128053603393056768",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1128043491559395300,
+      "in_reply_to_status_id_str": "1128043491559395328",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 19856378,
+        "id_str": "19856378"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 13 21:46:06 +0000 2019",
+      "id": 1128053832397852700,
+      "id_str": "1128053832397852673",
+      "text": "@RTit0v @petrzaznobin @tramizh @SverhDerjava @EkbBus @1cvb2 @cellular_bud @KorsakVoskres Да не отвечай, кто ж тебя… https://t.co/oY46SUhpHG",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "RTit0v",
+            "name": "Romario",
+            "id": 538321551,
+            "id_str": "538321551",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "petrzaznobin",
+            "name": "Петр Зазнобин",
+            "id": 241637300,
+            "id_str": "241637300",
+            "indices": [
+              8,
+              21
+            ]
+          },
+          {
+            "screen_name": "tramizh",
+            "name": "Трамвай 🚋 🚋 🚋",
+            "id": 3201504675,
+            "id_str": "3201504675",
+            "indices": [
+              22,
+              30
+            ]
+          },
+          {
+            "screen_name": "SverhDerjava",
+            "name": "Сверх Держава",
+            "id": 852049694805151700,
+            "id_str": "852049694805151744",
+            "indices": [
+              31,
+              44
+            ]
+          },
+          {
+            "screen_name": "EkbBus",
+            "name": "Автобус",
+            "id": 1041387216,
+            "id_str": "1041387216",
+            "indices": [
+              45,
+              52
+            ]
+          },
+          {
+            "screen_name": "1cvb2",
+            "name": "Обманщикя1cvb",
+            "id": 1077422598366081000,
+            "id_str": "1077422598366081024",
+            "indices": [
+              53,
+              59
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              60,
+              73
+            ]
+          },
+          {
+            "screen_name": "KorsakVoskres",
+            "name": "Korsak Voskres",
+            "id": 226546673,
+            "id_str": "226546673",
+            "indices": [
+              74,
+              88
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/oY46SUhpHG",
+            "expanded_url": "https://twitter.com/i/web/status/1128053832397852673",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1128045871977959400,
+      "in_reply_to_status_id_str": "1128045871977959425",
+      "in_reply_to_user_id": 538321551,
+      "in_reply_to_user_id_str": "538321551",
+      "in_reply_to_screen_name": "RTit0v",
+      "user": {
+        "id": 526243230,
+        "id_str": "526243230"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 13 21:46:26 +0000 2019",
+      "id": 1128053918028771300,
+      "id_str": "1128053918028771328",
+      "text": "@EkbBus @pora_valit @skurstil @tramizh @SverhDerjava @1cvb2 @cellular_bud @KorsakVoskres Французы жируют, похоже :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "EkbBus",
+            "name": "Автобус",
+            "id": 1041387216,
+            "id_str": "1041387216",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "pora_valit",
+            "name": "Пора валить - official",
+            "id": 305949638,
+            "id_str": "305949638",
+            "indices": [
+              8,
+              19
+            ]
+          },
+          {
+            "screen_name": "skurstil",
+            "name": "Adelaide",
+            "id": 1362567127,
+            "id_str": "1362567127",
+            "indices": [
+              20,
+              29
+            ]
+          },
+          {
+            "screen_name": "tramizh",
+            "name": "Трамвай 🚋 🚋 🚋",
+            "id": 3201504675,
+            "id_str": "3201504675",
+            "indices": [
+              30,
+              38
+            ]
+          },
+          {
+            "screen_name": "SverhDerjava",
+            "name": "Сверх Держава",
+            "id": 852049694805151700,
+            "id_str": "852049694805151744",
+            "indices": [
+              39,
+              52
+            ]
+          },
+          {
+            "screen_name": "1cvb2",
+            "name": "Обманщикя1cvb",
+            "id": 1077422598366081000,
+            "id_str": "1077422598366081024",
+            "indices": [
+              53,
+              59
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              60,
+              73
+            ]
+          },
+          {
+            "screen_name": "KorsakVoskres",
+            "name": "Korsak Voskres",
+            "id": 226546673,
+            "id_str": "226546673",
+            "indices": [
+              74,
+              88
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1128052813500756000,
+      "in_reply_to_status_id_str": "1128052813500755970",
+      "in_reply_to_user_id": 430665583,
+      "in_reply_to_user_id_str": "430665583",
+      "in_reply_to_screen_name": "oliora",
+      "user": {
+        "id": 430665583,
+        "id_str": "430665583"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 13 21:49:15 +0000 2019",
+      "id": 1128054626325078000,
+      "id_str": "1128054626325078016",
+      "text": "@oliora @skurstil @EkbBus @tramizh @SverhDerjava @1cvb2 @cellular_bud @KorsakVoskres Про 6к не скажу, получал 2600… https://t.co/rkB5bEhlSP",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "oliora",
+            "name": "Andrey Upadyshev",
+            "id": 430665583,
+            "id_str": "430665583",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "skurstil",
+            "name": "Adelaide",
+            "id": 1362567127,
+            "id_str": "1362567127",
+            "indices": [
+              8,
+              17
+            ]
+          },
+          {
+            "screen_name": "EkbBus",
+            "name": "Автобус",
+            "id": 1041387216,
+            "id_str": "1041387216",
+            "indices": [
+              18,
+              25
+            ]
+          },
+          {
+            "screen_name": "tramizh",
+            "name": "Трамвай 🚋 🚋 🚋",
+            "id": 3201504675,
+            "id_str": "3201504675",
+            "indices": [
+              26,
+              34
+            ]
+          },
+          {
+            "screen_name": "SverhDerjava",
+            "name": "Сверх Держава",
+            "id": 852049694805151700,
+            "id_str": "852049694805151744",
+            "indices": [
+              35,
+              48
+            ]
+          },
+          {
+            "screen_name": "1cvb2",
+            "name": "Обманщикя1cvb",
+            "id": 1077422598366081000,
+            "id_str": "1077422598366081024",
+            "indices": [
+              49,
+              55
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              56,
+              69
+            ]
+          },
+          {
+            "screen_name": "KorsakVoskres",
+            "name": "Korsak Voskres",
+            "id": 226546673,
+            "id_str": "226546673",
+            "indices": [
+              70,
+              84
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/rkB5bEhlSP",
+            "expanded_url": "https://twitter.com/i/web/status/1128054626325078016",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1128051606010892300,
+      "in_reply_to_status_id_str": "1128051606010892290",
+      "in_reply_to_user_id": 430665583,
+      "in_reply_to_user_id_str": "430665583",
+      "in_reply_to_screen_name": "oliora",
+      "user": {
+        "id": 305949638,
+        "id_str": "305949638"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 13 21:50:52 +0000 2019",
+      "id": 1128055032874774500,
+      "id_str": "1128055032874774528",
+      "text": "@pora_valit @skurstil @EkbBus @tramizh @SverhDerjava @1cvb2 @cellular_bud @KorsakVoskres А скиньте ссылку на онлайн… https://t.co/eXGLzbiZsG",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "pora_valit",
+            "name": "Пора валить - official",
+            "id": 305949638,
+            "id_str": "305949638",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "skurstil",
+            "name": "Adelaide",
+            "id": 1362567127,
+            "id_str": "1362567127",
+            "indices": [
+              12,
+              21
+            ]
+          },
+          {
+            "screen_name": "EkbBus",
+            "name": "Автобус",
+            "id": 1041387216,
+            "id_str": "1041387216",
+            "indices": [
+              22,
+              29
+            ]
+          },
+          {
+            "screen_name": "tramizh",
+            "name": "Трамвай 🚋 🚋 🚋",
+            "id": 3201504675,
+            "id_str": "3201504675",
+            "indices": [
+              30,
+              38
+            ]
+          },
+          {
+            "screen_name": "SverhDerjava",
+            "name": "Сверх Держава",
+            "id": 852049694805151700,
+            "id_str": "852049694805151744",
+            "indices": [
+              39,
+              52
+            ]
+          },
+          {
+            "screen_name": "1cvb2",
+            "name": "Обманщикя1cvb",
+            "id": 1077422598366081000,
+            "id_str": "1077422598366081024",
+            "indices": [
+              53,
+              59
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              60,
+              73
+            ]
+          },
+          {
+            "screen_name": "KorsakVoskres",
+            "name": "Korsak Voskres",
+            "id": 226546673,
+            "id_str": "226546673",
+            "indices": [
+              74,
+              88
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/eXGLzbiZsG",
+            "expanded_url": "https://twitter.com/i/web/status/1128055032874774528",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1128054626325078000,
+      "in_reply_to_status_id_str": "1128054626325078016",
+      "in_reply_to_user_id": 305949638,
+      "in_reply_to_user_id_str": "305949638",
+      "in_reply_to_screen_name": "pora_valit",
+      "user": {
+        "id": 430665583,
+        "id_str": "430665583"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 13 21:51:17 +0000 2019",
+      "id": 1128055138034356200,
+      "id_str": "1128055138034356226",
+      "text": "@cellular_bud А ведь, помню, бывали годы, когда бананы были дешевле картошки... 🤔",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1128028573829218300,
+      "in_reply_to_status_id_str": "1128028573829218304",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 96836346,
+        "id_str": "96836346"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 13 21:53:40 +0000 2019",
+      "id": 1128055735869419500,
+      "id_str": "1128055735869419520",
+      "text": "@cellular_bud Ее у вас не выращивают ?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1128055395811983400,
+      "in_reply_to_status_id_str": "1128055395811983361",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 96836346,
+        "id_str": "96836346"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 13 21:53:59 +0000 2019",
+      "id": 1128055818161655800,
+      "id_str": "1128055818161655813",
+      "text": "@pora_valit @skurstil @EkbBus @tramizh @SverhDerjava @1cvb2 @cellular_bud @KorsakVoskres При прогрессивной ставке э… https://t.co/uAboelpDI4",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "pora_valit",
+            "name": "Пора валить - official",
+            "id": 305949638,
+            "id_str": "305949638",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "skurstil",
+            "name": "Adelaide",
+            "id": 1362567127,
+            "id_str": "1362567127",
+            "indices": [
+              12,
+              21
+            ]
+          },
+          {
+            "screen_name": "EkbBus",
+            "name": "Автобус",
+            "id": 1041387216,
+            "id_str": "1041387216",
+            "indices": [
+              22,
+              29
+            ]
+          },
+          {
+            "screen_name": "tramizh",
+            "name": "Трамвай 🚋 🚋 🚋",
+            "id": 3201504675,
+            "id_str": "3201504675",
+            "indices": [
+              30,
+              38
+            ]
+          },
+          {
+            "screen_name": "SverhDerjava",
+            "name": "Сверх Держава",
+            "id": 852049694805151700,
+            "id_str": "852049694805151744",
+            "indices": [
+              39,
+              52
+            ]
+          },
+          {
+            "screen_name": "1cvb2",
+            "name": "Обманщикя1cvb",
+            "id": 1077422598366081000,
+            "id_str": "1077422598366081024",
+            "indices": [
+              53,
+              59
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              60,
+              73
+            ]
+          },
+          {
+            "screen_name": "KorsakVoskres",
+            "name": "Korsak Voskres",
+            "id": 226546673,
+            "id_str": "226546673",
+            "indices": [
+              74,
+              88
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/uAboelpDI4",
+            "expanded_url": "https://twitter.com/i/web/status/1128055818161655813",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1128054626325078000,
+      "in_reply_to_status_id_str": "1128054626325078016",
+      "in_reply_to_user_id": 305949638,
+      "in_reply_to_user_id_str": "305949638",
+      "in_reply_to_screen_name": "pora_valit",
+      "user": {
+        "id": 430665583,
+        "id_str": "430665583"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 13 21:58:43 +0000 2019",
+      "id": 1128057009318744000,
+      "id_str": "1128057009318744065",
+      "text": "@badgercat @RTit0v @cellular_bud Легкий перекус типа. Не я придумал так продавать ))",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "badgercat",
+            "name": "That's you!",
+            "id": 19856378,
+            "id_str": "19856378",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "RTit0v",
+            "name": "Romario",
+            "id": 538321551,
+            "id_str": "538321551",
+            "indices": [
+              11,
+              18
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              19,
+              32
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1128047310150172700,
+      "in_reply_to_status_id_str": "1128047310150172673",
+      "in_reply_to_user_id": 19856378,
+      "in_reply_to_user_id_str": "19856378",
+      "in_reply_to_screen_name": "badgercat",
+      "user": {
+        "id": 145469624,
+        "id_str": "145469624"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 13 22:00:15 +0000 2019",
+      "id": 1128057394104275000,
+      "id_str": "1128057394104274944",
+      "text": "@cellular_bud Ну пасмоооооотрим...",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1128039805286273000,
+      "in_reply_to_status_id_str": "1128039805286273025",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 434242655,
+        "id_str": "434242655"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 13 22:05:32 +0000 2019",
+      "id": 1128058724738830300,
+      "id_str": "1128058724738830337",
+      "text": "@oliora @skurstil @EkbBus @tramizh @SverhDerjava @1cvb2 @cellular_bud @KorsakVoskres Прогрессивная ставка начинает… https://t.co/gzLNWriTjA",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "oliora",
+            "name": "Andrey Upadyshev",
+            "id": 430665583,
+            "id_str": "430665583",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "skurstil",
+            "name": "Adelaide",
+            "id": 1362567127,
+            "id_str": "1362567127",
+            "indices": [
+              8,
+              17
+            ]
+          },
+          {
+            "screen_name": "EkbBus",
+            "name": "Автобус",
+            "id": 1041387216,
+            "id_str": "1041387216",
+            "indices": [
+              18,
+              25
+            ]
+          },
+          {
+            "screen_name": "tramizh",
+            "name": "Трамвай 🚋 🚋 🚋",
+            "id": 3201504675,
+            "id_str": "3201504675",
+            "indices": [
+              26,
+              34
+            ]
+          },
+          {
+            "screen_name": "SverhDerjava",
+            "name": "Сверх Держава",
+            "id": 852049694805151700,
+            "id_str": "852049694805151744",
+            "indices": [
+              35,
+              48
+            ]
+          },
+          {
+            "screen_name": "1cvb2",
+            "name": "Обманщикя1cvb",
+            "id": 1077422598366081000,
+            "id_str": "1077422598366081024",
+            "indices": [
+              49,
+              55
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              56,
+              69
+            ]
+          },
+          {
+            "screen_name": "KorsakVoskres",
+            "name": "Korsak Voskres",
+            "id": 226546673,
+            "id_str": "226546673",
+            "indices": [
+              70,
+              84
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/gzLNWriTjA",
+            "expanded_url": "https://twitter.com/i/web/status/1128058724738830337",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1128055818161655800,
+      "in_reply_to_status_id_str": "1128055818161655813",
+      "in_reply_to_user_id": 430665583,
+      "in_reply_to_user_id_str": "430665583",
+      "in_reply_to_screen_name": "oliora",
+      "user": {
+        "id": 305949638,
+        "id_str": "305949638"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 13 22:08:00 +0000 2019",
+      "id": 1128059344598315000,
+      "id_str": "1128059344598315008",
+      "text": "@pora_valit @skurstil @EkbBus @tramizh @SverhDerjava @1cvb2 @cellular_bud @KorsakVoskres Бгггг...\nЯ не знаю, скольк… https://t.co/Se0YnBK5no",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "pora_valit",
+            "name": "Пора валить - official",
+            "id": 305949638,
+            "id_str": "305949638",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "skurstil",
+            "name": "Adelaide",
+            "id": 1362567127,
+            "id_str": "1362567127",
+            "indices": [
+              12,
+              21
+            ]
+          },
+          {
+            "screen_name": "EkbBus",
+            "name": "Автобус",
+            "id": 1041387216,
+            "id_str": "1041387216",
+            "indices": [
+              22,
+              29
+            ]
+          },
+          {
+            "screen_name": "tramizh",
+            "name": "Трамвай 🚋 🚋 🚋",
+            "id": 3201504675,
+            "id_str": "3201504675",
+            "indices": [
+              30,
+              38
+            ]
+          },
+          {
+            "screen_name": "SverhDerjava",
+            "name": "Сверх Держава",
+            "id": 852049694805151700,
+            "id_str": "852049694805151744",
+            "indices": [
+              39,
+              52
+            ]
+          },
+          {
+            "screen_name": "1cvb2",
+            "name": "Обманщикя1cvb",
+            "id": 1077422598366081000,
+            "id_str": "1077422598366081024",
+            "indices": [
+              53,
+              59
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              60,
+              73
+            ]
+          },
+          {
+            "screen_name": "KorsakVoskres",
+            "name": "Korsak Voskres",
+            "id": 226546673,
+            "id_str": "226546673",
+            "indices": [
+              74,
+              88
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Se0YnBK5no",
+            "expanded_url": "https://twitter.com/i/web/status/1128059344598315008",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1128010531024117800,
+      "in_reply_to_status_id_str": "1128010531024117761",
+      "in_reply_to_user_id": 305949638,
+      "in_reply_to_user_id_str": "305949638",
+      "in_reply_to_screen_name": "pora_valit",
+      "user": {
+        "id": 2439728863,
+        "id_str": "2439728863"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 13 22:14:13 +0000 2019",
+      "id": 1128060909962833900,
+      "id_str": "1128060909962833920",
+      "text": "@pora_valit @skurstil @EkbBus @tramizh @SverhDerjava @1cvb2 @cellular_bud @KorsakVoskres Судя по этому калькулятору… https://t.co/8Eer0Thnvg",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "pora_valit",
+            "name": "Пора валить - official",
+            "id": 305949638,
+            "id_str": "305949638",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "skurstil",
+            "name": "Adelaide",
+            "id": 1362567127,
+            "id_str": "1362567127",
+            "indices": [
+              12,
+              21
+            ]
+          },
+          {
+            "screen_name": "EkbBus",
+            "name": "Автобус",
+            "id": 1041387216,
+            "id_str": "1041387216",
+            "indices": [
+              22,
+              29
+            ]
+          },
+          {
+            "screen_name": "tramizh",
+            "name": "Трамвай 🚋 🚋 🚋",
+            "id": 3201504675,
+            "id_str": "3201504675",
+            "indices": [
+              30,
+              38
+            ]
+          },
+          {
+            "screen_name": "SverhDerjava",
+            "name": "Сверх Держава",
+            "id": 852049694805151700,
+            "id_str": "852049694805151744",
+            "indices": [
+              39,
+              52
+            ]
+          },
+          {
+            "screen_name": "1cvb2",
+            "name": "Обманщикя1cvb",
+            "id": 1077422598366081000,
+            "id_str": "1077422598366081024",
+            "indices": [
+              53,
+              59
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              60,
+              73
+            ]
+          },
+          {
+            "screen_name": "KorsakVoskres",
+            "name": "Korsak Voskres",
+            "id": 226546673,
+            "id_str": "226546673",
+            "indices": [
+              74,
+              88
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/8Eer0Thnvg",
+            "expanded_url": "https://twitter.com/i/web/status/1128060909962833920",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1128058724738830300,
+      "in_reply_to_status_id_str": "1128058724738830337",
+      "in_reply_to_user_id": 305949638,
+      "in_reply_to_user_id_str": "305949638",
+      "in_reply_to_screen_name": "pora_valit",
+      "user": {
+        "id": 430665583,
+        "id_str": "430665583"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 13 22:14:33 +0000 2019",
+      "id": 1128060989998608400,
+      "id_str": "1128060989998608384",
+      "text": "@skurstil @k2000_man @SverhDerjava @EkbBus @tramizh @1cvb2 @cellular_bud @KorsakVoskres Ну давай, сам бота позвал,… https://t.co/hxi5V5VYjq",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "skurstil",
+            "name": "Adelaide",
+            "id": 1362567127,
+            "id_str": "1362567127",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "k2000_man",
+            "name": "Man",
+            "id": 564527852,
+            "id_str": "564527852",
+            "indices": [
+              10,
+              20
+            ]
+          },
+          {
+            "screen_name": "SverhDerjava",
+            "name": "Сверх Держава",
+            "id": 852049694805151700,
+            "id_str": "852049694805151744",
+            "indices": [
+              21,
+              34
+            ]
+          },
+          {
+            "screen_name": "EkbBus",
+            "name": "Автобус",
+            "id": 1041387216,
+            "id_str": "1041387216",
+            "indices": [
+              35,
+              42
+            ]
+          },
+          {
+            "screen_name": "tramizh",
+            "name": "Трамвай 🚋 🚋 🚋",
+            "id": 3201504675,
+            "id_str": "3201504675",
+            "indices": [
+              43,
+              51
+            ]
+          },
+          {
+            "screen_name": "1cvb2",
+            "name": "Обманщикя1cvb",
+            "id": 1077422598366081000,
+            "id_str": "1077422598366081024",
+            "indices": [
+              52,
+              58
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              59,
+              72
+            ]
+          },
+          {
+            "screen_name": "KorsakVoskres",
+            "name": "Korsak Voskres",
+            "id": 226546673,
+            "id_str": "226546673",
+            "indices": [
+              73,
+              87
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/hxi5V5VYjq",
+            "expanded_url": "https://twitter.com/i/web/status/1128060989998608384",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1128017619536240600,
+      "in_reply_to_status_id_str": "1128017619536240640",
+      "in_reply_to_user_id": 1362567127,
+      "in_reply_to_user_id_str": "1362567127",
+      "in_reply_to_screen_name": "skurstil",
+      "user": {
+        "id": 305949638,
+        "id_str": "305949638"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 13 22:16:50 +0000 2019",
+      "id": 1128061565792596000,
+      "id_str": "1128061565792595973",
+      "text": "@pora_valit @skurstil @EkbBus @tramizh @SverhDerjava @1cvb2 @cellular_bud @KorsakVoskres Прошу прощения, остается 3583",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "pora_valit",
+            "name": "Пора валить - official",
+            "id": 305949638,
+            "id_str": "305949638",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "skurstil",
+            "name": "Adelaide",
+            "id": 1362567127,
+            "id_str": "1362567127",
+            "indices": [
+              12,
+              21
+            ]
+          },
+          {
+            "screen_name": "EkbBus",
+            "name": "Автобус",
+            "id": 1041387216,
+            "id_str": "1041387216",
+            "indices": [
+              22,
+              29
+            ]
+          },
+          {
+            "screen_name": "tramizh",
+            "name": "Трамвай 🚋 🚋 🚋",
+            "id": 3201504675,
+            "id_str": "3201504675",
+            "indices": [
+              30,
+              38
+            ]
+          },
+          {
+            "screen_name": "SverhDerjava",
+            "name": "Сверх Держава",
+            "id": 852049694805151700,
+            "id_str": "852049694805151744",
+            "indices": [
+              39,
+              52
+            ]
+          },
+          {
+            "screen_name": "1cvb2",
+            "name": "Обманщикя1cvb",
+            "id": 1077422598366081000,
+            "id_str": "1077422598366081024",
+            "indices": [
+              53,
+              59
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              60,
+              73
+            ]
+          },
+          {
+            "screen_name": "KorsakVoskres",
+            "name": "Korsak Voskres",
+            "id": 226546673,
+            "id_str": "226546673",
+            "indices": [
+              74,
+              88
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1128060909962833900,
+      "in_reply_to_status_id_str": "1128060909962833920",
+      "in_reply_to_user_id": 430665583,
+      "in_reply_to_user_id_str": "430665583",
+      "in_reply_to_screen_name": "oliora",
+      "user": {
+        "id": 430665583,
+        "id_str": "430665583"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 13 22:19:04 +0000 2019",
+      "id": 1128062128756228100,
+      "id_str": "1128062128756228099",
+      "text": "@oliora @skurstil @EkbBus @tramizh @SverhDerjava @1cvb2 @cellular_bud @KorsakVoskres Там еще кредит на налоги есть… https://t.co/BnvqqFRJ6z",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "oliora",
+            "name": "Andrey Upadyshev",
+            "id": 430665583,
+            "id_str": "430665583",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "skurstil",
+            "name": "Adelaide",
+            "id": 1362567127,
+            "id_str": "1362567127",
+            "indices": [
+              8,
+              17
+            ]
+          },
+          {
+            "screen_name": "EkbBus",
+            "name": "Автобус",
+            "id": 1041387216,
+            "id_str": "1041387216",
+            "indices": [
+              18,
+              25
+            ]
+          },
+          {
+            "screen_name": "tramizh",
+            "name": "Трамвай 🚋 🚋 🚋",
+            "id": 3201504675,
+            "id_str": "3201504675",
+            "indices": [
+              26,
+              34
+            ]
+          },
+          {
+            "screen_name": "SverhDerjava",
+            "name": "Сверх Держава",
+            "id": 852049694805151700,
+            "id_str": "852049694805151744",
+            "indices": [
+              35,
+              48
+            ]
+          },
+          {
+            "screen_name": "1cvb2",
+            "name": "Обманщикя1cvb",
+            "id": 1077422598366081000,
+            "id_str": "1077422598366081024",
+            "indices": [
+              49,
+              55
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              56,
+              69
+            ]
+          },
+          {
+            "screen_name": "KorsakVoskres",
+            "name": "Korsak Voskres",
+            "id": 226546673,
+            "id_str": "226546673",
+            "indices": [
+              70,
+              84
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/BnvqqFRJ6z",
+            "expanded_url": "https://twitter.com/i/web/status/1128062128756228099",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1128060909962833900,
+      "in_reply_to_status_id_str": "1128060909962833920",
+      "in_reply_to_user_id": 430665583,
+      "in_reply_to_user_id_str": "430665583",
+      "in_reply_to_screen_name": "oliora",
+      "user": {
+        "id": 305949638,
+        "id_str": "305949638"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 13 22:19:40 +0000 2019",
+      "id": 1128062279616872400,
+      "id_str": "1128062279616872448",
+      "text": "@cellular_bud Каждый день узнаю про тебя что-то новое. Думал ты шефповар, а ты оказывается - Шеф ))) https://t.co/5MyNHBdM4r",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1128062273807720400,
+            "id_str": "1128062273807720450",
+            "indices": [
+              101,
+              124
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/D6euqUrUIAIyeTK.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D6euqUrUIAIyeTK.jpg",
+            "url": "https://t.co/5MyNHBdM4r",
+            "display_url": "pic.twitter.com/5MyNHBdM4r",
+            "expanded_url": "https://twitter.com/wa_ziya/status/1128062279616872448/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 498,
+                "h": 222,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 498,
+                "h": 222,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 498,
+                "h": 222,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1128062273807720400,
+            "id_str": "1128062273807720450",
+            "indices": [
+              101,
+              124
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/D6euqUrUIAIyeTK.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D6euqUrUIAIyeTK.jpg",
+            "url": "https://t.co/5MyNHBdM4r",
+            "display_url": "pic.twitter.com/5MyNHBdM4r",
+            "expanded_url": "https://twitter.com/wa_ziya/status/1128062279616872448/photo/1",
+            "type": "animated_gif",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 498,
+                "h": 222,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 498,
+                "h": 222,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 498,
+                "h": 222,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                83,
+                37
+              ],
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/tweet_video/D6euqUrUIAIyeTK.mp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1128026145809584100,
+      "in_reply_to_status_id_str": "1128026145809584129",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 517242788,
+        "id_str": "517242788"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 13 22:21:09 +0000 2019",
+      "id": 1128062654847815700,
+      "id_str": "1128062654847815681",
+      "text": "@pora_valit @skurstil @k2000_man @EkbBus @tramizh @1cvb2 @cellular_bud @KorsakVoskres Эгегеййй\nТак вот откуда долбо… https://t.co/A4pIxejXWR",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "pora_valit",
+            "name": "Пора валить - official",
+            "id": 305949638,
+            "id_str": "305949638",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "skurstil",
+            "name": "Adelaide",
+            "id": 1362567127,
+            "id_str": "1362567127",
+            "indices": [
+              12,
+              21
+            ]
+          },
+          {
+            "screen_name": "k2000_man",
+            "name": "Man",
+            "id": 564527852,
+            "id_str": "564527852",
+            "indices": [
+              22,
+              32
+            ]
+          },
+          {
+            "screen_name": "EkbBus",
+            "name": "Автобус",
+            "id": 1041387216,
+            "id_str": "1041387216",
+            "indices": [
+              33,
+              40
+            ]
+          },
+          {
+            "screen_name": "tramizh",
+            "name": "Трамвай 🚋 🚋 🚋",
+            "id": 3201504675,
+            "id_str": "3201504675",
+            "indices": [
+              41,
+              49
+            ]
+          },
+          {
+            "screen_name": "1cvb2",
+            "name": "Обманщикя1cvb",
+            "id": 1077422598366081000,
+            "id_str": "1077422598366081024",
+            "indices": [
+              50,
+              56
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              57,
+              70
+            ]
+          },
+          {
+            "screen_name": "KorsakVoskres",
+            "name": "Korsak Voskres",
+            "id": 226546673,
+            "id_str": "226546673",
+            "indices": [
+              71,
+              85
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/A4pIxejXWR",
+            "expanded_url": "https://twitter.com/i/web/status/1128062654847815681",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1128060989998608400,
+      "in_reply_to_status_id_str": "1128060989998608384",
+      "in_reply_to_user_id": 305949638,
+      "in_reply_to_user_id_str": "305949638",
+      "in_reply_to_screen_name": "pora_valit",
+      "user": {
+        "id": 852049694805151700,
+        "id_str": "852049694805151744"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 13 22:22:53 +0000 2019",
+      "id": 1128063089524584400,
+      "id_str": "1128063089524584449",
+      "text": "@Awisone @cellular_bud Икеа для нищенок.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Awisone",
+            "name": "Awis",
+            "id": 29969827,
+            "id_str": "29969827",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              9,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1127991508420968400,
+      "in_reply_to_status_id_str": "1127991508420968453",
+      "in_reply_to_user_id": 29969827,
+      "in_reply_to_user_id_str": "29969827",
+      "in_reply_to_screen_name": "Awisone",
+      "user": {
+        "id": 3388739128,
+        "id_str": "3388739128"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 13 22:23:22 +0000 2019",
+      "id": 1128063212711219200,
+      "id_str": "1128063212711219202",
+      "text": "@AristarhBonifat @skurstil @EkbBus @tramizh @SverhDerjava @1cvb2 @cellular_bud @KorsakVoskres А ты меня просто пров… https://t.co/Tca5dty3Zf",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AristarhBonifat",
+            "name": "Аристарх Бонифатич",
+            "id": 2439728863,
+            "id_str": "2439728863",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "skurstil",
+            "name": "Adelaide",
+            "id": 1362567127,
+            "id_str": "1362567127",
+            "indices": [
+              17,
+              26
+            ]
+          },
+          {
+            "screen_name": "EkbBus",
+            "name": "Автобус",
+            "id": 1041387216,
+            "id_str": "1041387216",
+            "indices": [
+              27,
+              34
+            ]
+          },
+          {
+            "screen_name": "tramizh",
+            "name": "Трамвай 🚋 🚋 🚋",
+            "id": 3201504675,
+            "id_str": "3201504675",
+            "indices": [
+              35,
+              43
+            ]
+          },
+          {
+            "screen_name": "SverhDerjava",
+            "name": "Сверх Держава",
+            "id": 852049694805151700,
+            "id_str": "852049694805151744",
+            "indices": [
+              44,
+              57
+            ]
+          },
+          {
+            "screen_name": "1cvb2",
+            "name": "Обманщикя1cvb",
+            "id": 1077422598366081000,
+            "id_str": "1077422598366081024",
+            "indices": [
+              58,
+              64
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              65,
+              78
+            ]
+          },
+          {
+            "screen_name": "KorsakVoskres",
+            "name": "Korsak Voskres",
+            "id": 226546673,
+            "id_str": "226546673",
+            "indices": [
+              79,
+              93
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Tca5dty3Zf",
+            "expanded_url": "https://twitter.com/i/web/status/1128063212711219202",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1128059344598315000,
+      "in_reply_to_status_id_str": "1128059344598315008",
+      "in_reply_to_user_id": 2439728863,
+      "in_reply_to_user_id_str": "2439728863",
+      "in_reply_to_screen_name": "AristarhBonifat",
+      "user": {
+        "id": 305949638,
+        "id_str": "305949638"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 13 22:23:32 +0000 2019",
+      "id": 1128063253693780000,
+      "id_str": "1128063253693779968",
+      "text": "@pora_valit @skurstil @EkbBus @tramizh @SverhDerjava @1cvb2 @cellular_bud @KorsakVoskres Понятно, но при отсутствии… https://t.co/arn4mzQxwk",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "pora_valit",
+            "name": "Пора валить - official",
+            "id": 305949638,
+            "id_str": "305949638",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "skurstil",
+            "name": "Adelaide",
+            "id": 1362567127,
+            "id_str": "1362567127",
+            "indices": [
+              12,
+              21
+            ]
+          },
+          {
+            "screen_name": "EkbBus",
+            "name": "Автобус",
+            "id": 1041387216,
+            "id_str": "1041387216",
+            "indices": [
+              22,
+              29
+            ]
+          },
+          {
+            "screen_name": "tramizh",
+            "name": "Трамвай 🚋 🚋 🚋",
+            "id": 3201504675,
+            "id_str": "3201504675",
+            "indices": [
+              30,
+              38
+            ]
+          },
+          {
+            "screen_name": "SverhDerjava",
+            "name": "Сверх Держава",
+            "id": 852049694805151700,
+            "id_str": "852049694805151744",
+            "indices": [
+              39,
+              52
+            ]
+          },
+          {
+            "screen_name": "1cvb2",
+            "name": "Обманщикя1cvb",
+            "id": 1077422598366081000,
+            "id_str": "1077422598366081024",
+            "indices": [
+              53,
+              59
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              60,
+              73
+            ]
+          },
+          {
+            "screen_name": "KorsakVoskres",
+            "name": "Korsak Voskres",
+            "id": 226546673,
+            "id_str": "226546673",
+            "indices": [
+              74,
+              88
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/arn4mzQxwk",
+            "expanded_url": "https://twitter.com/i/web/status/1128063253693779968",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1128062128756228100,
+      "in_reply_to_status_id_str": "1128062128756228099",
+      "in_reply_to_user_id": 305949638,
+      "in_reply_to_user_id_str": "305949638",
+      "in_reply_to_screen_name": "pora_valit",
+      "user": {
+        "id": 430665583,
+        "id_str": "430665583"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 13 22:24:48 +0000 2019",
+      "id": 1128063570086785000,
+      "id_str": "1128063570086785024",
+      "text": "@cellular_bud Хочу, но новосибирское время для меня никак )",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1127720144627802100,
+      "in_reply_to_status_id_str": "1127720144627802112",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 517242788,
+        "id_str": "517242788"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 13 22:29:01 +0000 2019",
+      "id": 1128064630989963300,
+      "id_str": "1128064630989963266",
+      "text": "@SverhDerjava @pora_valit @skurstil @k2000_man @EkbBus @tramizh @1cvb2 @cellular_bud @KorsakVoskres А какого зерна… https://t.co/w7Sk1odF0X",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SverhDerjava",
+            "name": "Сверх Держава",
+            "id": 852049694805151700,
+            "id_str": "852049694805151744",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "pora_valit",
+            "name": "Пора валить - official",
+            "id": 305949638,
+            "id_str": "305949638",
+            "indices": [
+              14,
+              25
+            ]
+          },
+          {
+            "screen_name": "skurstil",
+            "name": "Adelaide",
+            "id": 1362567127,
+            "id_str": "1362567127",
+            "indices": [
+              26,
+              35
+            ]
+          },
+          {
+            "screen_name": "k2000_man",
+            "name": "Man",
+            "id": 564527852,
+            "id_str": "564527852",
+            "indices": [
+              36,
+              46
+            ]
+          },
+          {
+            "screen_name": "EkbBus",
+            "name": "Автобус",
+            "id": 1041387216,
+            "id_str": "1041387216",
+            "indices": [
+              47,
+              54
+            ]
+          },
+          {
+            "screen_name": "tramizh",
+            "name": "Трамвай 🚋 🚋 🚋",
+            "id": 3201504675,
+            "id_str": "3201504675",
+            "indices": [
+              55,
+              63
+            ]
+          },
+          {
+            "screen_name": "1cvb2",
+            "name": "Обманщикя1cvb",
+            "id": 1077422598366081000,
+            "id_str": "1077422598366081024",
+            "indices": [
+              64,
+              70
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              71,
+              84
+            ]
+          },
+          {
+            "screen_name": "KorsakVoskres",
+            "name": "Korsak Voskres",
+            "id": 226546673,
+            "id_str": "226546673",
+            "indices": [
+              85,
+              99
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/w7Sk1odF0X",
+            "expanded_url": "https://twitter.com/i/web/status/1128064630989963266",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1128062654847815700,
+      "in_reply_to_status_id_str": "1128062654847815681",
+      "in_reply_to_user_id": 852049694805151700,
+      "in_reply_to_user_id_str": "852049694805151744",
+      "in_reply_to_screen_name": "SverhDerjava",
+      "user": {
+        "id": 1018813828669329400,
+        "id_str": "1018813828669329409"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 13 22:29:56 +0000 2019",
+      "id": 1128064863169855500,
+      "id_str": "1128064863169855489",
+      "text": "@SverhDerjava @pora_valit @skurstil @k2000_man @EkbBus @tramizh @1cvb2 @cellular_bud @KorsakVoskres *Хрена. Яблоко… https://t.co/hyQHg6bDfG",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SverhDerjava",
+            "name": "Сверх Держава",
+            "id": 852049694805151700,
+            "id_str": "852049694805151744",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "pora_valit",
+            "name": "Пора валить - official",
+            "id": 305949638,
+            "id_str": "305949638",
+            "indices": [
+              14,
+              25
+            ]
+          },
+          {
+            "screen_name": "skurstil",
+            "name": "Adelaide",
+            "id": 1362567127,
+            "id_str": "1362567127",
+            "indices": [
+              26,
+              35
+            ]
+          },
+          {
+            "screen_name": "k2000_man",
+            "name": "Man",
+            "id": 564527852,
+            "id_str": "564527852",
+            "indices": [
+              36,
+              46
+            ]
+          },
+          {
+            "screen_name": "EkbBus",
+            "name": "Автобус",
+            "id": 1041387216,
+            "id_str": "1041387216",
+            "indices": [
+              47,
+              54
+            ]
+          },
+          {
+            "screen_name": "tramizh",
+            "name": "Трамвай 🚋 🚋 🚋",
+            "id": 3201504675,
+            "id_str": "3201504675",
+            "indices": [
+              55,
+              63
+            ]
+          },
+          {
+            "screen_name": "1cvb2",
+            "name": "Обманщикя1cvb",
+            "id": 1077422598366081000,
+            "id_str": "1077422598366081024",
+            "indices": [
+              64,
+              70
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              71,
+              84
+            ]
+          },
+          {
+            "screen_name": "KorsakVoskres",
+            "name": "Korsak Voskres",
+            "id": 226546673,
+            "id_str": "226546673",
+            "indices": [
+              85,
+              99
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/hyQHg6bDfG",
+            "expanded_url": "https://twitter.com/i/web/status/1128064863169855489",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1128064630989963300,
+      "in_reply_to_status_id_str": "1128064630989963266",
+      "in_reply_to_user_id": 1018813828669329400,
+      "in_reply_to_user_id_str": "1018813828669329409",
+      "in_reply_to_screen_name": "khozhainov1",
+      "user": {
+        "id": 1018813828669329400,
+        "id_str": "1018813828669329409"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 13 22:34:45 +0000 2019",
+      "id": 1128066075084636200,
+      "id_str": "1128066075084636161",
+      "text": "@pora_valit @skurstil @EkbBus @tramizh @SverhDerjava @1cvb2 @cellular_bud @KorsakVoskres Апхахаха... Это ты ипотеку… https://t.co/9YIkpnVKzp",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "pora_valit",
+            "name": "Пора валить - official",
+            "id": 305949638,
+            "id_str": "305949638",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "skurstil",
+            "name": "Adelaide",
+            "id": 1362567127,
+            "id_str": "1362567127",
+            "indices": [
+              12,
+              21
+            ]
+          },
+          {
+            "screen_name": "EkbBus",
+            "name": "Автобус",
+            "id": 1041387216,
+            "id_str": "1041387216",
+            "indices": [
+              22,
+              29
+            ]
+          },
+          {
+            "screen_name": "tramizh",
+            "name": "Трамвай 🚋 🚋 🚋",
+            "id": 3201504675,
+            "id_str": "3201504675",
+            "indices": [
+              30,
+              38
+            ]
+          },
+          {
+            "screen_name": "SverhDerjava",
+            "name": "Сверх Держава",
+            "id": 852049694805151700,
+            "id_str": "852049694805151744",
+            "indices": [
+              39,
+              52
+            ]
+          },
+          {
+            "screen_name": "1cvb2",
+            "name": "Обманщикя1cvb",
+            "id": 1077422598366081000,
+            "id_str": "1077422598366081024",
+            "indices": [
+              53,
+              59
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              60,
+              73
+            ]
+          },
+          {
+            "screen_name": "KorsakVoskres",
+            "name": "Korsak Voskres",
+            "id": 226546673,
+            "id_str": "226546673",
+            "indices": [
+              74,
+              88
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/9YIkpnVKzp",
+            "expanded_url": "https://twitter.com/i/web/status/1128066075084636161",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1128063212711219200,
+      "in_reply_to_status_id_str": "1128063212711219202",
+      "in_reply_to_user_id": 305949638,
+      "in_reply_to_user_id_str": "305949638",
+      "in_reply_to_screen_name": "pora_valit",
+      "user": {
+        "id": 2439728863,
+        "id_str": "2439728863"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 13 22:35:12 +0000 2019",
+      "id": 1128066188997587000,
+      "id_str": "1128066188997586944",
+      "text": "@skurstil @pora_valit @EkbBus @tramizh @SverhDerjava @1cvb2 @cellular_bud @KorsakVoskres Я да же знаю,что это за пе… https://t.co/YUJcZGH5fH",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "skurstil",
+            "name": "Adelaide",
+            "id": 1362567127,
+            "id_str": "1362567127",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "pora_valit",
+            "name": "Пора валить - official",
+            "id": 305949638,
+            "id_str": "305949638",
+            "indices": [
+              10,
+              21
+            ]
+          },
+          {
+            "screen_name": "EkbBus",
+            "name": "Автобус",
+            "id": 1041387216,
+            "id_str": "1041387216",
+            "indices": [
+              22,
+              29
+            ]
+          },
+          {
+            "screen_name": "tramizh",
+            "name": "Трамвай 🚋 🚋 🚋",
+            "id": 3201504675,
+            "id_str": "3201504675",
+            "indices": [
+              30,
+              38
+            ]
+          },
+          {
+            "screen_name": "SverhDerjava",
+            "name": "Сверх Держава",
+            "id": 852049694805151700,
+            "id_str": "852049694805151744",
+            "indices": [
+              39,
+              52
+            ]
+          },
+          {
+            "screen_name": "1cvb2",
+            "name": "Обманщикя1cvb",
+            "id": 1077422598366081000,
+            "id_str": "1077422598366081024",
+            "indices": [
+              53,
+              59
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              60,
+              73
+            ]
+          },
+          {
+            "screen_name": "KorsakVoskres",
+            "name": "Korsak Voskres",
+            "id": 226546673,
+            "id_str": "226546673",
+            "indices": [
+              74,
+              88
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/YUJcZGH5fH",
+            "expanded_url": "https://twitter.com/i/web/status/1128066188997586944",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1128021205141872600,
+      "in_reply_to_status_id_str": "1128021205141872641",
+      "in_reply_to_user_id": 1362567127,
+      "in_reply_to_user_id_str": "1362567127",
+      "in_reply_to_screen_name": "skurstil",
+      "user": {
+        "id": 301548998,
+        "id_str": "301548998"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 13 22:41:35 +0000 2019",
+      "id": 1128067797072920600,
+      "id_str": "1128067797072920576",
+      "text": "@cellular_bud А это те самые бельгийские geuze -  тут монобленд. В данной коробке 4 бутылки, но выдержанные в разны… https://t.co/p2GR5P7Ts3",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/p2GR5P7Ts3",
+            "expanded_url": "https://twitter.com/i/web/status/1128067797072920576",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1128056589175246800,
+      "in_reply_to_status_id_str": "1128056589175246849",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 13 22:43:23 +0000 2019",
+      "id": 1128068248883298300,
+      "id_str": "1128068248883298304",
+      "text": "@cellular_bud Стоимость бутылки 0,375ml в районе 15-17 usd, в этом печалька.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1128057387313705000,
+      "in_reply_to_status_id_str": "1128057387313704960",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 13 22:56:18 +0000 2019",
+      "id": 1128071499095711700,
+      "id_str": "1128071499095711744",
+      "text": "@cellular_bud І?)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1127928107548196900,
+      "in_reply_to_status_id_str": "1127928107548196865",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 3327602098,
+        "id_str": "3327602098"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 13 23:01:48 +0000 2019",
+      "id": 1128072882159083500,
+      "id_str": "1128072882159083521",
+      "text": "@cellular_bud @kniga555 Летать хотел...",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "kniga555",
+            "name": "Bankir-Філософ",
+            "id": 3327602098,
+            "id_str": "3327602098",
+            "indices": [
+              14,
+              23
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1127928107548196900,
+      "in_reply_to_status_id_str": "1127928107548196865",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 1035799220547145700,
+        "id_str": "1035799220547145728"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 13 23:04:25 +0000 2019",
+      "id": 1128073541159739400,
+      "id_str": "1128073541159739393",
+      "text": "@ptn_pdr @cellular_bud І я",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ptn_pdr",
+            "name": "Бывало и лучше...",
+            "id": 1035799220547145700,
+            "id_str": "1035799220547145728",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              9,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1128072882159083500,
+      "in_reply_to_status_id_str": "1128072882159083521",
+      "in_reply_to_user_id": 1035799220547145700,
+      "in_reply_to_user_id_str": "1035799220547145728",
+      "in_reply_to_screen_name": "ptn_pdr",
+      "user": {
+        "id": 3327602098,
+        "id_str": "3327602098"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 13 23:05:54 +0000 2019",
+      "id": 1128073915111178200,
+      "id_str": "1128073915111178256",
+      "text": "@ptn_pdr @cellular_bud Довелося б вивчити магію, не вистачило окаянства, віррніше- страх за рідних",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ptn_pdr",
+            "name": "Бывало и лучше...",
+            "id": 1035799220547145700,
+            "id_str": "1035799220547145728",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              9,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1128073541159739400,
+      "in_reply_to_status_id_str": "1128073541159739393",
+      "in_reply_to_user_id": 3327602098,
+      "in_reply_to_user_id_str": "3327602098",
+      "in_reply_to_screen_name": "kniga555",
+      "user": {
+        "id": 3327602098,
+        "id_str": "3327602098"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "uk"
+    },
+    {
+      "created_at": "Mon May 13 23:09:09 +0000 2019",
+      "id": 1128074734296551400,
+      "id_str": "1128074734296551424",
+      "text": "@skurstil @pora_valit @EkbBus @tramizh @SverhDerjava @1cvb2 @cellular_bud @KorsakVoskres Ахахаах прекрати",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "skurstil",
+            "name": "Adelaide",
+            "id": 1362567127,
+            "id_str": "1362567127",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "pora_valit",
+            "name": "Пора валить - official",
+            "id": 305949638,
+            "id_str": "305949638",
+            "indices": [
+              10,
+              21
+            ]
+          },
+          {
+            "screen_name": "EkbBus",
+            "name": "Автобус",
+            "id": 1041387216,
+            "id_str": "1041387216",
+            "indices": [
+              22,
+              29
+            ]
+          },
+          {
+            "screen_name": "tramizh",
+            "name": "Трамвай 🚋 🚋 🚋",
+            "id": 3201504675,
+            "id_str": "3201504675",
+            "indices": [
+              30,
+              38
+            ]
+          },
+          {
+            "screen_name": "SverhDerjava",
+            "name": "Сверх Держава",
+            "id": 852049694805151700,
+            "id_str": "852049694805151744",
+            "indices": [
+              39,
+              52
+            ]
+          },
+          {
+            "screen_name": "1cvb2",
+            "name": "Обманщикя1cvb",
+            "id": 1077422598366081000,
+            "id_str": "1077422598366081024",
+            "indices": [
+              53,
+              59
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              60,
+              73
+            ]
+          },
+          {
+            "screen_name": "KorsakVoskres",
+            "name": "Korsak Voskres",
+            "id": 226546673,
+            "id_str": "226546673",
+            "indices": [
+              74,
+              88
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1128021205141872600,
+      "in_reply_to_status_id_str": "1128021205141872641",
+      "in_reply_to_user_id": 1362567127,
+      "in_reply_to_user_id_str": "1362567127",
+      "in_reply_to_screen_name": "skurstil",
+      "user": {
+        "id": 3545614223,
+        "id_str": "3545614223"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 13 23:10:16 +0000 2019",
+      "id": 1128075012714451000,
+      "id_str": "1128075012714450946",
+      "text": "@ptn_pdr @cellular_bud Велік до якоісь міри замінює  лєвітацію..))",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ptn_pdr",
+            "name": "Бывало и лучше...",
+            "id": 1035799220547145700,
+            "id_str": "1035799220547145728",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              9,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1128072882159083500,
+      "in_reply_to_status_id_str": "1128072882159083521",
+      "in_reply_to_user_id": 1035799220547145700,
+      "in_reply_to_user_id_str": "1035799220547145728",
+      "in_reply_to_screen_name": "ptn_pdr",
+      "user": {
+        "id": 3327602098,
+        "id_str": "3327602098"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "uk"
+    },
+    {
+      "created_at": "Mon May 13 23:20:40 +0000 2019",
+      "id": 1128077630765391900,
+      "id_str": "1128077630765391875",
+      "text": "@cellular_bud @salckovsky Тогда, молодая телятина, жеребятина и всякие там косули, олени.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "salckovsky",
+            "name": "Salckovsky",
+            "id": 2233150535,
+            "id_str": "2233150535",
+            "indices": [
+              14,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1127940975056187400,
+      "in_reply_to_status_id_str": "1127940975056187394",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 517242788,
+        "id_str": "517242788"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 13 23:44:05 +0000 2019",
+      "id": 1128083524567928800,
+      "id_str": "1128083524567928832",
+      "text": "@pora_valit @skurstil @EkbBus @tramizh @SverhDerjava @1cvb2 @cellular_bud @KorsakVoskres Куба со своими 80 годами передаёт привет!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "pora_valit",
+            "name": "Пора валить - official",
+            "id": 305949638,
+            "id_str": "305949638",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "skurstil",
+            "name": "Adelaide",
+            "id": 1362567127,
+            "id_str": "1362567127",
+            "indices": [
+              12,
+              21
+            ]
+          },
+          {
+            "screen_name": "EkbBus",
+            "name": "Автобус",
+            "id": 1041387216,
+            "id_str": "1041387216",
+            "indices": [
+              22,
+              29
+            ]
+          },
+          {
+            "screen_name": "tramizh",
+            "name": "Трамвай 🚋 🚋 🚋",
+            "id": 3201504675,
+            "id_str": "3201504675",
+            "indices": [
+              30,
+              38
+            ]
+          },
+          {
+            "screen_name": "SverhDerjava",
+            "name": "Сверх Держава",
+            "id": 852049694805151700,
+            "id_str": "852049694805151744",
+            "indices": [
+              39,
+              52
+            ]
+          },
+          {
+            "screen_name": "1cvb2",
+            "name": "Обманщикя1cvb",
+            "id": 1077422598366081000,
+            "id_str": "1077422598366081024",
+            "indices": [
+              53,
+              59
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              60,
+              73
+            ]
+          },
+          {
+            "screen_name": "KorsakVoskres",
+            "name": "Korsak Voskres",
+            "id": 226546673,
+            "id_str": "226546673",
+            "indices": [
+              74,
+              88
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1128015196948025300,
+      "in_reply_to_status_id_str": "1128015196948025344",
+      "in_reply_to_user_id": 305949638,
+      "in_reply_to_user_id_str": "305949638",
+      "in_reply_to_screen_name": "pora_valit",
+      "user": {
+        "id": 159874954,
+        "id_str": "159874954"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 13 23:52:37 +0000 2019",
+      "id": 1128085671661457400,
+      "id_str": "1128085671661457413",
+      "text": "@cellular_bud Насчет Моши пишет правду. Раньше Мойша был модератором в группе \"Пора валить\" - сейчас не знаю. Кто х… https://t.co/J092N8yrO9",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/J092N8yrO9",
+            "expanded_url": "https://twitter.com/i/web/status/1128085671661457413",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1128026145809584100,
+      "in_reply_to_status_id_str": "1128026145809584129",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 948708346793812000,
+        "id_str": "948708346793811969"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 13 23:58:37 +0000 2019",
+      "id": 1128087182193954800,
+      "id_str": "1128087182193954817",
+      "text": "@cellular_bud It's a desert 😶",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1128082043181514800,
+      "in_reply_to_status_id_str": "1128082043181514752",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 811946491396943900,
+        "id_str": "811946491396943872"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue May 14 00:04:52 +0000 2019",
+      "id": 1128088755691081700,
+      "id_str": "1128088755691081728",
+      "text": "@cellular_bud Buenas tardes! Как гриться!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1128082043181514800,
+      "in_reply_to_status_id_str": "1128082043181514752",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 517242788,
+        "id_str": "517242788"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Tue May 14 00:21:01 +0000 2019",
+      "id": 1128092817807396900,
+      "id_str": "1128092817807396864",
+      "text": "@cellular_bud @lilydavay  тебя не хватает https://t.co/X7eavbHc1W",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "lilydavay",
+            "name": "pantry queen",
+            "id": 363688931,
+            "id_str": "363688931",
+            "indices": [
+              14,
+              24
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1128092813818617900,
+            "id_str": "1128092813818617857",
+            "indices": [
+              42,
+              65
+            ],
+            "media_url": "http://pbs.twimg.com/media/D6fKb_FUYAEcuHu.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D6fKb_FUYAEcuHu.jpg",
+            "url": "https://t.co/X7eavbHc1W",
+            "display_url": "pic.twitter.com/X7eavbHc1W",
+            "expanded_url": "https://twitter.com/Sssyrrr/status/1128092817807396864/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 714,
+                "h": 442,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 421,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 714,
+                "h": 442,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1128092813818617900,
+            "id_str": "1128092813818617857",
+            "indices": [
+              42,
+              65
+            ],
+            "media_url": "http://pbs.twimg.com/media/D6fKb_FUYAEcuHu.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D6fKb_FUYAEcuHu.jpg",
+            "url": "https://t.co/X7eavbHc1W",
+            "display_url": "pic.twitter.com/X7eavbHc1W",
+            "expanded_url": "https://twitter.com/Sssyrrr/status/1128092817807396864/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 714,
+                "h": 442,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 421,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 714,
+                "h": 442,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1128082043181514800,
+      "in_reply_to_status_id_str": "1128082043181514752",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 187080800,
+        "id_str": "187080800"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "1027fcd83c280af3",
+        "url": "https://api.twitter.com/1.1/geo/id/1027fcd83c280af3.json",
+        "place_type": "city",
+        "name": "Lagos de Moreno",
+        "full_name": "Lagos de Moreno, Jalisco",
+        "country_code": "MX",
+        "country": "Mexico",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -102.16888,
+                21.1778369
+              ],
+              [
+                -101.568873,
+                21.1778369
+              ],
+              [
+                -101.568873,
+                21.8892021
+              ],
+              [
+                -102.16888,
+                21.8892021
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 14 01:21:03 +0000 2019",
+      "id": 1128107926386769900,
+      "id_str": "1128107926386769920",
+      "text": "@cellular_bud @pora_valit Я написал, что мошенник Моша и могу привести примеры людей , которых он кинул на деньги.… https://t.co/KU2iVfybTs",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "pora_valit",
+            "name": "Пора валить - official",
+            "id": 305949638,
+            "id_str": "305949638",
+            "indices": [
+              14,
+              25
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/KU2iVfybTs",
+            "expanded_url": "https://twitter.com/i/web/status/1128107926386769920",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1128106798337204200,
+      "in_reply_to_status_id_str": "1128106798337204229",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 948708346793812000,
+        "id_str": "948708346793811969"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 14 01:52:34 +0000 2019",
+      "id": 1128115857685508100,
+      "id_str": "1128115857685508096",
+      "text": "@cellular_bud https://t.co/s7aU3ejYYV",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1128115846750933000,
+            "id_str": "1128115846750932993",
+            "indices": [
+              14,
+              37
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/D6ffYrcUEAEY_gA.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D6ffYrcUEAEY_gA.jpg",
+            "url": "https://t.co/s7aU3ejYYV",
+            "display_url": "pic.twitter.com/s7aU3ejYYV",
+            "expanded_url": "https://twitter.com/wa_ziya/status/1128115857685508096/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 498,
+                "h": 216,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 498,
+                "h": 216,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 498,
+                "h": 216,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1128115846750933000,
+            "id_str": "1128115846750932993",
+            "indices": [
+              14,
+              37
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/D6ffYrcUEAEY_gA.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D6ffYrcUEAEY_gA.jpg",
+            "url": "https://t.co/s7aU3ejYYV",
+            "display_url": "pic.twitter.com/s7aU3ejYYV",
+            "expanded_url": "https://twitter.com/wa_ziya/status/1128115857685508096/photo/1",
+            "type": "animated_gif",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 498,
+                "h": 216,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 498,
+                "h": 216,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 498,
+                "h": 216,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                83,
+                36
+              ],
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/tweet_video/D6ffYrcUEAEY_gA.mp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1128111155086602200,
+      "in_reply_to_status_id_str": "1128111155086602240",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 517242788,
+        "id_str": "517242788"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Tue May 14 01:53:33 +0000 2019",
+      "id": 1128116104612720600,
+      "id_str": "1128116104612720642",
+      "text": "@cellular_bud @chefdelasemana Jrec hello. A v chem raznici mejdu nimi ?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "chefdelasemana",
+            "name": "Шеф Недели",
+            "id": 1093516106545930200,
+            "id_str": "1093516106545930240",
+            "indices": [
+              14,
+              29
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1128045364437712900,
+      "in_reply_to_status_id_str": "1128045364437712898",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 2289418620,
+        "id_str": "2289418620"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "cs"
+    },
+    {
+      "created_at": "Tue May 14 02:15:19 +0000 2019",
+      "id": 1128121581912379400,
+      "id_str": "1128121581912379393",
+      "text": "@skurstil @pora_valit @EkbBus @SverhDerjava @1cvb2 @cellular_bud @KorsakVoskres Т.е даже и ответить по существу  не… https://t.co/XbspPOVV1U",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "skurstil",
+            "name": "Adelaide",
+            "id": 1362567127,
+            "id_str": "1362567127",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "pora_valit",
+            "name": "Пора валить - official",
+            "id": 305949638,
+            "id_str": "305949638",
+            "indices": [
+              10,
+              21
+            ]
+          },
+          {
+            "screen_name": "EkbBus",
+            "name": "Автобус",
+            "id": 1041387216,
+            "id_str": "1041387216",
+            "indices": [
+              22,
+              29
+            ]
+          },
+          {
+            "screen_name": "SverhDerjava",
+            "name": "Сверх Держава",
+            "id": 852049694805151700,
+            "id_str": "852049694805151744",
+            "indices": [
+              30,
+              43
+            ]
+          },
+          {
+            "screen_name": "1cvb2",
+            "name": "Обманщикя1cvb",
+            "id": 1077422598366081000,
+            "id_str": "1077422598366081024",
+            "indices": [
+              44,
+              50
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              51,
+              64
+            ]
+          },
+          {
+            "screen_name": "KorsakVoskres",
+            "name": "Korsak Voskres",
+            "id": 226546673,
+            "id_str": "226546673",
+            "indices": [
+              65,
+              79
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/XbspPOVV1U",
+            "expanded_url": "https://twitter.com/i/web/status/1128121581912379393",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1128010556055740400,
+      "in_reply_to_status_id_str": "1128010556055740416",
+      "in_reply_to_user_id": 1362567127,
+      "in_reply_to_user_id_str": "1362567127",
+      "in_reply_to_screen_name": "skurstil",
+      "user": {
+        "id": 3201504675,
+        "id_str": "3201504675"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 14 02:24:29 +0000 2019",
+      "id": 1128123891149357000,
+      "id_str": "1128123891149357057",
+      "text": "@k2000_man @skurstil @pora_valit @SverhDerjava @EkbBus @tramizh @1cvb2 @cellular_bud @KorsakVoskres Почему 0 читате… https://t.co/R2enUpy7nB",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "k2000_man",
+            "name": "Man",
+            "id": 564527852,
+            "id_str": "564527852",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "skurstil",
+            "name": "Adelaide",
+            "id": 1362567127,
+            "id_str": "1362567127",
+            "indices": [
+              11,
+              20
+            ]
+          },
+          {
+            "screen_name": "pora_valit",
+            "name": "Пора валить - official",
+            "id": 305949638,
+            "id_str": "305949638",
+            "indices": [
+              21,
+              32
+            ]
+          },
+          {
+            "screen_name": "SverhDerjava",
+            "name": "Сверх Держава",
+            "id": 852049694805151700,
+            "id_str": "852049694805151744",
+            "indices": [
+              33,
+              46
+            ]
+          },
+          {
+            "screen_name": "EkbBus",
+            "name": "Автобус",
+            "id": 1041387216,
+            "id_str": "1041387216",
+            "indices": [
+              47,
+              54
+            ]
+          },
+          {
+            "screen_name": "tramizh",
+            "name": "Трамвай 🚋 🚋 🚋",
+            "id": 3201504675,
+            "id_str": "3201504675",
+            "indices": [
+              55,
+              63
+            ]
+          },
+          {
+            "screen_name": "1cvb2",
+            "name": "Обманщикя1cvb",
+            "id": 1077422598366081000,
+            "id_str": "1077422598366081024",
+            "indices": [
+              64,
+              70
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              71,
+              84
+            ]
+          },
+          {
+            "screen_name": "KorsakVoskres",
+            "name": "Korsak Voskres",
+            "id": 226546673,
+            "id_str": "226546673",
+            "indices": [
+              85,
+              99
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/R2enUpy7nB",
+            "expanded_url": "https://twitter.com/i/web/status/1128123891149357057",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1128022535197450200,
+      "in_reply_to_status_id_str": "1128022535197450240",
+      "in_reply_to_user_id": 564527852,
+      "in_reply_to_user_id_str": "564527852",
+      "in_reply_to_screen_name": "k2000_man",
+      "user": {
+        "id": 852528458370515000,
+        "id_str": "852528458370514946"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 14 02:29:08 +0000 2019",
+      "id": 1128125058747183100,
+      "id_str": "1128125058747183104",
+      "text": "@chefdelasemana @cellular_bud В очень сухом шампанском замариновать мяско с репчатым луком ммм\"\"\"",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "chefdelasemana",
+            "name": "Шеф Недели",
+            "id": 1093516106545930200,
+            "id_str": "1093516106545930240",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              16,
+              29
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1128067797072920600,
+      "in_reply_to_status_id_str": "1128067797072920576",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 2602135916,
+        "id_str": "2602135916"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 14 02:40:43 +0000 2019",
+      "id": 1128127974899949600,
+      "id_str": "1128127974899949568",
+      "text": "@cellular_bud @pora_valit Все, кто подбивают предать Родину - мошенники",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "pora_valit",
+            "name": "Пора валить - official",
+            "id": 305949638,
+            "id_str": "305949638",
+            "indices": [
+              14,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1128106798337204200,
+      "in_reply_to_status_id_str": "1128106798337204229",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 2190434709,
+        "id_str": "2190434709"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 14 02:46:38 +0000 2019",
+      "id": 1128129465865965600,
+      "id_str": "1128129465865965573",
+      "text": "@cellular_bud @salckovsky С сырокопченым мясом сложно, температура, дробное копчение и вызревание)) на один кусок в 2кг месяц может уйти",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "salckovsky",
+            "name": "Salckovsky",
+            "id": 2233150535,
+            "id_str": "2233150535",
+            "indices": [
+              14,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1127940975056187400,
+      "in_reply_to_status_id_str": "1127940975056187394",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 206094373,
+        "id_str": "206094373"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 14 02:57:21 +0000 2019",
+      "id": 1128132159234105300,
+      "id_str": "1128132159234105345",
+      "text": "@cellular_bud @chefdelasemana Alc % same?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "chefdelasemana",
+            "name": "Шеф Недели",
+            "id": 1093516106545930200,
+            "id_str": "1093516106545930240",
+            "indices": [
+              14,
+              29
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1128123541352792000,
+      "in_reply_to_status_id_str": "1128123541352792064",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 2289418620,
+        "id_str": "2289418620"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue May 14 02:57:37 +0000 2019",
+      "id": 1128132227412447200,
+      "id_str": "1128132227412447239",
+      "text": "@cellular_bud @salckovsky Ну тогда дерзай!))",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "salckovsky",
+            "name": "Salckovsky",
+            "id": 2233150535,
+            "id_str": "2233150535",
+            "indices": [
+              14,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1128130136174473200,
+      "in_reply_to_status_id_str": "1128130136174473219",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 206094373,
+        "id_str": "206094373"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 14 03:06:23 +0000 2019",
+      "id": 1128134434337755100,
+      "id_str": "1128134434337755136",
+      "text": "@cellular_bud @chefdelasemana Nice cans, good idea.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "chefdelasemana",
+            "name": "Шеф Недели",
+            "id": 1093516106545930200,
+            "id_str": "1093516106545930240",
+            "indices": [
+              14,
+              29
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1128133197148098600,
+      "in_reply_to_status_id_str": "1128133197148098560",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 2289418620,
+        "id_str": "2289418620"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
     }
   ]
 }
