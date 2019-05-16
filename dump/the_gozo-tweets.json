@@ -7739,6 +7739,2195 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 15 16:42:40 +0000 2019",
+      "id": 1128702246215200800,
+      "id_str": "1128702246215200768",
+      "full_text": "8. Trappist beer. Вторая причина поехать в Бельгию. Пиво, сваренное в траппистских монастырях соответствующими монахами. Изначально была только тема Бельгии, потом присоединилась Голландия, Италия, и даже США. https://t.co/le9ywa3nUs",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        209
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1128702234764640300,
+            "id_str": "1128702234764640259",
+            "indices": [
+              210,
+              233
+            ],
+            "media_url": "http://pbs.twimg.com/media/D6n0s9BWAAM-23l.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D6n0s9BWAAM-23l.jpg",
+            "url": "https://t.co/le9ywa3nUs",
+            "display_url": "pic.twitter.com/le9ywa3nUs",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1128702246215200768/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 566,
+                "h": 371,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 566,
+                "h": 371,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 566,
+                "h": 371,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1128702234764640300,
+            "id_str": "1128702234764640259",
+            "indices": [
+              210,
+              233
+            ],
+            "media_url": "http://pbs.twimg.com/media/D6n0s9BWAAM-23l.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D6n0s9BWAAM-23l.jpg",
+            "url": "https://t.co/le9ywa3nUs",
+            "display_url": "pic.twitter.com/le9ywa3nUs",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1128702246215200768/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 566,
+                "h": 371,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 566,
+                "h": 371,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 566,
+                "h": 371,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1128683222773243900,
+      "in_reply_to_status_id_str": "1128683222773243906",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 27,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 15 17:15:01 +0000 2019",
+      "id": 1128710386474156000,
+      "id_str": "1128710386474156032",
+      "full_text": "Голландия очень даже пивная, надо просто знать, что пить. Тот же DeMolen и Kees - топчик в европейском крафте. https://t.co/36ROoWB41D",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        110
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/36ROoWB41D",
+            "expanded_url": "https://twitter.com/nash_postrel/status/1128703986746445836",
+            "display_url": "twitter.com/nash_postrel/s…",
+            "indices": [
+              111,
+              134
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1128703986746445800,
+      "quoted_status_id_str": "1128703986746445836",
+      "quoted_status_permalink": {
+        "url": "https://t.co/36ROoWB41D",
+        "expanded": "https://twitter.com/nash_postrel/status/1128703986746445836",
+        "display": "twitter.com/nash_postrel/s…"
+      },
+      "quoted_status": {
+        "created_at": "Wed May 15 16:49:35 +0000 2019",
+        "id": 1128703986746445800,
+        "id_str": "1128703986746445836",
+        "full_text": "@chefdelasemana Был недавно в Голландии,ну не пивная страна,надо слетать в бельгию,я очень давно посмотрел фильм \"Залечь на в Брюгге\",и это оставило свой отпечаток,теперь маленькие страны Европы меня притягивают)",
+        "truncated": false,
+        "display_text_range": [
+          16,
+          212
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "chefdelasemana",
+              "name": "Шеф Недели",
+              "id": 1093516106545930200,
+              "id_str": "1093516106545930240",
+              "indices": [
+                0,
+                15
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1128702246215200800,
+        "in_reply_to_status_id_str": "1128702246215200768",
+        "in_reply_to_user_id": 1093516106545930200,
+        "in_reply_to_user_id_str": "1093516106545930240",
+        "in_reply_to_screen_name": "chefdelasemana",
+        "user": {
+          "id": 415845250,
+          "id_str": "415845250"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 11,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 15 17:33:34 +0000 2019",
+      "id": 1128715055539925000,
+      "id_str": "1128715055539924993",
+      "full_text": "@orymatom Прозит! https://t.co/YCmPiXEKGG",
+      "truncated": false,
+      "display_text_range": [
+        10,
+        17
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "orymatom",
+            "name": "Омар к Хуйам",
+            "id": 1017197605,
+            "id_str": "1017197605",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1128715013697548300,
+            "id_str": "1128715013697548288",
+            "indices": [
+              18,
+              41
+            ],
+            "media_url": "http://pbs.twimg.com/media/D6oAUyQXsAAHqql.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D6oAUyQXsAAHqql.jpg",
+            "url": "https://t.co/YCmPiXEKGG",
+            "display_url": "pic.twitter.com/YCmPiXEKGG",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1128715055539924993/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1128715013697548300,
+            "id_str": "1128715013697548288",
+            "indices": [
+              18,
+              41
+            ],
+            "media_url": "http://pbs.twimg.com/media/D6oAUyQXsAAHqql.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D6oAUyQXsAAHqql.jpg",
+            "url": "https://t.co/YCmPiXEKGG",
+            "display_url": "pic.twitter.com/YCmPiXEKGG",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1128715055539924993/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1128710141837230100,
+      "in_reply_to_status_id_str": "1128710141837230080",
+      "in_reply_to_user_id": 1017197605,
+      "in_reply_to_user_id_str": "1017197605",
+      "in_reply_to_screen_name": "orymatom",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 4,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 15 17:49:22 +0000 2019",
+      "id": 1128719033350725600,
+      "id_str": "1128719033350725632",
+      "full_text": "@oliora Спасибо за Nevel, не знал.",
+      "truncated": false,
+      "display_text_range": [
+        8,
+        34
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "oliora",
+            "name": "Andrey Upadyshev",
+            "id": 430665583,
+            "id_str": "430665583",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1128716674197262300,
+      "in_reply_to_status_id_str": "1128716674197262336",
+      "in_reply_to_user_id": 430665583,
+      "in_reply_to_user_id_str": "430665583",
+      "in_reply_to_screen_name": "oliora",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 15 18:27:53 +0000 2019",
+      "id": 1128728725074399200,
+      "id_str": "1128728725074399234",
+      "full_text": "RT @SirMaximilianus: @chefdelasemana Голландия очень пивная страна, узнал это как начал тут жить) сортов пива огромное множество, очень мно…",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SirMaximilianus",
+            "name": "Maximilianus⚜️",
+            "id": 342270940,
+            "id_str": "342270940",
+            "indices": [
+              3,
+              19
+            ]
+          },
+          {
+            "screen_name": "chefdelasemana",
+            "name": "Шеф Недели",
+            "id": 1093516106545930200,
+            "id_str": "1093516106545930240",
+            "indices": [
+              21,
+              36
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed May 15 18:12:12 +0000 2019",
+        "id": 1128724778255306800,
+        "id_str": "1128724778255306752",
+        "full_text": "@chefdelasemana Голландия очень пивная страна, узнал это как начал тут жить) сортов пива огромное множество, очень многие пабы предлагают свои собственные. То, что пиво не немецко/чешского качества это да, но то что страна не пивная это не правда)",
+        "truncated": false,
+        "display_text_range": [
+          16,
+          247
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "chefdelasemana",
+              "name": "Шеф Недели",
+              "id": 1093516106545930200,
+              "id_str": "1093516106545930240",
+              "indices": [
+                0,
+                15
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1128710386474156000,
+        "in_reply_to_status_id_str": "1128710386474156032",
+        "in_reply_to_user_id": 1093516106545930200,
+        "in_reply_to_user_id_str": "1093516106545930240",
+        "in_reply_to_screen_name": "chefdelasemana",
+        "user": {
+          "id": 342270940,
+          "id_str": "342270940"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 5,
+        "favorited": true,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 15 18:30:46 +0000 2019",
+      "id": 1128729449128656900,
+      "id_str": "1128729449128656898",
+      "full_text": "@eSportResult Польша очень сильно развита в плане крафтового пива. Одна из лучших стран Восточной Европы в этом плане.",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        118
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "eSportResult",
+            "name": "Viske",
+            "id": 288638602,
+            "id_str": "288638602",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1128720786439667700,
+      "in_reply_to_status_id_str": "1128720786439667712",
+      "in_reply_to_user_id": 288638602,
+      "in_reply_to_user_id_str": "288638602",
+      "in_reply_to_screen_name": "eSportResult",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 15 18:49:34 +0000 2019",
+      "id": 1128734180089704400,
+      "id_str": "1128734180089704449",
+      "full_text": "@spartach05 У меня есть такая-же, тоже из Брюгге.",
+      "truncated": false,
+      "display_text_range": [
+        12,
+        49
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spartach05",
+            "name": "Алексей",
+            "id": 1094734020,
+            "id_str": "1094734020",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1128719280558755800,
+      "in_reply_to_status_id_str": "1128719280558755841",
+      "in_reply_to_user_id": 1094734020,
+      "in_reply_to_user_id_str": "1094734020",
+      "in_reply_to_screen_name": "spartach05",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 15 18:51:23 +0000 2019",
+      "id": 1128734638577463300,
+      "id_str": "1128734638577463297",
+      "full_text": "@cheese260880 В чём проблема? Где бардак? Будем исправлять.",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        59
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cheese260880",
+            "name": "Сырный граф",
+            "id": 195716295,
+            "id_str": "195716295",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1128733512172019700,
+      "in_reply_to_status_id_str": "1128733512172019713",
+      "in_reply_to_user_id": 195716295,
+      "in_reply_to_user_id_str": "195716295",
+      "in_reply_to_screen_name": "cheese260880",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 15 19:50:53 +0000 2019",
+      "id": 1128749610741137400,
+      "id_str": "1128749610741137408",
+      "full_text": "Да, трапписты все разные. Но я уверен что каждый найдёт свой вкус. Мой - Orval. Westvleteren 12 до недавнего времени считался Лучшим Пивом в Мире. (До появления Untappd, о котором поговорим завтра.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        197
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1128702246215200800,
+      "in_reply_to_status_id_str": "1128702246215200768",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 24,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 15 19:55:28 +0000 2019",
+      "id": 1128750766200692700,
+      "id_str": "1128750766200692741",
+      "full_text": "Кто хотел еды и закусок - давайте отварим креветок к пиву. https://t.co/c9m3PsJJq9",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        58
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1128750749394133000,
+            "id_str": "1128750749394132992",
+            "indices": [
+              59,
+              82
+            ],
+            "media_url": "http://pbs.twimg.com/media/D6og04GX4AA-aXf.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D6og04GX4AA-aXf.jpg",
+            "url": "https://t.co/c9m3PsJJq9",
+            "display_url": "pic.twitter.com/c9m3PsJJq9",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1128750766200692741/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1128750749394133000,
+            "id_str": "1128750749394132992",
+            "indices": [
+              59,
+              82
+            ],
+            "media_url": "http://pbs.twimg.com/media/D6og04GX4AA-aXf.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D6og04GX4AA-aXf.jpg",
+            "url": "https://t.co/c9m3PsJJq9",
+            "display_url": "pic.twitter.com/c9m3PsJJq9",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1128750766200692741/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "favorite_count": 48,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 15 20:00:12 +0000 2019",
+      "id": 1128751959131996200,
+      "id_str": "1128751959131996160",
+      "full_text": "Сразу скажу, что под креветки нужен обычный лагер, никаких ип/ап и прочего крафта.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        82
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1128750766200692700,
+      "in_reply_to_status_id_str": "1128750766200692741",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 15 20:03:00 +0000 2019",
+      "id": 1128752664127389700,
+      "id_str": "1128752664127389702",
+      "full_text": "Поскольку на фото уже варёно/замороженные креветки, их варить не надо, достаточно кипятка, ибо на выходе вы получите резину.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        124
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1128751959131996200,
+      "in_reply_to_status_id_str": "1128751959131996160",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 15 20:05:00 +0000 2019",
+      "id": 1128753166625931300,
+      "id_str": "1128753166625931266",
+      "full_text": "Если креветка вкусная и крупная - рекомендую употреблять без соуса, в крайнем случае смесь крупной соли и свежемолотого перца.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        126
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1128752664127389700,
+      "in_reply_to_status_id_str": "1128752664127389702",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 15 20:08:49 +0000 2019",
+      "id": 1128754126014373900,
+      "id_str": "1128754126014373888",
+      "full_text": "Если хочется соуса - майонез (о даа) или сметана (нее), ворчерстерширский соус, табаско хабанеро, свежемолотый чёрный перец и лайм/лимон. https://t.co/HuhtYc3sBp",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        137
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1128754107873931300,
+            "id_str": "1128754107873931264",
+            "indices": [
+              138,
+              161
+            ],
+            "media_url": "http://pbs.twimg.com/media/D6oj4XaWsAA0ljl.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D6oj4XaWsAA0ljl.jpg",
+            "url": "https://t.co/HuhtYc3sBp",
+            "display_url": "pic.twitter.com/HuhtYc3sBp",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1128754126014373888/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1128754107873931300,
+            "id_str": "1128754107873931264",
+            "indices": [
+              138,
+              161
+            ],
+            "media_url": "http://pbs.twimg.com/media/D6oj4XaWsAA0ljl.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D6oj4XaWsAA0ljl.jpg",
+            "url": "https://t.co/HuhtYc3sBp",
+            "display_url": "pic.twitter.com/HuhtYc3sBp",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1128754126014373888/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1128753166625931300,
+      "in_reply_to_status_id_str": "1128753166625931266",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 21,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 15 20:10:59 +0000 2019",
+      "id": 1128754670527291400,
+      "id_str": "1128754670527291393",
+      "full_text": "Ваше здоровье! https://t.co/8P7UrQILuo",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        14
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1128754660490321900,
+            "id_str": "1128754660490321921",
+            "indices": [
+              15,
+              38
+            ],
+            "media_url": "http://pbs.twimg.com/media/D6okYiEXoAEDYss.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D6okYiEXoAEDYss.jpg",
+            "url": "https://t.co/8P7UrQILuo",
+            "display_url": "pic.twitter.com/8P7UrQILuo",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1128754670527291393/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1128754660490321900,
+            "id_str": "1128754660490321921",
+            "indices": [
+              15,
+              38
+            ],
+            "media_url": "http://pbs.twimg.com/media/D6okYiEXoAEDYss.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D6okYiEXoAEDYss.jpg",
+            "url": "https://t.co/8P7UrQILuo",
+            "display_url": "pic.twitter.com/8P7UrQILuo",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1128754670527291393/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1128754126014373900,
+      "in_reply_to_status_id_str": "1128754126014373888",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 29,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 15 20:23:06 +0000 2019",
+      "id": 1128757718792196100,
+      "id_str": "1128757718792196096",
+      "full_text": "Завершая тему Бельгии. Моё субъективное имхо. \nВ Брюсселе делать нечего, если только выпить Cantillion в паре мест.  Сразу надо валить в Брюгг. Или в Гент. Или в Антверпен. \nИ да, картофель-фри там бесподобен. 🍟",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        211
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 21,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 15 20:55:20 +0000 2019",
+      "id": 1128765831792463900,
+      "id_str": "1128765831792463877",
+      "full_text": "RT @TechnicFly: @chefdelasemana В Брюсселе есть очень интересные места, в Брюгге уж очень много турья, поэтому заведения избалованные и фил…",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "TechnicFly",
+            "name": "мыслепреступник",
+            "id": 301309940,
+            "id_str": "301309940",
+            "indices": [
+              3,
+              14
+            ]
+          },
+          {
+            "screen_name": "chefdelasemana",
+            "name": "Шеф Недели",
+            "id": 1093516106545930200,
+            "id_str": "1093516106545930240",
+            "indices": [
+              16,
+              31
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed May 15 20:37:02 +0000 2019",
+        "id": 1128761225704345600,
+        "id_str": "1128761225704345600",
+        "full_text": "@chefdelasemana В Брюсселе есть очень интересные места, в Брюгге уж очень много турья, поэтому заведения избалованные и филонят. В Генте делать особо нечего, на денек. Антверп прекрасен, и есть хорошие пивные («Old Arsenal» например).",
+        "truncated": false,
+        "display_text_range": [
+          16,
+          234
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "chefdelasemana",
+              "name": "Шеф Недели",
+              "id": 1093516106545930200,
+              "id_str": "1093516106545930240",
+              "indices": [
+                0,
+                15
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1128757718792196100,
+        "in_reply_to_status_id_str": "1128757718792196096",
+        "in_reply_to_user_id": 1093516106545930200,
+        "in_reply_to_user_id_str": "1093516106545930240",
+        "in_reply_to_screen_name": "chefdelasemana",
+        "user": {
+          "id": 301309940,
+          "id_str": "301309940"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 6,
+        "favorited": true,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 15 21:01:58 +0000 2019",
+      "id": 1128767501238767600,
+      "id_str": "1128767501238767616",
+      "full_text": "@TechnicFly Извините, но Брюссель (а жили в самом центре) уж очень похож на бомжатник. Мест прекрасных полно, но общие впечатления о городе крайне отрицательные.",
+      "truncated": false,
+      "display_text_range": [
+        12,
+        161
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "TechnicFly",
+            "name": "мыслепреступник",
+            "id": 301309940,
+            "id_str": "301309940",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1128761225704345600,
+      "in_reply_to_status_id_str": "1128761225704345600",
+      "in_reply_to_user_id": 301309940,
+      "in_reply_to_user_id_str": "301309940",
+      "in_reply_to_screen_name": "TechnicFly",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 15 21:03:42 +0000 2019",
+      "id": 1128767937920282600,
+      "id_str": "1128767937920282624",
+      "full_text": "@Saverio1908 На 3-й день я там ел шаурму  у армян и запивал её стеллой артуа)",
+      "truncated": false,
+      "display_text_range": [
+        13,
+        77
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Saverio1908",
+            "name": "БаоЦзы",
+            "id": 903305821,
+            "id_str": "903305821",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1128767439288832000,
+      "in_reply_to_status_id_str": "1128767439288832001",
+      "in_reply_to_user_id": 903305821,
+      "in_reply_to_user_id_str": "903305821",
+      "in_reply_to_screen_name": "Saverio1908",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 15 21:06:44 +0000 2019",
+      "id": 1128768702835507200,
+      "id_str": "1128768702835507201",
+      "full_text": "@hamlet_ru @nash_postrel И это правильно.",
+      "truncated": false,
+      "display_text_range": [
+        25,
+        41
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "hamlet_ru",
+            "name": "оливье неделька",
+            "id": 439421679,
+            "id_str": "439421679",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "nash_postrel",
+            "name": "Roman Нордический",
+            "id": 415845250,
+            "id_str": "415845250",
+            "indices": [
+              11,
+              24
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1128767193523609600,
+      "in_reply_to_status_id_str": "1128767193523609601",
+      "in_reply_to_user_id": 439421679,
+      "in_reply_to_user_id_str": "439421679",
+      "in_reply_to_screen_name": "hamlet_ru",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu May 16 08:43:19 +0000 2019",
+      "id": 1128944001938329600,
+      "id_str": "1128944001938329600",
+      "full_text": "@trueneu Не пробовал, пардон.",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        29
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "trueneu",
+            "name": "True Neutral",
+            "id": 239479384,
+            "id_str": "239479384",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1128934696044384300,
+      "in_reply_to_status_id_str": "1128934696044384257",
+      "in_reply_to_user_id": 239479384,
+      "in_reply_to_user_id_str": "239479384",
+      "in_reply_to_screen_name": "trueneu",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu May 16 08:44:47 +0000 2019",
+      "id": 1128944369275482100,
+      "id_str": "1128944369275482113",
+      "full_text": "@TechnicFly К сожалению да, двухдневного. Возможно, пожив там год, я бы влюбился в этот город.",
+      "truncated": false,
+      "display_text_range": [
+        12,
+        94
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "TechnicFly",
+            "name": "мыслепреступник",
+            "id": 301309940,
+            "id_str": "301309940",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1128868122943983600,
+      "in_reply_to_status_id_str": "1128868122943983617",
+      "in_reply_to_user_id": 301309940,
+      "in_reply_to_user_id_str": "301309940",
+      "in_reply_to_screen_name": "TechnicFly",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu May 16 10:55:13 +0000 2019",
+      "id": 1128977197623119900,
+      "id_str": "1128977197623119872",
+      "full_text": "@4elovekpozitiv В теме про Бельгию поправил это.",
+      "truncated": false,
+      "display_text_range": [
+        16,
+        48
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "4elovekpozitiv",
+            "name": "Irene",
+            "id": 227286845,
+            "id_str": "227286845",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1128965987972407300,
+      "in_reply_to_status_id_str": "1128965987972407296",
+      "in_reply_to_user_id": 227286845,
+      "in_reply_to_user_id_str": "227286845",
+      "in_reply_to_screen_name": "4elovekpozitiv",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu May 16 13:37:51 +0000 2019",
+      "id": 1129018123481485300,
+      "id_str": "1129018123481485322",
+      "full_text": "@hellaperitif Угу",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        17
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "hellaperitif",
+            "name": "Roughneck",
+            "id": 3900345439,
+            "id_str": "3900345439",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1129009734584012800,
+      "in_reply_to_status_id_str": "1129009734584012800",
+      "in_reply_to_user_id": 3900345439,
+      "in_reply_to_user_id_str": "3900345439",
+      "in_reply_to_screen_name": "hellaperitif",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu May 16 13:38:41 +0000 2019",
+      "id": 1129018334538817500,
+      "id_str": "1129018334538817537",
+      "full_text": "@cellular_bud @orymatom Испанское, но чипотле не пожалели! 🔥",
+      "truncated": false,
+      "display_text_range": [
+        24,
+        60
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "orymatom",
+            "name": "Омар к Хуйам",
+            "id": 1017197605,
+            "id_str": "1017197605",
+            "indices": [
+              14,
+              23
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1128999699246133200,
+      "in_reply_to_status_id_str": "1128999699246133248",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu May 16 13:42:14 +0000 2019",
+      "id": 1129019226340175900,
+      "id_str": "1129019226340175872",
+      "full_text": "Давайте теперь по чешским стилям пройдёмся. 🇨🇿 https://t.co/IQG7XD2uoJ",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        46
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1129019155506716700,
+            "id_str": "1129019155506716672",
+            "indices": [
+              47,
+              70
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/D6sU8KyW4AACvXu.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D6sU8KyW4AACvXu.jpg",
+            "url": "https://t.co/IQG7XD2uoJ",
+            "display_url": "pic.twitter.com/IQG7XD2uoJ",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1129019226340175872/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 511,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 900,
+                "h": 676,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 676,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1129019155506716700,
+            "id_str": "1129019155506716672",
+            "indices": [
+              47,
+              70
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/D6sU8KyW4AACvXu.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D6sU8KyW4AACvXu.jpg",
+            "url": "https://t.co/IQG7XD2uoJ",
+            "display_url": "pic.twitter.com/IQG7XD2uoJ",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1129019226340175872/photo/1",
+            "type": "animated_gif",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 511,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 900,
+                "h": 676,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 676,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                225,
+                169
+              ],
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/tweet_video/D6sU8KyW4AACvXu.mp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 16,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu May 16 13:48:04 +0000 2019",
+      "id": 1129020693037948900,
+      "id_str": "1129020693037948929",
+      "full_text": "Чешское пиво - тоже охраняемая Еврокомиссией торговая марка. Но тут помимо территориального признака есть ещё нюансы - список разрешённых сортов ячменя и хмеля. По состоянию на 2011 год хмель был только один - Жатецкий.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        219
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu May 16 14:11:51 +0000 2019",
+      "id": 1129026678548783100,
+      "id_str": "1129026678548783104",
+      "full_text": "Итак, чешское пиво делят на: \n1. Stolní - пиво с плотностью начального сусла до 6%.\n2. Výčepní - пиво с плотностью сусла от 7 до 10,99\n3. Ležak - пиво низового брожения с плотностью сусла от 11 до 12.99%\n4.Plne - пиво верхового брожения с плотностью 11 до 12.99%",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        262
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 17,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "uk"
+    },
+    {
+      "created_at": "Thu May 16 14:18:45 +0000 2019",
+      "id": 1129028416341258200,
+      "id_str": "1129028416341258240",
+      "full_text": "5. Silne - пиво с плотностью начального сусла 13% и выше.\n6. Nizkoalkoholické - пиво с содержанием спирта от 0.5 до 1.2%\n7. Nealkoholické - содержание спирта до 0.5%\n8. Pivo z jiných obilovin - пиво, в засыпи которого содержится не менее 1/3 зерновых культур, отличных от ячменя.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        279
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1129026678548783100,
+      "in_reply_to_status_id_str": "1129026678548783104",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "uk"
+    },
+    {
+      "created_at": "Thu May 16 14:26:21 +0000 2019",
+      "id": 1129030331020001300,
+      "id_str": "1129030331020001280",
+      "full_text": "9. Kvasnicové - пиво, произведённое с добавлением чистых дрожжевых культур или части сброженного сусла в готовое пиво.\n10. Ochucené - пиво с добавлением ароматизаторов.\n11. Nápoj na bázi piva - напитки на базе смеси пива с другими напитками.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        241
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1129028416341258200,
+      "in_reply_to_status_id_str": "1129028416341258240",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "uk"
+    },
+    {
+      "created_at": "Thu May 16 14:29:18 +0000 2019",
+      "id": 1129031071989940200,
+      "id_str": "1129031071989940224",
+      "full_text": "@trueneu Не, сорян",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        18
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "trueneu",
+            "name": "True Neutral",
+            "id": 239479384,
+            "id_str": "239479384",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1129029903549194200,
+      "in_reply_to_status_id_str": "1129029903549194240",
+      "in_reply_to_user_id": 239479384,
+      "in_reply_to_user_id_str": "239479384",
+      "in_reply_to_screen_name": "trueneu",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu May 16 14:31:27 +0000 2019",
+      "id": 1129031613663338500,
+      "id_str": "1129031613663338496",
+      "full_text": "Меня раскрыли🙀 https://t.co/TgT20AMIaZ",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        14
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/TgT20AMIaZ",
+            "expanded_url": "https://twitter.com/crashov44976865/status/1129029115191930882",
+            "display_url": "twitter.com/crashov4497686…",
+            "indices": [
+              15,
+              38
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1129029115191930900,
+      "quoted_status_id_str": "1129029115191930882",
+      "quoted_status_permalink": {
+        "url": "https://t.co/TgT20AMIaZ",
+        "expanded": "https://twitter.com/crashov44976865/status/1129029115191930882",
+        "display": "twitter.com/crashov4497686…"
+      },
+      "quoted_status": {
+        "created_at": "Thu May 16 14:21:32 +0000 2019",
+        "id": 1129029115191930900,
+        "id_str": "1129029115191930882",
+        "full_text": "@chefdelasemana кто-нибудь, объясните мне, зачем нам  втирают какую-то бесполезную дичь про пиво? Это что, 100500 советов, как отрастить пивное брюхо?",
+        "truncated": false,
+        "display_text_range": [
+          16,
+          150
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "chefdelasemana",
+              "name": "Шеф Недели",
+              "id": 1093516106545930200,
+              "id_str": "1093516106545930240",
+              "indices": [
+                0,
+                15
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://github.com/mariotaku/twidere/\" rel=\"nofollow\">Twidere for Android #7</a>",
+        "in_reply_to_status_id": 1129020693037948900,
+        "in_reply_to_status_id_str": "1129020693037948929",
+        "in_reply_to_user_id": 1093516106545930200,
+        "in_reply_to_user_id_str": "1093516106545930240",
+        "in_reply_to_screen_name": "chefdelasemana",
+        "user": {
+          "id": 1008398008113881100,
+          "id_str": "1008398008113881090"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu May 16 15:11:51 +0000 2019",
+      "id": 1129041780681433100,
+      "id_str": "1129041780681433088",
+      "full_text": "Самое главное, ради чего стоит ехать в Чехию (в плане пива, конечно) - Plreňský Prazdroj, или более привычное Pilsner Urquell.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        126
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu May 16 15:20:16 +0000 2019",
+      "id": 1129043899505401900,
+      "id_str": "1129043899505401856",
+      "full_text": "Вся эта история началась в далёком 1839 году, когда власти города Пльзень решили построить собственную пивоварню. Возглавить эту пивоварню позвали Йозефа Гролла - потомственного пивовара из Баварии, которая в те годы была законодателем в низовых сортах пива.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        258
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1129041780681433100,
+      "in_reply_to_status_id_str": "1129041780681433088",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
