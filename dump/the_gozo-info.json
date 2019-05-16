@@ -26,31 +26,42 @@
     }
   },
   "protected": false,
-  "followers_count": 5851,
+  "followers_count": 5849,
   "friends_count": 0,
   "listed_count": 31,
   "created_at": "Thu Feb 07 14:25:31 +0000 2019",
-  "favourites_count": 2316,
+  "favourites_count": 2352,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 4682,
+  "statuses_count": 4713,
   "lang": "en",
   "status": {
-    "created_at": "Thu May 16 15:20:16 +0000 2019",
-    "id": 1129043899505401900,
-    "id_str": "1129043899505401856",
-    "text": "Вся эта история началась в далёком 1839 году, когда власти города Пльзень решили построить собственную пивоварню. В… https://t.co/R61TPxoyB7",
+    "created_at": "Thu May 16 20:41:09 +0000 2019",
+    "id": 1129124648841547800,
+    "id_str": "1129124648841547777",
+    "text": "@cellular_bud Вельвет производят. Но сам Старопрамен чехи не очень любят. Они первые, кто в своих фирменных барах н… https://t.co/PCMSpojAu8",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "cellular_bud",
+          "name": "Мексиканский Жрец 💀",
+          "id": 3745145777,
+          "id_str": "3745145777",
+          "indices": [
+            0,
+            13
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/R61TPxoyB7",
-          "expanded_url": "https://twitter.com/i/web/status/1129043899505401856",
+          "url": "https://t.co/PCMSpojAu8",
+          "expanded_url": "https://twitter.com/i/web/status/1129124648841547777",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -60,20 +71,20 @@
       ]
     },
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": 1129041780681433100,
-    "in_reply_to_status_id_str": "1129041780681433088",
-    "in_reply_to_user_id": 1093516106545930200,
-    "in_reply_to_user_id_str": "1093516106545930240",
-    "in_reply_to_screen_name": "chefdelasemana",
+    "in_reply_to_status_id": 1129120270776770600,
+    "in_reply_to_status_id_str": "1129120270776770561",
+    "in_reply_to_user_id": 3745145777,
+    "in_reply_to_user_id_str": "3745145777",
+    "in_reply_to_screen_name": "cellular_bud",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 2,
-    "favorited": false,
-    "retweeted": false,
+    "retweet_count": 2,
+    "favorite_count": 6,
+    "favorited": true,
+    "retweeted": true,
     "lang": "ru"
   },
   "contributors_enabled": false,
