@@ -11590,6 +11590,662 @@
       "favorited": true,
       "retweeted": true,
       "lang": "ru"
+    },
+    {
+      "created_at": "Thu May 16 22:29:45 +0000 2019",
+      "id": 1129151980604145700,
+      "id_str": "1129151980604145665",
+      "full_text": "@Awisone @cellular_bud ППКС",
+      "truncated": false,
+      "display_text_range": [
+        23,
+        27
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Awisone",
+            "name": "Awis",
+            "id": 29969827,
+            "id_str": "29969827",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              9,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1129134534484725800,
+      "in_reply_to_status_id_str": "1129134534484725761",
+      "in_reply_to_user_id": 29969827,
+      "in_reply_to_user_id_str": "29969827",
+      "in_reply_to_screen_name": "Awisone",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu May 16 22:43:26 +0000 2019",
+      "id": 1129155423322484700,
+      "id_str": "1129155423322484736",
+      "full_text": "@JelenaMorgan @B_Elena__ Никогда этого не понимал.",
+      "truncated": false,
+      "display_text_range": [
+        25,
+        50
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "JelenaMorgan",
+            "name": "ℋℳ Helena Morgan",
+            "id": 2212374848,
+            "id_str": "2212374848",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "B_Elena__",
+            "name": "Elena В®",
+            "id": 731169449831768000,
+            "id_str": "731169449831768064",
+            "indices": [
+              14,
+              24
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1129154309877313500,
+      "in_reply_to_status_id_str": "1129154309877313537",
+      "in_reply_to_user_id": 2212374848,
+      "in_reply_to_user_id_str": "2212374848",
+      "in_reply_to_screen_name": "JelenaMorgan",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri May 17 12:05:37 +0000 2019",
+      "id": 1129357299494084600,
+      "id_str": "1129357299494084608",
+      "full_text": "Давайте поговорим о крафтовом пиве.  Крафт - дословно - ремесленное пиво, выпускаемое ограниченными объёмами (квота которых каждый год увеличивается). Зародился крафт из-за большого роста интереса к домашнему пивоварению.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        221
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 19,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri May 17 12:09:37 +0000 2019",
+      "id": 1129358307817345000,
+      "id_str": "1129358307817345024",
+      "full_text": "Сложно сказать, какая страна является родиной крафтового пива, но совершенно точно можно утверждать, что законодателем моды и основным игроком на этом рынке являются США.  🇺🇸",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        174
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1129357299494084600,
+      "in_reply_to_status_id_str": "1129357299494084608",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri May 17 12:15:29 +0000 2019",
+      "id": 1129359784925454300,
+      "id_str": "1129359784925454336",
+      "full_text": "В какой-то момент (примерно 80-е годы 20 века), некоторым жителям США надоело, что в магазинах и барах страны из пива, кроме светлого низкокалорийного лагера не было ничего, и они решили исправить ситуацию. К концу 1970-х годов в стране насчитывалось всего 44 пивоварни.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        270
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1129358307817345000,
+      "in_reply_to_status_id_str": "1129358307817345024",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri May 17 12:19:23 +0000 2019",
+      "id": 1129360763238441000,
+      "id_str": "1129360763238440962",
+      "full_text": "Прогнозы экспертов утверждали, что скоро этих компаний останется не более 5, ибо финансовые показатели мелких и средних компаний были не лучшими.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        145
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1129359784925454300,
+      "in_reply_to_status_id_str": "1129359784925454336",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri May 17 12:24:54 +0000 2019",
+      "id": 1129362152484155400,
+      "id_str": "1129362152484155394",
+      "full_text": "Ключевым событием, встряхнувшим  рынок США, многие считают появление пивоварни New Albion Brewery в Калифорнии. Домашний пивовар-самоучка Джон Маколифф оборудовал мини-пивоварню в гараже, и начал эксперименты над европейскими сортами пива.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        239
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1129360763238441000,
+      "in_reply_to_status_id_str": "1129360763238440962",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri May 17 12:30:16 +0000 2019",
+      "id": 1129363501967925200,
+      "id_str": "1129363501967925250",
+      "full_text": "Смелые (по тем временам) эксперименты Джона (например, добавить стручок перца в бутылку для остроты) вдохновили многих. Отдельное спасибо президенту Джимми Картеру, который в 1978 году легализовал домашнее пивоварение. И понеслось...",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        233
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1129362152484155400,
+      "in_reply_to_status_id_str": "1129362152484155394",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri May 17 12:37:30 +0000 2019",
+      "id": 1129365325886230500,
+      "id_str": "1129365325886230528",
+      "full_text": "Это был снежный ком, выросший в лавину. 1980 год - 8 крафтовых пивоварен. 1994 - 537. 2010 - 1600 пивоварен. 2014 год - 4000. По состоянию на 31 октября 2018 года в США насчитывалось 7082 пивоварни. Это на 1100 больше, чем годом ранее, примерно открывалось по 3 пивоварни в день.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        279
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1129363501967925200,
+      "in_reply_to_status_id_str": "1129363501967925250",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri May 17 13:13:25 +0000 2019",
+      "id": 1129374362975518700,
+      "id_str": "1129374362975518720",
+      "full_text": "@terexanahyileti Ваше мнение очень важно!",
+      "truncated": false,
+      "display_text_range": [
+        17,
+        41
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "terexanahyileti",
+            "name": "Alex",
+            "id": 1097465724304588800,
+            "id_str": "1097465724304588802",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1129372754283835400,
+      "in_reply_to_status_id_str": "1129372754283835392",
+      "in_reply_to_user_id": 1097465724304588800,
+      "in_reply_to_user_id_str": "1097465724304588802",
+      "in_reply_to_screen_name": "terexanahyileti",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri May 17 13:16:33 +0000 2019",
+      "id": 1129375150711951400,
+      "id_str": "1129375150711951360",
+      "full_text": "@terexanahyileti У вас в профиле написано «Взрываю жопы идиотам» - норм подгорает у вас...",
+      "truncated": false,
+      "display_text_range": [
+        17,
+        90
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "terexanahyileti",
+            "name": "Alex",
+            "id": 1097465724304588800,
+            "id_str": "1097465724304588802",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1129374538851147800,
+      "in_reply_to_status_id_str": "1129374538851147776",
+      "in_reply_to_user_id": 1097465724304588800,
+      "in_reply_to_user_id_str": "1097465724304588802",
+      "in_reply_to_screen_name": "terexanahyileti",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri May 17 13:21:34 +0000 2019",
+      "id": 1129376412710985700,
+      "id_str": "1129376412710985728",
+      "full_text": "Локомотивом крафтового пивоварения (внезапно!) стал очень старый сорт, который у многих является синонимом слова крафт - India Pale Ale, или просто IPA.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        152
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 15,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri May 17 13:28:21 +0000 2019",
+      "id": 1129378121541738500,
+      "id_str": "1129378121541738497",
+      "full_text": "Первые упоминания IPA найдены в австралийской (!) газете за 1829 год. Название объясняется тем, что это был основной сорт пива, поставляемый из Британии в колониальную Индию. Чтоб пиво могло храниться дольше, его сильно охмеляли (да, хмель - естественный консервант).",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        267
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1129376412710985700,
+      "in_reply_to_status_id_str": "1129376412710985728",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 12,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri May 17 13:35:49 +0000 2019",
+      "id": 1129379999763636200,
+      "id_str": "1129379999763636224",
+      "full_text": "Во время весьма длительного путешествия пиво взбалтывалось, насыщалось хмелем, в итоге получался очень ароматный и ооочень горький напиток, который нашёл множество своих фанатов спустя сотни лет.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        195
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1129378121541738500,
+      "in_reply_to_status_id_str": "1129378121541738497",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 6,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri May 17 13:43:45 +0000 2019",
+      "id": 1129381997850370000,
+      "id_str": "1129381997850370049",
+      "full_text": "Американцы опять пошли чуть дальше, и сделали то, без чего современный IPA кажется невозможным - вывели собственные сорта хмеля с уникальными ароматическими характеристиками.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        174
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1129379999763636200,
+      "in_reply_to_status_id_str": "1129379999763636224",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 6,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri May 17 14:01:22 +0000 2019",
+      "id": 1129386430550036500,
+      "id_str": "1129386430550036480",
+      "full_text": "5 основных us хмелей:\n1. Cascade - грейпфрутовые, хвойные ноты.\n2. Centennial - те-же грейпфрут и хвоя, но в 2 раза больше альфа-кислот и масел.\n3,4. Simcoe и Citra - тут более тропические тона, манго, маракуйя, гуава.\n5. Mosaic - свежий хмель, 2012 года. Квинтэссенция ароматов.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        279
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1129381997850370000,
+      "in_reply_to_status_id_str": "1129381997850370049",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 12,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "ru"
     }
   ]
 }
