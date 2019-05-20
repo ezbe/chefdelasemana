@@ -17575,6 +17575,80 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 20 00:34:20 +0000 2019",
+      "id": 1130270495079829500,
+      "id_str": "1130270495079829504",
+      "full_text": "Приветсвую всех! Меня зовут Катя и я из Москвы. Я однажды училась на повара-кондитера, очень люблю есть и готовить. На этой неделе будем здесь обсуждать преимущественно десерты. Десерты - моя страсть. Будет все, от американских печений и брауни до эклеров и макаронс.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        267
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 20 00:39:44 +0000 2019",
+      "id": 1130271856718749700,
+      "id_str": "1130271856718749696",
+      "full_text": "Сначала я опишу базовые техники, чтобы сэкономить нам время и продукты. На пост заступлю днем в понедельник по Москве! Жду ваших вопросов и предложений. Возможно вы хотите приготовить торт, который вам пекла бабушка или десерт из ресторана с неизвестным названием",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        263
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1130270495079829500,
+      "in_reply_to_status_id_str": "1130270495079829504",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
