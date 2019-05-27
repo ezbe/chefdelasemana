@@ -3,9 +3,9 @@
   "id_str": "1093516106545930240",
   "name": "Шеф Недели",
   "screen_name": "chefdelasemana",
-  "location": "Москва, Россия",
+  "location": "The Hague, The Netherlands",
   "profile_location": null,
-  "description": "Коллективный аккаунт о еде от тех, кто любит готовить для тех, кто любит поесть. Шеф недели @octokaty расскажет о техниках и секретах кондитерского искусства",
+  "description": "Коллективный аккаунт о еде от тех, кто любит готовить для тех, кто любит поесть. Шеф недели @oliora расскажет про морепродукты и гастрономию в Голландии ;)",
   "url": "https://t.co/luzUzd2DRn",
   "entities": {
     "url": {
@@ -26,66 +26,55 @@
     }
   },
   "protected": false,
-  "followers_count": 6101,
+  "followers_count": 6118,
   "friends_count": 0,
-  "listed_count": 31,
+  "listed_count": 33,
   "created_at": "Thu Feb 07 14:25:31 +0000 2019",
-  "favourites_count": 2492,
+  "favourites_count": 2509,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 5024,
+  "statuses_count": 5078,
   "lang": null,
   "status": {
-    "created_at": "Sun May 26 21:03:55 +0000 2019",
-    "id": 1132754256975605800,
-    "id_str": "1132754256975605760",
-    "text": "Спасибо за эту неделю @octokaty, напоминаю, что у нас существует возможность оставить чаевые Шефу -… https://t.co/39TseJXKjx",
-    "truncated": true,
+    "created_at": "Mon May 27 12:41:50 +0000 2019",
+    "id": 1132990291533869000,
+    "id_str": "1132990291533869057",
+    "text": "@tweetillo Как видите, я от моды отстал - пью обычную coca-cola zero =)",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "octokaty",
-          "name": "катюка",
-          "id": 586531347,
-          "id_str": "586531347",
+          "screen_name": "tweetillo",
+          "name": "нáриня-кáриня 🐬",
+          "id": 4558416497,
+          "id_str": "4558416497",
           "indices": [
-            22,
-            31
+            0,
+            10
           ]
         }
       ],
-      "urls": [
-        {
-          "url": "https://t.co/39TseJXKjx",
-          "expanded_url": "https://twitter.com/i/web/status/1132754256975605760",
-          "display_url": "twitter.com/i/web/status/1…",
-          "indices": [
-            101,
-            124
-          ]
-        }
-      ]
+      "urls": []
     },
-    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 1132988073522995200,
+    "in_reply_to_status_id_str": "1132988073522995202",
+    "in_reply_to_user_id": 4558416497,
+    "in_reply_to_user_id_str": "4558416497",
+    "in_reply_to_screen_name": "tweetillo",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 1,
+    "retweet_count": 0,
+    "favorite_count": 0,
     "favorited": false,
-    "retweeted": true,
-    "possibly_sensitive": false,
+    "retweeted": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
@@ -95,9 +84,9 @@
   "profile_background_image_url": null,
   "profile_background_image_url_https": null,
   "profile_background_tile": false,
-  "profile_image_url": "http://pbs.twimg.com/profile_images/1130264336289665025/3QkRe3Ij_normal.png",
-  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1130264336289665025/3QkRe3Ij_normal.png",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1093516106545930240/1558311159",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1132783595746156545/CgYqydeM_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1132783595746156545/CgYqydeM_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1093516106545930240/1558911631",
   "profile_link_color": "1DA1F2",
   "profile_sidebar_border_color": "C0DEED",
   "profile_sidebar_fill_color": "DDEEF6",
