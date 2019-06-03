@@ -1,0 +1,143 @@
+{
+  "mentions": [
+    {
+      "created_at": "Mon Jun 03 00:49:55 +0000 2019",
+      "id": 1135347849099694100,
+      "id_str": "1135347849099694080",
+      "text": "@elen_de_len @cellular_bud @chefdelasemana Наоборот норм мужик, напрямую всё говорит, не юлит",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "elen_de_len",
+            "name": "Элен дэ лень",
+            "id": 1882110912,
+            "id_str": "1882110912",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              13,
+              26
+            ]
+          },
+          {
+            "screen_name": "chefdelasemana",
+            "name": "Шеф Недели",
+            "id": 1093516106545930200,
+            "id_str": "1093516106545930240",
+            "indices": [
+              27,
+              42
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1135208617483866100,
+      "in_reply_to_status_id_str": "1135208617483866114",
+      "in_reply_to_user_id": 1882110912,
+      "in_reply_to_user_id_str": "1882110912",
+      "in_reply_to_screen_name": "elen_de_len",
+      "user": {
+        "id": 400553283,
+        "id_str": "400553283"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 03 00:52:18 +0000 2019",
+      "id": 1135348447375216600,
+      "id_str": "1135348447375216640",
+      "text": "@PortWine_777 @cellular_bud @ch_stany там именно про \"сыр нюхать\". вот есть https://t.co/UmLNljJbSs , хотя я читала в более изящном переводе",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "PortWine_777",
+            "name": "Пан Дмитро князь Жмерiнський",
+            "id": 4802842396,
+            "id_str": "4802842396",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              14,
+              27
+            ]
+          },
+          {
+            "screen_name": "ch_stany",
+            "name": "Stany.ch",
+            "id": 3076988533,
+            "id_str": "3076988533",
+            "indices": [
+              28,
+              37
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/UmLNljJbSs",
+            "expanded_url": "https://www.livelib.ru/quote/2000366-troe-v-lodke-ne-schitaya-sobaki-dzherom-k-dzherom",
+            "display_url": "livelib.ru/quote/2000366-…",
+            "indices": [
+              76,
+              99
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1135316922994778100,
+      "in_reply_to_status_id_str": "1135316922994778112",
+      "in_reply_to_user_id": 4802842396,
+      "in_reply_to_user_id_str": "4802842396",
+      "in_reply_to_screen_name": "PortWine_777",
+      "user": {
+        "id": 1034454067911770100,
+        "id_str": "1034454067911770117"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
