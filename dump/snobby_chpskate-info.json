@@ -3,15 +3,26 @@
   "id_str": "1093516106545930240",
   "name": "Шеф Недели",
   "screen_name": "chefdelasemana",
-  "location": "The Hague, The Netherlands",
-  "profile_location": null,
-  "description": "Коллективный аккаунт о еде от тех, кто любит готовить для тех, кто любит поесть. Шеф недели @oliora расскажет про морепродукты и гастрономию в Голландии ;)",
-  "url": "https://t.co/luzUzd2DRn",
+  "location": "California, USA",
+  "profile_location": {
+    "id": "fbd6d2f5a4e4a15e",
+    "url": "https://api.twitter.com/1.1/geo/id/fbd6d2f5a4e4a15e.json",
+    "place_type": "unknown",
+    "name": "California, USA",
+    "full_name": "California, USA",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
+  "description": "Коллективный аккаунт о еде от тех, кто любит готовить, для тех, кто любит поесть. Шеф недели @snobby_chpskate расскажет про кофе.",
+  "url": "https://t.co/luzUzdkeIV",
   "entities": {
     "url": {
       "urls": [
         {
-          "url": "https://t.co/luzUzd2DRn",
+          "url": "https://t.co/luzUzdkeIV",
           "expanded_url": "https://chefdelasemana.com",
           "display_url": "chefdelasemana.com",
           "indices": [
@@ -26,60 +37,40 @@
     }
   },
   "protected": false,
-  "followers_count": 6286,
+  "followers_count": 6336,
   "friends_count": 0,
   "listed_count": 33,
   "created_at": "Thu Feb 07 14:25:31 +0000 2019",
-  "favourites_count": 3014,
+  "favourites_count": 3010,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 6321,
+  "statuses_count": 6347,
   "lang": null,
   "status": {
-    "created_at": "Mon Jun 03 00:32:52 +0000 2019",
-    "id": 1135343558444113900,
-    "id_str": "1135343558444113921",
-    "text": "Спасибо за эту неделю @oliora, архив как всегда на сайте - https://t.co/6wOIEdjst4\nПожалуйста, не забывайте, что у… https://t.co/ve9ZNXSoIT",
+    "created_at": "Mon Jun 03 14:40:04 +0000 2019",
+    "id": 1135556763443269600,
+    "id_str": "1135556763443269632",
+    "text": "Добавлять можно даже молоко, кто ж вам запретит. Я бы начал с вопроса: зачем? Вас не устраивает чистый вкус напитка… https://t.co/oxfr8UMoA4",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "oliora",
-          "name": "Andrey Upadyshev",
-          "id": 430665583,
-          "id_str": "430665583",
-          "indices": [
-            22,
-            29
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/6wOIEdjst4",
-          "expanded_url": "http://chefdelasemana.com",
-          "display_url": "chefdelasemana.com",
-          "indices": [
-            59,
-            82
-          ]
-        },
-        {
-          "url": "https://t.co/ve9ZNXSoIT",
-          "expanded_url": "https://twitter.com/i/web/status/1135343558444113921",
+          "url": "https://t.co/oxfr8UMoA4",
+          "expanded_url": "https://twitter.com/i/web/status/1135556763443269632",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            116,
-            139
+            117,
+            140
           ]
         }
       ]
     },
-    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -89,9 +80,11 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 1135534716948553700,
+    "quoted_status_id_str": "1135534716948553729",
     "retweet_count": 0,
-    "favorite_count": 3,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -104,9 +97,9 @@
   "profile_background_image_url": null,
   "profile_background_image_url_https": null,
   "profile_background_tile": false,
-  "profile_image_url": "http://pbs.twimg.com/profile_images/1132783595746156545/CgYqydeM_normal.jpg",
-  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1132783595746156545/CgYqydeM_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1093516106545930240/1558911631",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1135396680608518144/rtGidhVJ_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1135396680608518144/rtGidhVJ_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1093516106545930240/1559534638",
   "profile_link_color": "1DA1F2",
   "profile_sidebar_border_color": "C0DEED",
   "profile_sidebar_fill_color": "DDEEF6",
