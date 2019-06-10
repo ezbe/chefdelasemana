@@ -3,26 +3,15 @@
   "id_str": "1093516106545930240",
   "name": "Шеф Недели",
   "screen_name": "chefdelasemana",
-  "location": "California, USA",
-  "profile_location": {
-    "id": "fbd6d2f5a4e4a15e",
-    "url": "https://api.twitter.com/1.1/geo/id/fbd6d2f5a4e4a15e.json",
-    "place_type": "unknown",
-    "name": "California, USA",
-    "full_name": "California, USA",
-    "country_code": "",
-    "country": "",
-    "contained_within": [],
-    "bounding_box": null,
-    "attributes": {}
-  },
-  "description": "Коллективный аккаунт о еде от тех, кто любит готовить, для тех, кто любит поесть. Шеф недели @snobby_chpskate расскажет про кофе.",
-  "url": "https://t.co/luzUzdkeIV",
+  "location": "Schweiz",
+  "profile_location": null,
+  "description": "Коллективный аккаунт о еде от тех, кто любит готовить, для тех, кто любит поесть. Шеф недели @amorucciatua расскажет о гастрономическом оргазме",
+  "url": "https://t.co/luzUzd2DRn",
   "entities": {
     "url": {
       "urls": [
         {
-          "url": "https://t.co/luzUzdkeIV",
+          "url": "https://t.co/luzUzd2DRn",
           "expanded_url": "https://chefdelasemana.com",
           "display_url": "chefdelasemana.com",
           "indices": [
@@ -37,57 +26,75 @@
     }
   },
   "protected": false,
-  "followers_count": 6404,
+  "followers_count": 6411,
   "friends_count": 0,
-  "listed_count": 33,
+  "listed_count": 32,
   "created_at": "Thu Feb 07 14:25:31 +0000 2019",
-  "favourites_count": 3022,
+  "favourites_count": 3042,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 6596,
+  "statuses_count": 6630,
   "lang": null,
   "status": {
-    "created_at": "Mon Jun 10 02:39:40 +0000 2019",
-    "id": 1137912184380411900,
-    "id_str": "1137912184380411904",
-    "text": "Любые чаевые за эту неделю останутся у отца нашего основателя. Пока не будет фуд-трака - я в Мексику не еду :) https://t.co/1qNuJHiojk",
+    "created_at": "Mon Jun 10 15:51:51 +0000 2019",
+    "id": 1138111542506020900,
+    "id_str": "1138111542506020864",
+    "text": "@orymatom @lampalap @cellular_bud Нужно идти в архив!)",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/1qNuJHiojk",
-          "expanded_url": "https://twitter.com/chefdelasemana/status/1137911515602984961",
-          "display_url": "twitter.com/chefdelasemana…",
+          "screen_name": "orymatom",
+          "name": "Омар к Хуйам",
+          "id": 1017197605,
+          "id_str": "1017197605",
           "indices": [
-            111,
-            134
+            0,
+            9
+          ]
+        },
+        {
+          "screen_name": "lampalap",
+          "name": "Lkshpründa",
+          "id": 510282406,
+          "id_str": "510282406",
+          "indices": [
+            10,
+            19
+          ]
+        },
+        {
+          "screen_name": "cellular_bud",
+          "name": "Мексиканский Жрец 💀",
+          "id": 3745145777,
+          "id_str": "3745145777",
+          "indices": [
+            20,
+            33
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1138111168252391400,
+    "in_reply_to_status_id_str": "1138111168252391424",
+    "in_reply_to_user_id": 1017197605,
+    "in_reply_to_user_id_str": "1017197605",
+    "in_reply_to_screen_name": "orymatom",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 1137911515602985000,
-    "quoted_status_id_str": "1137911515602984961",
+    "is_quote_status": false,
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
@@ -97,9 +104,9 @@
   "profile_background_image_url": null,
   "profile_background_image_url_https": null,
   "profile_background_tile": false,
-  "profile_image_url": "http://pbs.twimg.com/profile_images/1135396680608518144/rtGidhVJ_normal.jpg",
-  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1135396680608518144/rtGidhVJ_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1093516106545930240/1559534638",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1138084249322569728/toABMHD5_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1138084249322569728/toABMHD5_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1093516106545930240/1560175456",
   "profile_link_color": "1DA1F2",
   "profile_sidebar_border_color": "C0DEED",
   "profile_sidebar_fill_color": "DDEEF6",
