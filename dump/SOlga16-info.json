@@ -3,9 +3,20 @@
   "id_str": "1093516106545930240",
   "name": "Шеф Недели",
   "screen_name": "chefdelasemana",
-  "location": "Schweiz",
-  "profile_location": null,
-  "description": "Коллективный аккаунт о еде от тех, кто любит готовить, для тех, кто любит поесть. Шеф недели @amorucciatua расскажет о гастрономическом оргазме",
+  "location": "Cadiz, Spain",
+  "profile_location": {
+    "id": "358220cb0584bbe3",
+    "url": "https://api.twitter.com/1.1/geo/id/358220cb0584bbe3.json",
+    "place_type": "unknown",
+    "name": "Cadiz, Spain",
+    "full_name": "Cadiz, Spain",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
+  "description": "Коллективный аккаунт о еде от тех, кто любит готовить, для тех, кто любит поесть. Шеф недели @SOlga16, я из Москвы, но живу в настоящей Испании, в Андалусии.",
   "url": "https://t.co/luzUzd2DRn",
   "entities": {
     "url": {
@@ -26,51 +37,42 @@
     }
   },
   "protected": false,
-  "followers_count": 6623,
+  "followers_count": 6720,
   "friends_count": 0,
   "listed_count": 32,
   "created_at": "Thu Feb 07 14:25:31 +0000 2019",
-  "favourites_count": 3227,
+  "favourites_count": 3350,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 6940,
+  "statuses_count": 7156,
   "lang": null,
   "status": {
-    "created_at": "Sun Jun 16 23:49:10 +0000 2019",
-    "id": 1140405989784653800,
-    "id_str": "1140405989784653824",
-    "text": "Спасибо за эту неделю @amorucciatua , архив как всегда на сайте - https://t.co/6wOIEdjst4\nПожалуйста, не забывайте,… https://t.co/SbKOdKzM8Q",
+    "created_at": "Mon Jun 24 02:25:01 +0000 2019",
+    "id": 1142981926879408100,
+    "id_str": "1142981926879408129",
+    "text": "Спасибо за эту неделю @SOlga16, напоминаю, что у нас существует возможность оставить чаевые Шефу.\nАрхив, как всегда… https://t.co/4kq270BCiy",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "amorucciatua",
-          "name": "Малиновка",
-          "id": 1310864588,
-          "id_str": "1310864588",
+          "screen_name": "SOlga16",
+          "name": "Одна  ты такая",
+          "id": 444653153,
+          "id_str": "444653153",
           "indices": [
             22,
-            35
+            30
           ]
         }
       ],
       "urls": [
         {
-          "url": "https://t.co/6wOIEdjst4",
-          "expanded_url": "http://chefdelasemana.com",
-          "display_url": "chefdelasemana.com",
-          "indices": [
-            66,
-            89
-          ]
-        },
-        {
-          "url": "https://t.co/SbKOdKzM8Q",
-          "expanded_url": "https://twitter.com/i/web/status/1140405989784653824",
+          "url": "https://t.co/4kq270BCiy",
+          "expanded_url": "https://twitter.com/i/web/status/1142981926879408129",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -104,9 +106,9 @@
   "profile_background_image_url": null,
   "profile_background_image_url_https": null,
   "profile_background_tile": false,
-  "profile_image_url": "http://pbs.twimg.com/profile_images/1138084249322569728/toABMHD5_normal.jpg",
-  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1138084249322569728/toABMHD5_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1093516106545930240/1560175456",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1140496172236361728/NIT90jhe_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1140496172236361728/NIT90jhe_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1093516106545930240/1560750876",
   "profile_link_color": "1DA1F2",
   "profile_sidebar_border_color": "C0DEED",
   "profile_sidebar_fill_color": "DDEEF6",
