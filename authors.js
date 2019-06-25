@@ -4,7 +4,7 @@ export default authorId([
   // test
   // { username: 'lampalap', start: '25 Feb 2019', first: '1099755747427131392', post: false },
   { username: 'cellular_bud', start: '24 Jun 2019', first: '1143545643119591424', post: false },
-  { username: 'SOlga16', start: '17 Jun 2019', first: '1140405989784653824',
+  { username: 'SOlga16', start: '17 Jun 2019', first: '1140405989784653824' }, 
   { username: 'amorucciatua-2', start: '10 Jun 2019', first: '1137912184380411904' },
   { username: 'snobby_chpskate', start: '03 Jun 2019', first: '1135343558444113921' },
   { username: 'oliora', start: '27 May 2019', first: '1132754256975605760' },
