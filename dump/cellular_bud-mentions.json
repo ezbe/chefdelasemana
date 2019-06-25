@@ -1,0 +1,48 @@
+{
+  "mentions": [
+    {
+      "created_at": "Tue Jun 25 15:48:50 +0000 2019",
+      "id": 1143546602692460500,
+      "id_str": "1143546602692460544",
+      "text": "@cellular_bud Заставил...  Слева мясо и слизни, справа жучки, а снизу гусеница на свиной шкурке?  :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1143526296045129700,
+      "in_reply_to_status_id_str": "1143526296045129728",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 421110732,
+        "id_str": "421110732"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
