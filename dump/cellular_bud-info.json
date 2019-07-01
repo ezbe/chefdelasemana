@@ -26,30 +26,40 @@
     }
   },
   "protected": false,
-  "followers_count": 6722,
+  "followers_count": 6728,
   "friends_count": 0,
-  "listed_count": 32,
+  "listed_count": 34,
   "created_at": "Thu Feb 07 14:25:31 +0000 2019",
-  "favourites_count": 3350,
+  "favourites_count": 3393,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 7159,
+  "statuses_count": 7330,
   "lang": null,
   "status": {
-    "created_at": "Tue Jun 25 15:45:02 +0000 2019",
-    "id": 1143545643119591400,
-    "id_str": "1143545643119591424",
-    "text": "Саботаж",
+    "created_at": "Mon Jul 01 06:01:24 +0000 2019",
+    "id": 1145573097845792800,
+    "id_str": "1145573097845792769",
+    "text": "Пиратская неделя окончена, архив как всегда на сайте - https://t.co/6wOIEdjst4\nЗавтра новый Шеф, подписывайтесь!",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/6wOIEdjst4",
+          "expanded_url": "http://chefdelasemana.com",
+          "display_url": "chefdelasemana.com",
+          "indices": [
+            55,
+            78
+          ]
+        }
+      ]
     },
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -61,9 +71,10 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 2,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
