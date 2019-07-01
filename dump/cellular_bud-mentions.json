@@ -33605,6 +33605,100 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 01 11:38:51 +0000 2019",
+      "id": 1145658020132732900,
+      "id_str": "1145658020132732928",
+      "text": "@XaslerTv @ToryNeva @Vovanovichenko @alkobaron Вы с @cellular_bud  будто сговорились.\nКак я на работе, что днём, чт… https://t.co/YVrPT3qlBB",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "XaslerTv",
+            "name": "🇪🇺Rassel🇪🇦",
+            "id": 816646071145398300,
+            "id_str": "816646071145398272",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "ToryNeva",
+            "name": "Тори ✈",
+            "id": 2935802194,
+            "id_str": "2935802194",
+            "indices": [
+              10,
+              19
+            ]
+          },
+          {
+            "screen_name": "Vovanovichenko",
+            "name": "Лимитчик",
+            "id": 557159616,
+            "id_str": "557159616",
+            "indices": [
+              20,
+              35
+            ]
+          },
+          {
+            "screen_name": "alkobaron",
+            "name": "EnfanTerrible",
+            "id": 121715584,
+            "id_str": "121715584",
+            "indices": [
+              36,
+              46
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              52,
+              65
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/YVrPT3qlBB",
+            "expanded_url": "https://twitter.com/i/web/status/1145658020132732928",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1145623816850346000,
+      "in_reply_to_status_id_str": "1145623816850345984",
+      "in_reply_to_user_id": 816646071145398300,
+      "in_reply_to_user_id_str": "816646071145398272",
+      "in_reply_to_screen_name": "XaslerTv",
+      "user": {
+        "id": 3201504675,
+        "id_str": "3201504675"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
