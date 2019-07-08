@@ -1,0 +1,1376 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Jul 08 05:53:44 +0000 2019",
+      "id": 1148107882451411000,
+      "id_str": "1148107882451410945",
+      "full_text": "Спасибо за эту неделю @WalerijNikolaic , архив как всегда на сайте - https://t.co/6wOIEdjst4\nПожалуйста, не забывайте, что у вас есть возможность оставить чаевые автору.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        169
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "WalerijNikolaic",
+            "name": "Борода_Всех_На**ёт",
+            "id": 846477639762268200,
+            "id_str": "846477639762268160",
+            "indices": [
+              22,
+              38
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/6wOIEdjst4",
+            "expanded_url": "http://chefdelasemana.com",
+            "display_url": "chefdelasemana.com",
+            "indices": [
+              69,
+              92
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 08 16:08:04 +0000 2019",
+      "id": 1148262485633437700,
+      "id_str": "1148262485633437696",
+      "full_text": "RT @cellular_bud: Начну пожалуй наверное с того, что @chefdelasemana на этой неделе опять сорван. Пока ещё не знаю, что буду с этим делать,…",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              3,
+              16
+            ]
+          },
+          {
+            "screen_name": "chefdelasemana",
+            "name": "Шеф Недели",
+            "id": 1093516106545930200,
+            "id_str": "1093516106545930240",
+            "indices": [
+              53,
+              68
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Jul 08 16:00:04 +0000 2019",
+        "id": 1148260470467567600,
+        "id_str": "1148260470467567617",
+        "full_text": "Начну пожалуй наверное с того, что @chefdelasemana на этой неделе опять сорван. Пока ещё не знаю, что буду с этим делать, но что-нибудь придумаю. Видимо я могу предсказывать события и заранее авторы, которые не вышли без предупреждения у меня были помечены красным. https://t.co/BFtuthBKeP",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          265
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "chefdelasemana",
+              "name": "Шеф Недели",
+              "id": 1093516106545930200,
+              "id_str": "1093516106545930240",
+              "indices": [
+                35,
+                50
+              ]
+            }
+          ],
+          "urls": [],
+          "media": [
+            {
+              "id": 1148258655718035500,
+              "id_str": "1148258655718035456",
+              "indices": [
+                266,
+                289
+              ],
+              "media_url": "http://pbs.twimg.com/media/D-9vKeRXUAAeKYr.png",
+              "media_url_https": "https://pbs.twimg.com/media/D-9vKeRXUAAeKYr.png",
+              "url": "https://t.co/BFtuthBKeP",
+              "display_url": "pic.twitter.com/BFtuthBKeP",
+              "expanded_url": "https://twitter.com/cellular_bud/status/1148260470467567617/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 440,
+                  "h": 471,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 440,
+                  "h": 471,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 440,
+                  "h": 471,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1148258655718035500,
+              "id_str": "1148258655718035456",
+              "indices": [
+                266,
+                289
+              ],
+              "media_url": "http://pbs.twimg.com/media/D-9vKeRXUAAeKYr.png",
+              "media_url_https": "https://pbs.twimg.com/media/D-9vKeRXUAAeKYr.png",
+              "url": "https://t.co/BFtuthBKeP",
+              "display_url": "pic.twitter.com/BFtuthBKeP",
+              "expanded_url": "https://twitter.com/cellular_bud/status/1148260470467567617/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 440,
+                  "h": 471,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 440,
+                  "h": 471,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 440,
+                  "h": 471,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 1148258328105107500,
+        "in_reply_to_status_id_str": "1148258328105107458",
+        "in_reply_to_user_id": 3745145777,
+        "in_reply_to_user_id_str": "3745145777",
+        "in_reply_to_screen_name": "cellular_bud",
+        "user": {
+          "id": 3745145777,
+          "id_str": "3745145777"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 08 16:13:38 +0000 2019",
+      "id": 1148263884844929000,
+      "id_str": "1148263884844929024",
+      "full_text": "RT @cellular_bud: У меня еще есть одна красная пометка, думаю там тоже обязательно что-то пойдет не так. Никогда не догадаетесь, что  всех…",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        139
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              3,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Jul 08 16:13:02 +0000 2019",
+        "id": 1148263732725932000,
+        "id_str": "1148263732725932034",
+        "full_text": "У меня еще есть одна красная пометка, думаю там тоже обязательно что-то пойдет не так. Никогда не догадаетесь, что  всех этих авторов может объединять. Но ничего страшного, следующий автор @chefdelasemana вас приятно удивит и надежный как скала! Подписывайтесь!!1111 https://t.co/l0h7WBecQh",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          266
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "chefdelasemana",
+              "name": "Шеф Недели",
+              "id": 1093516106545930200,
+              "id_str": "1093516106545930240",
+              "indices": [
+                189,
+                204
+              ]
+            }
+          ],
+          "urls": [],
+          "media": [
+            {
+              "id": 1148261692507414500,
+              "id_str": "1148261692507414528",
+              "indices": [
+                267,
+                290
+              ],
+              "media_url": "http://pbs.twimg.com/tweet_video_thumb/D-9x7PMX4AA2J8b.jpg",
+              "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D-9x7PMX4AA2J8b.jpg",
+              "url": "https://t.co/l0h7WBecQh",
+              "display_url": "pic.twitter.com/l0h7WBecQh",
+              "expanded_url": "https://twitter.com/cellular_bud/status/1148263732725932034/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 220,
+                  "h": 164,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 220,
+                  "h": 164,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 220,
+                  "h": 164,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1148261692507414500,
+              "id_str": "1148261692507414528",
+              "indices": [
+                267,
+                290
+              ],
+              "media_url": "http://pbs.twimg.com/tweet_video_thumb/D-9x7PMX4AA2J8b.jpg",
+              "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D-9x7PMX4AA2J8b.jpg",
+              "url": "https://t.co/l0h7WBecQh",
+              "display_url": "pic.twitter.com/l0h7WBecQh",
+              "expanded_url": "https://twitter.com/cellular_bud/status/1148263732725932034/photo/1",
+              "type": "animated_gif",
+              "sizes": {
+                "small": {
+                  "w": 220,
+                  "h": 164,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 220,
+                  "h": 164,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 220,
+                  "h": 164,
+                  "resize": "fit"
+                }
+              },
+              "video_info": {
+                "aspect_ratio": [
+                  55,
+                  41
+                ],
+                "variants": [
+                  {
+                    "bitrate": 0,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/tweet_video/D-9x7PMX4AA2J8b.mp4"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 1148260470467567600,
+        "in_reply_to_status_id_str": "1148260470467567617",
+        "in_reply_to_user_id": 3745145777,
+        "in_reply_to_user_id_str": "3745145777",
+        "in_reply_to_screen_name": "cellular_bud",
+        "user": {
+          "id": 3745145777,
+          "id_str": "3745145777"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": true,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 08 16:14:46 +0000 2019",
+      "id": 1148264171085189100,
+      "id_str": "1148264171085189121",
+      "full_text": "Всем здарова! Внезапно это @Sssyrrr (известный как пришвин или Таня) и я буду вести эту неделю. Прикол в том, что у меня нет кухни и я не буду ничего готовить, но зато расскажу вам про то, что знаю о кухнях и пиве мира. Я путешествую уже 9 месяцев и 5 из них в Мексике",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        268
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Sssyrrr",
+            "name": "пришвин",
+            "id": 187080800,
+            "id_str": "187080800",
+            "indices": [
+              27,
+              35
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 9,
+      "favorite_count": 24,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 08 16:18:28 +0000 2019",
+      "id": 1148265101469859800,
+      "id_str": "1148265101469859842",
+      "full_text": "Что я буду вам рассказывать:\nПервые два дня давайте по китайской еде - я тут это, препод китайского, была в Китае кучу раз и жила. Так как я препод, заодно научу вам всяким фразочкам для ресторанов в Китае - чтоб потом пукан буквально не взорвался..",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        249
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1148264171085189100,
+      "in_reply_to_status_id_str": "1148264171085189121",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 08 16:19:29 +0000 2019",
+      "id": 1148265356701720600,
+      "id_str": "1148265356701720577",
+      "full_text": "Следующие два дня расскажу вам про Оахаканскую еду - я сейчас в городе Оахака в центре Мексики. Тут кухня весьма особенная, например, тако не в почёте. Буду ходить по всяким заведениям и фотать вам всё и рассказывать. И научу испанским словечкам",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        245
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1148265101469859800,
+      "in_reply_to_status_id_str": "1148265101469859842",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 08 16:20:30 +0000 2019",
+      "id": 1148265613699293200,
+      "id_str": "1148265613699293184",
+      "full_text": "Остальные дни расскажу всё, что помню про пиво во всех 30+ странах где я была, покажу вам свою кофе-карту (это места со спешелти кофе во всем мире) и поотвечаю на любые вопросы в т.ч. про своё путешествие без конца и края",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        221
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1148265356701720600,
+      "in_reply_to_status_id_str": "1148265356701720577",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 14,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 08 16:21:20 +0000 2019",
+      "id": 1148265822466523100,
+      "id_str": "1148265822466523137",
+      "full_text": "Сразу договоримся - я много шучу шутки категории б, матерюсь и вообще странная мадам, которая может слушать фейса, но вы не отписывайтесь, просто поставьте на мьют на неделю",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        173
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1148265613699293200,
+      "in_reply_to_status_id_str": "1148265613699293184",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 18,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 08 16:25:38 +0000 2019",
+      "id": 1148266904466927600,
+      "id_str": "1148266904466927616",
+      "full_text": "@krasnoe20102 @Sssyrrr Я на самом деле до путешествия дохера готовила и работала в ресторане менеджером и иногда поваром, еще у нас с @otvyazno был поп-ап проект супов в стакане, так что в готовке шарю",
+      "truncated": false,
+      "display_text_range": [
+        23,
+        201
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "krasnoe20102",
+            "name": "Мотя Шишман",
+            "id": 968223764063322100,
+            "id_str": "968223764063322113",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "Sssyrrr",
+            "name": "пришвин",
+            "id": 187080800,
+            "id_str": "187080800",
+            "indices": [
+              14,
+              22
+            ]
+          },
+          {
+            "screen_name": "otvyazno",
+            "name": "A. A.",
+            "id": 113400872,
+            "id_str": "113400872",
+            "indices": [
+              134,
+              143
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1148266368074170400,
+      "in_reply_to_status_id_str": "1148266368074170371",
+      "in_reply_to_user_id": 968223764063322100,
+      "in_reply_to_user_id_str": "968223764063322113",
+      "in_reply_to_screen_name": "krasnoe20102",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 08 16:28:02 +0000 2019",
+      "id": 1148267507171520500,
+      "id_str": "1148267507171520512",
+      "full_text": "У меня через 30 минут урок китайского, поэтому успею вам немножко рассказать про Китай и еду. Пишу тредами, чтоб вы не чокнулись случайно от количества писанины",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        160
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "favorite_count": 17,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 08 16:29:48 +0000 2019",
+      "id": 1148267954125135900,
+      "id_str": "1148267954125135872",
+      "full_text": "Прикол 1. В каждой провинции в Китае вам скажут что у них-то самая вкусная в Китае еда. (Прям как в Мексике ахаха)\nПровинций и гос.обьектов в Китае 33 штуки и щас будет краткий экскурс где какая еда",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        198
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1148267507171520500,
+      "in_reply_to_status_id_str": "1148267507171520512",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 08 16:31:58 +0000 2019",
+      "id": 1148268496532508700,
+      "id_str": "1148268496532508672",
+      "full_text": "Самая известная китайская кухня - кантонская. То есть это города Гуанчжоу, автономный регион Гонконг и всё, что вокруг. То, что вы едите в кит.ресторанах не в Китае - в основном кантонские блюда, адаптированные под страну",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        221
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1148267954125135900,
+      "in_reply_to_status_id_str": "1148267954125135872",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 08 16:34:16 +0000 2019",
+      "id": 1148269075388411900,
+      "id_str": "1148269075388411904",
+      "full_text": "Провинция называет Гуаньдун (Guangdong), но на их же языке она Кантон (на юге Китая преобладает другой язык, вы не поверите, кантонский). Почти все названия блюд, известных нам, это не китайский, а кантонский, большинство китайских иммигрантов тоже говорят на кантонском",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        270
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1148268496532508700,
+      "in_reply_to_status_id_str": "1148268496532508672",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 08 16:37:10 +0000 2019",
+      "id": 1148269807650922500,
+      "id_str": "1148269807650922498",
+      "full_text": "Гуандун и Гонконг, кстати, вот тут. \nОтсюда мы знает все эти курицы в кисло-сладком соусе, паровые пельмешки с креветками, супы с вонтонами https://t.co/sVYLTmpXH3",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        139
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1148269799459512300,
+            "id_str": "1148269799459512320",
+            "indices": [
+              140,
+              163
+            ],
+            "media_url": "http://pbs.twimg.com/media/D-95TH8X4AA68Ob.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D-95TH8X4AA68Ob.jpg",
+            "url": "https://t.co/sVYLTmpXH3",
+            "display_url": "pic.twitter.com/sVYLTmpXH3",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1148269807650922498/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 532,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 938,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 1001,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1148269799459512300,
+            "id_str": "1148269799459512320",
+            "indices": [
+              140,
+              163
+            ],
+            "media_url": "http://pbs.twimg.com/media/D-95TH8X4AA68Ob.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D-95TH8X4AA68Ob.jpg",
+            "url": "https://t.co/sVYLTmpXH3",
+            "display_url": "pic.twitter.com/sVYLTmpXH3",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1148269807650922498/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 532,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 938,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 1001,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1148269075388411900,
+      "in_reply_to_status_id_str": "1148269075388411904",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 08 16:44:32 +0000 2019",
+      "id": 1148271663030644700,
+      "id_str": "1148271663030644736",
+      "full_text": "Попиздим по-китайски:\n包子 баоцзы  - паровые пирожки\n馄饨 хуньтунь - вонтоны (пельмешки из оч тонкого теста, которые кидают в суп)\n点心 дьенсинь - димсамы (NB на материковом Китае 'дьенсинь' значит пироженка...)\n水饺 шуйдзяо - пельмени вареные\n炒饺 - чхаодзяо - пельмени жареные",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        268
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1148269807650922500,
+      "in_reply_to_status_id_str": "1148269807650922498",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 08 16:45:54 +0000 2019",
+      "id": 1148272005864669200,
+      "id_str": "1148272005864669186",
+      "full_text": "Извините забыла - я знаю только мандаринский диалект и все эти слова - на мандарине. В кантоне они немного иначе произносятся, но иероглифы такие же.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        149
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1148271663030644700,
+      "in_reply_to_status_id_str": "1148271663030644736",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 08 16:49:11 +0000 2019",
+      "id": 1148272833174392800,
+      "id_str": "1148272833174392834",
+      "full_text": "Суп с вонтонами (они же хуньтунь на мандаринском) выглядит так. Начинка - кура/ свинина/ креветка. В провинции Сычуань (запад) есть его аналог, пельмехи называются 抄手 чхаошоу. Чхаошоу занимают первое место в моем сердечке в области китайской кухни https://t.co/22mJEp71te",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        247
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1148272822445367300,
+            "id_str": "1148272822445367296",
+            "indices": [
+              248,
+              271
+            ],
+            "media_url": "http://pbs.twimg.com/media/D-98DFcXYAATYuY.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D-98DFcXYAATYuY.jpg",
+            "url": "https://t.co/22mJEp71te",
+            "display_url": "pic.twitter.com/22mJEp71te",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1148272833174392834/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 700,
+                "h": 1055,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 451,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 700,
+                "h": 1055,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1148272822445367300,
+            "id_str": "1148272822445367296",
+            "indices": [
+              248,
+              271
+            ],
+            "media_url": "http://pbs.twimg.com/media/D-98DFcXYAATYuY.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D-98DFcXYAATYuY.jpg",
+            "url": "https://t.co/22mJEp71te",
+            "display_url": "pic.twitter.com/22mJEp71te",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1148272833174392834/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 700,
+                "h": 1055,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 451,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 700,
+                "h": 1055,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1148272005864669200,
+      "in_reply_to_status_id_str": "1148272005864669186",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 18,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 08 16:54:15 +0000 2019",
+      "id": 1148274104371425300,
+      "id_str": "1148274104371425281",
+      "full_text": "Нашла ЭКСКЛЮЗИВ - ходила в Ченду (столица Сычуань) в гонконгское заведение с вонтонами, суп подали с кучей вот таких вот креветулечек. Впервые такое видела (и единственный раз в жизни) https://t.co/7xwhqz6R21",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        184
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1148274102215598100,
+            "id_str": "1148274102215598085",
+            "indices": [
+              185,
+              208
+            ],
+            "media_url": "http://pbs.twimg.com/media/D-99Nk9XYAUGiw3.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D-99Nk9XYAUGiw3.jpg",
+            "url": "https://t.co/7xwhqz6R21",
+            "display_url": "pic.twitter.com/7xwhqz6R21",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1148274104371425281/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 337,
+                "h": 600,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 337,
+                "h": 600,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 337,
+                "h": 600,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1148274102215598100,
+            "id_str": "1148274102215598085",
+            "indices": [
+              185,
+              208
+            ],
+            "media_url": "http://pbs.twimg.com/media/D-99Nk9XYAUGiw3.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D-99Nk9XYAUGiw3.jpg",
+            "url": "https://t.co/7xwhqz6R21",
+            "display_url": "pic.twitter.com/7xwhqz6R21",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1148274104371425281/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 337,
+                "h": 600,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 337,
+                "h": 600,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 337,
+                "h": 600,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1148272833174392800,
+      "in_reply_to_status_id_str": "1148272833174392834",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 08 16:54:59 +0000 2019",
+      "id": 1148274291227709400,
+      "id_str": "1148274291227709440",
+      "full_text": "@SOlga16 @Sssyrrr Грустная история - когда снимала комнату в airbnb на месяц читала информацию, видимо, жопой, и не заметила, что кухни не будет;(",
+      "truncated": false,
+      "display_text_range": [
+        18,
+        146
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SOlga16",
+            "name": "Одна  ты такая",
+            "id": 444653153,
+            "id_str": "444653153",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "Sssyrrr",
+            "name": "пришвин",
+            "id": 187080800,
+            "id_str": "187080800",
+            "indices": [
+              9,
+              17
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1148273634085146600,
+      "in_reply_to_status_id_str": "1148273634085146625",
+      "in_reply_to_user_id": 444653153,
+      "in_reply_to_user_id_str": "444653153",
+      "in_reply_to_screen_name": "SOlga16",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 08 16:55:42 +0000 2019",
+      "id": 1148274472035725300,
+      "id_str": "1148274472035725313",
+      "full_text": "@mother_of_catss Про него каждый второй инстаблогер уже рассказал, я найду если то кину ссылку. Я не ходила",
+      "truncated": false,
+      "display_text_range": [
+        17,
+        107
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mother_of_catss",
+            "name": "мама кошка",
+            "id": 302750142,
+            "id_str": "302750142",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1148274043482705900,
+      "in_reply_to_status_id_str": "1148274043482705922",
+      "in_reply_to_user_id": 302750142,
+      "in_reply_to_user_id_str": "302750142",
+      "in_reply_to_screen_name": "mother_of_catss",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
