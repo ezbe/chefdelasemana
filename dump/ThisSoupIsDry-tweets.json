@@ -58,6 +58,1336 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 15 14:19:30 +0000 2019",
+      "id": 1150771877620699100,
+      "id_str": "1150771877620699136",
+      "full_text": "Всем привет! С вами Света Ханинаева, бывший участник телешоу «Мастершеф», главный мясье канала «Песнь дыма и кетчупа» в Telegram (https://t.co/wKDXbFhxtT), ваш израильский мясник и шеф недели",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        191
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/wKDXbFhxtT",
+            "expanded_url": "http://t.me/meatme",
+            "display_url": "t.me/meatme",
+            "indices": [
+              130,
+              153
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 32,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 15 14:20:42 +0000 2019",
+      "id": 1150772180692754400,
+      "id_str": "1150772180692754432",
+      "full_text": "О себе: когда-то я поучаствовала в «МастерШефе», после чего бросила карьеру и пошла работать на кухню, где за полгода стала су-шефом московского Saxon+Parole. После этого стажировалась в Нью-Йорке и Дании, помогала открывать рестораны в Алматы и Баку...",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        253
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1150771877620699100,
+      "in_reply_to_status_id_str": "1150771877620699136",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 17,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 15 14:21:06 +0000 2019",
+      "id": 1150772280189960200,
+      "id_str": "1150772280189960192",
+      "full_text": "...а еще два года разделывала и жарила коровок и баранов на самом известном рынке Тель-Авива. Погнали! Отдельный респект хочу выразить предыдущему шефу недели @Sssyrrr, это был огонь, постараюсь не сбавлять обороты",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        214
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Sssyrrr",
+            "name": "пришвин",
+            "id": 187080800,
+            "id_str": "187080800",
+            "indices": [
+              159,
+              167
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1150772180692754400,
+      "in_reply_to_status_id_str": "1150772180692754432",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 28,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 15 14:29:07 +0000 2019",
+      "id": 1150774296823894000,
+      "id_str": "1150774296823894017",
+      "full_text": "Давайте про вечное, давайте про фарш.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        37
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 15 14:29:24 +0000 2019",
+      "id": 1150774370748567600,
+      "id_str": "1150774370748567552",
+      "full_text": "Фарш, особенно для частных покупателей — это чаще не обрезки, а отруб из более дешевых и менее ходовых (шея, различные отрубы из задней части туши). Если у вас в мясной лавке по-другому, и фарш продают уже готовым – имеет смысл просить перемолоть кусок мяса при вас.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        266
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1150774296823894000,
+      "in_reply_to_status_id_str": "1150774296823894017",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 15 14:29:56 +0000 2019",
+      "id": 1150774504177721300,
+      "id_str": "1150774504177721344",
+      "full_text": "Отдельная боль и печаль мясника – когда приходит наученный кем-то или форумами в интернетах покупатель и просит перемолоть премиальные отрубы: рибай, рампстейк, филе. Стейк «Идиот», короче, дорого, глупо.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        204
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1150774370748567600,
+      "in_reply_to_status_id_str": "1150774370748567552",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 15 14:30:58 +0000 2019",
+      "id": 1150774764803448800,
+      "id_str": "1150774764803448832",
+      "full_text": "Если нужно сделать хорошие котлеты или сочный бургер — это не нужно. Шея, например, великолепно подойдет: в ней достаточно жира, это важно, чтобы котлета была сочной. Особый кайф — попросить подкинуть в фарш жира от выдержанного стейка, если в мясне есть камера сухой выдержки.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        277
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1150774504177721300,
+      "in_reply_to_status_id_str": "1150774504177721344",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 15 14:31:41 +0000 2019",
+      "id": 1150774943614980100,
+      "id_str": "1150774943614980098",
+      "full_text": "Повторюсь: всегда лучше видеть, из чего делают фарш. Это не потому, что фарш могут сделать из тухлого мяса (хотя, конечно, недобросовестная лавка может, но вряд ли вы туда пойдете), а потому, что на рынке и в открытых помещениях часто бывают мухи.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        247
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1150774764803448800,
+      "in_reply_to_status_id_str": "1150774764803448832",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 15 14:32:53 +0000 2019",
+      "id": 1150775245705490400,
+      "id_str": "1150775245705490432",
+      "full_text": "В мясных лавках холодно, поэтому эти сволочи заползают в мясо и там засыпают. Мясник может не заметить этого, если мясо уже нарезано маленькими кусками под мясорубку, и намолоть фарша с дополнительным протеином.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        211
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1150774943614980100,
+      "in_reply_to_status_id_str": "1150774943614980098",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 15 14:33:47 +0000 2019",
+      "id": 1150775472680316900,
+      "id_str": "1150775472680316928",
+      "full_text": "Этой проблемы нет у супермаркетов (закрытые помещения) и у больших мясных фабрик, где все, как правило, стерильно — но если вы пришли к своему мяснику на районе, попросите сделать фарш из какого-то конкретного куска (шея, лопатка), пусть это даже и будет немного дороже.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        270
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1150775245705490400,
+      "in_reply_to_status_id_str": "1150775245705490432",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 15 14:36:51 +0000 2019",
+      "id": 1150776243677278200,
+      "id_str": "1150776243677278208",
+      "full_text": "@shm_maria Как молоды мы были! https://t.co/P4Zw2jCOtV",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        30
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "shm_maria",
+            "name": "Шмидт",
+            "id": 342936152,
+            "id_str": "342936152",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1150776237121527800,
+            "id_str": "1150776237121527808",
+            "indices": [
+              31,
+              54
+            ],
+            "media_url": "http://pbs.twimg.com/media/D_hg4_2W4AAe8tx.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D_hg4_2W4AAe8tx.jpg",
+            "url": "https://t.co/P4Zw2jCOtV",
+            "display_url": "pic.twitter.com/P4Zw2jCOtV",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1150776243677278208/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 768,
+                "h": 510,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 452,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 768,
+                "h": 510,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1150776237121527800,
+            "id_str": "1150776237121527808",
+            "indices": [
+              31,
+              54
+            ],
+            "media_url": "http://pbs.twimg.com/media/D_hg4_2W4AAe8tx.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D_hg4_2W4AAe8tx.jpg",
+            "url": "https://t.co/P4Zw2jCOtV",
+            "display_url": "pic.twitter.com/P4Zw2jCOtV",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1150776243677278208/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 768,
+                "h": 510,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 452,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 768,
+                "h": 510,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1150775214151802900,
+      "in_reply_to_status_id_str": "1150775214151802882",
+      "in_reply_to_user_id": 342936152,
+      "in_reply_to_user_id_str": "342936152",
+      "in_reply_to_screen_name": "shm_maria",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 15 14:37:57 +0000 2019",
+      "id": 1150776519377244200,
+      "id_str": "1150776519377244160",
+      "full_text": "@th1rt13n О, про мясо будет много: я не просто так сбежала с кухни пафосного тель-авивского ресторана на рынок Кармель к светлому мясному будущему!",
+      "truncated": false,
+      "display_text_range": [
+        10,
+        147
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "th1rt13n",
+            "name": "XIII13",
+            "id": 3655520962,
+            "id_str": "3655520962",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1150776329421447200,
+      "in_reply_to_status_id_str": "1150776329421447169",
+      "in_reply_to_user_id": 3655520962,
+      "in_reply_to_user_id_str": "3655520962",
+      "in_reply_to_screen_name": "th1rt13n",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 15 14:48:47 +0000 2019",
+      "id": 1150779248371785700,
+      "id_str": "1150779248371785728",
+      "full_text": "От всего мясного сердца хочу сказать (и, уверена, читатели аккаунта меня поддержат), что прошлая неделя была просто огнище! Шефа нельзя судить по размеру кухни, шеф — это состояние души https://t.co/WYrJJ4kgXI",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        185
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/WYrJJ4kgXI",
+            "expanded_url": "https://twitter.com/Sssyrrr/status/1150777513766989824",
+            "display_url": "twitter.com/Sssyrrr/status…",
+            "indices": [
+              186,
+              209
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1150777513766989800,
+      "quoted_status_id_str": "1150777513766989824",
+      "quoted_status_permalink": {
+        "url": "https://t.co/WYrJJ4kgXI",
+        "expanded": "https://twitter.com/Sssyrrr/status/1150777513766989824",
+        "display": "twitter.com/Sssyrrr/status…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Jul 15 14:41:54 +0000 2019",
+        "id": 1150777513766989800,
+        "id_str": "1150777513766989824",
+        "full_text": "Когда после тебя, человека без кухни и последний раз готовившего год назад, приходит ТАКОЙ шеф, сразу как-то скукоживаешься как член на приеме у уролога... https://t.co/IZz30EqT2Q",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          155
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/IZz30EqT2Q",
+              "expanded_url": "https://twitter.com/chefdelasemana/status/1150772180692754432",
+              "display_url": "twitter.com/chefdelasemana…",
+              "indices": [
+                156,
+                179
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 187080800,
+          "id_str": "187080800"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1150772180692754400,
+        "quoted_status_id_str": "1150772180692754432",
+        "quoted_status_permalink": {
+          "url": "https://t.co/IZz30EqT2Q",
+          "expanded": "https://twitter.com/chefdelasemana/status/1150772180692754432",
+          "display": "twitter.com/chefdelasemana…"
+        },
+        "retweet_count": 0,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 15 14:51:23 +0000 2019",
+      "id": 1150779899126386700,
+      "id_str": "1150779899126386689",
+      "full_text": "Отрубы дня: фланк и диафрагма. Это фланк, мышца из брюшной части. https://t.co/ewiYrWEL31",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        65
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1150779856881442800,
+            "id_str": "1150779856881442817",
+            "indices": [
+              66,
+              89
+            ],
+            "media_url": "http://pbs.twimg.com/media/D_hkLsgX4AE8lg_.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D_hkLsgX4AE8lg_.jpg",
+            "url": "https://t.co/ewiYrWEL31",
+            "display_url": "pic.twitter.com/ewiYrWEL31",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1150779899126386689/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1150779856881442800,
+            "id_str": "1150779856881442817",
+            "indices": [
+              66,
+              89
+            ],
+            "media_url": "http://pbs.twimg.com/media/D_hkLsgX4AE8lg_.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D_hkLsgX4AE8lg_.jpg",
+            "url": "https://t.co/ewiYrWEL31",
+            "display_url": "pic.twitter.com/ewiYrWEL31",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1150779899126386689/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 15 14:53:03 +0000 2019",
+      "id": 1150780319156580400,
+      "id_str": "1150780319156580354",
+      "full_text": "А это диафрагма. Бывает тонкая (этой мышцей корова икает, находится между легкими и брюшной полостью, скерт-стейк — это тоже она) и толстая (небольшая несимметричная мышца с толстым сухожилием посередине, находится ближе к внутренним органам, она же — хэнгер-стейк, на фото). https://t.co/puM1vcfMTN",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        275
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1150780297824415700,
+            "id_str": "1150780297824415745",
+            "indices": [
+              276,
+              299
+            ],
+            "media_url": "http://pbs.twimg.com/media/D_hklXJXsAEA4Mg.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D_hklXJXsAEA4Mg.jpg",
+            "url": "https://t.co/puM1vcfMTN",
+            "display_url": "pic.twitter.com/puM1vcfMTN",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1150780319156580354/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 2048,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1150780297824415700,
+            "id_str": "1150780297824415745",
+            "indices": [
+              276,
+              299
+            ],
+            "media_url": "http://pbs.twimg.com/media/D_hklXJXsAEA4Mg.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D_hklXJXsAEA4Mg.jpg",
+            "url": "https://t.co/puM1vcfMTN",
+            "display_url": "pic.twitter.com/puM1vcfMTN",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1150780319156580354/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 2048,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1150779899126386700,
+      "in_reply_to_status_id_str": "1150779899126386689",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 15 14:53:51 +0000 2019",
+      "id": 1150780520676155400,
+      "id_str": "1150780520676155392",
+      "full_text": "Объединяет эти отрубы примерно одинаковый вкус (диафрагма, наверное, чуть более железистая), цена (значительно дешевле премиальных отрубов!) и текстура. Готовить их тоже можно одинаково: на гриле, как стейк.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        207
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1150780319156580400,
+      "in_reply_to_status_id_str": "1150780319156580354",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 15 14:55:43 +0000 2019",
+      "id": 1150780993244205000,
+      "id_str": "1150780993244205061",
+      "full_text": "Фланк целиком — задача не для начинающего, но его можно порезать поперек волокон на маленькие стейки или нанизать на шампуры. Скерт готовится так же (не пережарьте, он тонкий!).",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        177
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1150780520676155400,
+      "in_reply_to_status_id_str": "1150780520676155392",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 15 14:56:00 +0000 2019",
+      "id": 1150781063117123600,
+      "id_str": "1150781063117123591",
+      "full_text": "И в то, и в другое идеально что-то завернуть (прошутто, голубой сыр, травы, песто, вяленые томаты — вариантов масса!), сделать небольшие рулетики, нанизать на шпажки и пожарить на гриле.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        186
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1150780993244205000,
+      "in_reply_to_status_id_str": "1150780993244205061",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 15 14:57:26 +0000 2019",
+      "id": 1150781425278488600,
+      "id_str": "1150781425278488576",
+      "full_text": "@mista_Vint Израильский мясник, ветер северный! Если вы подумали про моэля, который делает обрезание, то женщина им быть не может (и резником, по мнению некоторых, не может тоже, но это другая история)",
+      "truncated": false,
+      "display_text_range": [
+        12,
+        201
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mista_Vint",
+            "name": "Victor F.",
+            "id": 79449625,
+            "id_str": "79449625",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1150779843438612500,
+      "in_reply_to_status_id_str": "1150779843438612481",
+      "in_reply_to_user_id": 79449625,
+      "in_reply_to_user_id_str": "79449625",
+      "in_reply_to_screen_name": "mista_Vint",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 15 15:01:07 +0000 2019",
+      "id": 1150782351603044400,
+      "id_str": "1150782351603044353",
+      "full_text": "@Stase4ka И вы ❤️",
+      "truncated": false,
+      "display_text_range": [
+        10,
+        17
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Stase4ka",
+            "name": "Stase4ka",
+            "id": 32248453,
+            "id_str": "32248453",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1150774197406380000,
+      "in_reply_to_status_id_str": "1150774197406380032",
+      "in_reply_to_user_id": 32248453,
+      "in_reply_to_user_id_str": "32248453",
+      "in_reply_to_screen_name": "Stase4ka",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 15 15:10:49 +0000 2019",
+      "id": 1150784791454933000,
+      "id_str": "1150784791454932992",
+      "full_text": "Насчет «жевать сложно» хочу высказаться отдельно: отрубы бывают разные. Вырезка, например, абсолютно скучная и безвкусная — волокна в ней тонкие, жира нет, тоска и печаль. Давайте попробуем развеять заблуждение, что альтернативные отрубы — это на случай, когда денег нет https://t.co/WwkTVqmeVZ",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        270
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/WwkTVqmeVZ",
+            "expanded_url": "https://twitter.com/ugrymy/status/1150781191093727233",
+            "display_url": "twitter.com/ugrymy/status/…",
+            "indices": [
+              271,
+              294
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1150781191093727200,
+      "quoted_status_id_str": "1150781191093727233",
+      "quoted_status_permalink": {
+        "url": "https://t.co/WwkTVqmeVZ",
+        "expanded": "https://twitter.com/ugrymy/status/1150781191093727233",
+        "display": "twitter.com/ugrymy/status/…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Jul 15 14:56:31 +0000 2019",
+        "id": 1150781191093727200,
+        "id_str": "1150781191093727233",
+        "full_text": "@chefdelasemana жевать сложно) но если денег нет сойдет",
+        "truncated": false,
+        "display_text_range": [
+          16,
+          55
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "chefdelasemana",
+              "name": "Шеф Недели",
+              "id": 1093516106545930200,
+              "id_str": "1093516106545930240",
+              "indices": [
+                0,
+                15
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1150779899126386700,
+        "in_reply_to_status_id_str": "1150779899126386689",
+        "in_reply_to_user_id": 1093516106545930200,
+        "in_reply_to_user_id_str": "1093516106545930240",
+        "in_reply_to_screen_name": "chefdelasemana",
+        "user": {
+          "id": 2424728676,
+          "id_str": "2424728676"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 15 15:12:07 +0000 2019",
+      "id": 1150785117327110100,
+      "id_str": "1150785117327110144",
+      "full_text": "С отрубами, которые не относятся к премиальным (то есть не рибаи, стриплойны, филе, тибоны-портерхаусы и так далее), можно и нужно иметь дело: у них разный вкус, разная мягкость, их довольно много (я обязательно постараюсь рассказать об основных) — и да, они дешевле премиальных.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        279
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1150784791454933000,
+      "in_reply_to_status_id_str": "1150784791454932992",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 15 15:14:51 +0000 2019",
+      "id": 1150785807487250400,
+      "id_str": "1150785807487250432",
+      "full_text": "Чтобы с жеванием проблем не было, надо, во-первых, выбрать выдержанный отруб. Рампстейк или фланк, который не был выдержан хотя бы мокрой выдержкой (вакуум, это не оптимально, но лучше, чем ничего), скорее будет резиновым. Мраморность — наличие прожилок жира — тоже очень важна.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        278
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1150785117327110100,
+      "in_reply_to_status_id_str": "1150785117327110144",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 15 15:16:52 +0000 2019",
+      "id": 1150786313265844200,
+      "id_str": "1150786313265844224",
+      "full_text": "Чем более крупное волокно, тем тоньше мясо надо резать, когда ешь (причем делать это поперек волокон, это важно!): прожевать и перекусить волокно гораздо сложнее, чем разрезать кусок на тарелке. Фланк, например, отлично порезать при подаче тонко-тонко — удобно на компанию.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        273
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1150785807487250400,
+      "in_reply_to_status_id_str": "1150785807487250432",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
