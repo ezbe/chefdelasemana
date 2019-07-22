@@ -58,6 +58,292 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 22 15:22:29 +0000 2019",
+      "id": 1153324440790470700,
+      "id_str": "1153324440790470656",
+      "full_text": "Привет! Я не профессиональный шеф-повар,а любитель поесть) Рецепты на этой неделе будут простыми и быстрыми,но надеюсь,что Вам понравятся и Вы захотите их повторить. Обожаю кабачки, а так как сейчас сезон,то неделя пройдет под девизом - Ни дня без кабачка.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        256
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 50,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 22 15:25:03 +0000 2019",
+      "id": 1153325087300477000,
+      "id_str": "1153325087300476934",
+      "full_text": "Вечером начнем. На ужин нам понадобится кабачок,фарш 400-500 г, картофель около 500г,зелень,растительное масло,яйца 2-3 шт., возможно,сметана.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        142
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 16,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 22 15:27:19 +0000 2019",
+      "id": 1153325657478303700,
+      "id_str": "1153325657478303744",
+      "full_text": "Помогать мне будет мой помощник Тяф (Тефтель,сэр Тяфтелот). https://t.co/lorZ84Tsuj",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        59
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1153325652638085000,
+            "id_str": "1153325652638085120",
+            "indices": [
+              60,
+              83
+            ],
+            "media_url": "http://pbs.twimg.com/media/EAFvkgvWsAACZtQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EAFvkgvWsAACZtQ.jpg",
+            "url": "https://t.co/lorZ84Tsuj",
+            "display_url": "pic.twitter.com/lorZ84Tsuj",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1153325657478303744/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1080,
+                "h": 810,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1080,
+                "h": 810,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1153325652638085000,
+            "id_str": "1153325652638085120",
+            "indices": [
+              60,
+              83
+            ],
+            "media_url": "http://pbs.twimg.com/media/EAFvkgvWsAACZtQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EAFvkgvWsAACZtQ.jpg",
+            "url": "https://t.co/lorZ84Tsuj",
+            "display_url": "pic.twitter.com/lorZ84Tsuj",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1153325657478303744/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1080,
+                "h": 810,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1080,
+                "h": 810,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 26,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 22 16:07:04 +0000 2019",
+      "id": 1153335660285218800,
+      "id_str": "1153335660285218818",
+      "full_text": "@KlavaKtorr Конечно Тяф не тусуется около плиты) это постановочное фото) но он контролирует весь процес",
+      "truncated": false,
+      "display_text_range": [
+        12,
+        103
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "KlavaKtorr",
+            "name": "Klava",
+            "id": 2811217815,
+            "id_str": "2811217815",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1153330555913740300,
+      "in_reply_to_status_id_str": "1153330555913740288",
+      "in_reply_to_user_id": 2811217815,
+      "in_reply_to_user_id_str": "2811217815",
+      "in_reply_to_screen_name": "KlavaKtorr",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 22 16:16:55 +0000 2019",
+      "id": 1153338141396349000,
+      "id_str": "1153338141396348928",
+      "full_text": "@ny__walker если интересно,то да. Вариантов много.",
+      "truncated": false,
+      "display_text_range": [
+        12,
+        50
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ny__walker",
+            "name": "any walker",
+            "id": 3086921735,
+            "id_str": "3086921735",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1153330463987196000,
+      "in_reply_to_status_id_str": "1153330463987195904",
+      "in_reply_to_user_id": 3086921735,
+      "in_reply_to_user_id_str": "3086921735",
+      "in_reply_to_screen_name": "ny__walker",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
