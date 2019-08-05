@@ -1,0 +1,63 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Aug 05 05:06:24 +0000 2019",
+      "id": 1158242829120020500,
+      "id_str": "1158242829120020480",
+      "full_text": "Спасибо за эту неделю @ghostinminsk , архив как всегда на сайте - https://t.co/6wOIEdjst4\nПожалуйста, не забывайте, что у вас есть возможность оставить чаевые автору.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        166
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ghostinminsk",
+            "name": "очень мудрый тип",
+            "id": 949974345211895800,
+            "id_str": "949974345211895810",
+            "indices": [
+              22,
+              35
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/6wOIEdjst4",
+            "expanded_url": "http://chefdelasemana.com",
+            "display_url": "chefdelasemana.com",
+            "indices": [
+              66,
+              89
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
