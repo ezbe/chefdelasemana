@@ -17317,6 +17317,181 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 18 18:41:53 +0000 2019",
+      "id": 1163159093751832600,
+      "id_str": "1163159093751832576",
+      "full_text": "@3141222446t @Vorob_ev Вкусно?)",
+      "truncated": false,
+      "display_text_range": [
+        23,
+        31
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "3141222446t",
+            "name": "Tanya!",
+            "id": 771652422393442300,
+            "id_str": "771652422393442304",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "Vorob_ev",
+            "name": "Игорь",
+            "id": 120542024,
+            "id_str": "120542024",
+            "indices": [
+              13,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1163157189709705200,
+      "in_reply_to_status_id_str": "1163157189709705226",
+      "in_reply_to_user_id": 771652422393442300,
+      "in_reply_to_user_id_str": "771652422393442304",
+      "in_reply_to_screen_name": "3141222446t",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 18 18:44:12 +0000 2019",
+      "id": 1163159678643331000,
+      "id_str": "1163159678643331072",
+      "full_text": "@3141222446t @Vorob_ev Приятного!",
+      "truncated": false,
+      "display_text_range": [
+        23,
+        33
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "3141222446t",
+            "name": "Tanya!",
+            "id": 771652422393442300,
+            "id_str": "771652422393442304",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "Vorob_ev",
+            "name": "Игорь",
+            "id": 120542024,
+            "id_str": "120542024",
+            "indices": [
+              13,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1163159564201668600,
+      "in_reply_to_status_id_str": "1163159564201668610",
+      "in_reply_to_user_id": 771652422393442300,
+      "in_reply_to_user_id_str": "771652422393442304",
+      "in_reply_to_screen_name": "3141222446t",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 19 13:27:08 +0000 2019",
+      "id": 1163442275822768000,
+      "id_str": "1163442275822768129",
+      "full_text": "Спасибо за эту неделю @Vorob_ev , архив как всегда на сайте - https://t.co/6wOIEdjst4\nПожалуйста, не забывайте, что у вас есть возможность оставить чаевые автору.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        162
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Vorob_ev",
+            "name": "Игорь",
+            "id": 120542024,
+            "id_str": "120542024",
+            "indices": [
+              22,
+              31
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/6wOIEdjst4",
+            "expanded_url": "http://chefdelasemana.com",
+            "display_url": "chefdelasemana.com",
+            "indices": [
+              62,
+              85
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
