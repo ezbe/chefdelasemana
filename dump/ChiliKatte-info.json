@@ -3,9 +3,9 @@
   "id_str": "1093516106545930240",
   "name": "Шеф Недели",
   "screen_name": "chefdelasemana",
-  "location": "Одесса - город у 🖤 моря",
+  "location": "Tel Aviv ",
   "profile_location": null,
-  "description": "Коллективный аккаунт о еде от тех, кто любит готовить, для тех, кто любит поесть. Шеф недели — Игорь @Vorob_ev",
+  "description": "Коллективный аккаунт о еде от тех, кто любит готовить, для тех, кто любит поесть. Шеф недели — Кэйт @Chilikatte",
   "url": "https://t.co/luzUzd2DRn",
   "entities": {
     "url": {
@@ -26,75 +26,55 @@
     }
   },
   "protected": false,
-  "followers_count": 8164,
+  "followers_count": 8190,
   "friends_count": 0,
   "listed_count": 39,
   "created_at": "Thu Feb 07 14:25:31 +0000 2019",
-  "favourites_count": 4328,
+  "favourites_count": 4347,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 9784,
+  "statuses_count": 9810,
   "lang": null,
   "status": {
-    "created_at": "Mon Aug 19 13:27:08 +0000 2019",
-    "id": 1163442275822768000,
-    "id_str": "1163442275822768129",
-    "text": "Спасибо за эту неделю @Vorob_ev , архив как всегда на сайте - https://t.co/6wOIEdjst4\nПожалуйста, не забывайте, что… https://t.co/eENy6v2RS8",
-    "truncated": true,
+    "created_at": "Tue Aug 20 10:01:13 +0000 2019",
+    "id": 1163752842668249000,
+    "id_str": "1163752842668249089",
+    "text": "@alisamail7 Исправим 😉",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "Vorob_ev",
-          "name": "Игорь",
-          "id": 120542024,
-          "id_str": "120542024",
+          "screen_name": "alisamail7",
+          "name": "Магдалена",
+          "id": 557629094,
+          "id_str": "557629094",
           "indices": [
-            22,
-            31
+            0,
+            11
           ]
         }
       ],
-      "urls": [
-        {
-          "url": "https://t.co/6wOIEdjst4",
-          "expanded_url": "http://chefdelasemana.com",
-          "display_url": "chefdelasemana.com",
-          "indices": [
-            62,
-            85
-          ]
-        },
-        {
-          "url": "https://t.co/eENy6v2RS8",
-          "expanded_url": "https://twitter.com/i/web/status/1163442275822768129",
-          "display_url": "twitter.com/i/web/status/1…",
-          "indices": [
-            117,
-            140
-          ]
-        }
-      ]
+      "urls": []
     },
-    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": 1163751834592452600,
+    "in_reply_to_status_id_str": "1163751834592452608",
+    "in_reply_to_user_id": 557629094,
+    "in_reply_to_user_id_str": "557629094",
+    "in_reply_to_screen_name": "alisamail7",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 7,
+    "retweet_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
@@ -104,9 +84,9 @@
   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
   "profile_background_tile": false,
-  "profile_image_url": "http://pbs.twimg.com/profile_images/1161010843032723457/KZiWNC2r_normal.jpg",
-  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1161010843032723457/KZiWNC2r_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1093516106545930240/1565641531",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1163455983177347072/ghSuIZeG_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1163455983177347072/ghSuIZeG_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1093516106545930240/1566224833",
   "profile_link_color": "1B95E0",
   "profile_sidebar_border_color": "000000",
   "profile_sidebar_fill_color": "000000",
