@@ -3,9 +3,9 @@
   "id_str": "1093516106545930240",
   "name": "Шеф Недели",
   "screen_name": "chefdelasemana",
-  "location": "Tel Aviv ",
+  "location": "Беларусь",
   "profile_location": null,
-  "description": "Коллективный аккаунт о еде от тех, кто любит готовить, для тех, кто любит поесть. Шеф недели — Кэйт @Chilikatte",
+  "description": "Коллективный аккаунт о еде от тех, кто любит готовить, для тех, кто любит поесть. Шеф недели — Милена @Milkeer",
   "url": "https://t.co/luzUzd2DRn",
   "entities": {
     "url": {
@@ -35,42 +35,22 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 9944,
+  "statuses_count": 9947,
   "lang": null,
   "status": {
-    "created_at": "Mon Aug 26 05:22:33 +0000 2019",
-    "id": 1165857038364237800,
-    "id_str": "1165857038364237824",
-    "text": "Спасибо за эту неделю @ChiliKatte , архив как всегда на сайте - https://t.co/6wOIEdjst4\nПожалуйста, не забывайте, ч… https://t.co/D05pLpCRdQ",
+    "created_at": "Mon Aug 26 14:55:51 +0000 2019",
+    "id": 1166001315098628000,
+    "id_str": "1166001315098628096",
+    "text": "Так же поделюсь историями об обучении поварскому и кондитерскому делу в Испании и Франции, могу посоветовать курсы/… https://t.co/0mnD1gzFUr",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "ChiliKatte",
-          "name": "зернышко граната",
-          "id": 1062833442700906500,
-          "id_str": "1062833442700906498",
-          "indices": [
-            22,
-            33
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/6wOIEdjst4",
-          "expanded_url": "http://chefdelasemana.com",
-          "display_url": "chefdelasemana.com",
-          "indices": [
-            64,
-            87
-          ]
-        },
-        {
-          "url": "https://t.co/D05pLpCRdQ",
-          "expanded_url": "https://twitter.com/i/web/status/1165857038364237824",
+          "url": "https://t.co/0mnD1gzFUr",
+          "expanded_url": "https://twitter.com/i/web/status/1166001315098628096",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -79,7 +59,7 @@
         }
       ]
     },
-    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -91,10 +71,9 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 5,
+    "favorite_count": 9,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
@@ -104,9 +83,9 @@
   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
   "profile_background_tile": false,
-  "profile_image_url": "http://pbs.twimg.com/profile_images/1163455983177347072/ghSuIZeG_normal.jpg",
-  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1163455983177347072/ghSuIZeG_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1093516106545930240/1566224833",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1165999620683653120/eWZiMi7o_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1165999620683653120/eWZiMi7o_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1093516106545930240/1566831654",
   "profile_link_color": "1B95E0",
   "profile_sidebar_border_color": "000000",
   "profile_sidebar_fill_color": "000000",
