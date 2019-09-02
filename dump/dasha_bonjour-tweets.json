@@ -58,6 +58,80 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 02 14:18:20 +0000 2019",
+      "id": 1168528589064745000,
+      "id_str": "1168528589064744962",
+      "full_text": "Привет всем!\n\nМеня зовут Даша, и на этой неделе мы будем кулинарить вместе😜\n\nЯ училась на кулинарном факультете и работала в разных ресторанах🇨🇭(один из них обладатель одной,но гордой звезды Мишлен⭐️)\nИз гастрономии ушла пару лет назад. \nТеперь я домашний Semi-Pro😄",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        265
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 20,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 02 14:18:20 +0000 2019",
+      "id": 1168528590784344000,
+      "id_str": "1168528590784344064",
+      "full_text": "Так как я живу в Швейцарии, то несомненно поделюсь местными рецептами, а так же мы отправимся на местные рыночки, сделаю краткий обзор на продуктовые магазины и интересные продукты.\n\nВ остальном, рецепты будут из разных стран, которые довольно легки в приготовлении 🍴",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        267
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1168528589064745000,
+      "in_reply_to_status_id_str": "1168528589064744962",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 13,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }

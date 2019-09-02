@@ -3,9 +3,20 @@
   "id_str": "1093516106545930240",
   "name": "Шеф Недели",
   "screen_name": "chefdelasemana",
-  "location": "Беларусь",
-  "profile_location": null,
-  "description": "Коллективный аккаунт о еде от тех, кто любит готовить, для тех, кто любит поесть. Шеф недели — Милена @Milkeer",
+  "location": "Switzerland",
+  "profile_location": {
+    "id": "4e7c21fd2af027c6",
+    "url": "https://api.twitter.com/1.1/geo/id/4e7c21fd2af027c6.json",
+    "place_type": "unknown",
+    "name": "Switzerland",
+    "full_name": "Switzerland",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
+  "description": "Коллективный аккаунт о еде от тех, кто любит готовить, для тех, кто любит поесть. Шеф недели — Даша @dasha_bonjour",
   "url": "https://t.co/luzUzd2DRn",
   "entities": {
     "url": {
@@ -26,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 8897,
+  "followers_count": 8898,
   "friends_count": 0,
   "listed_count": 40,
   "created_at": "Thu Feb 07 14:25:31 +0000 2019",
@@ -35,66 +46,45 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 10076,
+  "statuses_count": 10078,
   "lang": null,
   "status": {
-    "created_at": "Mon Sep 02 13:44:05 +0000 2019",
-    "id": 1168519968075473000,
-    "id_str": "1168519968075472896",
-    "text": "Спасибо за эту неделю @Milkeer , архив как всегда на сайте - https://t.co/6wOIEdjst4\nПожалуйста, не забывайте, что… https://t.co/V89l7sJnD1",
+    "created_at": "Mon Sep 02 14:18:20 +0000 2019",
+    "id": 1168528590784344000,
+    "id_str": "1168528590784344064",
+    "text": "Так как я живу в Швейцарии, то несомненно поделюсь местными рецептами, а так же мы отправимся на местные рыночки, с… https://t.co/UqZn7wnT7t",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "Milkeer",
-          "name": "Милена",
-          "id": 287697500,
-          "id_str": "287697500",
-          "indices": [
-            22,
-            30
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/6wOIEdjst4",
-          "expanded_url": "http://chefdelasemana.com",
-          "display_url": "chefdelasemana.com",
-          "indices": [
-            61,
-            84
-          ]
-        },
-        {
-          "url": "https://t.co/V89l7sJnD1",
-          "expanded_url": "https://twitter.com/i/web/status/1168519968075472896",
+          "url": "https://t.co/UqZn7wnT7t",
+          "expanded_url": "https://twitter.com/i/web/status/1168528590784344064",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            116,
-            139
+            117,
+            140
           ]
         }
       ]
     },
-    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1168528589064745000,
+    "in_reply_to_status_id_str": "1168528589064744962",
+    "in_reply_to_user_id": 1093516106545930200,
+    "in_reply_to_user_id_str": "1093516106545930240",
+    "in_reply_to_screen_name": "chefdelasemana",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 4,
-    "favorited": false,
+    "favorite_count": 13,
+    "favorited": true,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
@@ -104,9 +94,9 @@
   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
   "profile_background_tile": false,
-  "profile_image_url": "http://pbs.twimg.com/profile_images/1165999620683653120/eWZiMi7o_normal.jpg",
-  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1165999620683653120/eWZiMi7o_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1093516106545930240/1566831654",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1168527268572012546/RLKM1A1__normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1168527268572012546/RLKM1A1__normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1093516106545930240/1567433586",
   "profile_link_color": "1B95E0",
   "profile_sidebar_border_color": "000000",
   "profile_sidebar_fill_color": "000000",
