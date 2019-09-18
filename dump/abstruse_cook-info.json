@@ -26,46 +26,46 @@
     }
   },
   "protected": false,
-  "followers_count": 9666,
+  "followers_count": 9668,
   "friends_count": 0,
-  "listed_count": 45,
+  "listed_count": 46,
   "created_at": "Thu Feb 07 14:25:31 +0000 2019",
-  "favourites_count": 4895,
+  "favourites_count": 4898,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 10945,
+  "statuses_count": 10977,
   "lang": null,
   "status": {
-    "created_at": "Wed Sep 18 13:01:55 +0000 2019",
-    "id": 1174307562130411500,
-    "id_str": "1174307562130411520",
-    "text": "@JDETorrance Так, блядь, точно!",
+    "created_at": "Wed Sep 18 18:22:42 +0000 2019",
+    "id": 1174388291522748400,
+    "id_str": "1174388291522748416",
+    "text": "@dr_Begemot Минимальная температура, до готовности))",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "JDETorrance",
-          "name": "Bruno the Questionable",
-          "id": 2678994924,
-          "id_str": "2678994924",
+          "screen_name": "dr_Begemot",
+          "name": "iter::repeat(🍕)",
+          "id": 204956049,
+          "id_str": "204956049",
           "indices": [
             0,
-            12
+            11
           ]
         }
       ],
       "urls": []
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": 1174307223452946400,
-    "in_reply_to_status_id_str": "1174307223452946433",
-    "in_reply_to_user_id": 2678994924,
-    "in_reply_to_user_id_str": "2678994924",
-    "in_reply_to_screen_name": "JDETorrance",
+    "in_reply_to_status_id": 1174385382970015700,
+    "in_reply_to_status_id_str": "1174385382970015745",
+    "in_reply_to_user_id": 204956049,
+    "in_reply_to_user_id_str": "204956049",
+    "in_reply_to_screen_name": "dr_Begemot",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -75,7 +75,7 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "lang": "ru"
+    "lang": "uk"
   },
   "contributors_enabled": false,
   "is_translator": false,
