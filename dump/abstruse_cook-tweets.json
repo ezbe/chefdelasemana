@@ -23448,6 +23448,205 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 18 21:04:57 +0000 2019",
+      "id": 1174429124900864000,
+      "id_str": "1174429124900864000",
+      "full_text": "@blushka нет,ну если совсем есть нечего-можно,конечно,но смысл?)\nВода из нее ушла,а насытить водой сухие бобовые-это прям большая задача.",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        137
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "blushka",
+            "name": "Люсечка",
+            "id": 117523474,
+            "id_str": "117523474",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1174428588118040600,
+      "in_reply_to_status_id_str": "1174428588118040581",
+      "in_reply_to_user_id": 117523474,
+      "in_reply_to_user_id_str": "117523474",
+      "in_reply_to_screen_name": "blushka",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 18 21:07:39 +0000 2019",
+      "id": 1174429801458933800,
+      "id_str": "1174429801458933767",
+      "full_text": "Понимаете в чем дело...для России потребление сыра в историческом аспекте не характерно,как для Италии,например,нехарактерны сметана и кефир.У нас свои бактериальные закваски культивировались веками,у них-свои.Поэтому проёдет много времени,пока в России научатся в сыр.Но научатся https://t.co/39ru8VYEL5",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/39ru8VYEL5",
+            "expanded_url": "https://twitter.com/ugrymy/status/1174428813150867459",
+            "display_url": "twitter.com/ugrymy/status/…",
+            "indices": [
+              281,
+              304
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1174428813150867500,
+      "quoted_status_id_str": "1174428813150867459",
+      "quoted_status_permalink": {
+        "url": "https://t.co/39ru8VYEL5",
+        "expanded": "https://twitter.com/ugrymy/status/1174428813150867459",
+        "display": "twitter.com/ugrymy/status/…"
+      },
+      "quoted_status": {
+        "created_at": "Wed Sep 18 21:03:43 +0000 2019",
+        "id": 1174428813150867500,
+        "id_str": "1174428813150867459",
+        "full_text": "@chefdelasemana тоесть начали?)))",
+        "truncated": false,
+        "display_text_range": [
+          16,
+          33
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "chefdelasemana",
+              "name": "Шеф Недели",
+              "id": 1093516106545930200,
+              "id_str": "1093516106545930240",
+              "indices": [
+                0,
+                15
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "in_reply_to_status_id": 1174428195204096000,
+        "in_reply_to_status_id_str": "1174428195204096000",
+        "in_reply_to_user_id": 1093516106545930200,
+        "in_reply_to_user_id_str": "1093516106545930240",
+        "in_reply_to_screen_name": "chefdelasemana",
+        "user": {
+          "id": 2424728676,
+          "id_str": "2424728676"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 18 21:13:03 +0000 2019",
+      "id": 1174431163710169000,
+      "id_str": "1174431163710169088",
+      "full_text": "@matachamatacha 1.Мы говорим о сырах,а не о сырных продуктах.\n2.Не стоит недооценивать профессионалов.",
+      "truncated": false,
+      "display_text_range": [
+        16,
+        102
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "matachamatacha",
+            "name": "иногда чувствую людей",
+            "id": 2754551245,
+            "id_str": "2754551245",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1174430642530111500,
+      "in_reply_to_status_id_str": "1174430642530111489",
+      "in_reply_to_user_id": 2754551245,
+      "in_reply_to_user_id_str": "2754551245",
+      "in_reply_to_screen_name": "matachamatacha",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }

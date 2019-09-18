@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 9667,
+  "followers_count": 9666,
   "friends_count": 0,
   "listed_count": 46,
   "created_at": "Thu Feb 07 14:25:31 +0000 2019",
@@ -35,33 +35,44 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 11001,
+  "statuses_count": 11004,
   "lang": null,
   "status": {
-    "created_at": "Wed Sep 18 21:02:24 +0000 2019",
-    "id": 1174428483159765000,
-    "id_str": "1174428483159764993",
-    "text": "но вот выдержанные сыры,конечно,полное говно.Их и быть-то не может,времени прошло мало.\nНо будут.\nТочно вам говорю.",
+    "created_at": "Wed Sep 18 21:13:03 +0000 2019",
+    "id": 1174431163710169000,
+    "id_str": "1174431163710169088",
+    "text": "@matachamatacha 1.Мы говорим о сырах,а не о сырных продуктах.\n2.Не стоит недооценивать профессионалов.",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "matachamatacha",
+          "name": "иногда чувствую людей",
+          "id": 2754551245,
+          "id_str": "2754551245",
+          "indices": [
+            0,
+            15
+          ]
+        }
+      ],
       "urls": []
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1174428195204096000,
-    "in_reply_to_status_id_str": "1174428195204096000",
-    "in_reply_to_user_id": 1093516106545930200,
-    "in_reply_to_user_id_str": "1093516106545930240",
-    "in_reply_to_screen_name": "chefdelasemana",
+    "in_reply_to_status_id": 1174430642530111500,
+    "in_reply_to_status_id_str": "1174430642530111489",
+    "in_reply_to_user_id": 2754551245,
+    "in_reply_to_user_id_str": "2754551245",
+    "in_reply_to_screen_name": "matachamatacha",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
