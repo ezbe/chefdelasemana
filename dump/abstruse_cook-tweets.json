@@ -21625,6 +21625,1829 @@
       "favorited": false,
       "retweeted": false,
       "lang": "uk"
+    },
+    {
+      "created_at": "Wed Sep 18 20:14:18 +0000 2019",
+      "id": 1174416377777725400,
+      "id_str": "1174416377777725440",
+      "full_text": "@ndehtyaruk @Mindstufff любым продуктом из бакалеи,достаточно крупным.Либо устелить форму мешком для запекания и насыпать туда тупо гречки.",
+      "truncated": false,
+      "display_text_range": [
+        24,
+        139
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ndehtyaruk",
+            "name": "Наталка Полтавка",
+            "id": 358621798,
+            "id_str": "358621798",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "Mindstufff",
+            "name": "Servus",
+            "id": 2863182718,
+            "id_str": "2863182718",
+            "indices": [
+              12,
+              23
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1174402879563735000,
+      "in_reply_to_status_id_str": "1174402879563735042",
+      "in_reply_to_user_id": 358621798,
+      "in_reply_to_user_id_str": "358621798",
+      "in_reply_to_screen_name": "ndehtyaruk",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 18 20:16:01 +0000 2019",
+      "id": 1174416807530307600,
+      "id_str": "1174416807530307585",
+      "full_text": "@NitrGirl пажалста-пажалста.\nУ меня видимо более пластичное тесто просто,оно падает при нагревании.\nПлюс играет роль наклон бортика формы и качество духовки,у меня откровенно так себе душняк.",
+      "truncated": false,
+      "display_text_range": [
+        10,
+        191
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "NitrGirl",
+            "name": "Nice girl",
+            "id": 2659551424,
+            "id_str": "2659551424",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1174415961698570200,
+      "in_reply_to_status_id_str": "1174415961698570240",
+      "in_reply_to_user_id": 2659551424,
+      "in_reply_to_user_id_str": "2659551424",
+      "in_reply_to_screen_name": "NitrGirl",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 18 20:16:43 +0000 2019",
+      "id": 1174416986639671300,
+      "id_str": "1174416986639671299",
+      "full_text": "RT @AlcoYazva: Это великолепно 💦\n\nВызовите мастера чистоты, тут скользко, тут лужа восторга https://t.co/t07CRBVEsz",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        115
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AlcoYazva",
+            "name": "Всё через призму Святого Бокала",
+            "id": 1005386013680848900,
+            "id_str": "1005386013680848896",
+            "indices": [
+              3,
+              13
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1174386970346307600,
+            "id_str": "1174386970346307584",
+            "indices": [
+              92,
+              115
+            ],
+            "media_url": "http://pbs.twimg.com/media/EExCujRWwAAsmUI.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EExCujRWwAAsmUI.jpg",
+            "url": "https://t.co/t07CRBVEsz",
+            "display_url": "pic.twitter.com/t07CRBVEsz",
+            "expanded_url": "https://twitter.com/AlcoYazva/status/1174386978516852736/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 768,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 768,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 1174386978516852700,
+            "source_status_id_str": "1174386978516852736",
+            "source_user_id": 1005386013680848900,
+            "source_user_id_str": "1005386013680848896"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1174386970346307600,
+            "id_str": "1174386970346307584",
+            "indices": [
+              92,
+              115
+            ],
+            "media_url": "http://pbs.twimg.com/media/EExCujRWwAAsmUI.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EExCujRWwAAsmUI.jpg",
+            "url": "https://t.co/t07CRBVEsz",
+            "display_url": "pic.twitter.com/t07CRBVEsz",
+            "expanded_url": "https://twitter.com/AlcoYazva/status/1174386978516852736/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 768,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 768,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 1174386978516852700,
+            "source_status_id_str": "1174386978516852736",
+            "source_user_id": 1005386013680848900,
+            "source_user_id_str": "1005386013680848896"
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Sep 18 18:17:29 +0000 2019",
+        "id": 1174386978516852700,
+        "id_str": "1174386978516852736",
+        "full_text": "Это великолепно 💦\n\nВызовите мастера чистоты, тут скользко, тут лужа восторга https://t.co/t07CRBVEsz",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          76
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 1174386970346307600,
+              "id_str": "1174386970346307584",
+              "indices": [
+                77,
+                100
+              ],
+              "media_url": "http://pbs.twimg.com/media/EExCujRWwAAsmUI.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/EExCujRWwAAsmUI.jpg",
+              "url": "https://t.co/t07CRBVEsz",
+              "display_url": "pic.twitter.com/t07CRBVEsz",
+              "expanded_url": "https://twitter.com/AlcoYazva/status/1174386978516852736/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 768,
+                  "h": 1024,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 768,
+                  "h": 1024,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 510,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1174386970346307600,
+              "id_str": "1174386970346307584",
+              "indices": [
+                77,
+                100
+              ],
+              "media_url": "http://pbs.twimg.com/media/EExCujRWwAAsmUI.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/EExCujRWwAAsmUI.jpg",
+              "url": "https://t.co/t07CRBVEsz",
+              "display_url": "pic.twitter.com/t07CRBVEsz",
+              "expanded_url": "https://twitter.com/AlcoYazva/status/1174386978516852736/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 768,
+                  "h": 1024,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 768,
+                  "h": 1024,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 510,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1174381108588400600,
+        "in_reply_to_status_id_str": "1174381108588400640",
+        "in_reply_to_user_id": 1005386013680848900,
+        "in_reply_to_user_id_str": "1005386013680848896",
+        "in_reply_to_screen_name": "AlcoYazva",
+        "user": {
+          "id": 1005386013680848900,
+          "id_str": "1005386013680848896"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 17,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 18 20:19:34 +0000 2019",
+      "id": 1174417703697887200,
+      "id_str": "1174417703697887232",
+      "full_text": "На самом деле я гораздо больше сижу с телефоном, чем готовлю. На киш уходит час. На солянку час с небольшим. https://t.co/kqbmqB8wf6",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        108
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/kqbmqB8wf6",
+            "expanded_url": "https://twitter.com/ivasilevskaya/status/1174376324481409025",
+            "display_url": "twitter.com/ivasilevskaya/…",
+            "indices": [
+              109,
+              132
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1174376324481409000,
+      "quoted_status_id_str": "1174376324481409025",
+      "quoted_status_permalink": {
+        "url": "https://t.co/kqbmqB8wf6",
+        "expanded": "https://twitter.com/ivasilevskaya/status/1174376324481409025",
+        "display": "twitter.com/ivasilevskaya/…"
+      },
+      "quoted_status": {
+        "created_at": "Wed Sep 18 17:35:09 +0000 2019",
+        "id": 1174376324481409000,
+        "id_str": "1174376324481409025",
+        "full_text": "@chefdelasemana Я обожаю готовить, только у меня вопрос - сука, где взять столько времени что бы приготовить эти все твои киши/блины/солянку? Я успеваю только лайкать. Ух, на выходных оторвусь",
+        "truncated": false,
+        "display_text_range": [
+          16,
+          192
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "chefdelasemana",
+              "name": "Шеф Недели",
+              "id": 1093516106545930200,
+              "id_str": "1093516106545930240",
+              "indices": [
+                0,
+                15
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1174330063090802700,
+        "in_reply_to_status_id_str": "1174330063090802689",
+        "in_reply_to_user_id": 1093516106545930200,
+        "in_reply_to_user_id_str": "1093516106545930240",
+        "in_reply_to_screen_name": "chefdelasemana",
+        "user": {
+          "id": 268181427,
+          "id_str": "268181427"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 13,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 18 20:23:01 +0000 2019",
+      "id": 1174418569947418600,
+      "id_str": "1174418569947418624",
+      "full_text": "О рыбной начинке.\nРыба достаточно пресная и сухая, поэтому омлетной массы нужно больше, чёрный перец заменяем белым, ну и кислинки чуть.\nУ меня в кислинки Томатная пастила(о ней завтра), но вполне себе, как мне видится, зайдёт сумах. https://t.co/sCYQJ8F4NB",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        233
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1174418453828161500,
+            "id_str": "1174418453828161536",
+            "indices": [
+              234,
+              257
+            ],
+            "media_url": "http://pbs.twimg.com/media/EExfXIYXUAAhNIV.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EExfXIYXUAAhNIV.jpg",
+            "url": "https://t.co/sCYQJ8F4NB",
+            "display_url": "pic.twitter.com/sCYQJ8F4NB",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1174418569947418624/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1174418453828161500,
+            "id_str": "1174418453828161536",
+            "indices": [
+              234,
+              257
+            ],
+            "media_url": "http://pbs.twimg.com/media/EExfXIYXUAAhNIV.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EExfXIYXUAAhNIV.jpg",
+            "url": "https://t.co/sCYQJ8F4NB",
+            "display_url": "pic.twitter.com/sCYQJ8F4NB",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1174418569947418624/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1174418469401616400,
+            "id_str": "1174418469401616384",
+            "indices": [
+              234,
+              257
+            ],
+            "media_url": "http://pbs.twimg.com/media/EExfYCZXYAAqoxX.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EExfYCZXYAAqoxX.jpg",
+            "url": "https://t.co/sCYQJ8F4NB",
+            "display_url": "pic.twitter.com/sCYQJ8F4NB",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1174418569947418624/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1174418556131393500,
+            "id_str": "1174418556131393536",
+            "indices": [
+              234,
+              257
+            ],
+            "media_url": "http://pbs.twimg.com/media/EExfdFfWwAAqmI8.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EExfdFfWwAAqmI8.jpg",
+            "url": "https://t.co/sCYQJ8F4NB",
+            "display_url": "pic.twitter.com/sCYQJ8F4NB",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1174418569947418624/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1174381165207273500,
+      "in_reply_to_status_id_str": "1174381165207273473",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 15,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 18 20:26:57 +0000 2019",
+      "id": 1174419559539007500,
+      "id_str": "1174419559539007491",
+      "full_text": "@abstruse_cook https://t.co/v92B1GoOt8",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        14
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abstruse_cook",
+            "name": "Заумный поварюга 🍳🍳🍳",
+            "id": 434242655,
+            "id_str": "434242655",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1174419543231537200,
+            "id_str": "1174419543231537157",
+            "indices": [
+              15,
+              38
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/EExgWiuXoAUEivZ.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EExgWiuXoAUEivZ.jpg",
+            "url": "https://t.co/v92B1GoOt8",
+            "display_url": "pic.twitter.com/v92B1GoOt8",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1174419559539007491/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 500,
+                "h": 350,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 500,
+                "h": 350,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 500,
+                "h": 350,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1174419543231537200,
+            "id_str": "1174419543231537157",
+            "indices": [
+              15,
+              38
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/EExgWiuXoAUEivZ.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EExgWiuXoAUEivZ.jpg",
+            "url": "https://t.co/v92B1GoOt8",
+            "display_url": "pic.twitter.com/v92B1GoOt8",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1174419559539007491/photo/1",
+            "type": "animated_gif",
+            "sizes": {
+              "medium": {
+                "w": 500,
+                "h": 350,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 500,
+                "h": 350,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 500,
+                "h": 350,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                10,
+                7
+              ],
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/tweet_video/EExgWiuXoAUEivZ.mp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1174419202746306600,
+      "in_reply_to_status_id_str": "1174419202746306560",
+      "in_reply_to_user_id": 434242655,
+      "in_reply_to_user_id_str": "434242655",
+      "in_reply_to_screen_name": "abstruse_cook",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed Sep 18 20:27:50 +0000 2019",
+      "id": 1174419784370401300,
+      "id_str": "1174419784370401282",
+      "full_text": "причем почти всё это время еда тупо стоит на плите,а я пинаю груши",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        66
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1174417703697887200,
+      "in_reply_to_status_id_str": "1174417703697887232",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 18 20:29:09 +0000 2019",
+      "id": 1174420113065500700,
+      "id_str": "1174420113065500672",
+      "full_text": "вообще у меня в моем холостяцком быту есть норматив:я трачу полтора часа в неделю на уборку квартиры и приготовление еды на неделю и ни минутой больше.\nИ уже хрен знает сколько лет всё работает.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        194
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1174419784370401300,
+      "in_reply_to_status_id_str": "1174419784370401282",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 18 20:30:26 +0000 2019",
+      "id": 1174420438602199000,
+      "id_str": "1174420438602199041",
+      "full_text": "@YQPci1AeWAkkBr4 нет,ну с пловом,например,меньше двух часов не получится.\nНо плов-то я готовлю гостям,а себе что попроще...",
+      "truncated": false,
+      "display_text_range": [
+        17,
+        123
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "YQPci1AeWAkkBr4",
+            "name": "Тапанейро Дизлакуки",
+            "id": 1062782900788256800,
+            "id_str": "1062782900788256768",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1174420173614387200,
+      "in_reply_to_status_id_str": "1174420173614387200",
+      "in_reply_to_user_id": 1062782900788256800,
+      "in_reply_to_user_id_str": "1062782900788256768",
+      "in_reply_to_screen_name": "YQPci1AeWAkkBr4",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 18 20:31:59 +0000 2019",
+      "id": 1174420827309269000,
+      "id_str": "1174420827309268992",
+      "full_text": "Честно сказать,шефу грустно.Шеф проводил гостей и скучает с бокалом вина.\nЕсли у кого есть вопросы или кто желает пиздуна потравить-вэлкам. https://t.co/wUFG8AR4oc",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        139
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1174420809802223600,
+            "id_str": "1174420809802223620",
+            "indices": [
+              140,
+              163
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/EExhgREWkAQWv9M.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EExhgREWkAQWv9M.jpg",
+            "url": "https://t.co/wUFG8AR4oc",
+            "display_url": "pic.twitter.com/wUFG8AR4oc",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1174420827309268992/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 480,
+                "h": 336,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 480,
+                "h": 336,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 480,
+                "h": 336,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1174420809802223600,
+            "id_str": "1174420809802223620",
+            "indices": [
+              140,
+              163
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/EExhgREWkAQWv9M.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EExhgREWkAQWv9M.jpg",
+            "url": "https://t.co/wUFG8AR4oc",
+            "display_url": "pic.twitter.com/wUFG8AR4oc",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1174420827309268992/photo/1",
+            "type": "animated_gif",
+            "sizes": {
+              "small": {
+                "w": 480,
+                "h": 336,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 480,
+                "h": 336,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 480,
+                "h": 336,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                10,
+                7
+              ],
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/tweet_video/EExhgREWkAQWv9M.mp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 18 20:32:59 +0000 2019",
+      "id": 1174421079718318000,
+      "id_str": "1174421079718318080",
+      "full_text": "@dr_gayka как два байта отослать.\nХолостяцкий быт лёгок и незатейлив,а я сам чистоплотен и не генерирую энтропию,да и питаюсь просто и легко.",
+      "truncated": false,
+      "display_text_range": [
+        10,
+        141
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dr_gayka",
+            "name": "Alsu Ibragimova",
+            "id": 177192251,
+            "id_str": "177192251",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1174420665501401000,
+      "in_reply_to_status_id_str": "1174420665501401089",
+      "in_reply_to_user_id": 177192251,
+      "in_reply_to_user_id_str": "177192251",
+      "in_reply_to_screen_name": "dr_gayka",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 18 20:36:01 +0000 2019",
+      "id": 1174421840149852200,
+      "id_str": "1174421840149852161",
+      "full_text": "@beshenykomarik можно тут,можно в телегу poohmanoff",
+      "truncated": false,
+      "display_text_range": [
+        16,
+        51
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "beshenykomarik",
+            "name": "Бешеный комарик",
+            "id": 1098843124611338200,
+            "id_str": "1098843124611338240",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1174421326217568300,
+      "in_reply_to_status_id_str": "1174421326217568258",
+      "in_reply_to_user_id": 1098843124611338200,
+      "in_reply_to_user_id_str": "1098843124611338240",
+      "in_reply_to_screen_name": "beshenykomarik",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 18 20:38:23 +0000 2019",
+      "id": 1174422436290474000,
+      "id_str": "1174422436290473984",
+      "full_text": "@matachamatacha да вагон всякого,от лазаньи через азиатские и мексиканские истории до сладкого плова.Но я без мяса не очень,честно сказать,я мясной.",
+      "truncated": false,
+      "display_text_range": [
+        16,
+        148
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "matachamatacha",
+            "name": "иногда чувствую людей",
+            "id": 2754551245,
+            "id_str": "2754551245",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1174422062515052500,
+      "in_reply_to_status_id_str": "1174422062515052544",
+      "in_reply_to_user_id": 2754551245,
+      "in_reply_to_user_id_str": "2754551245",
+      "in_reply_to_screen_name": "matachamatacha",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 18 20:39:55 +0000 2019",
+      "id": 1174422825496731600,
+      "id_str": "1174422825496731648",
+      "full_text": "@poddobie щас важно:ты по образованию кто?Я без подъеба,просто тип мышления понять пытаюсь",
+      "truncated": false,
+      "display_text_range": [
+        10,
+        90
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "poddobie",
+            "name": "по образу и поддобию",
+            "id": 1151127516502827000,
+            "id_str": "1151127516502827008",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1174422580801015800,
+      "in_reply_to_status_id_str": "1174422580801015808",
+      "in_reply_to_user_id": 1151127516502827000,
+      "in_reply_to_user_id_str": "1151127516502827008",
+      "in_reply_to_screen_name": "poddobie",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 18 20:42:03 +0000 2019",
+      "id": 1174423359465099300,
+      "id_str": "1174423359465099272",
+      "full_text": "@beshenykomarik в блюдах,где тесто-технический продукт,конечно лучше покупное.Типа лазаньи там.Или каких-нибудь ленивых мантов.\nРучками-это если прям любишь.Если селедку на новогоднюю \"шубу\" сам чистить готов.",
+      "truncated": false,
+      "display_text_range": [
+        16,
+        209
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "beshenykomarik",
+            "name": "Бешеный комарик",
+            "id": 1098843124611338200,
+            "id_str": "1098843124611338240",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1174422787714355200,
+      "in_reply_to_status_id_str": "1174422787714355207",
+      "in_reply_to_user_id": 1098843124611338200,
+      "in_reply_to_user_id_str": "1098843124611338240",
+      "in_reply_to_screen_name": "beshenykomarik",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 18 20:44:35 +0000 2019",
+      "id": 1174423997741748200,
+      "id_str": "1174423997741748224",
+      "full_text": "@poddobie тогда либо как твои коллеги говорят,или измени ситуацию,или свое отношение к ней)или начинай вводить системный подход,или забивай на бардак и питайся на аутсорсе)иначе замкнутый круг",
+      "truncated": false,
+      "display_text_range": [
+        10,
+        192
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "poddobie",
+            "name": "по образу и поддобию",
+            "id": 1151127516502827000,
+            "id_str": "1151127516502827008",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1174423242649550800,
+      "in_reply_to_status_id_str": "1174423242649550854",
+      "in_reply_to_user_id": 1151127516502827000,
+      "in_reply_to_user_id_str": "1151127516502827008",
+      "in_reply_to_screen_name": "poddobie",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 18 20:46:04 +0000 2019",
+      "id": 1174424372821614600,
+      "id_str": "1174424372821614593",
+      "full_text": "@burnmthfck ты крутой(крутая)\n))",
+      "truncated": false,
+      "display_text_range": [
+        12,
+        32
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "burnmthfck",
+            "name": "Ya & K°",
+            "id": 2228811073,
+            "id_str": "2228811073",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1174424074413645800,
+      "in_reply_to_status_id_str": "1174424074413645824",
+      "in_reply_to_user_id": 2228811073,
+      "in_reply_to_user_id_str": "2228811073",
+      "in_reply_to_screen_name": "burnmthfck",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 18 20:47:48 +0000 2019",
+      "id": 1174424807875780600,
+      "id_str": "1174424807875780609",
+      "full_text": "@burnmthfck не,бро,я ж без намерения обидеть",
+      "truncated": false,
+      "display_text_range": [
+        12,
+        44
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "burnmthfck",
+            "name": "Ya & K°",
+            "id": 2228811073,
+            "id_str": "2228811073",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1174424486399099000,
+      "in_reply_to_status_id_str": "1174424486399098886",
+      "in_reply_to_user_id": 2228811073,
+      "in_reply_to_user_id_str": "2228811073",
+      "in_reply_to_screen_name": "burnmthfck",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 18 20:48:45 +0000 2019",
+      "id": 1174425047274020900,
+      "id_str": "1174425047274020864",
+      "full_text": "@beshenykomarik концентраты супов,пассеровки всякие.Плов отлично морозится.\nСейчас,например,у меня порций 10 заготовок под шакшуку заготовлено.",
+      "truncated": false,
+      "display_text_range": [
+        16,
+        143
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "beshenykomarik",
+            "name": "Бешеный комарик",
+            "id": 1098843124611338200,
+            "id_str": "1098843124611338240",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1174424690858832000,
+      "in_reply_to_status_id_str": "1174424690858831873",
+      "in_reply_to_user_id": 1098843124611338200,
+      "in_reply_to_user_id_str": "1098843124611338240",
+      "in_reply_to_screen_name": "beshenykomarik",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 18 20:52:11 +0000 2019",
+      "id": 1174425910801555500,
+      "id_str": "1174425910801555457",
+      "full_text": "Нет,я,конечно,знал,что в Беларуси кулинарные традиции отличаются от наших,но чтоб настолько... https://t.co/KLxP6xUnnm",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        94
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1174425905692893200,
+            "id_str": "1174425905692893186",
+            "indices": [
+              95,
+              118
+            ],
+            "media_url": "http://pbs.twimg.com/media/EExmI4vXYAILWH0.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EExmI4vXYAILWH0.jpg",
+            "url": "https://t.co/KLxP6xUnnm",
+            "display_url": "pic.twitter.com/KLxP6xUnnm",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1174425910801555457/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 800,
+                "h": 526,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 800,
+                "h": 526,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 447,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1174425905692893200,
+            "id_str": "1174425905692893186",
+            "indices": [
+              95,
+              118
+            ],
+            "media_url": "http://pbs.twimg.com/media/EExmI4vXYAILWH0.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EExmI4vXYAILWH0.jpg",
+            "url": "https://t.co/KLxP6xUnnm",
+            "display_url": "pic.twitter.com/KLxP6xUnnm",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1174425910801555457/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 800,
+                "h": 526,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 800,
+                "h": 526,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 447,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 15,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 18 20:53:01 +0000 2019",
+      "id": 1174426119791095800,
+      "id_str": "1174426119791095810",
+      "full_text": "@beshenykomarik смотря в каком виде,если спассерованный-то ок,немного воды только отскочит скорее всего.А свежий не вариант.",
+      "truncated": false,
+      "display_text_range": [
+        16,
+        124
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "beshenykomarik",
+            "name": "Бешеный комарик",
+            "id": 1098843124611338200,
+            "id_str": "1098843124611338240",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1174425611089207300,
+      "in_reply_to_status_id_str": "1174425611089207297",
+      "in_reply_to_user_id": 1098843124611338200,
+      "in_reply_to_user_id_str": "1098843124611338240",
+      "in_reply_to_screen_name": "beshenykomarik",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 18 20:55:37 +0000 2019",
+      "id": 1174426775407026200,
+      "id_str": "1174426775407026182",
+      "full_text": "@ugrymy я,видимо,вопрос пропустил,сформулируй еще раз пожалуйста",
+      "truncated": false,
+      "display_text_range": [
+        8,
+        64
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ugrymy",
+            "name": "мнение сисек",
+            "id": 2424728676,
+            "id_str": "2424728676",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1174426275739570200,
+      "in_reply_to_status_id_str": "1174426275739570176",
+      "in_reply_to_user_id": 2424728676,
+      "in_reply_to_user_id_str": "2424728676",
+      "in_reply_to_screen_name": "ugrymy",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 18 21:01:16 +0000 2019",
+      "id": 1174428195204096000,
+      "id_str": "1174428195204096000",
+      "full_text": "ну тут чистая вкусовщина.Я занимаюсь мягкими сливочными сырами одного местного производителя,они мне весьма по нраву.Они делают также неплохую сырьевую моцареллу.\nОтлично заходит также сулугуни от \"Умалат\".Домашнего много хорошего,козьи армянские сыры неплохие. https://t.co/O1WJgtbkYF",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        261
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/O1WJgtbkYF",
+            "expanded_url": "https://twitter.com/ugrymy/status/1174427233320132608",
+            "display_url": "twitter.com/ugrymy/status/…",
+            "indices": [
+              262,
+              285
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1174427233320132600,
+      "quoted_status_id_str": "1174427233320132608",
+      "quoted_status_permalink": {
+        "url": "https://t.co/O1WJgtbkYF",
+        "expanded": "https://twitter.com/ugrymy/status/1174427233320132608",
+        "display": "twitter.com/ugrymy/status/…"
+      },
+      "quoted_status": {
+        "created_at": "Wed Sep 18 20:57:26 +0000 2019",
+        "id": 1174427233320132600,
+        "id_str": "1174427233320132608",
+        "full_text": "@chefdelasemana вначале знакомства была фраза - вы занимались продажей сыра - интересно сыр ваще есть можно или нет в рф ?)))",
+        "truncated": false,
+        "display_text_range": [
+          16,
+          125
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "chefdelasemana",
+              "name": "Шеф Недели",
+              "id": 1093516106545930200,
+              "id_str": "1093516106545930240",
+              "indices": [
+                0,
+                15
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "in_reply_to_status_id": 1174426775407026200,
+        "in_reply_to_status_id_str": "1174426775407026182",
+        "in_reply_to_user_id": 1093516106545930200,
+        "in_reply_to_user_id_str": "1093516106545930240",
+        "in_reply_to_screen_name": "chefdelasemana",
+        "user": {
+          "id": 2424728676,
+          "id_str": "2424728676"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 18 21:02:24 +0000 2019",
+      "id": 1174428483159765000,
+      "id_str": "1174428483159764993",
+      "full_text": "но вот выдержанные сыры,конечно,полное говно.Их и быть-то не может,времени прошло мало.\nНо будут.\nТочно вам говорю.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        115
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1174428195204096000,
+      "in_reply_to_status_id_str": "1174428195204096000",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
