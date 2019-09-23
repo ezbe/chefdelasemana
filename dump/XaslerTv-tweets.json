@@ -1,0 +1,63 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Sep 23 04:47:26 +0000 2019",
+      "id": 1175995062418845700,
+      "id_str": "1175995062418845696",
+      "full_text": "Спасибо за эту неделю @abstruse_cook , архив недели как всегда на сайте - https://t.co/6wOIEdjst4\nПожалуйста, не забывайте, что у вас есть возможность поблагодарить человека и оставить чаевые Шефу Нелели.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        204
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abstruse_cook",
+            "name": "Заумный поварюга 🍳🍳🍳",
+            "id": 434242655,
+            "id_str": "434242655",
+            "indices": [
+              22,
+              36
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/6wOIEdjst4",
+            "expanded_url": "http://chefdelasemana.com",
+            "display_url": "chefdelasemana.com",
+            "indices": [
+              74,
+              97
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}

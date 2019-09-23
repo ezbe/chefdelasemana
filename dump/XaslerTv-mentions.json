@@ -1,0 +1,224 @@
+{
+  "mentions": [
+    {
+      "created_at": "Mon Sep 23 04:48:22 +0000 2019",
+      "id": 1175995296364617700,
+      "id_str": "1175995296364617729",
+      "text": "@cellular_bud Здравствуйте 👋, сеньор",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1175991162882207700,
+      "in_reply_to_status_id_str": "1175991162882207750",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 2212927591,
+        "id_str": "2212927591"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 23 04:49:04 +0000 2019",
+      "id": 1175995474584584200,
+      "id_str": "1175995474584584192",
+      "text": "@cellular_bud Привет, Jefe! Чего не спишь?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1175991162882207700,
+      "in_reply_to_status_id_str": "1175991162882207750",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 517242788,
+        "id_str": "517242788"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 23 04:49:49 +0000 2019",
+      "id": 1175995660837052400,
+      "id_str": "1175995660837052417",
+      "text": "@cellular_bud Я вот никогда так не делал, и как результат вообще ничего 🤷‍♂️",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1175993420415930400,
+      "in_reply_to_status_id_str": "1175993420415930371",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 130181350,
+        "id_str": "130181350"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 23 04:51:32 +0000 2019",
+      "id": 1175996092707557400,
+      "id_str": "1175996092707557377",
+      "text": "@cellular_bud ¡Hola! ¿Que tal?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1175991162882207700,
+      "in_reply_to_status_id_str": "1175991162882207750",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 1113056855146881000,
+        "id_str": "1113056855146881025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "es"
+    },
+    {
+      "created_at": "Mon Sep 23 04:56:22 +0000 2019",
+      "id": 1175997312239374300,
+      "id_str": "1175997312239374338",
+      "text": "@cellular_bud боря опять дает советы из аутического пространства в своей голове, тяжелый случай",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1175875853156307000,
+      "in_reply_to_status_id_str": "1175875853156306944",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 897825058709745700,
+        "id_str": "897825058709745666"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
