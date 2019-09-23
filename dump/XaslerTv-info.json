@@ -3,9 +3,9 @@
   "id_str": "1093516106545930240",
   "name": "Шеф Недели",
   "screen_name": "chefdelasemana",
-  "location": "Ставрополь ",
+  "location": "Cambrils, Spain",
   "profile_location": null,
-  "description": "Коллективный аккаунт о еде от тех, кто любит готовить, для тех, кто любит поесть. Шеф недели - @abstruse_cook из ставропольских степей",
+  "description": "Коллективный аккаунт о еде от тех, кто любит готовить, для тех, кто любит поесть. Шеф недели - @XaslerTv из Великой Каталонии",
   "url": "https://t.co/luzUzd2DRn",
   "entities": {
     "url": {
@@ -26,75 +26,55 @@
     }
   },
   "protected": false,
-  "followers_count": 10267,
+  "followers_count": 10293,
   "friends_count": 0,
   "listed_count": 47,
   "created_at": "Thu Feb 07 14:25:31 +0000 2019",
-  "favourites_count": 5002,
+  "favourites_count": 5085,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 11548,
+  "statuses_count": 11609,
   "lang": null,
   "status": {
-    "created_at": "Mon Sep 23 04:47:26 +0000 2019",
-    "id": 1175995062418845700,
-    "id_str": "1175995062418845696",
-    "text": "Спасибо за эту неделю @abstruse_cook , архив недели как всегда на сайте - https://t.co/6wOIEdjst4\nПожалуйста, не за… https://t.co/hx1Y515dPT",
-    "truncated": true,
+    "created_at": "Mon Sep 23 13:35:00 +0000 2019",
+    "id": 1176127827336450000,
+    "id_str": "1176127827336450048",
+    "text": "@digustingBelka Мои любимые",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "abstruse_cook",
-          "name": "Заумный поварюга 🍳🍳🍳",
-          "id": 434242655,
-          "id_str": "434242655",
+          "screen_name": "digustingBelka",
+          "name": "Belka",
+          "id": 2926640699,
+          "id_str": "2926640699",
           "indices": [
-            22,
-            36
+            0,
+            15
           ]
         }
       ],
-      "urls": [
-        {
-          "url": "https://t.co/6wOIEdjst4",
-          "expanded_url": "http://chefdelasemana.com",
-          "display_url": "chefdelasemana.com",
-          "indices": [
-            74,
-            97
-          ]
-        },
-        {
-          "url": "https://t.co/hx1Y515dPT",
-          "expanded_url": "https://twitter.com/i/web/status/1175995062418845696",
-          "display_url": "twitter.com/i/web/status/1…",
-          "indices": [
-            117,
-            140
-          ]
-        }
-      ]
+      "urls": []
     },
-    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1176127782448971800,
+    "in_reply_to_status_id_str": "1176127782448971777",
+    "in_reply_to_user_id": 2926640699,
+    "in_reply_to_user_id_str": "2926640699",
+    "in_reply_to_screen_name": "digustingBelka",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 7,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
@@ -104,9 +84,9 @@
   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
   "profile_background_tile": false,
-  "profile_image_url": "http://pbs.twimg.com/profile_images/1173468541359706112/pBSsDW6P_normal.jpg",
-  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1173468541359706112/pBSsDW6P_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1093516106545930240/1568611678",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1176061266990944256/st7xrLaV_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1176061266990944256/st7xrLaV_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1093516106545930240/1569229830",
   "profile_link_color": "1B95E0",
   "profile_sidebar_border_color": "000000",
   "profile_sidebar_fill_color": "000000",
