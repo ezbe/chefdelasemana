@@ -58,6 +58,43 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 30 13:46:15 +0000 2019",
+      "id": 1178667373617979400,
+      "id_str": "1178667373617979392",
+      "full_text": "Привет всем! Эту неделю я проведу с вами. Меня зовут Елена. Я не профессиональный шеф, но приготовление блюд стало моим хобби и частью жизни, разумеется. 👑 Ура, я на Шефе!",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        171
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 6,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "ru"
     }
   ]
 }
