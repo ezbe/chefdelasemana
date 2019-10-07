@@ -3,9 +3,9 @@
   "id_str": "1093516106545930240",
   "name": "Шеф Недели",
   "screen_name": "chefdelasemana",
-  "location": "Киев",
+  "location": "Москва",
   "profile_location": null,
-  "description": "Коллективный аккаунт о еде от тех, кто любит готовить, для тех, кто любит поесть. Шеф недели - @bookforcooking",
+  "description": "Коллективный аккаунт о еде от тех, кто любит готовить, для тех, кто любит поесть. Шеф недели - @luv_to_fly",
   "url": "https://t.co/luzUzd2DRn",
   "entities": {
     "url": {
@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 10906,
+  "followers_count": 10923,
   "friends_count": 0,
   "listed_count": 51,
   "created_at": "Thu Feb 07 14:25:31 +0000 2019",
@@ -35,131 +35,32 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 13001,
+  "statuses_count": 13003,
   "lang": null,
   "status": {
-    "created_at": "Mon Oct 07 13:22:57 +0000 2019",
-    "id": 1181198225153376300,
-    "id_str": "1181198225153376256",
-    "text": "RT @cellular_bud: Всего 2 человека прислали чаевые, неужели никому больше не понравилось? https://t.co/OHAUpQiROZ",
+    "created_at": "Mon Oct 07 17:50:05 +0000 2019",
+    "id": 1181265453949300700,
+    "id_str": "1181265453949300737",
+    "text": "Всем привет!!! С вами на этой неделе @luv_to_fly Можете звать меня просто, avocado queen 🥑",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "cellular_bud",
-          "name": "Жрец 💀👻",
-          "id": 3745145777,
-          "id_str": "3745145777",
+          "screen_name": "luv_to_fly",
+          "name": "Luv_to_fly",
+          "id": 317587483,
+          "id_str": "317587483",
           "indices": [
-            3,
-            16
+            37,
+            48
           ]
         }
       ],
-      "urls": [],
-      "media": [
-        {
-          "id": 1181196968212795400,
-          "id_str": "1181196968212795392",
-          "indices": [
-            90,
-            113
-          ],
-          "media_url": "http://pbs.twimg.com/tweet_video_thumb/EGR0YmQXkAAsmCw.jpg",
-          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EGR0YmQXkAAsmCw.jpg",
-          "url": "https://t.co/OHAUpQiROZ",
-          "display_url": "pic.twitter.com/OHAUpQiROZ",
-          "expanded_url": "https://twitter.com/cellular_bud/status/1181196974927831046/photo/1",
-          "type": "photo",
-          "sizes": {
-            "small": {
-              "w": 500,
-              "h": 276,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 500,
-              "h": 276,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 500,
-              "h": 276,
-              "resize": "fit"
-            }
-          },
-          "source_status_id": 1181196974927831000,
-          "source_status_id_str": "1181196974927831046",
-          "source_user_id": 3745145777,
-          "source_user_id_str": "3745145777"
-        }
-      ]
+      "urls": []
     },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1181196968212795400,
-          "id_str": "1181196968212795392",
-          "indices": [
-            90,
-            113
-          ],
-          "media_url": "http://pbs.twimg.com/tweet_video_thumb/EGR0YmQXkAAsmCw.jpg",
-          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EGR0YmQXkAAsmCw.jpg",
-          "url": "https://t.co/OHAUpQiROZ",
-          "display_url": "pic.twitter.com/OHAUpQiROZ",
-          "expanded_url": "https://twitter.com/cellular_bud/status/1181196974927831046/photo/1",
-          "type": "animated_gif",
-          "sizes": {
-            "small": {
-              "w": 500,
-              "h": 276,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 500,
-              "h": 276,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 500,
-              "h": 276,
-              "resize": "fit"
-            }
-          },
-          "source_status_id": 1181196974927831000,
-          "source_status_id_str": "1181196974927831046",
-          "source_user_id": 3745145777,
-          "source_user_id_str": "3745145777",
-          "video_info": {
-            "aspect_ratio": [
-              125,
-              69
-            ],
-            "variants": [
-              {
-                "bitrate": 0,
-                "content_type": "video/mp4",
-                "url": "https://video.twimg.com/tweet_video/EGR0YmQXkAAsmCw.mp4"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -169,133 +70,11 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Mon Oct 07 13:17:59 +0000 2019",
-      "id": 1181196974927831000,
-      "id_str": "1181196974927831046",
-      "text": "Всего 2 человека прислали чаевые, неужели никому больше не понравилось? https://t.co/OHAUpQiROZ",
-      "truncated": false,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [],
-        "media": [
-          {
-            "id": 1181196968212795400,
-            "id_str": "1181196968212795392",
-            "indices": [
-              72,
-              95
-            ],
-            "media_url": "http://pbs.twimg.com/tweet_video_thumb/EGR0YmQXkAAsmCw.jpg",
-            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EGR0YmQXkAAsmCw.jpg",
-            "url": "https://t.co/OHAUpQiROZ",
-            "display_url": "pic.twitter.com/OHAUpQiROZ",
-            "expanded_url": "https://twitter.com/cellular_bud/status/1181196974927831046/photo/1",
-            "type": "photo",
-            "sizes": {
-              "small": {
-                "w": 500,
-                "h": 276,
-                "resize": "fit"
-              },
-              "large": {
-                "w": 500,
-                "h": 276,
-                "resize": "fit"
-              },
-              "thumb": {
-                "w": 150,
-                "h": 150,
-                "resize": "crop"
-              },
-              "medium": {
-                "w": 500,
-                "h": 276,
-                "resize": "fit"
-              }
-            }
-          }
-        ]
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "id": 1181196968212795400,
-            "id_str": "1181196968212795392",
-            "indices": [
-              72,
-              95
-            ],
-            "media_url": "http://pbs.twimg.com/tweet_video_thumb/EGR0YmQXkAAsmCw.jpg",
-            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EGR0YmQXkAAsmCw.jpg",
-            "url": "https://t.co/OHAUpQiROZ",
-            "display_url": "pic.twitter.com/OHAUpQiROZ",
-            "expanded_url": "https://twitter.com/cellular_bud/status/1181196974927831046/photo/1",
-            "type": "animated_gif",
-            "sizes": {
-              "small": {
-                "w": 500,
-                "h": 276,
-                "resize": "fit"
-              },
-              "large": {
-                "w": 500,
-                "h": 276,
-                "resize": "fit"
-              },
-              "thumb": {
-                "w": 150,
-                "h": 150,
-                "resize": "crop"
-              },
-              "medium": {
-                "w": 500,
-                "h": 276,
-                "resize": "fit"
-              }
-            },
-            "video_info": {
-              "aspect_ratio": [
-                125,
-                69
-              ],
-              "variants": [
-                {
-                  "bitrate": 0,
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/tweet_video/EGR0YmQXkAAsmCw.mp4"
-                }
-              ]
-            }
-          }
-        ]
-      },
-      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": null,
-      "in_reply_to_user_id_str": null,
-      "in_reply_to_screen_name": null,
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 3,
-      "favorited": false,
-      "retweeted": false,
-      "possibly_sensitive": false,
-      "lang": "ru"
-    },
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 12,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
@@ -305,9 +84,9 @@
   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
   "profile_background_tile": false,
-  "profile_image_url": "http://pbs.twimg.com/profile_images/1178666503115288576/cqAB5I-a_normal.jpg",
-  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1178666503115288576/cqAB5I-a_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1093516106545930240/1569850258",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1181265062243323904/tVCL29gs_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1181265062243323904/tVCL29gs_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1093516106545930240/1570470449",
   "profile_link_color": "1B95E0",
   "profile_sidebar_border_color": "000000",
   "profile_sidebar_fill_color": "000000",
