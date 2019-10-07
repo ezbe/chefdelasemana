@@ -1,0 +1,340 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Oct 07 13:16:54 +0000 2019",
+      "id": 1181196703032107000,
+      "id_str": "1181196703032107009",
+      "full_text": "Спасибо за эту неделю @bookforcooking , архив недели как всегда на сайте - https://t.co/6wOIEdjst4\nПожалуйста, не забывайте, что у вас есть возможность поблагодарить человека и оставить чаевые для Шефа Недели.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        209
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "bookforcooking",
+            "name": "Вкусные заметки",
+            "id": 2434158420,
+            "id_str": "2434158420",
+            "indices": [
+              22,
+              37
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/6wOIEdjst4",
+            "expanded_url": "http://chefdelasemana.com",
+            "display_url": "chefdelasemana.com",
+            "indices": [
+              75,
+              98
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 07 13:22:57 +0000 2019",
+      "id": 1181198225153376300,
+      "id_str": "1181198225153376256",
+      "full_text": "RT @cellular_bud: Всего 2 человека прислали чаевые, неужели никому больше не понравилось? https://t.co/OHAUpQiROZ",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        113
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Жрец 💀👻",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              3,
+              16
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1181196968212795400,
+            "id_str": "1181196968212795392",
+            "indices": [
+              90,
+              113
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/EGR0YmQXkAAsmCw.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EGR0YmQXkAAsmCw.jpg",
+            "url": "https://t.co/OHAUpQiROZ",
+            "display_url": "pic.twitter.com/OHAUpQiROZ",
+            "expanded_url": "https://twitter.com/cellular_bud/status/1181196974927831046/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 500,
+                "h": 276,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 500,
+                "h": 276,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 500,
+                "h": 276,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 1181196974927831000,
+            "source_status_id_str": "1181196974927831046",
+            "source_user_id": 3745145777,
+            "source_user_id_str": "3745145777"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1181196968212795400,
+            "id_str": "1181196968212795392",
+            "indices": [
+              90,
+              113
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/EGR0YmQXkAAsmCw.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EGR0YmQXkAAsmCw.jpg",
+            "url": "https://t.co/OHAUpQiROZ",
+            "display_url": "pic.twitter.com/OHAUpQiROZ",
+            "expanded_url": "https://twitter.com/cellular_bud/status/1181196974927831046/photo/1",
+            "type": "animated_gif",
+            "sizes": {
+              "small": {
+                "w": 500,
+                "h": 276,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 500,
+                "h": 276,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 500,
+                "h": 276,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 1181196974927831000,
+            "source_status_id_str": "1181196974927831046",
+            "source_user_id": 3745145777,
+            "source_user_id_str": "3745145777",
+            "video_info": {
+              "aspect_ratio": [
+                125,
+                69
+              ],
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/tweet_video/EGR0YmQXkAAsmCw.mp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Oct 07 13:17:59 +0000 2019",
+        "id": 1181196974927831000,
+        "id_str": "1181196974927831046",
+        "full_text": "Всего 2 человека прислали чаевые, неужели никому больше не понравилось? https://t.co/OHAUpQiROZ",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          71
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 1181196968212795400,
+              "id_str": "1181196968212795392",
+              "indices": [
+                72,
+                95
+              ],
+              "media_url": "http://pbs.twimg.com/tweet_video_thumb/EGR0YmQXkAAsmCw.jpg",
+              "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EGR0YmQXkAAsmCw.jpg",
+              "url": "https://t.co/OHAUpQiROZ",
+              "display_url": "pic.twitter.com/OHAUpQiROZ",
+              "expanded_url": "https://twitter.com/cellular_bud/status/1181196974927831046/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 500,
+                  "h": 276,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 500,
+                  "h": 276,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 500,
+                  "h": 276,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1181196968212795400,
+              "id_str": "1181196968212795392",
+              "indices": [
+                72,
+                95
+              ],
+              "media_url": "http://pbs.twimg.com/tweet_video_thumb/EGR0YmQXkAAsmCw.jpg",
+              "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EGR0YmQXkAAsmCw.jpg",
+              "url": "https://t.co/OHAUpQiROZ",
+              "display_url": "pic.twitter.com/OHAUpQiROZ",
+              "expanded_url": "https://twitter.com/cellular_bud/status/1181196974927831046/photo/1",
+              "type": "animated_gif",
+              "sizes": {
+                "small": {
+                  "w": 500,
+                  "h": 276,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 500,
+                  "h": 276,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 500,
+                  "h": 276,
+                  "resize": "fit"
+                }
+              },
+              "video_info": {
+                "aspect_ratio": [
+                  125,
+                  69
+                ],
+                "variants": [
+                  {
+                    "bitrate": 0,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/tweet_video/EGR0YmQXkAAsmCw.mp4"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 3745145777,
+          "id_str": "3745145777"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
