@@ -26,40 +26,140 @@
     }
   },
   "protected": false,
-  "followers_count": 10746,
+  "followers_count": 10906,
   "friends_count": 0,
-  "listed_count": 50,
+  "listed_count": 51,
   "created_at": "Thu Feb 07 14:25:31 +0000 2019",
-  "favourites_count": 5954,
+  "favourites_count": 6147,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 12800,
+  "statuses_count": 13001,
   "lang": null,
   "status": {
-    "created_at": "Sat Oct 05 16:39:28 +0000 2019",
-    "id": 1180522906415255600,
-    "id_str": "1180522906415255552",
-    "text": "Базовый рецепт приготовления осьминога. У меня тушка охлажденная 1200 г. Нам понадобится большая кастрюля с крутым… https://t.co/RmM79LTz98",
-    "truncated": true,
+    "created_at": "Mon Oct 07 13:22:57 +0000 2019",
+    "id": 1181198225153376300,
+    "id_str": "1181198225153376256",
+    "text": "RT @cellular_bud: Всего 2 человека прислали чаевые, неужели никому больше не понравилось? https://t.co/OHAUpQiROZ",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/RmM79LTz98",
-          "expanded_url": "https://twitter.com/i/web/status/1180522906415255552",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "cellular_bud",
+          "name": "Жрец 💀👻",
+          "id": 3745145777,
+          "id_str": "3745145777",
           "indices": [
-            116,
-            139
+            3,
+            16
           ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1181196968212795400,
+          "id_str": "1181196968212795392",
+          "indices": [
+            90,
+            113
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/EGR0YmQXkAAsmCw.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EGR0YmQXkAAsmCw.jpg",
+          "url": "https://t.co/OHAUpQiROZ",
+          "display_url": "pic.twitter.com/OHAUpQiROZ",
+          "expanded_url": "https://twitter.com/cellular_bud/status/1181196974927831046/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 500,
+              "h": 276,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 500,
+              "h": 276,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 500,
+              "h": 276,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1181196974927831000,
+          "source_status_id_str": "1181196974927831046",
+          "source_user_id": 3745145777,
+          "source_user_id_str": "3745145777"
         }
       ]
     },
-    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1181196968212795400,
+          "id_str": "1181196968212795392",
+          "indices": [
+            90,
+            113
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/EGR0YmQXkAAsmCw.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EGR0YmQXkAAsmCw.jpg",
+          "url": "https://t.co/OHAUpQiROZ",
+          "display_url": "pic.twitter.com/OHAUpQiROZ",
+          "expanded_url": "https://twitter.com/cellular_bud/status/1181196974927831046/photo/1",
+          "type": "animated_gif",
+          "sizes": {
+            "small": {
+              "w": 500,
+              "h": 276,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 500,
+              "h": 276,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 500,
+              "h": 276,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1181196974927831000,
+          "source_status_id_str": "1181196974927831046",
+          "source_user_id": 3745145777,
+          "source_user_id_str": "3745145777",
+          "video_info": {
+            "aspect_ratio": [
+              125,
+              69
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/EGR0YmQXkAAsmCw.mp4"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -69,9 +169,130 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Oct 07 13:17:59 +0000 2019",
+      "id": 1181196974927831000,
+      "id_str": "1181196974927831046",
+      "text": "Всего 2 человека прислали чаевые, неужели никому больше не понравилось? https://t.co/OHAUpQiROZ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1181196968212795400,
+            "id_str": "1181196968212795392",
+            "indices": [
+              72,
+              95
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/EGR0YmQXkAAsmCw.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EGR0YmQXkAAsmCw.jpg",
+            "url": "https://t.co/OHAUpQiROZ",
+            "display_url": "pic.twitter.com/OHAUpQiROZ",
+            "expanded_url": "https://twitter.com/cellular_bud/status/1181196974927831046/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 500,
+                "h": 276,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 500,
+                "h": 276,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 500,
+                "h": 276,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1181196968212795400,
+            "id_str": "1181196968212795392",
+            "indices": [
+              72,
+              95
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/EGR0YmQXkAAsmCw.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EGR0YmQXkAAsmCw.jpg",
+            "url": "https://t.co/OHAUpQiROZ",
+            "display_url": "pic.twitter.com/OHAUpQiROZ",
+            "expanded_url": "https://twitter.com/cellular_bud/status/1181196974927831046/photo/1",
+            "type": "animated_gif",
+            "sizes": {
+              "small": {
+                "w": 500,
+                "h": 276,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 500,
+                "h": 276,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 500,
+                "h": 276,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                125,
+                69
+              ],
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/tweet_video/EGR0YmQXkAAsmCw.mp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 3,
+    "retweet_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
