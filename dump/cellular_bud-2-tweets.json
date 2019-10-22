@@ -1,0 +1,63 @@
+{
+  "tweets": [
+    {
+      "created_at": "Tue Oct 22 00:15:47 +0000 2019",
+      "id": 1186435948378148900,
+      "id_str": "1186435948378148865",
+      "full_text": "Спасибо за эту неделю @irka060879 , архив недели как всегда на сайте - https://t.co/6wOIEdB3kC\nПожалуйста, не забывайте, что у вас есть возможность поблагодарить человека и оставить чаевые для Шефа Недели.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        205
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "irka060879",
+            "name": "Irina Rozova",
+            "id": 40496634,
+            "id_str": "40496634",
+            "indices": [
+              22,
+              33
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/6wOIEdB3kC",
+            "expanded_url": "http://chefdelasemana.com",
+            "display_url": "chefdelasemana.com",
+            "indices": [
+              71,
+              94
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
