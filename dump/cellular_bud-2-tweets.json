@@ -51905,6 +51905,872 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sun Oct 27 21:04:04 +0000 2019",
+      "id": 1188562029038067700,
+      "id_str": "1188562029038067712",
+      "full_text": "Это я создал аккаунт и на этом разговор окончен, идите душните дальше дома у себя в аккаунте. https://t.co/T6l21DO9KO",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        93
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/T6l21DO9KO",
+            "expanded_url": "https://twitter.com/sd0107/status/1188558312964575233",
+            "display_url": "twitter.com/sd0107/status/…",
+            "indices": [
+              94,
+              117
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1188558312964575200,
+      "quoted_status_id_str": "1188558312964575233",
+      "quoted_status_permalink": {
+        "url": "https://t.co/T6l21DO9KO",
+        "expanded": "https://twitter.com/sd0107/status/1188558312964575233",
+        "display": "twitter.com/sd0107/status/…"
+      },
+      "quoted_status": {
+        "created_at": "Sun Oct 27 20:49:18 +0000 2019",
+        "id": 1188558312964575200,
+        "id_str": "1188558312964575233",
+        "full_text": "@cellular_bud @think_not_think @chefdelasemana @ZpYevgen @ThisSoupIsDry @badsirrope Это вы создали аккаунт шефа недели? Вы можете его готовить, но у себя дома в своем аккаунте.\nВам уже очень много людей написали, что нужны нормальные блюда, а не пыль в глаза. Красивые картинки и невозможные рецепты можно найти в Гугле.",
+        "truncated": false,
+        "display_text_range": [
+          84,
+          320
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "cellular_bud",
+              "name": "Жрец 💀👻",
+              "id": 3745145777,
+              "id_str": "3745145777",
+              "indices": [
+                0,
+                13
+              ]
+            },
+            {
+              "screen_name": "think_not_think",
+              "name": "Дипмиссия Уругвая",
+              "id": 1617826062,
+              "id_str": "1617826062",
+              "indices": [
+                14,
+                30
+              ]
+            },
+            {
+              "screen_name": "chefdelasemana",
+              "name": "Шеф Недели",
+              "id": 1093516106545930200,
+              "id_str": "1093516106545930240",
+              "indices": [
+                31,
+                46
+              ]
+            },
+            {
+              "screen_name": "ZpYevgen",
+              "name": "Citizen_of_Ukraine",
+              "id": 2745972516,
+              "id_str": "2745972516",
+              "indices": [
+                47,
+                56
+              ]
+            },
+            {
+              "screen_name": "ThisSoupIsDry",
+              "name": "Svetlana Khaninaeva",
+              "id": 1148600044494475300,
+              "id_str": "1148600044494475265",
+              "indices": [
+                57,
+                71
+              ]
+            },
+            {
+              "screen_name": "badsirrope",
+              "name": "sirrope",
+              "id": 539805436,
+              "id_str": "539805436",
+              "indices": [
+                72,
+                83
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1188557414762594300,
+        "in_reply_to_status_id_str": "1188557414762594305",
+        "in_reply_to_user_id": 3745145777,
+        "in_reply_to_user_id_str": "3745145777",
+        "in_reply_to_screen_name": "cellular_bud",
+        "user": {
+          "id": 125478107,
+          "id_str": "125478107"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 2,
+      "favorite_count": 45,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Oct 27 21:46:45 +0000 2019",
+      "id": 1188572767492493300,
+      "id_str": "1188572767492493312",
+      "full_text": "НИКОМУ НЕ РАССКАЗЫВАЙТЕ ПРО ЭТОТ ЧАТ https://t.co/K1QnuFzP7N",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        36
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/K1QnuFzP7N",
+            "expanded_url": "https://twitter.com/cellular_bud/status/1188568683205017600",
+            "display_url": "twitter.com/cellular_bud/s…",
+            "indices": [
+              37,
+              60
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1188568683205017600,
+      "quoted_status_id_str": "1188568683205017600",
+      "quoted_status_permalink": {
+        "url": "https://t.co/K1QnuFzP7N",
+        "expanded": "https://twitter.com/cellular_bud/status/1188568683205017600",
+        "display": "twitter.com/cellular_bud/s…"
+      },
+      "quoted_status": {
+        "created_at": "Sun Oct 27 21:30:31 +0000 2019",
+        "id": 1188568683205017600,
+        "id_str": "1188568683205017600",
+        "full_text": "Случилось то, чего никто не ожидал: чатик в телеге\nhttps://t.co/KB8dafACE8",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          74
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/KB8dafACE8",
+              "expanded_url": "https://t.me/chefdelasemana",
+              "display_url": "t.me/chefdelasemana",
+              "indices": [
+                51,
+                74
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 3745145777,
+          "id_str": "3745145777"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 7,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 4,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Oct 27 21:59:06 +0000 2019",
+      "id": 1188575878852182000,
+      "id_str": "1188575878852182017",
+      "full_text": "А давайте проведём опрос?\nМожете ли вы такое у себя купить в шаговой доступности? Если да, то за сколько? Одна кость распиленная кость стоит $1 доллар, раньше их вообще выкидывали. https://t.co/LeTb7YXYD0",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        180
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1188575853812207600,
+            "id_str": "1188575853812207616",
+            "indices": [
+              181,
+              204
+            ],
+            "media_url": "http://pbs.twimg.com/media/EH6rcRMVUAAZxZW.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EH6rcRMVUAAZxZW.jpg",
+            "url": "https://t.co/LeTb7YXYD0",
+            "display_url": "pic.twitter.com/LeTb7YXYD0",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1188575878852182017/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 768,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 768,
+                "h": 1024,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1188575853812207600,
+            "id_str": "1188575853812207616",
+            "indices": [
+              181,
+              204
+            ],
+            "media_url": "http://pbs.twimg.com/media/EH6rcRMVUAAZxZW.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EH6rcRMVUAAZxZW.jpg",
+            "url": "https://t.co/LeTb7YXYD0",
+            "display_url": "pic.twitter.com/LeTb7YXYD0",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1188575878852182017/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 768,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 768,
+                "h": 1024,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Oct 27 21:59:07 +0000 2019",
+      "id": 1188575883642036200,
+      "id_str": "1188575883642036224",
+      "full_text": "Отвечаем на вопрос:",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        19
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1188575878852182000,
+      "in_reply_to_status_id_str": "1188575878852182017",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Oct 27 22:26:10 +0000 2019",
+      "id": 1188582689793667000,
+      "id_str": "1188582689793667073",
+      "full_text": "RT @Apreeel: @chefdelasemana Люди, которые выбирают \"нет\", возможно просто не знают, что оно рядом продаётся. Не всегда и не везде, но всё…",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        139
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Apreeel",
+            "name": "leeerpA",
+            "id": 62772150,
+            "id_str": "62772150",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "chefdelasemana",
+            "name": "Шеф Недели",
+            "id": 1093516106545930200,
+            "id_str": "1093516106545930240",
+            "indices": [
+              13,
+              28
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Oct 27 22:04:59 +0000 2019",
+        "id": 1188577356765642800,
+        "id_str": "1188577356765642757",
+        "full_text": "@chefdelasemana Люди, которые выбирают \"нет\", возможно просто не знают, что оно рядом продаётся. Не всегда и не везде, но всё же, иногда это не на виду или не в \"любимом\" магазине",
+        "truncated": false,
+        "display_text_range": [
+          16,
+          179
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "chefdelasemana",
+              "name": "Шеф Недели",
+              "id": 1093516106545930200,
+              "id_str": "1093516106545930240",
+              "indices": [
+                0,
+                15
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1188575883642036200,
+        "in_reply_to_status_id_str": "1188575883642036224",
+        "in_reply_to_user_id": 1093516106545930200,
+        "in_reply_to_user_id_str": "1093516106545930240",
+        "in_reply_to_screen_name": "chefdelasemana",
+        "user": {
+          "id": 62772150,
+          "id_str": "62772150"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Oct 27 22:47:09 +0000 2019",
+      "id": 1188587967830343700,
+      "id_str": "1188587967830343681",
+      "full_text": "RT @KabanMadan: @sd0107 @think_not_think @chefdelasemana @ZpYevgen @cellular_bud @ThisSoupIsDry @badsirrope В #Брянск'е осьминоги в МЕТРО п…",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Брянск",
+            "indices": [
+              110,
+              117
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "KabanMadan",
+            "name": "Кабан Мадан",
+            "id": 515277374,
+            "id_str": "515277374",
+            "indices": [
+              3,
+              14
+            ]
+          },
+          {
+            "screen_name": "sd0107",
+            "name": "Сергей Д",
+            "id": 125478107,
+            "id_str": "125478107",
+            "indices": [
+              16,
+              23
+            ]
+          },
+          {
+            "screen_name": "think_not_think",
+            "name": "Дипмиссия Уругвая",
+            "id": 1617826062,
+            "id_str": "1617826062",
+            "indices": [
+              24,
+              40
+            ]
+          },
+          {
+            "screen_name": "chefdelasemana",
+            "name": "Шеф Недели",
+            "id": 1093516106545930200,
+            "id_str": "1093516106545930240",
+            "indices": [
+              41,
+              56
+            ]
+          },
+          {
+            "screen_name": "ZpYevgen",
+            "name": "Citizen_of_Ukraine",
+            "id": 2745972516,
+            "id_str": "2745972516",
+            "indices": [
+              57,
+              66
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Жрец 💀👻",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              67,
+              80
+            ]
+          },
+          {
+            "screen_name": "ThisSoupIsDry",
+            "name": "Svetlana Khaninaeva",
+            "id": 1148600044494475300,
+            "id_str": "1148600044494475265",
+            "indices": [
+              81,
+              95
+            ]
+          },
+          {
+            "screen_name": "badsirrope",
+            "name": "sirrope",
+            "id": 539805436,
+            "id_str": "539805436",
+            "indices": [
+              96,
+              107
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Oct 27 22:42:26 +0000 2019",
+        "id": 1188586782780280800,
+        "id_str": "1188586782780280833",
+        "full_text": "@sd0107 @think_not_think @chefdelasemana @ZpYevgen @cellular_bud @ThisSoupIsDry @badsirrope В #Брянск'е осьминоги в МЕТРО продаются. Никогда не знал, что из них бургеры делают. Большие, если честно, никогда не брал, говорят, они жёсткие, а вот маленькие осьминожки на гриле прекрасны. Но этот Шеф возмутил меня другим: MAGGI?! Серьезно? Это же химия наипоганейшая, фу! :))",
+        "truncated": false,
+        "display_text_range": [
+          92,
+          372
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "text": "Брянск",
+              "indices": [
+                94,
+                101
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "sd0107",
+              "name": "Сергей Д",
+              "id": 125478107,
+              "id_str": "125478107",
+              "indices": [
+                0,
+                7
+              ]
+            },
+            {
+              "screen_name": "think_not_think",
+              "name": "Дипмиссия Уругвая",
+              "id": 1617826062,
+              "id_str": "1617826062",
+              "indices": [
+                8,
+                24
+              ]
+            },
+            {
+              "screen_name": "chefdelasemana",
+              "name": "Шеф Недели",
+              "id": 1093516106545930200,
+              "id_str": "1093516106545930240",
+              "indices": [
+                25,
+                40
+              ]
+            },
+            {
+              "screen_name": "ZpYevgen",
+              "name": "Citizen_of_Ukraine",
+              "id": 2745972516,
+              "id_str": "2745972516",
+              "indices": [
+                41,
+                50
+              ]
+            },
+            {
+              "screen_name": "cellular_bud",
+              "name": "Жрец 💀👻",
+              "id": 3745145777,
+              "id_str": "3745145777",
+              "indices": [
+                51,
+                64
+              ]
+            },
+            {
+              "screen_name": "ThisSoupIsDry",
+              "name": "Svetlana Khaninaeva",
+              "id": 1148600044494475300,
+              "id_str": "1148600044494475265",
+              "indices": [
+                65,
+                79
+              ]
+            },
+            {
+              "screen_name": "badsirrope",
+              "name": "sirrope",
+              "id": 539805436,
+              "id_str": "539805436",
+              "indices": [
+                80,
+                91
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1188556927267160000,
+        "in_reply_to_status_id_str": "1188556927267160073",
+        "in_reply_to_user_id": 125478107,
+        "in_reply_to_user_id_str": "125478107",
+        "in_reply_to_screen_name": "sd0107",
+        "user": {
+          "id": 515277374,
+          "id_str": "515277374"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Oct 27 23:15:40 +0000 2019",
+      "id": 1188595144624410600,
+      "id_str": "1188595144624410624",
+      "full_text": "Спасибо за эту неделю @orymatom @abstruse_cook @bookforcooking @ThisSoupIsDry @badsirrope @cellular_bud , архив недели как всегда на сайте - https://t.co/6wOIEdjst4\nПожалуйста, не забывайте, что у вас есть возможность оставить чаевые автору.\n\nP.S. Оставьте фидбек про эту неделю!",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        279
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "orymatom",
+            "name": "Омар к Хуйам",
+            "id": 1017197605,
+            "id_str": "1017197605",
+            "indices": [
+              22,
+              31
+            ]
+          },
+          {
+            "screen_name": "abstruse_cook",
+            "name": "Заумный поварюга 🍳🍳🍳",
+            "id": 434242655,
+            "id_str": "434242655",
+            "indices": [
+              32,
+              46
+            ]
+          },
+          {
+            "screen_name": "bookforcooking",
+            "name": "Вкусные заметки",
+            "id": 2434158420,
+            "id_str": "2434158420",
+            "indices": [
+              47,
+              62
+            ]
+          },
+          {
+            "screen_name": "ThisSoupIsDry",
+            "name": "Svetlana Khaninaeva",
+            "id": 1148600044494475300,
+            "id_str": "1148600044494475265",
+            "indices": [
+              63,
+              77
+            ]
+          },
+          {
+            "screen_name": "badsirrope",
+            "name": "sirrope",
+            "id": 539805436,
+            "id_str": "539805436",
+            "indices": [
+              78,
+              89
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Жрец 💀👻",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              90,
+              103
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/6wOIEdjst4",
+            "expanded_url": "http://chefdelasemana.com",
+            "display_url": "chefdelasemana.com",
+            "indices": [
+              141,
+              164
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
