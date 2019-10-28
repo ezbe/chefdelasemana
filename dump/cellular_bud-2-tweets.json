@@ -52771,6 +52771,316 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sun Oct 27 23:27:38 +0000 2019",
+      "id": 1188598158646841300,
+      "id_str": "1188598158646841344",
+      "full_text": "RT @cellular_bud: Ребята, мы все уже давно разошлись, но вы можете оставить в целом вообще впечатление о неделе, а заодно сказать хотели бы…",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Жрец 💀👻",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              3,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Oct 27 23:18:32 +0000 2019",
+        "id": 1188595866422001700,
+        "id_str": "1188595866422001664",
+        "full_text": "Ребята, мы все уже давно разошлись, но вы можете оставить в целом вообще впечатление о неделе, а заодно сказать хотели бы вы видеть подобные особенные недели или нет. Большое спасибо всем участникам соревнований. https://t.co/EwpCZJyhAK https://t.co/K8MTVLdyKl",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          236
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/EwpCZJyhAK",
+              "expanded_url": "https://twitter.com/chefdelasemana/status/1188595144624410624",
+              "display_url": "twitter.com/chefdelasemana…",
+              "indices": [
+                213,
+                236
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 1188595853637800000,
+              "id_str": "1188595853637799936",
+              "indices": [
+                237,
+                260
+              ],
+              "media_url": "http://pbs.twimg.com/tweet_video_thumb/EH69oaWVUAAwu7D.jpg",
+              "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EH69oaWVUAAwu7D.jpg",
+              "url": "https://t.co/K8MTVLdyKl",
+              "display_url": "pic.twitter.com/K8MTVLdyKl",
+              "expanded_url": "https://twitter.com/cellular_bud/status/1188595866422001664/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 384,
+                  "h": 238,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 384,
+                  "h": 238,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 384,
+                  "h": 238,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1188595853637800000,
+              "id_str": "1188595853637799936",
+              "indices": [
+                237,
+                260
+              ],
+              "media_url": "http://pbs.twimg.com/tweet_video_thumb/EH69oaWVUAAwu7D.jpg",
+              "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EH69oaWVUAAwu7D.jpg",
+              "url": "https://t.co/K8MTVLdyKl",
+              "display_url": "pic.twitter.com/K8MTVLdyKl",
+              "expanded_url": "https://twitter.com/cellular_bud/status/1188595866422001664/photo/1",
+              "type": "animated_gif",
+              "sizes": {
+                "medium": {
+                  "w": 384,
+                  "h": 238,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 384,
+                  "h": 238,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 384,
+                  "h": 238,
+                  "resize": "fit"
+                }
+              },
+              "video_info": {
+                "aspect_ratio": [
+                  192,
+                  119
+                ],
+                "variants": [
+                  {
+                    "bitrate": 0,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/tweet_video/EH69oaWVUAAwu7D.mp4"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 3745145777,
+          "id_str": "3745145777"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1188595144624410600,
+        "quoted_status_id_str": "1188595144624410624",
+        "quoted_status_permalink": {
+          "url": "https://t.co/EwpCZJyhAK",
+          "expanded": "https://twitter.com/chefdelasemana/status/1188595144624410624",
+          "display": "twitter.com/chefdelasemana…"
+        },
+        "quoted_status": {
+          "created_at": "Sun Oct 27 23:15:40 +0000 2019",
+          "id": 1188595144624410600,
+          "id_str": "1188595144624410624",
+          "full_text": "Спасибо за эту неделю @orymatom @abstruse_cook @bookforcooking @ThisSoupIsDry @badsirrope @cellular_bud , архив недели как всегда на сайте - https://t.co/6wOIEdjst4\nПожалуйста, не забывайте, что у вас есть возможность оставить чаевые автору.\n\nP.S. Оставьте фидбек про эту неделю!",
+          "truncated": false,
+          "display_text_range": [
+            0,
+            279
+          ],
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "orymatom",
+                "name": "Омар к Хуйам",
+                "id": 1017197605,
+                "id_str": "1017197605",
+                "indices": [
+                  22,
+                  31
+                ]
+              },
+              {
+                "screen_name": "abstruse_cook",
+                "name": "Заумный поварюга 🍳🍳🍳",
+                "id": 434242655,
+                "id_str": "434242655",
+                "indices": [
+                  32,
+                  46
+                ]
+              },
+              {
+                "screen_name": "bookforcooking",
+                "name": "Вкусные заметки",
+                "id": 2434158420,
+                "id_str": "2434158420",
+                "indices": [
+                  47,
+                  62
+                ]
+              },
+              {
+                "screen_name": "ThisSoupIsDry",
+                "name": "Svetlana Khaninaeva",
+                "id": 1148600044494475300,
+                "id_str": "1148600044494475265",
+                "indices": [
+                  63,
+                  77
+                ]
+              },
+              {
+                "screen_name": "badsirrope",
+                "name": "sirrope",
+                "id": 539805436,
+                "id_str": "539805436",
+                "indices": [
+                  78,
+                  89
+                ]
+              },
+              {
+                "screen_name": "cellular_bud",
+                "name": "Жрец 💀👻",
+                "id": 3745145777,
+                "id_str": "3745145777",
+                "indices": [
+                  90,
+                  103
+                ]
+              }
+            ],
+            "urls": [
+              {
+                "url": "https://t.co/6wOIEdjst4",
+                "expanded_url": "http://chefdelasemana.com",
+                "display_url": "chefdelasemana.com",
+                "indices": [
+                  141,
+                  164
+                ]
+              }
+            ]
+          },
+          "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "user": {
+            "id": 1093516106545930200,
+            "id_str": "1093516106545930240"
+          },
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 3,
+          "favorite_count": 21,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "ru"
+        },
+        "retweet_count": 3,
+        "favorite_count": 37,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "quoted_status_id": 1188595144624410600,
+      "quoted_status_id_str": "1188595144624410624",
+      "quoted_status_permalink": {
+        "url": "https://t.co/EwpCZJyhAK",
+        "expanded": "https://twitter.com/chefdelasemana/status/1188595144624410624",
+        "display": "twitter.com/chefdelasemana…"
+      },
+      "retweet_count": 3,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
