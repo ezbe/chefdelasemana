@@ -1,0 +1,117 @@
+{
+  "id": 1093516106545930200,
+  "id_str": "1093516106545930240",
+  "name": "Шеф Недели",
+  "screen_name": "chefdelasemana",
+  "location": "Dolny Śląsk, Polska",
+  "profile_location": null,
+  "description": "Коллективный аккаунт о еде от тех, кто любит готовить, для тех, кто любит поесть. Неделя Силезской кухни. Готовит @massmasass",
+  "url": "https://t.co/luzUzdkeIV",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/luzUzdkeIV",
+          "expanded_url": "https://chefdelasemana.com",
+          "display_url": "chefdelasemana.com",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "protected": false,
+  "followers_count": 11434,
+  "friends_count": 0,
+  "listed_count": 52,
+  "created_at": "Thu Feb 07 14:25:31 +0000 2019",
+  "favourites_count": 6516,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 14072,
+  "lang": null,
+  "status": {
+    "created_at": "Sun Nov 03 18:25:58 +0000 2019",
+    "id": 1191058956942266400,
+    "id_str": "1191058956942266370",
+    "text": "@KvitMakovy @hroft80 блт, ну конечно я не серьезно",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "KvitMakovy",
+          "name": "KvitMakovy",
+          "id": 2188495326,
+          "id_str": "2188495326",
+          "indices": [
+            0,
+            11
+          ]
+        },
+        {
+          "screen_name": "hroft80",
+          "name": "☣Габриель Грехов☣",
+          "id": 437505768,
+          "id_str": "437505768",
+          "indices": [
+            12,
+            20
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1191057727772123100,
+    "in_reply_to_status_id_str": "1191057727772123136",
+    "in_reply_to_user_id": 2188495326,
+    "in_reply_to_user_id_str": "2188495326",
+    "in_reply_to_screen_name": "KvitMakovy",
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ru"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "000000",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1188890641599750144/ckxgm0wu_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1188890641599750144/ckxgm0wu_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1093516106545930240/1572288594",
+  "profile_link_color": "1B95E0",
+  "profile_sidebar_border_color": "000000",
+  "profile_sidebar_fill_color": "000000",
+  "profile_text_color": "000000",
+  "profile_use_background_image": false,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": true,
+  "follow_request_sent": false,
+  "notifications": true,
+  "translator_type": "none",
+  "time_zone_offset": 0,
+  "geometry": {
+    "lat": 0,
+    "lng": 0
+  }
+}
