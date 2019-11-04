@@ -1,0 +1,63 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Nov 04 16:40:29 +0000 2019",
+      "id": 1191394797887602700,
+      "id_str": "1191394797887602689",
+      "full_text": "Спасибо за эту неделю @massmasass, архив недели как всегда на сайте - https://t.co/6wOIEdjst4\nПожалуйста, не забывайте, что у вас есть возможность оставить чаевые автору.\n\nP.S. Оставьте фидбек про эту неделю!",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        208
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "massmasass",
+            "name": "𝙼𝚊𝚛𝚔 𝙼𝚊𝚜𝚜𝚘𝚗 🇵🇱",
+            "id": 964643816165789700,
+            "id_str": "964643816165789696",
+            "indices": [
+              22,
+              33
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/6wOIEdjst4",
+            "expanded_url": "http://chefdelasemana.com",
+            "display_url": "chefdelasemana.com",
+            "indices": [
+              70,
+              93
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
