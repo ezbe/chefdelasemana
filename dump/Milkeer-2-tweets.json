@@ -58,6 +58,235 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 04 21:39:35 +0000 2019",
+      "id": 1191470066828791800,
+      "id_str": "1191470066828791813",
+      "full_text": "Здарова, бандиты! \nВы не ждали, а я вернулась😅 потеряли понедельник на технические неполадки по передаче аккаунта, но все наладилось и вот мы, опять, вместе и утро начнём с завтрака)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        182
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 43,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 04 21:41:47 +0000 2019",
+      "id": 1191470624528568300,
+      "id_str": "1191470624528568321",
+      "full_text": "В воскресенье начала подготовку к нашей с вами неделе и скупила немного рынка. Легкое превью нашей недели в пакетах! Кто угадает хотя бы одно блюдо которое будет?) https://t.co/LBZXUreAUv",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        163
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1191470612260282400,
+            "id_str": "1191470612260282375",
+            "indices": [
+              164,
+              187
+            ],
+            "media_url": "http://pbs.twimg.com/media/EIj0NYwXYAcC6SM.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EIj0NYwXYAcC6SM.jpg",
+            "url": "https://t.co/LBZXUreAUv",
+            "display_url": "pic.twitter.com/LBZXUreAUv",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1191470624528568321/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            },
+            "features": {
+              "medium": {
+                "faces": []
+              },
+              "large": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1191470612260282400,
+            "id_str": "1191470612260282375",
+            "indices": [
+              164,
+              187
+            ],
+            "media_url": "http://pbs.twimg.com/media/EIj0NYwXYAcC6SM.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EIj0NYwXYAcC6SM.jpg",
+            "url": "https://t.co/LBZXUreAUv",
+            "display_url": "pic.twitter.com/LBZXUreAUv",
+            "expanded_url": "https://twitter.com/chefdelasemana/status/1191470624528568321/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            },
+            "features": {
+              "medium": {
+                "faces": []
+              },
+              "large": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 18,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 04 22:23:04 +0000 2019",
+      "id": 1191481011852460000,
+      "id_str": "1191481011852460032",
+      "full_text": "@brs1gut Ага и сверху зеленью посыпать)) гений в простоте))",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        59
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "brs1gut",
+            "name": "🇨🇦 True North🇨🇦",
+            "id": 803663965301645300,
+            "id_str": "803663965301645316",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1191475174236926000,
+      "in_reply_to_status_id_str": "1191475174236925960",
+      "in_reply_to_user_id": 803663965301645300,
+      "in_reply_to_user_id_str": "803663965301645316",
+      "in_reply_to_screen_name": "brs1gut",
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
