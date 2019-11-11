@@ -1,7 +1,8 @@
 import authorId from './helpers/author-id';
 
 export default authorId([
-  { username: 'Milkeer-2', start: '04 Nov 2019', first: '1191394797887602689', post: false },
+  { username: 'DimaRaskopov', start: '11 Nov 2019', first: '1193747847059038208', post: false },
+  { username: 'Milkeer-2', start: '04 Nov 2019', first: '1191394797887602689' },
   { username: 'massmasass', start: '28 Oct 2019', first: '1188891400819097607' },
   { username: 'cellular_bud-2', start: '21 Oct 2019', first: '1186435948378148865' },
   { username: 'irka060879', start: '14 Oct 2019', first: '1183763011212922880' },
