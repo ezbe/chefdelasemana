@@ -1,3 +1,1829 @@
 {
-  "mentions": []
+  "mentions": [
+    {
+      "created_at": "Mon Nov 11 05:18:53 +0000 2019",
+      "id": 1193759980748451800,
+      "id_str": "1193759980748451841",
+      "text": "@ZcasIYsDlVyGCnZ @XaslerTv @cellular_bud В печку не хотел. https://t.co/P5evzcYygX",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ZcasIYsDlVyGCnZ",
+            "name": "Дмитрий",
+            "id": 1150567692094623700,
+            "id_str": "1150567692094623744",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "XaslerTv",
+            "name": "🇪🇺Rassel🇪🇦",
+            "id": 816646071145398300,
+            "id_str": "816646071145398272",
+            "indices": [
+              17,
+              26
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              27,
+              40
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1193759972842262500,
+            "id_str": "1193759972842262529",
+            "indices": [
+              59,
+              82
+            ],
+            "media_url": "http://pbs.twimg.com/media/EJEWXthX0AElJsl.png",
+            "media_url_https": "https://pbs.twimg.com/media/EJEWXthX0AElJsl.png",
+            "url": "https://t.co/P5evzcYygX",
+            "display_url": "pic.twitter.com/P5evzcYygX",
+            "expanded_url": "https://twitter.com/xolmskaya/status/1193759980748451841/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 243,
+                "h": 90,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 243,
+                "h": 90,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 243,
+                "h": 90,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 90,
+                "h": 90,
+                "resize": "crop"
+              }
+            },
+            "features": {
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "large": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1193759972842262500,
+            "id_str": "1193759972842262529",
+            "indices": [
+              59,
+              82
+            ],
+            "media_url": "http://pbs.twimg.com/media/EJEWXthX0AElJsl.png",
+            "media_url_https": "https://pbs.twimg.com/media/EJEWXthX0AElJsl.png",
+            "url": "https://t.co/P5evzcYygX",
+            "display_url": "pic.twitter.com/P5evzcYygX",
+            "expanded_url": "https://twitter.com/xolmskaya/status/1193759980748451841/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 243,
+                "h": 90,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 243,
+                "h": 90,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 243,
+                "h": 90,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 90,
+                "h": 90,
+                "resize": "crop"
+              }
+            },
+            "features": {
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "large": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1193721146329489400,
+      "in_reply_to_status_id_str": "1193721146329489408",
+      "in_reply_to_user_id": 1150567692094623700,
+      "in_reply_to_user_id_str": "1150567692094623744",
+      "in_reply_to_screen_name": "ZcasIYsDlVyGCnZ",
+      "user": {
+        "id": 332156649,
+        "id_str": "332156649"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 11 05:49:26 +0000 2019",
+      "id": 1193767672267333600,
+      "id_str": "1193767672267333633",
+      "text": "@cellular_bud Северный Кавказ. Заезжаю на газовую заправку. Паренёк-заправщик: а вы откуда? Из Смоленска? Это где?… https://t.co/AvmBpD40z5",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/AvmBpD40z5",
+            "expanded_url": "https://twitter.com/i/web/status/1193767672267333633",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1193663582644379600,
+      "in_reply_to_status_id_str": "1193663582644379654",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 346463866,
+        "id_str": "346463866"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 11 06:15:37 +0000 2019",
+      "id": 1193774258457120800,
+      "id_str": "1193774258457120771",
+      "text": "@cellular_bud Была в Кадисе на опере Травиата, так посреди оперы вышла танцорка фламенко со своим кордебалетом.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1193663582644379600,
+      "in_reply_to_status_id_str": "1193663582644379654",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 444653153,
+        "id_str": "444653153"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 11 06:50:51 +0000 2019",
+      "id": 1193783124846620700,
+      "id_str": "1193783124846620672",
+      "text": "@Rossihin Наверное тут подсказать лучше всего может - @cellular_bud",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Rossihin",
+            "name": "🗡💀mr. Rossiћin",
+            "id": 198202283,
+            "id_str": "198202283",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              54,
+              67
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1193739137381290000,
+      "in_reply_to_status_id_str": "1193739137381289984",
+      "in_reply_to_user_id": 198202283,
+      "in_reply_to_user_id_str": "198202283",
+      "in_reply_to_screen_name": "Rossihin",
+      "user": {
+        "id": 594456177,
+        "id_str": "594456177"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 11 06:58:00 +0000 2019",
+      "id": 1193784925851463700,
+      "id_str": "1193784925851463682",
+      "text": "@XaslerTv @cellular_bud Шикардос!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "XaslerTv",
+            "name": "🇪🇺Rassel🇪🇦",
+            "id": 816646071145398300,
+            "id_str": "816646071145398272",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              10,
+              23
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1193601624410906600,
+      "in_reply_to_status_id_str": "1193601624410906624",
+      "in_reply_to_user_id": 816646071145398300,
+      "in_reply_to_user_id_str": "816646071145398272",
+      "in_reply_to_screen_name": "XaslerTv",
+      "user": {
+        "id": 723532195772678100,
+        "id_str": "723532195772678145"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 11 07:05:07 +0000 2019",
+      "id": 1193786717628764200,
+      "id_str": "1193786717628764160",
+      "text": "@cellular_bud Ничего:(",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1193663582644379600,
+      "in_reply_to_status_id_str": "1193663582644379654",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 225135571,
+        "id_str": "225135571"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 11 07:51:58 +0000 2019",
+      "id": 1193798509260132400,
+      "id_str": "1193798509260132354",
+      "text": "@XaslerTv @cellular_bud Блиииин! Вот не могу есть его!!!! Лучше голодная останусь🙈😉",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "XaslerTv",
+            "name": "🇪🇺Rassel🇪🇦",
+            "id": 816646071145398300,
+            "id_str": "816646071145398272",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              10,
+              23
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": 1193601624410906600,
+      "in_reply_to_status_id_str": "1193601624410906624",
+      "in_reply_to_user_id": 816646071145398300,
+      "in_reply_to_user_id_str": "816646071145398272",
+      "in_reply_to_screen_name": "XaslerTv",
+      "user": {
+        "id": 3938652485,
+        "id_str": "3938652485"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 11 08:24:00 +0000 2019",
+      "id": 1193806567583473700,
+      "id_str": "1193806567583473665",
+      "text": "@cellular_bud Ну хорош, то кровяная колбаса, теперь какая-то чупакабра печеная((",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1193601834407092200,
+      "in_reply_to_status_id_str": "1193601834407092225",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 966907891939663900,
+        "id_str": "966907891939663873"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 11 08:24:28 +0000 2019",
+      "id": 1193806688035496000,
+      "id_str": "1193806688035495937",
+      "text": "@Sssyrrr @cellular_bud Нормальная немецкая цена. У нас оно все так. Привет из германии.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Sssyrrr",
+            "name": "пришвин, pero chiquitín",
+            "id": 187080800,
+            "id_str": "187080800",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              9,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1193712305718136800,
+      "in_reply_to_status_id_str": "1193712305718136840",
+      "in_reply_to_user_id": 187080800,
+      "in_reply_to_user_id_str": "187080800",
+      "in_reply_to_screen_name": "Sssyrrr",
+      "user": {
+        "id": 53977473,
+        "id_str": "53977473"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 11 08:41:47 +0000 2019",
+      "id": 1193811043316895700,
+      "id_str": "1193811043316895745",
+      "text": "@XaslerTv @cellular_bud Глаза🙈",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "XaslerTv",
+            "name": "🇪🇺Rassel🇪🇦",
+            "id": 816646071145398300,
+            "id_str": "816646071145398272",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              10,
+              23
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1193601976753426400,
+      "in_reply_to_status_id_str": "1193601976753426432",
+      "in_reply_to_user_id": 816646071145398300,
+      "in_reply_to_user_id_str": "816646071145398272",
+      "in_reply_to_screen_name": "XaslerTv",
+      "user": {
+        "id": 2434158420,
+        "id_str": "2434158420"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 11 08:45:19 +0000 2019",
+      "id": 1193811934673551400,
+      "id_str": "1193811934673551360",
+      "text": "@dr_Begemot @cellular_bud https://t.co/RY74MyU08Z",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dr_Begemot",
+            "name": "iter::repeat(🍕)",
+            "id": 204956049,
+            "id_str": "204956049",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              12,
+              25
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1193811924368216000,
+            "id_str": "1193811924368216064",
+            "indices": [
+              26,
+              49
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/EJFFnsCX0AA84nx.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EJFFnsCX0AA84nx.jpg",
+            "url": "https://t.co/RY74MyU08Z",
+            "display_url": "pic.twitter.com/RY74MyU08Z",
+            "expanded_url": "https://twitter.com/karhipov/status/1193811934673551360/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 244,
+                "h": 202,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 244,
+                "h": 202,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 244,
+                "h": 202,
+                "resize": "fit"
+              }
+            },
+            "features": {}
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1193811924368216000,
+            "id_str": "1193811924368216064",
+            "indices": [
+              26,
+              49
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/EJFFnsCX0AA84nx.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EJFFnsCX0AA84nx.jpg",
+            "url": "https://t.co/RY74MyU08Z",
+            "display_url": "pic.twitter.com/RY74MyU08Z",
+            "expanded_url": "https://twitter.com/karhipov/status/1193811934673551360/photo/1",
+            "type": "animated_gif",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 244,
+                "h": 202,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 244,
+                "h": 202,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 244,
+                "h": 202,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                122,
+                101
+              ],
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/tweet_video/EJFFnsCX0AA84nx.mp4"
+                }
+              ]
+            },
+            "features": {}
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1193744550948417500,
+      "in_reply_to_status_id_str": "1193744550948417536",
+      "in_reply_to_user_id": 204956049,
+      "in_reply_to_user_id_str": "204956049",
+      "in_reply_to_screen_name": "dr_Begemot",
+      "user": {
+        "id": 50107772,
+        "id_str": "50107772"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon Nov 11 08:51:27 +0000 2019",
+      "id": 1193813475736334300,
+      "id_str": "1193813475736334336",
+      "text": "@XaslerTv @nata30911 @cellular_bud Какой адский ад. Вытащить бы глазки у повара и вставить туда эти оливки. 😡 Не хо… https://t.co/3028PBkKSr",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "XaslerTv",
+            "name": "🇪🇺Rassel🇪🇦",
+            "id": 816646071145398300,
+            "id_str": "816646071145398272",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "nata30911",
+            "name": "Наталья Польская",
+            "id": 1475143386,
+            "id_str": "1475143386",
+            "indices": [
+              10,
+              20
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              21,
+              34
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/3028PBkKSr",
+            "expanded_url": "https://twitter.com/i/web/status/1193813475736334336",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": 1193601624410906600,
+      "in_reply_to_status_id_str": "1193601624410906624",
+      "in_reply_to_user_id": 816646071145398300,
+      "in_reply_to_user_id_str": "816646071145398272",
+      "in_reply_to_screen_name": "XaslerTv",
+      "user": {
+        "id": 2260216365,
+        "id_str": "2260216365"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 11 08:54:57 +0000 2019",
+      "id": 1193814356439568400,
+      "id_str": "1193814356439568385",
+      "text": "@VitMain @cellular_bud https://t.co/Zum1ULjIQD",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "VitMain",
+            "name": "VitMain 👽",
+            "id": 79576268,
+            "id_str": "79576268",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              9,
+              22
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Zum1ULjIQD",
+            "expanded_url": "https://twitter.com/dw_russian/status/1193777872160337920?s=19",
+            "display_url": "twitter.com/dw_russian/sta…",
+            "indices": [
+              23,
+              46
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1193667945983021000,
+      "in_reply_to_status_id_str": "1193667945983021056",
+      "in_reply_to_user_id": 79576268,
+      "in_reply_to_user_id_str": "79576268",
+      "in_reply_to_screen_name": "VitMain",
+      "user": {
+        "id": 1113056855146881000,
+        "id_str": "1113056855146881025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "084d0d0155787e9d",
+        "url": "https://api.twitter.com/1.1/geo/id/084d0d0155787e9d.json",
+        "place_type": "country",
+        "name": "Ukraine",
+        "full_name": "Ukraine",
+        "country_code": "UA",
+        "country": "Ukraine",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                22.1357201,
+                44.386383
+              ],
+              [
+                40.227172,
+                44.386383
+              ],
+              [
+                40.227172,
+                52.379475
+              ],
+              [
+                22.1357201,
+                52.379475
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1193777872160338000,
+      "quoted_status_id_str": "1193777872160337920",
+      "quoted_status": {
+        "created_at": "Mon Nov 11 06:29:58 +0000 2019",
+        "id": 1193777872160338000,
+        "id_str": "1193777872160337920",
+        "text": "24 октября было объявлено, что Эво Моралес снова выиграл президентские выборы, хотя все шло ко второму туру. После… https://t.co/F8QX3EbZrY",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/F8QX3EbZrY",
+              "expanded_url": "https://twitter.com/i/web/status/1193777872160337920",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 6135562,
+          "id_str": "6135562"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 30,
+        "favorite_count": 121,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon Nov 11 09:07:13 +0000 2019",
+      "id": 1193817444483305500,
+      "id_str": "1193817444483305472",
+      "text": "@XaslerTv @cellular_bud Капец, какой(((",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "XaslerTv",
+            "name": "🇪🇺Rassel🇪🇦",
+            "id": 816646071145398300,
+            "id_str": "816646071145398272",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              10,
+              23
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1193601624410906600,
+      "in_reply_to_status_id_str": "1193601624410906624",
+      "in_reply_to_user_id": 816646071145398300,
+      "in_reply_to_user_id_str": "816646071145398272",
+      "in_reply_to_screen_name": "XaslerTv",
+      "user": {
+        "id": 404474163,
+        "id_str": "404474163"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 11 09:37:28 +0000 2019",
+      "id": 1193825057648328700,
+      "id_str": "1193825057648328706",
+      "text": "@cellular_bud https://t.co/xmEI495Wks",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1193825044377559000,
+            "id_str": "1193825044377559040",
+            "indices": [
+              14,
+              37
+            ],
+            "media_url": "http://pbs.twimg.com/media/EJFRjX4W4AA1jxZ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EJFRjX4W4AA1jxZ.jpg",
+            "url": "https://t.co/xmEI495Wks",
+            "display_url": "pic.twitter.com/xmEI495Wks",
+            "expanded_url": "https://twitter.com/ShinTakanashi/status/1193825057648328706/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1152,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              }
+            },
+            "features": {
+              "medium": {
+                "faces": [
+                  {
+                    "x": 930,
+                    "y": 138,
+                    "h": 60,
+                    "w": 60
+                  }
+                ]
+              },
+              "large": {
+                "faces": [
+                  {
+                    "x": 1588,
+                    "y": 236,
+                    "h": 104,
+                    "w": 104
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 1588,
+                    "y": 236,
+                    "h": 104,
+                    "w": 104
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 527,
+                    "y": 78,
+                    "h": 34,
+                    "w": 34
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1193825044377559000,
+            "id_str": "1193825044377559040",
+            "indices": [
+              14,
+              37
+            ],
+            "media_url": "http://pbs.twimg.com/media/EJFRjX4W4AA1jxZ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EJFRjX4W4AA1jxZ.jpg",
+            "url": "https://t.co/xmEI495Wks",
+            "display_url": "pic.twitter.com/xmEI495Wks",
+            "expanded_url": "https://twitter.com/ShinTakanashi/status/1193825057648328706/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1152,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              }
+            },
+            "features": {
+              "medium": {
+                "faces": [
+                  {
+                    "x": 930,
+                    "y": 138,
+                    "h": 60,
+                    "w": 60
+                  }
+                ]
+              },
+              "large": {
+                "faces": [
+                  {
+                    "x": 1588,
+                    "y": 236,
+                    "h": 104,
+                    "w": 104
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 1588,
+                    "y": 236,
+                    "h": 104,
+                    "w": 104
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 527,
+                    "y": 78,
+                    "h": 34,
+                    "w": 34
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1193663582644379600,
+      "in_reply_to_status_id_str": "1193663582644379654",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 307340865,
+        "id_str": "307340865"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon Nov 11 09:55:51 +0000 2019",
+      "id": 1193829683638485000,
+      "id_str": "1193829683638484992",
+      "text": "@cellular_bud Он являлся мне в моих снах, и я просыпался в холодном поту и дрожащими руками жрал все подряд из холодильника ...",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1193601834407092200,
+      "in_reply_to_status_id_str": "1193601834407092225",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 53977473,
+        "id_str": "53977473"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 11 10:36:23 +0000 2019",
+      "id": 1193839884928274400,
+      "id_str": "1193839884928274433",
+      "text": "@cellular_bud Мой малой решил что слова стремная и нудная это комплименты и каждый день теперь он обнимает и говори… https://t.co/BNxLMONwRo",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/BNxLMONwRo",
+            "expanded_url": "https://twitter.com/i/web/status/1193839884928274433",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1193663582644379600,
+      "in_reply_to_status_id_str": "1193663582644379654",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 2312689989,
+        "id_str": "2312689989"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 9,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 11 10:55:47 +0000 2019",
+      "id": 1193844764497629200,
+      "id_str": "1193844764497629185",
+      "text": "@XaslerTv @cellular_bud Блин, как только заболел и нельзя белковой пищи, то Рас выставляет фото блюд! Вот что мне д… https://t.co/5g6dFG8aF5",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "XaslerTv",
+            "name": "🇪🇺Rassel🇪🇦",
+            "id": 816646071145398300,
+            "id_str": "816646071145398272",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              10,
+              23
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/5g6dFG8aF5",
+            "expanded_url": "https://twitter.com/i/web/status/1193844764497629185",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1193601624410906600,
+      "in_reply_to_status_id_str": "1193601624410906624",
+      "in_reply_to_user_id": 816646071145398300,
+      "in_reply_to_user_id_str": "816646071145398272",
+      "in_reply_to_screen_name": "XaslerTv",
+      "user": {
+        "id": 586761993,
+        "id_str": "586761993"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 11 11:31:21 +0000 2019",
+      "id": 1193853715733794800,
+      "id_str": "1193853715733794816",
+      "text": "@cellular_bud \nкак твой фудтрак поживает? https://t.co/DUXyEgxOgf",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1193853706879557600,
+            "id_str": "1193853706879557632",
+            "indices": [
+              42,
+              65
+            ],
+            "media_url": "http://pbs.twimg.com/media/EJFrnwBW4AAPR0v.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EJFrnwBW4AAPR0v.jpg",
+            "url": "https://t.co/DUXyEgxOgf",
+            "display_url": "pic.twitter.com/DUXyEgxOgf",
+            "expanded_url": "https://twitter.com/tweetillo/status/1193853715733794816/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 335,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1071,
+                "h": 528,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1071,
+                "h": 528,
+                "resize": "fit"
+              }
+            },
+            "features": {
+              "small": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              },
+              "large": {
+                "faces": []
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1193853706879557600,
+            "id_str": "1193853706879557632",
+            "indices": [
+              42,
+              65
+            ],
+            "media_url": "http://pbs.twimg.com/media/EJFrnwBW4AAPR0v.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EJFrnwBW4AAPR0v.jpg",
+            "url": "https://t.co/DUXyEgxOgf",
+            "display_url": "pic.twitter.com/DUXyEgxOgf",
+            "expanded_url": "https://twitter.com/tweetillo/status/1193853715733794816/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 335,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1071,
+                "h": 528,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1071,
+                "h": 528,
+                "resize": "fit"
+              }
+            },
+            "features": {
+              "small": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              },
+              "large": {
+                "faces": []
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 4558416497,
+        "id_str": "4558416497"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 11 12:39:09 +0000 2019",
+      "id": 1193870778179235800,
+      "id_str": "1193870778179235840",
+      "text": "@cellular_bud А ты #homeassistant как выбрал? По совету, или сравнивал какие-нибудь из https://t.co/DlO2nxmPkt этих решений?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "homeassistant",
+            "indices": [
+              19,
+              33
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/DlO2nxmPkt",
+            "expanded_url": "https://medevel.com/17-home-automation-open-source/",
+            "display_url": "medevel.com/17-home-automa…",
+            "indices": [
+              87,
+              110
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 870290955450110000,
+        "id_str": "870290955450109952"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 11 12:50:18 +0000 2019",
+      "id": 1193873584856453000,
+      "id_str": "1193873584856453120",
+      "text": "@XaslerTv @cellular_bud Ну, здесь конечно мы все имеем некую долю лицемерия , нельзя жалеть хрюшку целого и лопать… https://t.co/syEJD1s7zU",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "XaslerTv",
+            "name": "🇪🇺Rassel🇪🇦",
+            "id": 816646071145398300,
+            "id_str": "816646071145398272",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              10,
+              23
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/syEJD1s7zU",
+            "expanded_url": "https://twitter.com/i/web/status/1193873584856453120",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1193601624410906600,
+      "in_reply_to_status_id_str": "1193601624410906624",
+      "in_reply_to_user_id": 816646071145398300,
+      "in_reply_to_user_id_str": "816646071145398272",
+      "in_reply_to_screen_name": "XaslerTv",
+      "user": {
+        "id": 746946390,
+        "id_str": "746946390"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 11 13:16:10 +0000 2019",
+      "id": 1193880094416232400,
+      "id_str": "1193880094416232448",
+      "text": "@cellular_bud Чугунная сковородка)))",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1193877939538006000,
+      "in_reply_to_status_id_str": "1193877939538006016",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 1053226391943237600,
+        "id_str": "1053226391943237632"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "039e3cf9304d319f",
+        "url": "https://api.twitter.com/1.1/geo/id/039e3cf9304d319f.json",
+        "place_type": "city",
+        "name": "Ennsdorf",
+        "full_name": "Ennsdorf, Österreich",
+        "country_code": "AT",
+        "country": "Austria",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                14.480611,
+                48.197987
+              ],
+              [
+                14.5273418,
+                48.197987
+              ],
+              [
+                14.5273418,
+                48.2341225
+              ],
+              [
+                14.480611,
+                48.2341225
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 11 13:29:10 +0000 2019",
+      "id": 1193883366711550000,
+      "id_str": "1193883366711549952",
+      "text": "@chefdelasemana @cellular_bud Yasss наконец-то Корея)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "chefdelasemana",
+            "name": "Шеф Недели",
+            "id": 1093516106545930200,
+            "id_str": "1093516106545930240",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              16,
+              29
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1193768389862314000,
+      "in_reply_to_status_id_str": "1193768389862313989",
+      "in_reply_to_user_id": 1093516106545930200,
+      "in_reply_to_user_id_str": "1093516106545930240",
+      "in_reply_to_screen_name": "chefdelasemana",
+      "user": {
+        "id": 1110650373218422800,
+        "id_str": "1110650373218422786"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
 }
