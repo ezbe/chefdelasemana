@@ -49469,6 +49469,468 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 18 15:06:46 +0000 2019",
+      "id": 1196444642578980900,
+      "id_str": "1196444642578980865",
+      "text": "@cellular_bud @rgleap @Maxdisk @Dina_region116 О чем и говорил) если пиздец лично с тобой не случился, то все норм,… https://t.co/isk3r8edGE",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "rgleap",
+            "name": "Эль",
+            "id": 2574275202,
+            "id_str": "2574275202",
+            "indices": [
+              14,
+              21
+            ]
+          },
+          {
+            "screen_name": "Maxdisk",
+            "name": "Vitaliy Chernyavskiy",
+            "id": 70911683,
+            "id_str": "70911683",
+            "indices": [
+              22,
+              30
+            ]
+          },
+          {
+            "screen_name": "Dina_region116",
+            "name": "Дина всё та же",
+            "id": 618994317,
+            "id_str": "618994317",
+            "indices": [
+              31,
+              46
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/isk3r8edGE",
+            "expanded_url": "https://twitter.com/i/web/status/1196444642578980865",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1196443396707094500,
+      "in_reply_to_status_id_str": "1196443396707094528",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 2687481510,
+        "id_str": "2687481510"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 18 15:29:31 +0000 2019",
+      "id": 1196450367120330800,
+      "id_str": "1196450367120330753",
+      "text": "@mustarbn @cellular_bud @rgleap @Maxdisk @Dina_region116 Ну а я вот был и бываю раз в год, последние 6 лет по работе.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mustarbn",
+            "name": "Сеульский Братишка",
+            "id": 2687481510,
+            "id_str": "2687481510",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              10,
+              23
+            ]
+          },
+          {
+            "screen_name": "rgleap",
+            "name": "Эль",
+            "id": 2574275202,
+            "id_str": "2574275202",
+            "indices": [
+              24,
+              31
+            ]
+          },
+          {
+            "screen_name": "Maxdisk",
+            "name": "Vitaliy Chernyavskiy",
+            "id": 70911683,
+            "id_str": "70911683",
+            "indices": [
+              32,
+              40
+            ]
+          },
+          {
+            "screen_name": "Dina_region116",
+            "name": "Дина всё та же",
+            "id": 618994317,
+            "id_str": "618994317",
+            "indices": [
+              41,
+              56
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1196444642578980900,
+      "in_reply_to_status_id_str": "1196444642578980865",
+      "in_reply_to_user_id": 2687481510,
+      "in_reply_to_user_id_str": "2687481510",
+      "in_reply_to_screen_name": "mustarbn",
+      "user": {
+        "id": 765925392,
+        "id_str": "765925392"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 18 15:35:35 +0000 2019",
+      "id": 1196451894656479200,
+      "id_str": "1196451894656479241",
+      "text": "@cellular_bud Таким людям будет плохо везде, даже в условном раю. Не осуждайте их, они везде такие есть.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1196450736613273600,
+      "in_reply_to_status_id_str": "1196450736613273608",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 50107772,
+        "id_str": "50107772"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 18 15:39:08 +0000 2019",
+      "id": 1196452787573399600,
+      "id_str": "1196452787573399555",
+      "text": "@cellular_bud Хаха)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1196450736613273600,
+      "in_reply_to_status_id_str": "1196450736613273608",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 2687481510,
+        "id_str": "2687481510"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 18 15:39:12 +0000 2019",
+      "id": 1196452805508292600,
+      "id_str": "1196452805508292609",
+      "text": "@cellular_bud \"никогда не был\", но осуждаю - заебись позиция)))",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1196450736613273600,
+      "in_reply_to_status_id_str": "1196450736613273608",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 2884554555,
+        "id_str": "2884554555"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 18 15:41:38 +0000 2019",
+      "id": 1196453418296074200,
+      "id_str": "1196453418296074240",
+      "text": "@yenni1173 @cellular_bud Ты в с.корее был? Одобряешь",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "yenni1173",
+            "name": "you know nothing frank castle💀🎃",
+            "id": 2884554555,
+            "id_str": "2884554555",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              11,
+              24
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1196452805508292600,
+      "in_reply_to_status_id_str": "1196452805508292609",
+      "in_reply_to_user_id": 2884554555,
+      "in_reply_to_user_id_str": "2884554555",
+      "in_reply_to_screen_name": "yenni1173",
+      "user": {
+        "id": 2687481510,
+        "id_str": "2687481510"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 18 15:42:21 +0000 2019",
+      "id": 1196453600085643300,
+      "id_str": "1196453600085643265",
+      "text": "@cellular_bud Как я понимаю, бесполезно им объяснять, что мужик нормальный не повёз бы жену и детей туда, где тольк… https://t.co/jOaYURWtl5",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/jOaYURWtl5",
+            "expanded_url": "https://twitter.com/i/web/status/1196453600085643265",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1196450736613273600,
+      "in_reply_to_status_id_str": "1196450736613273608",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 1172379121743065000,
+        "id_str": "1172379121743065088"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 18 15:42:38 +0000 2019",
+      "id": 1196453668549210000,
+      "id_str": "1196453668549210113",
+      "text": "@karhipov @cellular_bud Я знаю где мне хорошо, а где нет. Дурилка ты блаженная",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "karhipov",
+            "name": "Kirill",
+            "id": 50107772,
+            "id_str": "50107772",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "cellular_bud",
+            "name": "Жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              10,
+              23
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1196451894656479200,
+      "in_reply_to_status_id_str": "1196451894656479241",
+      "in_reply_to_user_id": 50107772,
+      "in_reply_to_user_id_str": "50107772",
+      "in_reply_to_screen_name": "karhipov",
+      "user": {
+        "id": 2687481510,
+        "id_str": "2687481510"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
