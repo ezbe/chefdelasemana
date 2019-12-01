@@ -20245,6 +20245,518 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 01 15:01:17 +0000 2019",
+      "id": 1201154304587059200,
+      "id_str": "1201154304587059204",
+      "full_text": "RT @cellular_bud: Друзья, хочу сделать важное объявление!\n\nВо-первых, хочу поздравить вас всех с первым днем зимы, с каждым днем мы все бли…",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Жрец 🇲🇽💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              3,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Dec 01 15:00:22 +0000 2019",
+        "id": 1201154073703125000,
+        "id_str": "1201154073703124993",
+        "full_text": "Друзья, хочу сделать важное объявление!\n\nВо-первых, хочу поздравить вас всех с первым днем зимы, с каждым днем мы все ближе к прекрасному 2020 году.\n\nВо-вторых, я хочу сделать конец этого года на Шефе Недели незабываемым, полезным и веселым для всех нас. \n\nПоэтому я хотел бы.. ⬇️ https://t.co/agFndsehKh",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          280
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 1201154065377443800,
+              "id_str": "1201154065377443840",
+              "indices": [
+                281,
+                304
+              ],
+              "media_url": "http://pbs.twimg.com/tweet_video_thumb/EKtbQitWwAACCFt.jpg",
+              "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EKtbQitWwAACCFt.jpg",
+              "url": "https://t.co/agFndsehKh",
+              "display_url": "pic.twitter.com/agFndsehKh",
+              "expanded_url": "https://twitter.com/cellular_bud/status/1201154073703124993/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 220,
+                  "h": 124,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 220,
+                  "h": 124,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 220,
+                  "h": 124,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 124,
+                  "h": 124,
+                  "resize": "crop"
+                }
+              },
+              "features": {}
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1201154065377443800,
+              "id_str": "1201154065377443840",
+              "indices": [
+                281,
+                304
+              ],
+              "media_url": "http://pbs.twimg.com/tweet_video_thumb/EKtbQitWwAACCFt.jpg",
+              "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EKtbQitWwAACCFt.jpg",
+              "url": "https://t.co/agFndsehKh",
+              "display_url": "pic.twitter.com/agFndsehKh",
+              "expanded_url": "https://twitter.com/cellular_bud/status/1201154073703124993/photo/1",
+              "type": "animated_gif",
+              "sizes": {
+                "medium": {
+                  "w": 220,
+                  "h": 124,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 220,
+                  "h": 124,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 220,
+                  "h": 124,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 124,
+                  "h": 124,
+                  "resize": "crop"
+                }
+              },
+              "video_info": {
+                "aspect_ratio": [
+                  55,
+                  31
+                ],
+                "variants": [
+                  {
+                    "bitrate": 0,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/tweet_video/EKtbQitWwAACCFt.mp4"
+                  }
+                ]
+              },
+              "features": {}
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 3745145777,
+          "id_str": "3745145777"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 28,
+        "favorite_count": 45,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 28,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 01 15:35:45 +0000 2019",
+      "id": 1201162981368893400,
+      "id_str": "1201162981368893441",
+      "full_text": "RT @610Dil: Если кто-то хочет поучаствовать в @chefdelasemana то гоу!! https://t.co/KcaPAva77m",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        94
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "610Dil",
+            "name": "бяссонніца",
+            "id": 375442643,
+            "id_str": "375442643",
+            "indices": [
+              3,
+              10
+            ]
+          },
+          {
+            "screen_name": "chefdelasemana",
+            "name": "Шеф Недели",
+            "id": 1093516106545930200,
+            "id_str": "1093516106545930240",
+            "indices": [
+              46,
+              61
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/KcaPAva77m",
+            "expanded_url": "https://twitter.com/cellular_bud/status/1201154935699787776",
+            "display_url": "twitter.com/cellular_bud/s…",
+            "indices": [
+              71,
+              94
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Dec 01 15:08:38 +0000 2019",
+        "id": 1201156155784999000,
+        "id_str": "1201156155784998918",
+        "full_text": "Если кто-то хочет поучаствовать в @chefdelasemana то гоу!! https://t.co/KcaPAva77m",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          58
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "chefdelasemana",
+              "name": "Шеф Недели",
+              "id": 1093516106545930200,
+              "id_str": "1093516106545930240",
+              "indices": [
+                34,
+                49
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/KcaPAva77m",
+              "expanded_url": "https://twitter.com/cellular_bud/status/1201154935699787776",
+              "display_url": "twitter.com/cellular_bud/s…",
+              "indices": [
+                59,
+                82
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 375442643,
+          "id_str": "375442643"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1201154935699787800,
+        "quoted_status_id_str": "1201154935699787776",
+        "quoted_status_permalink": {
+          "url": "https://t.co/KcaPAva77m",
+          "expanded": "https://twitter.com/cellular_bud/status/1201154935699787776",
+          "display": "twitter.com/cellular_bud/s…"
+        },
+        "quoted_status": {
+          "created_at": "Sun Dec 01 15:03:47 +0000 2019",
+          "id": 1201154935699787800,
+          "id_str": "1201154935699787776",
+          "full_text": "Список участников и свободные даты будут доступны по этой ссылке - https://t.co/mS6oG84Mvg",
+          "truncated": false,
+          "display_text_range": [
+            0,
+            90
+          ],
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+              {
+                "url": "https://t.co/mS6oG84Mvg",
+                "expanded_url": "https://docs.google.com/spreadsheets/d/1GplNhYi7P-kd6NYB5Y1Hpv-VoqIk8s1yfHtZq3SXv9Q/edit?usp=sharing",
+                "display_url": "docs.google.com/spreadsheets/d…",
+                "indices": [
+                  67,
+                  90
+                ]
+              }
+            ]
+          },
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "in_reply_to_status_id": 1201154620359360500,
+          "in_reply_to_status_id_str": "1201154620359360512",
+          "in_reply_to_user_id": 3745145777,
+          "in_reply_to_user_id_str": "3745145777",
+          "in_reply_to_screen_name": "cellular_bud",
+          "user": {
+            "id": 3745145777,
+            "id_str": "3745145777"
+          },
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 2,
+          "favorite_count": 9,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "ru"
+        },
+        "retweet_count": 2,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "quoted_status_id": 1201154935699787800,
+      "quoted_status_id_str": "1201154935699787776",
+      "quoted_status_permalink": {
+        "url": "https://t.co/KcaPAva77m",
+        "expanded": "https://twitter.com/cellular_bud/status/1201154935699787776",
+        "display": "twitter.com/cellular_bud/s…"
+      },
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 01 18:04:37 +0000 2019",
+      "id": 1201200445047345200,
+      "id_str": "1201200445047345152",
+      "full_text": "RT @abstruse_cook: Так, ребзя, завтра мой день на @chefdelasemana. В одну подачу будут мои любимые глазированные ребра с коул слоу и офиген…",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abstruse_cook",
+            "name": "Заумный поварюга 🍳🍳🍳",
+            "id": 434242655,
+            "id_str": "434242655",
+            "indices": [
+              3,
+              17
+            ]
+          },
+          {
+            "screen_name": "chefdelasemana",
+            "name": "Шеф Недели",
+            "id": 1093516106545930200,
+            "id_str": "1093516106545930240",
+            "indices": [
+              50,
+              65
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Dec 01 17:49:48 +0000 2019",
+        "id": 1201196714071335000,
+        "id_str": "1201196714071334913",
+        "full_text": "Так, ребзя, завтра мой день на @chefdelasemana. В одну подачу будут мои любимые глазированные ребра с коул слоу и офигенскими грибами на гриле. Что хотите ещё на одну подачу?",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          174
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "chefdelasemana",
+              "name": "Шеф Недели",
+              "id": 1093516106545930200,
+              "id_str": "1093516106545930240",
+              "indices": [
+                31,
+                46
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 434242655,
+          "id_str": "434242655"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 38,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 01 18:31:43 +0000 2019",
+      "id": 1201207263370924000,
+      "id_str": "1201207263370924034",
+      "full_text": "Привет!",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        7
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093516106545930200,
+        "id_str": "1093516106545930240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
