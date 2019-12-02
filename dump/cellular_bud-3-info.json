@@ -1,0 +1,109 @@
+{
+  "id": 1093516106545930200,
+  "id_str": "1093516106545930240",
+  "name": "Шеф Недели",
+  "screen_name": "chefdelasemana",
+  "location": "",
+  "profile_location": null,
+  "description": "Коллективный аккаунт о еде от тех, кто любит готовить, для тех, кто любит поесть. Финал года. На кухне @abstruse_cook",
+  "url": "https://t.co/luzUzd2DRn",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/luzUzd2DRn",
+          "expanded_url": "https://chefdelasemana.com",
+          "display_url": "chefdelasemana.com",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "protected": false,
+  "followers_count": 11741,
+  "friends_count": 0,
+  "listed_count": 54,
+  "created_at": "Thu Feb 07 14:25:31 +0000 2019",
+  "favourites_count": 6590,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 14466,
+  "lang": null,
+  "status": {
+    "created_at": "Mon Dec 02 17:36:47 +0000 2019",
+    "id": 1201555825116012500,
+    "id_str": "1201555825116012544",
+    "text": "@dasha_bonjour ща всё сделаем без варки)",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "dasha_bonjour",
+          "name": "Daria🎃",
+          "id": 92828021,
+          "id_str": "92828021",
+          "indices": [
+            0,
+            14
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1201554262393806800,
+    "in_reply_to_status_id_str": "1201554262393806849",
+    "in_reply_to_user_id": 92828021,
+    "in_reply_to_user_id_str": "92828021",
+    "in_reply_to_screen_name": "dasha_bonjour",
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ru"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "000000",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1201393171495817216/xVmWQ8so_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1201393171495817216/xVmWQ8so_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1093516106545930240/1575269429",
+  "profile_link_color": "1B95E0",
+  "profile_sidebar_border_color": "000000",
+  "profile_sidebar_fill_color": "000000",
+  "profile_text_color": "000000",
+  "profile_use_background_image": false,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "can_media_tag": true,
+  "followed_by": false,
+  "following": true,
+  "follow_request_sent": false,
+  "notifications": true,
+  "translator_type": "none",
+  "time_zone_offset": 0,
+  "geometry": {
+    "lat": 0,
+    "lng": 0
+  }
+}
